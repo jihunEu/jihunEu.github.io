@@ -2,8 +2,11 @@
 <script src=https://cdn.jsdelivr.net/npm/pretty-print-json@1.2/dist/pretty-print-json.min.js></script>
 <pre id=account class=json-container></pre>
 <script>
-    const data = require('./sample2.json');
+    fetch('https://jihuneu.github.io/sample2.json')
+        .then(response => response.json())
+        .then(data => 
+            document.getElementById('account').innerHTML = prettyPrintJson.toHtml(data)
+            );
     // const data = { active: true, mode: '🚃', codes: [48348, 28923, 39080], city: 'London' };
-    const elem = document.getElementById('account');
-    elem.innerHTML = prettyPrintJson.toHtml(data);
+    
 </script>
