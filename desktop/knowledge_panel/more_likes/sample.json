@@ -1,0 +1,193 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "052b5f03-ecbb-404b-90d3-f97af435b6b0",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T01:47:03.359Z",
+        "q": "애플",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=%EC%95%A0%ED%94%8C&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131047/223165239034-5D7C421A26DE442C8B4CCC64EC3C798F-00.html",
+        "json_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131047/223165239034-5D7C421A26DE442C8B4CCC64EC3C798F-00.json",
+        "crawl_start_time": "2022-05-13T01:47:03.393Z",
+        "crawl_end_time": "2022-05-13T01:47:08.820Z",
+        "device": "desktop",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "애플",
+        "total_results": 75200000,
+        "hidden_people_also_search_for": [
+            "애플 학생할인",
+            "애플티비",
+            "애플 주식",
+            "애플워치",
+            "애플스토어",
+            "애플 로그인"
+        ],
+        "parsed_time": "2022-05-13T01:47:09.184Z"
+    },
+    "features": [
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(3)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd",
+            "position": 1,
+            "displayed_link": "https://www.apple.com/kr",
+            "title": "Apple - 공식 사이트새로운 iPad AirApple Trade IniPhone 13새로운 iPhone SE",
+            "snippet": "완전히 새롭게 선보이는 Mac Studio 및 Studio Display, iPad Air, iPhone SE. 더 알아보기. 새로운 iPhone SE, 두 가지 그린 컬러로 만나는 iPhone 13 Pro 및 iPhone 13. 지금 구입하기. 가뿐하게. 색다르게. 강력하게. Apple M1 칩 탑재. 지금 구입하기. 새 제품 구입 시 사용할 수 있는 추가 크레딧 지금 받기 5월 31일 종료. 일상을 위한 비상한 능력. 그린 색상 지금 구입하기. 거침없는 파워. 실속 있는 선택. 590,000원부터. 지금 구입하기.",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(1).hlcw0c > div:nth-child(1).g > div:nth-child(2).BYM4Nd > div:nth-child(1).eKjLze > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1).tF2Cxc",
+            "position": 1,
+            "displayed_link": "https://www.apple.com › ...",
+            "title": "Apple (대한민국)",
+            "url": "https://www.apple.com/kr/",
+            "snippet": "Apple이 제시하는 혁신적인 세상을 만나고, iPhone, iPad, Apple Watch, Mac, Apple TV 등을 구입하는 것은 물론, Apple 액세서리, 엔터테인먼트, 전문가 기기 지원에 ...",
+            "sequence": 2
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(2).ULSxyf > g-section-with-header.yG4QQe.TBC9ub",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(4).g > div:nth-child(2) > div:nth-child(1).tF2Cxc",
+            "position": 2,
+            "displayed_link": "https://namu.wiki › Apple",
+            "title": "Apple - 나무위키",
+            "url": "https://namu.wiki/w/Apple",
+            "snippet": "7일 전 — 이후 Apple은 1998년 iMac, 2001년 iPod, 2007년 iPhone, 2010년 iPad를 연달아 발표하면서 세계 시가총액 1위 기업이 된다. 2.2. 2010년대[편집]. PC시장 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(5).g.tF2Cxc",
+            "position": 3,
+            "displayed_link": "https://kr.investing.com › equities › apple-computer-inc",
+            "title": "애플(Apple) 주가",
+            "url": "https://kr.investing.com/equities/apple-computer-inc",
+            "snippet": "애플(Apple) 주식의 가격, 차트, 기술적 분석, 과거 데이터 등 애플에 대한 자세한 정보를 얻을 수 있습니다.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(6).g > div:nth-child(1) > div:nth-child(1).tF2Cxc",
+            "position": 4,
+            "displayed_link": "https://ko.wikipedia.org › wiki › 애플",
+            "title": "애플 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EC%95%A0%ED%94%8C",
+            "snippet": "애플(영어: Apple Inc.)은 미국 캘리포니아의 아이폰, 아이패드, 애플 워치, 에어팟, 아이맥, 맥북, 맥 스튜디오와 맥 프로, 홈팟 등의 하드웨어와 iOS, iPadOS, ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(7).g.tF2Cxc",
+            "position": 5,
+            "displayed_link": "https://www.chosun.com › tech_it › 2022/05/12",
+            "title": "애플, 테크주 폭락에 '기업가치 세계 1위' 뺏겼다... 새 1위는",
+            "url": "https://www.chosun.com/economy/tech_it/2022/05/12/EY7HNRMEERGRPHKES5COGN2DBQ/",
+            "snippet": "1일 전 — 애플이 전 세계 시가총액 1위 기업 자리를 뺏겼다. 전 세계적인 인플레이션 우려, 금리 인상, 우크라이나 전쟁에 따른 유가 상승 등의 영향으로 테크 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(8).hlcw0c > div:nth-child(1) > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 6,
+            "displayed_link": "https://www.mk.co.kr › news › stock › view › 2022/05",
+            "title": "\"애플은 안전할 줄 알았지\"…美 빅테크 기업 추락에 잠 못 이루는 ...",
+            "url": "https://www.mk.co.kr/news/stock/view/2022/05/419830/",
+            "snippet": "22시간 전 — \"애플은 안전할 줄 알았지\"…美 빅테크 기업 추락에 잠 못 이루는 서학개미 - 매일경제, 작성자-김현정, 섹션-stock, 요약-미국의 물가 상승세가 월가 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(8).hlcw0c > div:nth-child(1) > div:nth-child(1).g > div:nth-child(2).d4rhi > ul.FxLDp > li:nth-child(1).MYVUIe > div:nth-child(1).XN9cAe > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 7,
+            "displayed_link": "https://www.mk.co.kr › news › world › view › 2022/05",
+            "title": "유가 강세에 기세등등 이 회사...애플 제치고 세계 시총 1위 올랐다",
+            "url": "https://www.mk.co.kr/news/world/view/2022/05/421308/",
+            "snippet": "17시간 전 — 애플이 전 세계 시가총액 1위 자리를 사우디아라비아 국영 석유회사 아람코에 내줬다. 미국 연방준비제도의 긴축 행보로 애플 주가가 추락한 반면 ...",
+            "sequence": 9
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb",
+            "results": [
+                {
+                    "query": "애플 주식",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플 로그인",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플 학생할인",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플티비",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플스토어",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플 아이디",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플워치",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "애플 홈페이지 로그인",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                }
+            ],
+            "sequence": 10
+        }
+    ],
+    "page_navigation": {
+        "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(7) > span#xjs > table.AaVjTc",
+        "next_url": "/search?q=%EC%95%A0%ED%94%8C&hl=ko&gl=kr&pws=0&ei=mLh9Yq3lG5KA-Abcn7vwDA&start=10&sa=N&ved=2ahUKEwitkdHPrdv3AhUSAN4KHdzPDs4Q8NMDegQIAxBL"
+    },
+    "knowledge_panel": [
+        {
+            "type": "more_likes",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_mLh9Yq3lG5KA-Abcn7vwDA26.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(5).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb",
+            "title": "관련 검색어",
+            "url": "/search?hl=ko&gl=kr&pws=0&q=%EC%95%A0%ED%94%8C&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUoIxtASDM1NSyxMri_1SK0qCS1ILihexsr2ZuuDtlJ4drIwA6BgTGzMAAAA&sa=X&ved=2ahUKEwitkdHPrdv3AhUSAN4KHdzPDs4QzTooAXoECD8QAg",
+            "carousels": [
+                {
+                    "title": "마이크로소프트",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_mLh9Yq3lG5KA-Abcn7vwDA26.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(5).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(1).PZPZlf.MRfBrb.kno-vrt-t"
+                },
+                {
+                    "title": "넷플릭스",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_mLh9Yq3lG5KA-Abcn7vwDA26.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(5).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(2).PZPZlf.MRfBrb.kno-vrt-t"
+                },
+                {
+                    "title": "베스트 바이",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_mLh9Yq3lG5KA-Abcn7vwDA26.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(5).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(3).PZPZlf.MRfBrb.kno-vrt-t"
+                },
+                {
+                    "title": "아마존",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_mLh9Yq3lG5KA-Abcn7vwDA26.osrp-blk > div:nth-child(4) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(5).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(4).PZPZlf.rhsg3.MRfBrb.kno-vrt-t"
+                }
+            ],
+            "sequence": 1
+        }
+    ]
+}

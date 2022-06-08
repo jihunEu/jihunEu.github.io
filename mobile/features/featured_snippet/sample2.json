@@ -1,0 +1,354 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "9d84a499-1822-4f40-a928-569e3a123790",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:41:18.816Z",
+        "q": "철화백자 가격",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90+%EA%B0%80%EA%B2%A9&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0005.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/211241247079-31928AC81D8B4368833E19D3D0EA36DB-00.html",
+        "json_url": "http://node0005.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/211241247079-31928AC81D8B4368833E19D3D0EA36DB-00.json",
+        "crawl_start_time": "2022-05-12T08:41:18.867Z",
+        "crawl_end_time": "2022-05-12T08:41:24.072Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "철화백자 가격",
+        "parsed_time": "2022-05-12T08:41:24.351Z"
+    },
+    "features": [
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.hyeoneart.com/김판기/달항아리_전시",
+            "title": "혜원 아트갤러리 - 달항아리 전시 - 지강 김판기 작가 개인전 - hyeoneart.com",
+            "url": "https://hyeoneart.com/",
+            "snippet": "지강 김판기 작가 개인전 無欠無餘. 달항아리 K-아트의 중심에 서다. 논현동 혜원아트 갤러리. 2022/5/6-2022/5/30.",
+            "sequence": 1
+        },
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "'철화백자운룡문호' 16억 2000만원…국내 경매 최고가 낙찰 - 동아일보",
+                    "displayed_link": "https://www.donga.com › article › all",
+                    "url": "https://www.donga.com/news/amp/all/20060224/8278578/1",
+                    "snippet": "이날 경매에 나온 98개의 품목 중 83번째로 등장한 철화백자의 경매 시작가는 7억 원. 이후 7억5000만 원, 8억 원 등 5000만 원 단위로 경매가격이 올라가면서 순식간에 10억 원을 넘어섰다.",
+                    "emphasis": [
+                        "철화백자",
+                        "가격"
+                    ]
+                }
+            ],
+            "official": true,
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://m.hani.co.kr › society_general",
+            "title": "조선 구름용무늬철화백자, '16억9000만원' - 한겨레",
+            "url": "https://m.hani.co.kr/arti/society/society_general/104584.html",
+            "snippet": "2006. 2. 23. — 조선 중기에 빚은 철화백자 구름용무늬 항아리가 국내 미술품 경매사상 가장 비싼 값에 팔렸다. 17세기 전반의 것으로 보이는 이 백자항아리는 23일 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.hani.co.kr/arti/society/society_general/104584.html",
+                "desc": "철화백자 가격(출처: m.hani.co.kr)"
+            },
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://namu.wiki › 철화백자",
+            "title": "철화백자 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90",
+            "snippet": "2022. 1. 6. — 17세기 이후로 활발히 제작되었으며 조선만의 독창적인 도자기이다. 비싼 아라비아 청색안료가 아닌 철성분을 섞어만든 흑색안료로 꾸몄기 때문에 가격이 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.bunjang.co.kr › products",
+            "title": "철화도자기 중고거래 - 번개장터",
+            "url": "https://m.bunjang.co.kr/search/products?q=%EC%B2%A0%ED%99%94%EB%8F%84%EC%9E%90%EA%B8%B0",
+            "snippet": "가격인하!고도자기 철화백자용문주병 판매합니다.골동품/중국도자기/소장품 150000원 · 철화 백자 도자기 상품 이미지. 철화 백자 도자기 70000원.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.bunjang.co.kr/search/products?q=%EC%B2%A0%ED%99%94%EB%8F%84%EC%9E%90%EA%B8%B0",
+                "desc": "철화백자 가격(출처: m.bunjang.co.kr)"
+            },
+            "sequence": 5
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.joongang.co.kr › article",
+            "title": "경매 떴다 하면 18억·15억 … 청화백자가 뜨는 까닭은 | 중앙일보",
+            "url": "https://www.joongang.co.kr/article/6909210",
+            "snippet": "2011. 12. 16. — '금강산 와유첩' '백자철화운룡문호'에 이어 이번 항아리형 주전자가 역대 4위를 기록하게 됐다. 이번에 낙찰된 '백자청화산수문호형주자'는 높이 46㎝의 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.joongang.co.kr/article/6909210",
+                "desc": "철화백자 가격(출처: www.joongang.co.kr)"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://m.doye.co.kr › category › 백자",
+            "title": "백자 - 국내 최대 전통도자기상품 전시장 ::도예농",
+            "url": "https://m.doye.co.kr/category/%EB%B0%B1%EC%9E%90/43/",
+            "snippet": "백자장생문 술잔세트(dp146). 판매가 : 50,000원; 잔 Ø5 * h4.8 (70g/1pc), 전체오동박스 30.5 * 7.5 * h7.5 ㎝ (총 600g); 월정 한석기. 월정 한석기 作 백자 철화 끈 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://m.doye.co.kr › product › 철...",
+            "title": "철화백자 포도문 항아리(wp547) - 국내 최대 전통도자기상품 전시장 ::도예농",
+            "url": "https://m.doye.co.kr/product/%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90-%ED%8F%AC%EB%8F%84%EB%AC%B8-%ED%95%AD%EC%95%84%EB%A6%ACwp547/445/",
+            "snippet": "홈화면 · 백자 · 가격대별 · 50~100만원. 철화백자 포도문 항아리(wp547) ... 도자기에 대한 기본 설명서는 [청자/백자/분청/다도]에 대한 [한글/영어/일어] 설명서 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.doye.co.kr/product/%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90-%ED%8F%AC%EB%8F%84%EB%AC%B8-%ED%95%AD%EC%95%84%EB%A6%ACwp547/445/",
+                "desc": "철화백자 가격(출처: m.doye.co.kr)"
+            },
+            "properties": [
+                {
+                    "key": "크기",
+                    "value": "Ø33 x h42 ㎝(5.9kg)"
+                },
+                {
+                    "key": "주소",
+                    "value": "17307 경기도 이천시 신둔면 둔터로 121 1층"
+                }
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "http://www.cha.go.kr › cop › bbs",
+            "title": "선비의 품격이 스며있는 '철화백자' | 월간문화재사랑 상세 - 문화재청",
+            "url": "http://www.cha.go.kr/cop/bbs/selectBoardArticle.do?nttId=30648&bbsId=BBSMSTR_1008&mn=NS_01_09_01",
+            "snippet": "2016. 7. 1. — 철화백자는 초벌구이한 그릇 표면에 철분이 포함된 철화 안료로 그림을 그리고 ... 비싼 가격으로 북경에서 사와야 하는 청화 안료는 청화백자 제작에 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://www.cha.go.kr/cop/bbs/selectBoardArticle.do?nttId=30648&bbsId=BBSMSTR_1008&mn=NS_01_09_01",
+                "desc": "철화백자 가격(출처: www.cha.go.kr)"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.seoul.co.kr › newsView",
+            "title": "조선백자 765만달러 낙찰/「철화 용문 항아리」 크리스티경매서 | 서울신문",
+            "url": "https://m.seoul.co.kr/news/newsView.php?id=19961102021002",
+            "snippet": "1996. 11. 2. — 조선 철화백자가 한국 도자기의 세계시장 경매사상 최고가로 낙찰됐다. 지난달 31일 뉴욕 크리스티사에서 열린 한국미술품 경매에서 17세기초 조선백자 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "http://mitem.auction.co.kr › vip",
+            "title": "골동-조선시대 철화백자초화문 호 - 옥션",
+            "url": "http://mitem.auction.co.kr/vip?itemno=B490921457",
+            "snippet": "골동-조선시대 철화백자초화문 호. 359,000원 ... 구다니(九谷) 청화백자화문사각완 ... 따라서 옥션은 상품·거래 정보 및 가격에 대하여 책임을 지지 않습니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://mitem.auction.co.kr/vip?itemno=B490921457",
+                "desc": "철화백자 가격(출처: mitem.auction.co.kr)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://m.shoppinghow.kakao.com › ...",
+            "title": "철화백자 - 검색결과 | 쇼핑하우",
+            "url": "https://m.shoppinghow.kakao.com/m/search/q/%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90",
+            "snippet": "쇼핑하우. 쇼핑 사이드 메뉴 펼치기. 검색어 입력폼. 검색. 쇼핑하우 메뉴. loading.. 검색결과. 검색필터. 필터 전체보기. 숏컷필터. 무료배송; 할인쿠폰 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "http://www.koreanart21.com › view",
+            "title": "크리스티 청화백자운룡문항아리 389만달러에 낙찰 - 스마트K",
+            "url": "http://www.koreanart21.com/artmarket/news/view?id=1812",
+            "snippet": "낙찰가 389만 달러는 외국에서 거래된 한국도자기 가운데 세번째로 높은 가격이다. 최고가는 지난 1996년 크리스티에서 팔린 철화백자운용문항아리로 862만달러(당시 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://www.chosun.com › html_dir",
+            "title": "[유홍준의 국보순례] [53] 경매 최고가 도자기 - 조선일보",
+            "url": "https://www.chosun.com/site/data/html_dir/2010/03/31/2010033102281.html?outputType=amp",
+            "snippet": "2010. 3. 31. — 유홍준의 국보순례 53 경매 최고가 도자기 미술품의 가치가 곧 가격으로 ... 그리고 2년 뒤인 96년 뉴욕 크리스티 경매에서는 17세기 철화백자용무늬 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.chosun.com/site/data/html_dir/2010/03/31/2010033102281.html?outputType=amp",
+                "desc": "철화백자 가격(출처: www.chosun.com)"
+            },
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "http://www.yedang77.com › goods",
+            "title": "[백산 김정옥] 철화백자 달마 항아리 83-60",
+            "url": "http://www.yedang77.com/goods/39287",
+            "snippet": "영험 한 달마대사가 그려져 있어서 사업체 나 가정에 두시면 좋을 것 같습니다. 넓이37cm 높이34cm. [판매가격은 별도 문의하여 주시면 고맙겠습니다].",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://www.yedang77.com/goods/39287",
+                "desc": "철화백자 가격(출처: www.yedang77.com)"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "http://m.junggolife.co.kr › product",
+            "title": "황규동 철화백자 - 현대물물",
+            "url": "http://m.junggolife.co.kr/product/%ED%99%A9%EA%B7%9C%EB%8F%99-%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90/32545/",
+            "snippet": "황규동 철화백자. 공급사 바로가기. 황규동 철화백자. 좋아요. 상품 정보. 판매가, 150,000원 재입고 알림 메일. 할인판매가, 150,000원 (0원 할인) ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.junggolife.co.kr/product/%ED%99%A9%EA%B7%9C%EB%8F%99-%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90/32545/",
+                "desc": "철화백자 가격(출처: m.junggolife.co.kr)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://www.hellomarket.com › search",
+            "title": "철화백자 | 헬로마켓 - 100% 비대면 안전 결제 중고거래 마켓",
+            "url": "https://www.hellomarket.com/search?q=%EC%B2%A0%ED%99%94%EB%B0%B1%EC%9E%90",
+            "snippet": "철화백자에 대한 검색결과 입니다.",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "http://m.danawa.com › product",
+            "title": "안산소주일품 진향 철화백자 산 1L (1개) : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/product.html?code=16235018&cateCode=16224475",
+            "snippet": "식품/유아/완구>생수/음료/우유>전통주/와인/주류, 요약정보 : 증류식소주 / 경상북도 / 포장형태: 도자기 / 특징: 술잔포함, 선물용 / 도수: 40도.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.danawa.com/product/product.html?code=16235018&cateCode=16224475",
+                "desc": "철화백자 가격(출처: m.danawa.com)"
+            },
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://m.post.naver.com › postView",
+            "title": "백자 위 한국의 추상화 철화백자 - Naver Post - 네이버",
+            "url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=30171555&memberNo=39094895",
+            "snippet": "2020. 12. 8. — 대학생 1000명 등록금 가격에 이화여대로. 백자철화포도무늬항아리가 시장에 나왔다는 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=30171555&memberNo=39094895",
+                "desc": "철화백자 가격(출처: m.post.naver.com)"
+            },
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.hankyung.com › article",
+            "title": "Art Investing 한·중 도자기 최고가 14배 차이…우리 고미술품 너무 저평가 - 한국경제",
+            "url": "https://www.hankyung.com/life/amp/2012061049331",
+            "snippet": "2012. 6. 10. — 亞 최고가 조선 '철화백자항아리' 70억원 그쳐 짝퉁이 문제 도자기· ... 국내 고미술 시장의 불황이 16년째 계속되면서 고서화와 도자기 가격은 중국 ...",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://www.yetnal.co.kr › shop › item",
+            "title": "조선시대 철화백자 주병 > 한국미술품 | 옛날물건",
+            "url": "https://www.yetnal.co.kr/shop/item.php?it_id=1524148421",
+            "snippet": "조선시대 철화백자 주병. 위시리스트0 sns 공유. 페이스북에 공유 트위터에 공유 구글플러스에 ... 판매가격, 450,000원. 포인트, 4,500점. 배송비결제, 주문시 결제 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.yetnal.co.kr/shop/item.php?it_id=1524148421",
+                "desc": "철화백자 가격(출처: www.yetnal.co.kr)"
+            },
+            "sequence": 22
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(5)#bottomads > div:nth-child(1)#tadsb > div:nth-child(2).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.kobay.co.kr/",
+            "title": "도자기 가격 - 미술품.예술품 수집",
+            "url": "http://www.kobay.co.kr/",
+            "snippet": "24시간 시간과 장소 구애없이 경매 등록과 입찰 참여 가능. 월 평균 3만5천 건 낙찰. 미술품/골동품/고서/근.현대사 자료 전문 경매 사이트. 국내최대예술품 경매사이트. 연중무휴 24시간 경매진행. 회원 수 6만명.",
+            "carousels": [
+                {
+                    "title": "인기경매"
+                },
+                {
+                    "title": "오늘마감"
+                },
+                {
+                    "title": "추천경매"
+                }
+            ],
+            "sequence": 23
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 24
+        }
+    ]
+}

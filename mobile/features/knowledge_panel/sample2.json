@@ -1,0 +1,731 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "1ec308c3-5715-4d44-9384-e5c1743df3ec",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T00:47:18.083Z",
+        "q": "black pink",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=black+pink&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0008.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205130947/223165245119-5B3257B52E7A4691BE06319C48F0506D-00.html",
+        "json_url": "http://node0008.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205130947/223165245119-5B3257B52E7A4691BE06319C48F0506D-00.json",
+        "crawl_start_time": "2022-05-13T00:47:18.126Z",
+        "crawl_end_time": "2022-05-13T00:47:26.508Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "black pink",
+        "parsed_time": "2022-05-13T00:47:28.524Z"
+    },
+    "features": [
+        {
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid15.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0.Du5Hud",
+            "selected": "Overview",
+            "headers": [
+                "Overview",
+                "Songs",
+                "Members",
+                "Videos",
+                "Albums",
+                "Listen",
+                "Events",
+                "Awards",
+                "News"
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.mnr-c.UBoxCb.LMRCfc.Giv2qe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.CGCvRb.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image"
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(11).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.CGCvRb.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Listen",
+            "attrids": [
+                {
+                    "attrid": "action:listen_artist",
+                    "values": [
+                        "YouTube",
+                        "Spotify",
+                        "Apple Music",
+                        "iHeart",
+                        "Deezer",
+                        "YouTube Music",
+                        "Pandora"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "action:listen_artist"
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "About",
+            "attrids": [
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Description",
+                        "Blackpink is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa.",
+                        "Wikipedia"
+                    ]
+                },
+                {
+                    "attrid": "kc:/music/artist:active from",
+                    "values": [
+                        "Active from: ",
+                        "2016"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:genr",
+                    "values": [
+                        "Genres: ",
+                        "K-pop",
+                        "; ",
+                        "EDM",
+                        "; ",
+                        "hip hop",
+                        "; ",
+                        "trap"
+                    ]
+                },
+                {
+                    "attrid": "kc:/music/artist:record label",
+                    "values": [
+                        "Record labels: ",
+                        "YG Entertainment",
+                        ", ",
+                        "Interscope Records",
+                        ", ",
+                        "YGEX"
+                    ]
+                },
+                {
+                    "attrid": "kc:/award/award_winner:awards",
+                    "values": [
+                        "Awards: ",
+                        "Seoul Music Awards Bonsang Awards",
+                        ", ",
+                        "Golden Disc Award Song Division",
+                        ", ",
+                        "MTV Video Music Award for the Best Song of the Summer",
+                        ",",
+                        "More"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Blackpink is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, Rosé, and Lisa.  ",
+                    "properties": [
+                        {
+                            "attrid": "kc:/music/artist:active from",
+                            "key": "Active from",
+                            "value": "2016"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:genr",
+                            "key": "Genres",
+                            "value": "K-pop; EDM; hip hop; trap"
+                        },
+                        {
+                            "attrid": "kc:/music/artist:record label",
+                            "key": "Record labels",
+                            "value": "YG Entertainment, Interscope Records, YGEX"
+                        },
+                        {
+                            "attrid": "kc:/award/award_winner:awards",
+                            "key": "Awards",
+                            "value": "Seoul Music Awards Bonsang Awards, Golden Disc Award Song Division, MTV Video Music Award for the Best Song of the Summer,  More "
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "description",
+                "kc:/music/artist:active from",
+                "ss:/webfacts:genr",
+                "kc:/music/artist:record label",
+                "kc:/award/award_winner:awards"
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(24).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.CGCvRb.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Members",
+            "attrids": [
+                {
+                    "attrid": "kc:/music/musical_group:members",
+                    "values": [
+                        "Lisa",
+                        "  Rapper ",
+                        "Jennie",
+                        "  Rapper ",
+                        "Jisoo",
+                        "  Vocals ",
+                        "ROSÉ",
+                        "  Dancer "
+                    ]
+                },
+                {
+                    "attrid": "kc:/music/musical_group:members",
+                    "values": [
+                        "Lisa",
+                        "  Rapper "
+                    ]
+                },
+                {
+                    "attrid": "kc:/music/musical_group:members",
+                    "values": [
+                        "Jennie",
+                        "  Rapper "
+                    ]
+                },
+                {
+                    "attrid": "kc:/music/musical_group:members",
+                    "values": [
+                        "Jisoo",
+                        "  Vocals "
+                    ]
+                },
+                {
+                    "attrid": "kc:/music/musical_group:members",
+                    "values": [
+                        "ROSÉ",
+                        "  Dancer "
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/music/musical_group:members",
+                "kc:/music/musical_group:members",
+                "kc:/music/musical_group:members",
+                "kc:/music/musical_group:members",
+                "kc:/music/musical_group:members"
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Songs",
+            "attrids": [
+                {
+                    "attrid": "kc:/music/artist:songs",
+                    "values": [
+                        "How You Like That",
+                        "The Album",
+                        " · ",
+                        "2020",
+                        "DDU-DU DDU-DU",
+                        "Blackpink in Your Area",
+                        " · ",
+                        "2018",
+                        "Ice Cream",
+                        "The Album",
+                        " · ",
+                        "2020",
+                        "More songs",
+                        "More songs"
+                    ]
+                },
+                {
+                    "attrid": "list",
+                    "values": [
+                        "How You Like That",
+                        "The Album",
+                        " · ",
+                        "2020"
+                    ]
+                },
+                {
+                    "attrid": "list",
+                    "values": [
+                        "DDU-DU DDU-DU",
+                        "Blackpink in Your Area",
+                        " · ",
+                        "2018"
+                    ]
+                },
+                {
+                    "attrid": "list",
+                    "values": [
+                        "Ice Cream",
+                        "The Album",
+                        " · ",
+                        "2020"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/music/artist:songs",
+                "list",
+                "list",
+                "list"
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.mnr-c",
+            "results": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(1)#_lqp9YrDWFYSB1e8P5POiwA4200 > div:nth-child(1) > div:nth-child(1)#RELATED_QUESTION_LINK_39_lqp9YrDWFYSB1e8P5POiwA4__175 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://people.com › music › blackpi...",
+                    "url": "https://people.com/music/blackpink-what-you-need-to-know-about-kpops-biggest-girl-group/",
+                    "title": "Blackpink: What You Need to Know About K-pop's Biggest Girl Group",
+                    "snippet": "The four-member South Korean girl band — who get their name from the mixture of tough \"black\" and flirty \"pink\" of their songs — have been global superstars since the release of their June 2016 single \"Boombayah.\" Lisa, Jisoo, Jennie, and Rosé."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(1)#_lqp9YrDWFYSB1e8P5POiwA4200 > div:nth-child(2) > div:nth-child(1)#RELATED_QUESTION_LINK_45_lqp9YrDWFYSB1e8P5POiwA4__201 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://en.m.wikipedia.org › wiki",
+                    "url": "https://en.m.wikipedia.org/wiki/Blackpink",
+                    "title": "Blackpink - Wikipedia"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(1)#_lqp9YrDWFYSB1e8P5POiwA4200 > div:nth-child(3) > div:nth-child(1)#RELATED_QUESTION_LINK_48_lqp9YrDWFYSB1e8P5POiwA4__209 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://koreajoongangdaily.joins.com › ...",
+                    "url": "https://koreajoongangdaily.joins.com/2021/12/16/entertainment/kpop/Blink-membership-open/20211216180259855.html",
+                    "title": "Blink membership opens on Blackpink's Weverse",
+                    "snippet": "Fans who wish to subscribe to Blackpink's space can do so by filling out necessary information in the Weverse Shop app, according to the group's agency YG Entertainment. Previously, members of Blink could only join Blackpink's Weverse community during certain time periods, but now, there are no time restrictions.Dec 16, 2021"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(1)#_lqp9YrDWFYSB1e8P5POiwA4200 > div:nth-child(4) > div:nth-child(1)#RELATED_QUESTION_LINK_51_lqp9YrDWFYSB1e8P5POiwA4__213 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.pinkvilla.com › rooms",
+                    "url": "https://www.pinkvilla.com/rooms/why-blackpink-so-famous-even-when-they-havent-done-anything-extraordinary",
+                    "title": "Why is \"Blackpink\" so famous even when they haven't done anything ...",
+                    "snippet": "They hardly have songs let alone good ones, their dances are the easiest ones in K-Pop. Their songs sure are catchy but the lyrics are not as witty as fans think they are. They just played their cards right and would they have been famous if they weren't from YG.Jun 7, 2021"
+                }
+            ],
+            "sequence": 7
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(27).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).uVMCKf.mnr-c > div:nth-child(4)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "BLACKPINK - 'How You Like That' M/V",
+                    "url": "https://m.youtube.com/watch?v=ioNng23DkIM"
+                },
+                {
+                    "title": "BLACKPINK - 'How You Like That' DANCE PERFORMANCE VIDEO",
+                    "url": "https://m.youtube.com/watch?v=32si5cfrCNc"
+                },
+                {
+                    "title": "BLACKPINK - 'Ice Cream (with Selena Gomez)' M/V",
+                    "url": "https://m.youtube.com/watch?v=vRXZj0DzXIA"
+                },
+                {
+                    "title": "LISA - 'MONEY' EXCLUSIVE PERFORMANCE VIDEO",
+                    "url": "https://m.youtube.com/watch?v=dNCWe_6HAM8"
+                }
+            ],
+            "sequence": 8
+        },
+        {
+            "type": "articles",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb",
+            "items": [
+                {
+                    "carousels": [
+                        {
+                            "title": "BLACKPINK's 'How You Like That' dance performance becomes the 1st \nchoreography video by a K-Pop act in history ...",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.allkpop.com/article/2022/05/blackpinks-how-you-like-that-dance-performance-becomes-the-1st-choreography-video-by-a-k-pop-act-in-history-to-hit-11-billion-views-on-youtube"
+                        },
+                        {
+                            "title": "BLACKPINK's Lisa shows off her gorgeous figure wearing a beautiful maxi \ndress",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.allkpop.com/article/2022/05/blackpinks-lisa-shows-off-her-gorgeous-figure-wearing-a-beautiful-maxi-dress"
+                        },
+                        {
+                            "title": "BLACKPINK's Jennie Unveiled Orange Hair — See Photos",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.teenvogue.com/story/blackpink-jennie-orange-hair-april-2022/amp"
+                        },
+                        {
+                            "title": "Blackpink's Lisa Walked in Celine's Winter 2022 Runway Show Like the Pro \nShe Is",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.elle.com/culture/celebrities/a39905412/blackpink-lisa-celine-winter-2022-runway-show-photos-video/"
+                        },
+                        {
+                            "title": "BLACKPINK Reportedly Making Comeback As Early As June",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid116.JJZKK > div:nth-child(1)#NEWS_TILE_78_lqp9YrDWFYSB1e8P5POiwA4__238.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.soompi.com/article/1523731wpp/blackpink-reportedly-making-comeback-as-early-as-june"
+                        },
+                        {
+                            "title": "Stray Kids, BTS, NCT DREAM, BLACKPINK, NCT 127, ITZY, And Red Velvet Sweep \nTop Spots On Billboard's World ...",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid118.JJZKK > div:nth-child(1)#NEWS_TILE_81_lqp9YrDWFYSB1e8P5POiwA4__241.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.soompi.com/article/1522935wpp/stray-kids-bts-nct-dream-blackpink-nct-127-itzy-and-red-velvet-sweep-top-spots-on-billboards-world-albums-chart"
+                        },
+                        {
+                            "title": "BLACKPINK's Jennie Surprises Fans With Bold New Hair Color",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid123.JJZKK > div:nth-child(1)#NEWS_TILE_84_lqp9YrDWFYSB1e8P5POiwA4__244.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.soompi.com/article/1521480wpp/blackpinks-jennie-surprises-fans-with-bold-new-hair-color"
+                        },
+                        {
+                            "title": "BLACKPINK's “BOOMBAYAH” Becomes 1st K-Pop Debut MV Ever To Hit 1.4 Billion \nViews",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(8)#tsuid125.JJZKK > div:nth-child(1)#NEWS_TILE_87_lqp9YrDWFYSB1e8P5POiwA4__247.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.soompi.com/article/1523316wpp/blackpinks-boombayah-becomes-1st-k-pop-debut-mv-ever-to-hit-1-4-billion-views"
+                        },
+                        {
+                            "title": "BLACKPINK to reportedly return with a new album in June",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(9)#tsuid121.JJZKK > div:nth-child(1)#NEWS_TILE_90_lqp9YrDWFYSB1e8P5POiwA4__250.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.allkpop.com/article/2022/04/blackpink-to-reportedly-return-with-a-new-album-in-june"
+                        },
+                        {
+                            "title": "BLACKPINK's Lisa On The Ongoing Success Of Her Solo Songs, Being Surprised \nBy A Fancam Of Herself, And More",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_lqp9YrDWFYSB1e8P5POiwA4120.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(10)#tsuid114.JJZKK > div:nth-child(1)#NEWS_TILE_93_lqp9YrDWFYSB1e8P5POiwA4__253.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.soompi.com/article/1522127wpp/blackpinks-lisa-on-the-ongoing-success-of-her-solo-songs-being-surprised-by-a-fancam-of-herself-and-more"
+                        }
+                    ]
+                }
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "twitter",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(30).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(2) > g-card.g.F6CFcc",
+            "channel_name": "BLACKPINKOFFICIAL",
+            "desc": "#BLACKPINK 'How You Like That' DANCE PERFORMANCE VIDEO HITS 1.1 BILLION VIEWS @YouTube\nBLINKs worldwide, thank you so much!\n\n'How You Like That' DANCE PERFORMANCE VIDEO\n▶️ youtu.be/32si5cfrCNc\n\n#블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 #1_1BILLION #YOUTUBE #YG ",
+            "date": "2 days ago",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(31).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://m.youtube.com › channel",
+            "title": "BLACKPINK - YouTube",
+            "url": "https://m.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A",
+            "snippet": "BLACKPINK Official YouTube Channel블랙핑크 공식 유튜브 채널입니다.JISOO, JENNIE, ROSÉ, LISA지수, 제니, 로제, 리사.",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(34).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "Blackpink - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Blackpink",
+            "snippet": "Blackpink (Korean: 블랙핑크; commonly stylized as BLɅϽKPIИK) is a South Korean girl group formed by YG Entertainment, consisting of members Jisoo, Jennie, ...",
+            "properties": [
+                {
+                    "key": "Origin",
+                    "value": "Seoul , South Korea"
+                },
+                {
+                    "key": "Years active",
+                    "value": "2016 –present"
+                },
+                {
+                    "key": "Associated acts",
+                    "value": "YG Family"
+                },
+                {
+                    "key": "Members",
+                    "value": "Jisoo ;  Jennie ;  Rosé ;  Lisa"
+                }
+            ],
+            "sequence": 12
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_2 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c",
+            "segments": [
+                {
+                    "carousels": [
+                        {
+                            "title": "BTS"
+                        },
+                        {
+                            "title": "TWICE"
+                        },
+                        {
+                            "title": "ITZY"
+                        },
+                        {
+                            "title": "Aespa"
+                        },
+                        {
+                            "title": "Ariana Grande"
+                        },
+                        {
+                            "title": "Stray Kids"
+                        },
+                        {
+                            "title": "EXO"
+                        },
+                        {
+                            "title": "Red Velvet"
+                        }
+                    ]
+                }
+            ],
+            "searches": [
+                {
+                    "query": "BLACKPINK Rosé",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_2 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(1)#_lqp9YrDWFYSB1e8P5POiwA4213 > div:nth-child(2) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__114 > div:nth-child(1).UlIbl > div:nth-child(1).z9gcx > div:nth-child(1).wWOJcd > div:nth-child(2)#exacc_lqp9YrDWFYSB1e8P5POiwA43.iDjcJe.wHYlTd.JIFdL > span"
+                },
+                {
+                    "query": "BLACKPINK How You Like That",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_2 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__124 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "blackpink ddu-du ddu-du",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_2 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(3) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__132 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(36).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.instagram.com › blackp...",
+            "title": "BLΛƆKPIИK (@blackpinkofficial) • Instagram photos and videos",
+            "url": "https://www.instagram.com/blackpinkofficial/?hl=en",
+            "snippet": "'LALISA' M/V OUT NOW ✨. youtu.be/awkkyBH2zEo. 1,356 posts. 46.7m followers. 4 following. #BLACKPINK #블랙핑크 #HOWYOULIKETHAT #DANCEPERFORMANCE #안무영상 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(37).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://shop.blackpinkmusic.com",
+            "title": "BLACKPINK | SHOP",
+            "url": "https://shop.blackpinkmusic.com/",
+            "snippet": "Shop exclusive merch and apparel from the BLACKPINK Official Shop. Hoodies, tees, vinyl, accessories, and more.",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(38).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://m.facebook.com › BLACKPI...",
+            "title": "BLACKPINK | Facebook",
+            "url": "https://m.facebook.com/BLACKPINKOFFICIAL?locale2=en_US",
+            "snippet": "BLACKPINK. 11759995 likes · 445206 talking about this. 2020 Oct 02 [THE ALBUM] 2020 Aug 28 [Ice Cream (with Selena Gomez)] 2020 Jun 26 [How You Like...",
+            "thumbnail": {
+                "type": "video",
+                "url": "https://m.facebook.com/BLACKPINKOFFICIAL?locale2=en_US",
+                "desc": "Video for black pink"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(39).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.scmp.com › style › article",
+            "title": "Where is Blackpink? Angry fans are demanding a comeback, but Lisa is busy breaking ...",
+            "url": "https://amp-scmp-com.cdn.ampproject.org/wp/s/amp.scmp.com/magazines/style/celebrity/article/3170137/where-blackpink-angry-fans-are-demanding-comeback-lisa?usqp=mq331AQKKAFQArABIIACAw%3D%3D",
+            "snippet": "Mar 12, 2022 — It's been 18 months since Blackpink released any new music, and now fans are boycotting merchandise and demanding songs … so what have Lisa, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://amp.scmp.com/magazines/style/celebrity/article/3170137/where-blackpink-angry-fans-are-demanding-comeback-lisa",
+                "desc": "black pink from amp.scmp.com"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://black-pink.fandom.com › wiki",
+            "title": "BLACKPINK | BLACK PINK Wiki",
+            "url": "https://black-pink.fandom.com/wiki/BLACKPINK",
+            "snippet": "Blackpink (Hangul: 블랙핑크), stylized as BLACKPINK or BLΛƆKPIИK, is a South Korean girl group formed by YG Entertainment and the first girl group to debut ...",
+            "properties": [
+                {
+                    "key": "2019 Blackpink's Summer Diary",
+                    "value": "Release date: September 9, 2019; Label: YG Entert..."
+                },
+                {
+                    "key": "2020 Blackpink's Summer Diary",
+                    "value": "Release date: August 31, 2020; Label: YG Entertai..."
+                },
+                {
+                    "key": "Blackpink's 2019 Welcoming Collection",
+                    "value": "Released: February 24, 2019; Label: YG En..."
+                },
+                {
+                    "key": "Blackpink's 2020 Welcoming Collection",
+                    "value": "Released: March 4, 2020; Label: YG Entert..."
+                }
+            ],
+            "sequence": 18
+        },
+        {
+            "type": "broaden_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe",
+            "carousels": [
+                {
+                    "title": "YG Entertainment artists",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(1)#_lqp9YrDWFYSB1e8P5POiwA489 > a.HOoKtb"
+                },
+                {
+                    "title": "Kpop groups",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA491 > a.HOoKtb"
+                }
+            ],
+            "sequence": 19
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c",
+            "results": [
+                {
+                    "query": "Lisa BLACKPINK",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA4212 > div:nth-child(1) > div:nth-child(1)#lqp9YrDWFYSB1e8P5POiwA4__134 > div:nth-child(1).UlIbl > div:nth-child(1).z9gcx > div:nth-child(1).wWOJcd > div:nth-child(2)#exacc_lqp9YrDWFYSB1e8P5POiwA41.iDjcJe.wHYlTd.JIFdL"
+                },
+                {
+                    "query": "BLACKPINK Kill This Love",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__139 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "BLACKPINK Ice Cream",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__140 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Blackpink merch",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__141 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Blackpink logo",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__142 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Black Pink band",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__143 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Black Pink Kpop",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__144 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "BLACKPINK Instagram followers",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_lqp9YrDWFYSB1e8P5POiwA411.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(41).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#lqp9YrDWFYSB1e8P5POiwA4__145 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 20
+        }
+    ]
+}

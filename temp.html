@@ -1,12 +1,36 @@
 <link rel=stylesheet href=https://cdn.jsdelivr.net/npm/pretty-print-json@1.2/dist/pretty-print-json.css>
 <script src=https://cdn.jsdelivr.net/npm/pretty-print-json@1.2/dist/pretty-print-json.min.js></script>
-<pre id=account class=json-container></pre>
+<pre id=json-showbox class=json-container></pre>
 <script>
-    fetch('https://jihuneu.github.io/sample2.json')
+    const params = new Proxy(new URLSearchParams(window.location.search), {
+        get: (URLSearchParams, prop) => URLSearchParams.get(prop), 
+    });
+
+    const device = null;
+    const field = null;
+    const type = null;
+    const case_no = null;
+
+    if (!(['device', 'field', 'type'] in params)){
+        alert("need search parameters ['device', 'field', 'type', 'case_no']");
+    }
+
+    const redirect_params = ['https://jihuneu.github.io', params.device, params.field, params.type];
+    if ('case_no' in params) {
+        redirect_params.push('sample'+params.case_no+".json");
+    } else {
+        redirect_params.push('sample.json')
+    }
+    const redirect_url = redirect_params.join('/')
+
+
+    fetch(redirect_url)
         .then(response => response.json())
         .then(data => 
-            document.getElementById('account').innerHTML = prettyPrintJson.toHtml(data)
+            document.getElementById('json-showbox').innerHTML = prettyPrintJson.toHtml(data)
             );
     // const data = { active: true, mode: '🚃', codes: [48348, 28923, 39080], city: 'London' };
     
 </script>
+
+<!-- URLSearchParameter.to_string() -->

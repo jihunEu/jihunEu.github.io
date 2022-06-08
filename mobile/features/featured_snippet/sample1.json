@@ -1,0 +1,311 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "2a51047b-f43c-4ca1-b4a2-0b2493ca8a20",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:41:32.220Z",
+        "q": "난황레시틴 효능",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EB%82%9C%ED%99%A9%EB%A0%88%EC%8B%9C%ED%8B%B4+%ED%9A%A8%EB%8A%A5&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0035.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/211189154060-E521EE6A40DF44B79D9D322387578DD5-00.html",
+        "json_url": "http://node0035.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/211189154060-E521EE6A40DF44B79D9D322387578DD5-00.json",
+        "crawl_start_time": "2022-05-12T08:41:32.256Z",
+        "crawl_end_time": "2022-05-12T08:41:36.449Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "난황레시틴 효능",
+        "parsed_time": "2022-05-12T08:41:36.835Z"
+    },
+    "features": [
+        {
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "난황레시틴 효능 구매",
+            "carousels": [
+                {
+                    "title": "난유백세플러스 (난유캡슐)(난황레시틴함유) 500mg x 90캡슐 x 3개월",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjTtPayyNn3AhUDPa0GHQZHDm4YABAGGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoX5PPyBmrqfndPCz-pjTdDTmZA2VHL_t-jZGg6hL3UWUwk20&sig=AOD64_2rOWFIpmodOO5_3EhsdRsSYVXPyQ&ctype=5&q=&ved=2ahUKEwjOrPCyyNn3AhXMJDQIHUl8B98Qwg8oAHoECAEQCw&adurl=",
+                    "price": "₩136,000",
+                    "delivery": "무료 배송",
+                    "provider": "백세존",
+                    "data-offer-docid": "4708745418889206951",
+                    "data-merchant-id": "275398997",
+                    "data-offer-id": "34"
+                },
+                {
+                    "title": "난유백세플러스 (난유캡슐)(난황레시틴 함유) 500mg x 90캡슐",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjTtPayyNn3AhUDPa0GHQZHDm4YABAFGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoX5PPyBmrqfndPCz-pjTdDTmZA2VHL_t-jZGg6hL3UWUwk20&sig=AOD64_19k62rrpMaAh8ux0Byx5iDexQXyg&ctype=5&q=&ved=2ahUKEwjOrPCyyNn3AhXMJDQIHUl8B98Qwg8oAHoECAEQEA&adurl=",
+                    "price": "₩68,000",
+                    "delivery": "무료 배송",
+                    "provider": "백세존",
+                    "data-offer-docid": "963437059965977555",
+                    "data-merchant-id": "275398997",
+                    "data-offer-id": "17"
+                },
+                {
+                    "title": "난유백세플러스(캡슐)(난황레시틴 함유)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjTtPayyNn3AhUDPa0GHQZHDm4YABAHGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoX5PPyBmrqfndPCz-pjTdDTmZA2VHL_t-jZGg6hL3UWUwk20&sig=AOD64_2MRpwfUt6MUD4GepX4agouw12ysw&ctype=5&q=&ved=2ahUKEwjOrPCyyNn3AhXMJDQIHUl8B98Qwg8oAHoECAEQFQ&adurl=",
+                    "price": "₩68,000",
+                    "delivery": "무료 배송",
+                    "provider": "백세존",
+                    "data-offer-docid": "5584652495140914284",
+                    "data-merchant-id": "275398997",
+                    "data-offer-id": "cafe24_hansamincare_1_17"
+                },
+                {
+                    "title": "[2+1] 난유백세플러스(캡슐)(난황레시틴함유)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjTtPayyNn3AhUDPa0GHQZHDm4YABAIGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoX5PPyBmrqfndPCz-pjTdDTmZA2VHL_t-jZGg6hL3UWUwk20&sig=AOD64_1SC9LQ8cbKTkdyXJxhbWXmdUFEiQ&ctype=5&q=&ved=2ahUKEwjOrPCyyNn3AhXMJDQIHUl8B98Qwg8oAHoECAEQGg&adurl=",
+                    "price": "₩136,000",
+                    "delivery": "무료 배송",
+                    "provider": "백세존",
+                    "data-offer-docid": "3357675886763322341",
+                    "data-merchant-id": "275398997",
+                    "data-offer-id": "cafe24_hansamincare_1_34"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "대두 보다는 난황 레시틴의 효능 - 네이버 블로그",
+                    "displayed_link": "http://m.blog.naver.com › qhem1201",
+                    "url": "http://m.blog.naver.com/qhem1201/220845072791",
+                    "snippet": "물과 기름이 잘 섞이게 하는 유화작용을 한다. 혈관에 쌓이는 콜레스테롤 제거작용, 혈액내의 기름 성분을 제거하여 혈행을 개선한다. 고혈압이나 심근경색 등과 같은 혈관성 질환을 예방하는데 도움을 준다. ② 치매예방에 도움이 된다."
+                }
+            ],
+            "official": true,
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "http://m.blog.naver.com › pharmasp...",
+            "title": "[레시틴]레시틴 효능/용법/추천/난황레시틴/대두레시틴 - 네이버 블로그",
+            "url": "http://m.blog.naver.com/pharmaspick/220853421704",
+            "snippet": "2016. 11. 4. — [레시틴]레시틴 효능/용법/추천/난황레시틴/대두레시틴 · 1. 콜레스테롤 저하 아직 정확한 기전을 밝혀지지 않았으나 레시틴은 소장에서 콜레스테롤의 흡수 ...",
+            "sequence": 3
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://baroblog.tistory.com › ...",
+            "title": "레시틴 효능과 부작용, 복용량, 주의점, 종류별 차이점",
+            "url": "https://baroblog.tistory.com/558",
+            "snippet": "2020. 6. 22. — 그래서 난황레시틴은 뇌 기능 개선에 더 효과를 기대할 수 있으며, 대두 레시틴은 혈액에 오래 머무는 특징을 가지고 있기 때문에 동맥 경화나 뇌졸중, ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://rgy0409.tistory.com › ...",
+            "title": "남성 정력 및 전립선에 좋은 난황 레시틴 효능 알아보기",
+            "url": "https://rgy0409.tistory.com/2094",
+            "snippet": "2017. 6. 20. — 레시틴은 뇌세포에 영양을 공급해 건강함을 유지시켜 주며, 기억력을 증대시켜준다. 사람의 뇌 중 수분을 제외하면 레시틴이 차지하는 비율은 무려 30%나 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://deunsil.tistory.com › ...",
+            "title": "레시틴의 효능 및 가격부터 복용법 정리 - 든실이네 데이터 하우스",
+            "url": "https://deunsil.tistory.com/193",
+            "snippet": "2020. 1. 7. — 난황 레시틴은 계란 노른자를 추출 후 여과하고 용매를 제거하여 식용에 적합하도록 만든 것이며, 대두레시틴은 대두유를 여과하고 수소화한 후 분리하여 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://salesavemoney.tistory.com › ...",
+            "title": "레시틴의 효능과 정력에 관하여 #레시틴 부작용 음식 난황레시틴 대두레시틴 - Drag Me to Hell",
+            "url": "https://salesavemoney.tistory.com/42",
+            "snippet": "2018. 1. 3. — 레시틴의 효능과 정력에 관하여 #레시틴 부작용 음식 난황레시틴 대두레시틴 · 1. 치매 예방과 뇌 건강 · 2. 혈관 건강과 콜레스테롤 개선 · 3. 간 건강과 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.well-being-action.com › ...",
+            "title": "레시틴 효능 8가지, 부작용, 섭취 방법 - 웰빙상식대백과",
+            "url": "https://www.well-being-action.com/187",
+            "snippet": "난황레시틴은 경우 남성호르몬 증가에 도움을 줍니다. 레시틴은 남자의 정액 또는 정자에 중요한 구성성분이기도 합니다. 한 실혐결과에 의하면 남성호르몬의 생성과 분비 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.shoppinghow.kakao.com › ...",
+            "title": "난황 레시틴 효능 - 검색결과 | 쇼핑하우",
+            "url": "https://m.shoppinghow.kakao.com/m/search/q/%EB%82%9C%ED%99%A9%20%EB%A0%88%EC%8B%9C%ED%8B%B4%20%ED%9A%A8%EB%8A%A5",
+            "snippet": "[해외]난유 난황레시틴 효능 난황유 포스파티딜콜린 Egg yolk Lecithin 600mg2개 ... hdl 콜레스테롤높이는 식물성 대두 난황 레시틴 영양제 효능 효과 인지질 40대 50 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://gbyouth.tistory.com › ...",
+            "title": "레시틴 효능, 제대로 알고 먹자 - 청춘의 건강블로그",
+            "url": "https://gbyouth.tistory.com/897",
+            "snippet": "2017. 9. 5. — 레시틴 효능 · 1. 콜레스테롤 개선 여러 동물실험과 임상실험을 통해 레시틴 섭취가 콜레스테롤의 흡수를 억제하고 배출을 촉진하여 콜레스테롤 수치를 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "http://www.soynet.org › KiNeung",
+            "title": "대두영양 및 기능성성분",
+            "url": "http://www.soynet.org/Research/KiNeung.aspx?Contents=S_01_2_6.html&Tot=9&Cur=6",
+            "snippet": "레시틴은 난황, 콩기름, 간, 뇌 등에 다량 존재하는 복합지질로, 특히 지방구의 피막이나 지질 단백질을 이룬다. 한 쪽에는 친유성이 강한 지방산기를 가지고 있고 한 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(30) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://health.tongspower.com › entry",
+            "title": "레시틴 효능 가격 대두 vs 난황 종류별 특징 - 건강몬스터",
+            "url": "https://health.tongspower.com/entry/%EB%A0%88%EC%8B%9C%ED%8B%B4-%ED%9A%A8%EB%8A%A5-%EA%B0%80%EA%B2%A9-%EB%8C%80%EB%91%90-vs-%EB%82%9C%ED%99%A9-%EC%A2%85%EB%A5%98%EB%B3%84-%ED%8A%B9%EC%A7%95",
+            "snippet": "2021. 12. 15. — 레시틴 효능, 도대체 뭐길래? 혹시 레시틴이라는 말을 들어보셨나요? 레시틴이란 글리세린 인산을 포함하는 인지질의 한 종류입니다.",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(31) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 11,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "레시틴의 놀라운 효능 그리고 치명적인 부작용 ( 치매 예방 혈관 건강에 좋은 이유) - YouTube",
+            "url": "https://m.youtube.com/watch?v=2RSwslEViRQ",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "https://m.youtube.com/watch?v=2RSwslEViRQ&t=71"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://hypeco.tistory.com › ...",
+            "title": "레시틴의 효능과 부작용 알아보아요. - hypeco_1분상식",
+            "url": "https://hypeco.tistory.com/61",
+            "snippet": "2021. 2. 22. — 레시틴은 대두레시틴과 난황레시틴이 있습니다. · 대두레시틴은 포스파티딜콜린, 포스파티딜에탄올아민 및 포스파티딜이노시톨을 골고루 함유하고 있습니다 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(33) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://dawnfactory.kr › 맥오리알골...",
+            "title": "맥오리알골드 난황레시틴 알아두시면 좋은 점들 - 건강식품 매뉴얼",
+            "url": "https://dawnfactory.kr/%EB%A7%A5%EC%98%A4%EB%A6%AC%EC%95%8C%EA%B3%A8%EB%93%9C-%EB%82%9C%ED%99%A9%EB%A0%88%EC%8B%9C%ED%8B%B4/",
+            "snippet": "맥오리알골드 난황레시틴의 효능은? (기능성 내용) — 효능, 성분, 복용법 및 부작용과 주의사항에 대해 요약해 보았습니다. 맥오리알골드 난황레시틴 섬네일.",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(34) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://lucky7day.tistory.com › ...",
+            "title": "레시틴의 효능 알고 먹기 - 기린남 티스토리",
+            "url": "https://lucky7day.tistory.com/400",
+            "snippet": "2021. 1. 10. — 다음으로 난황레시틴은 포스파티딜콜린이라는 것이 대두레시틴에 비해 몇배 가량 많이 있으며 두뇌 건강에 좋다고 합니다. 그리고 동물성 성분으로써 우리 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(35) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://scienceon.kisti.re.kr › srch › s...",
+            "title": "[보고서]대두 레시틴의 건강 효과 - ScienceON",
+            "url": "https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=KAR2005018299&dbt=RESEAT",
+            "snippet": "현재 국내에서 대두레시틴, 난황레시틴으로 크게 나누어 60여 종류의 상품이 콜레스테롤 개선, 두뇌의 영양공급, 항산화 작용, 혈액의 흐름을 원활히 하는데 도움을 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(36) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "http://www.gysarang.com › News",
+            "title": "레시틴을 아시나요? - 의학정보 > 칼럼",
+            "url": "http://www.gysarang.com/Module/News/News.asp?MODE=V&KEYWORD=&PAGESIZE=10&KEY=&PAGE=259&SRNO=22158",
+            "snippet": "레시틴은 최초에는 난황 레시틴으로 시작되었지만, 최근에는 콩을 이용한 대두 ... 막고 불필요한 지방의 축적을 제거하는 효능이 있기 때문에 비만을 예방할 수 있다.",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(37) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "http://www.seoulsamsung.co.kr › Ne...",
+            "title": "커뮤니티 - 서울삼성내과",
+            "url": "http://www.seoulsamsung.co.kr/Module/News/News.asp?Mode=V&Srno=22158&PageSize=10&Key=&Keyword=&Page=244",
+            "snippet": "레시틴은 최초에는 난황 레시틴으로 시작되었지만, 최근에는 콩을 이용한 대두 ... 막고 불필요한 지방의 축적을 제거하는 효능이 있기 때문에 비만을 예방할 수 있다.",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://bookskorea.com › 레시틴-효능",
+            "title": "레시틴 효능 및 부작용, 직구 제품 추천 총정리 - 건강블로그",
+            "url": "https://bookskorea.com/%EB%A0%88%EC%8B%9C%ED%8B%B4-%ED%9A%A8%EB%8A%A5/",
+            "snippet": "2022. 2. 27. — 난황은 비싸고, 콜레스테롤 수치가 높기 때문에 주의가 필요해 과거 대비 지금은 거의 사용치 않습니다. 대두레시틴과 난황레시틴의 차이는난황 레시틴은 ...",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://miyaa73.tistory.com › ...",
+            "title": "레시틴의 효능 음식 :: 건강서랍",
+            "url": "https://miyaa73.tistory.com/259",
+            "snippet": "2020. 7. 7. — 종류는 크게 두 가지로 나눌 수 있으며 대두 레시틴, 난황 레시틴 의 효능은 큰 차이가 없습니다. · 난황 레시틴의 효능으로 기억력과 학습능력을 높일 수 ...",
+            "sequence": 22
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(5)#bottomads > div:nth-child(1)#tadsb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://seivbiotech.tistory.com/7",
+            "title": "뇌경색뇌졸중 동맥경화 개선방법 - 협심증 심근경색",
+            "url": "https://seivbiotech.tistory.com/7",
+            "snippet": "50대 60대 경화되고 경색된 혈관을 바꾸는 법. 뇌경색 뇌졸중 협심증 심근경색 개선 방법. 오리난황레시틴, 포스파티딜콜린, 콜린. 고농축 고함량 동물성레시틴.",
+            "sequence": 23
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 24
+        }
+    ]
+}

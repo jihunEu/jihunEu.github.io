@@ -1,0 +1,330 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "183ef329-8002-4877-9100-629906e5b842",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T09:19:44.586Z",
+        "q": "서울 역 근처 맛집",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%84%9C%EC%9A%B8+%EC%97%AD+%EA%B7%BC%EC%B2%98+%EB%A7%9B%EC%A7%91&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0039.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121819/211241247122-14EB5DB51E124A6C9A89CD10C2594C9F-00.html",
+        "json_url": "http://node0039.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121819/211241247122-14EB5DB51E124A6C9A89CD10C2594C9F-00.json",
+        "crawl_start_time": "2022-05-12T09:19:44.618Z",
+        "crawl_end_time": "2022-05-12T09:19:51.667Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "맛집",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "서울 역 근처 맛집",
+        "parsed_time": "2022-05-12T09:19:52.152Z"
+    },
+    "features": [
+        {
+            "type": "local_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).scm-c.mnr-c.XEaKQb",
+            "sequence": 1
+        },
+        {
+            "type": "sns",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > g-card#tscffb.XqIXXe",
+            "displayed_link": "https://www.mangoplate.com › search",
+            "title": "서울역 맛집 인기 검색순위 | 맛집 추천, 망고플레이트",
+            "url": "https://www.mangoplate.com/amp/search/%EC%84%9C%EC%9A%B8%EC%97%AD",
+            "carousels": [
+                {
+                    "title": "유즈라멘",
+                    "url": "https://www.mangoplate.com/amp/restaurants/Do_pQUBxN9-l"
+                },
+                {
+                    "title": "오제제",
+                    "url": "https://www.mangoplate.com/amp/restaurants/mzUvz-k-0Szd"
+                },
+                {
+                    "title": "강너머 남촌 숯불 닭갈비",
+                    "url": "https://www.mangoplate.com/amp/restaurants/VbLEvvDk9lhd"
+                },
+                {
+                    "title": "더레드하우스",
+                    "url": "https://www.mangoplate.com/amp/restaurants/myUadDS3hw43"
+                },
+                {
+                    "title": "후쿠오카모츠나베",
+                    "url": "https://www.mangoplate.com/amp/restaurants/M48cPyJK-Z-V"
+                },
+                {
+                    "title": "해피해피브레드",
+                    "url": "https://www.mangoplate.com/amp/restaurants/8a1lDPKPdIv-"
+                },
+                {
+                    "title": "태향",
+                    "url": "https://www.mangoplate.com/amp/restaurants/eMSw1Mq0iE"
+                },
+                {
+                    "title": "서울리스타",
+                    "url": "https://www.mangoplate.com/amp/restaurants/y3xusxa_-t03"
+                },
+                {
+                    "title": "서울부띠끄",
+                    "url": "https://www.mangoplate.com/amp/restaurants/HIawGYD5-2Oz"
+                },
+                {
+                    "title": "베리스트리트키친",
+                    "url": "https://www.mangoplate.com/amp/restaurants/VnYJBl7DVo"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://aelptos.tistory.com › ...",
+            "title": "서울역 맛집 추천 베스트 7 (ft. 서울 여행) - 몽뜰",
+            "url": "https://aelptos.tistory.com/616",
+            "snippet": "2021. 8. 14. — 1. 제로컴플렉스 · 2. 막내회집 · 3. 부원면옥 · 4. 오제제 · 5. 은호식당 · 6. 명동집 · 7. 이이네.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://aelptos.tistory.com/616",
+                "desc": "서울 역 근처 맛집(출처: aelptos.tistory.com)"
+            },
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.siksinhot.com › taste",
+            "title": "서울-강북맛집,서울역/남대문맛집,추천 베스트10, 식신 대한민국 No.1 맛집검색,맛집추천",
+            "url": "https://www.siksinhot.com/taste?upHpAreaId=10&hpAreaId=390",
+            "snippet": "추천 맛집(107)식신과 매장 방문 고객님들이 함께 엄선한 인기 맛집입니다. · best. 4.2. 막내회집 본점. 서울역/남대문 · best 백년가게. 4.1. 부원면옥 · best 착한식당.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.siksinhot.com/taste?upHpAreaId=10&hpAreaId=390",
+                "desc": "서울 역 근처 맛집(출처: www.siksinhot.com)"
+            },
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.tripadvisor.co.kr › Rest...",
+            "title": "서울역 근처 맛집 Best 10 - Tripadvisor - 트립어드바이저",
+            "url": "https://www.tripadvisor.co.kr/RestaurantsNear-g294197-d9579744-Seoul-Seoul.html",
+            "snippet": "서울역 근처 맛집 · 서가앤쿡 타임스퀘어점. 38건의 리뷰. 서울 음식점 29,238곳 중 656위 · 던킨 도너츠 공항철도 서울역점. 47건의 리뷰. 서울 음식점 29,238곳 중 439위.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://m.diningcode.com › list › qu...",
+            "title": "'서울역' 빅데이터 추천순위 Top100 - 다이닝코드",
+            "url": "https://m.diningcode.com/list?query=%EC%84%9C%EC%9A%B8%EC%97%AD",
+            "snippet": "1. 유즈라멘. 서울역. 시오라멘, 소유라멘. #다코숨은맛집, #혼밥, #캐주얼한, #제로페이 · 2. 가메골 손만두. 남대문. 만두, 고기만두 · 3. 오제제. 서울역. 돈까스, 우동.",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://adeukes.tistory.com › ...",
+            "title": "서울역 맛집 추천 7곳 - 체스게임",
+            "url": "https://adeukes.tistory.com/929",
+            "snippet": "2022. 3. 23. — 서울역 맛집 추천 7곳 · 이이네 · 명동집 · 은호식당 · 오제제 · 부원면옥 · 막내회집 · 제로컴플렉스 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://adeukes.tistory.com/929",
+                "desc": "서울 역 근처 맛집(출처: adeukes.tistory.com)"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "http://m.blog.naver.com › viva_eva",
+            "title": "서울역식당 / 서울역맛집 / 서울역사안! 밖말고 서울역 안! 식당가 안내 - 네이버 블로그",
+            "url": "http://m.blog.naver.com/viva_eva/221429949333",
+            "snippet": "2018. 12. 30. — 역사안!! 서울역안에있는 맛집..식당이 뭐가있는지 찾으려 검색을 해보았다가 서울역 근처 주변 가게들만 나와서. 답답 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.post.naver.com › postView",
+            "title": "서울역 맛집 베스트3 여왕이가 추천해 - naver 포스트",
+            "url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=16471057&memberNo=10739108",
+            "snippet": "2018. 8. 15. — 서울역 맛집 베스트3 여왕이가 추천해~ · 후암연어식당 - 용산구 후암로 음식점 한식 해물,생선 추천맛집 | 디너의여왕 · 도동집 본사 - 용산구 후암로 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.post.naver.com/viewer/postView.naver?volumeNo=16471057&memberNo=10739108",
+                "desc": "서울 역 근처 맛집(출처: m.post.naver.com)"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://hyuni-y.tistory.com › ...",
+            "title": "[서울역 점심 모음집] 오랜만에 돌아온 서울역 밥집 5개 - 매일 놀고 먹고 싶어",
+            "url": "https://hyuni-y.tistory.com/m/28",
+            "snippet": "2021. 4. 20. — [서울역 점심 모음집] 오랜만에 돌아온 서울역 밥집 5개 · 1.바스버거. <<위치>>. 바스버거 후암점. , 전화번호:02-318-6649 ,주소:서울 용산구 동자동 23- ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.esquirekorea.co.kr › art...",
+            "title": "서울로테라스 맛집 리스트 5 | 에스콰이어코리아",
+            "url": "https://www.esquirekorea.co.kr/article/62271",
+            "snippet": "2021. 12. 20. — 서울역이 내려다보이는 서울로7017 산책하고, 대우빌딩 '서울로테라스'에서 맛집까지 즐겨보자.",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://firstpocket34.tistory.com › 서...",
+            "title": "서울역 맛집 TOP2, 미쉐린(미슐랭) 가이드 서울 2021 - 달콤한 연구소",
+            "url": "https://firstpocket34.tistory.com/entry/%EC%84%9C%EC%9A%B8%EC%97%AD-%EB%A7%9B%EC%A7%91-TOP2-%EB%AF%B8%EC%89%90%EB%A6%B0%EB%AF%B8%EC%8A%90%EB%9E%AD-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%84%9C%EC%9A%B8-2021",
+            "snippet": "2021. 1. 9. — 서울역 근처에서 약속을 잡긴 잡았는데, 아무 데나 가서 아무거나 먹을 수 없는 귀한 손님이라면? 미쉐린 가이드가 추천하는 서울역 맛집이 있습니다.",
+            "sequence": 13
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27).uVMCKf.mnr-c > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "서울역광장 맛집 8곳투어, 직장인맛집부터 인기맛집까지!",
+                    "url": "https://m.youtube.com/watch?v=k1CPTHkplcs"
+                },
+                {
+                    "title": "충정로맛집 Best 10곳, 서울역 서부역에서 중림동 충정로역까지 맛집투어",
+                    "url": "https://m.youtube.com/watch?v=F-6vnpVHo0s"
+                },
+                {
+                    "title": "[ET] 인생 맛집 서울역 '경양식 돈가스'…이젠 진짜 추억? / KBS 2021.12.02.",
+                    "url": "https://m.youtube.com/watch?v=hiTFxv8t9N0"
+                }
+            ],
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "http://soonwidot.co.kr › rank › search",
+            "title": "서울역맛집 - 인기순위 추천 순위닷",
+            "url": "http://soonwidot.co.kr/rank/search.php?si=640&stx=%EC%84%9C%EC%9A%B8%EC%97%AD%EB%A7%9B%EC%A7%91",
+            "snippet": "서울역 맛집 : 인기순위 순위닷. 1. 진풍정 서울역점 (2). 서울특별시 용산구 동자동 12 ... 연락처 : 02-777-8004. 서울역한정식 서울역상견례 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://whereisyourprofit.com › 서...",
+            "title": "서울역 맛집 역사안 및 도보 10분 거리 4가지 소개",
+            "url": "https://whereisyourprofit.com/%EC%84%9C%EC%9A%B8%EC%97%AD-%EB%A7%9B%EC%A7%91/",
+            "snippet": "2020. 12. 4. — 서울역 맛집 어디에 있을까요? 서울역 역사 안에는 경양식집인 그릴과 일본 가정식인 토끼정이 있습니다. 그 밖에 서울역 밖으로 도보 10분거리에 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://whereisyourprofit.com/%EC%84%9C%EC%9A%B8%EC%97%AD-%EB%A7%9B%EC%A7%91/",
+                "desc": "서울 역 근처 맛집(출처: whereisyourprofit.com)"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(30) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.hankyung.com › article",
+            "title": "김과장 이대리 SK브로드밴드 직원들이 추천하는 서울역 맛집 - 한국경제",
+            "url": "https://www.hankyung.com/life/amp/201912264243i",
+            "snippet": "2020. 1. 6. — [김과장 & 이대리] SK브로드밴드 직원들이 추천하는 서울역 맛집, 李대리만 아는 회사 맛집 '회식의 성지' 금자네 생등심 '국물요리 일품' 도동집.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.hankyung.com/life/amp/201912264243i",
+                "desc": "서울 역 근처 맛집(출처: www.hankyung.com)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(31) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://dajeongbo.tistory.com › ...",
+            "title": "[서울역 맛집] 서울역 토끼정 - 잡쓸신잡",
+            "url": "https://dajeongbo.tistory.com/27",
+            "snippet": "2021. 12. 1. — 서울역 맛집 토끼정을 소개합니다 서울역KTX 입구에 위치하고 있어요 토끼정 서울 중구 한강대로 405 서울역 영업시간 : 매일 11:00 - 21:30 점심 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://alenadaily.tistory.com › ...",
+            "title": "[서울역/만리동 맛집추천] 안주가 맛있고, 분위기가 좋은 '종종서울 '",
+            "url": "https://alenadaily.tistory.com/27",
+            "snippet": "2021. 9. 25. — [서울역/만리동 맛집추천] 안주가 맛있고, 분위기가 좋은 '종종서울 ' ... 여러분은 서울역 하시면 뭐가 생각나시나요? 전 사실 지금까지 서울역 하면 그 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(33) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://giryun.tistory.com › ...",
+            "title": "[서울역] 돈까스 맛집, 오제제",
+            "url": "https://giryun.tistory.com/10",
+            "snippet": "2022. 3. 3. — 맛있는 돈가츠를 먹으러, 서울역으로 ✔️ 이전에 한번 와봤던 곳인데 너무 맛있었던 기억이있어서, 오늘 또 먹으러왔답니당 서울역 13번 출구로 나 ...",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(34) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://junwanse.tistory.com › entry",
+            "title": "[맛집] 서울역 예담밥상",
+            "url": "https://junwanse.tistory.com/m/entry/Yedam-restaurant-Near-Seoul-station",
+            "snippet": "2017. 1. 7. — 직장동료들과 함께 서울역에 있는 예담밥상(남산점)에 다녀왔습니다. 지하철 4호선 서울역 11번 출구를 나와, 밀레니엄 서울 힐튼 호텔 쪽으로 가다 ...",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(35) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://zzznara.tistory.com › ...",
+            "title": "[서울역 서부역 맛집] 내가 자주가는 순대국집 - 산돌순대국 - 아침부터 저녁까지 감사",
+            "url": "https://zzznara.tistory.com/545",
+            "snippet": "[서울역 서부역 맛집] 내가 자주가는 순대국집 - 산돌순대국. by 우림 2016. 8. 3. 어제 또 갑자기 순대국이 먹고 싶어져서 산돌순대국을 찾았습니다.",
+            "sequence": 22
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1)#dub_1 > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 23
+        }
+    ]
+}

@@ -1,0 +1,566 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "7a6ebf58-82b1-4155-a476-9c6cd7525c1d",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T01:06:52.491Z",
+        "q": "mad god",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=mad+god&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0001.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220513/2205131006/211189154007-B270953A16754D4B86726B9FFD1D9F67-00.html",
+        "json_url": "http://node0001.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220513/2205131006/211189154007-B270953A16754D4B86726B9FFD1D9F67-00.json",
+        "crawl_start_time": "2022-05-13T01:06:52.540Z",
+        "crawl_end_time": "2022-05-13T01:06:57.961Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "애니메이션",
+            "domain": "일반",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "mad god",
+        "parsed_time": "2022-05-13T01:06:58.597Z"
+    },
+    "features": [
+        {
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid15.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0.Du5Hud",
+            "selected": "개요",
+            "headers": [
+                "개요",
+                "예고편 및 클립",
+                "리뷰",
+                "출연진"
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc.Giv2qe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.CGCvRb.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "97px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "94px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "97px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image"
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(13).TzHB6b.mnr-c.UBoxCb.SHuCDf > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/film/film:media_actions_wholepage",
+                    "values": [
+                        "시청함",
+                        " 시청하신 작품인가요? ",
+                        "감사합니다. Google의 영화 및 TV 프로그램 추천 정보가 개선됩니다. ",
+                        " 관심 목록 ",
+                        "Google 관심 목록을 보려면 다음과 같이 검색하세요. ",
+                        "\"내 관심 목록\"",
+                        "문제가 발생하여 작업을 저장할 수 없습니다"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/film/film:media_actions_wholepage"
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(13).TzHB6b.mnr-c.UBoxCb.SHuCDf > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(4).vnLNtd.mnr-c.TjcfIc.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "kc:/film/film:reviews",
+                    "values": [
+                        "7/10",
+                        "IMDb",
+                        "Mad God의 IMDb 평점은 10점 만점에 7점입니다.",
+                        "93%",
+                        "Rotten Tomatoes",
+                        "Mad God의 Rotten Tomatoes 평점은 93퍼센트입니다.",
+                        "3/5",
+                        "IndieWire",
+                        "Mad God의 IndieWire 리뷰 결과는 별 3개입니다."
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "설명",
+                        "영어에서 번역됨",
+                        "-",
+                        "Mad God은 Phil Tippett이 각본, 제작 및 감독한 스톱 모션 애니메이션 공포 영화입니다. 2021년에 완성된 이 영화는 30년에 걸쳐 촬영됐다.\n이 영화는 2022년 6월 16일 Shudder에서 개봉될 예정입니다.",
+                        "위키백과(영어)",
+                        "원래 설명 보기",
+                        "원래 설명 보기",
+                        "설명",
+                        "Mad God is a stop motion animated horror film written, produced and directed by Phil Tippett. Completed in 2021, the film was filmed over a period of 30 years."
+                    ]
+                },
+                {
+                    "attrid": "kc:/film/film:release date",
+                    "values": [
+                        "개봉일: ",
+                        "2021년"
+                    ]
+                },
+                {
+                    "attrid": "kc:/film/film:director",
+                    "values": [
+                        "감독: ",
+                        "필 티페트"
+                    ]
+                },
+                {
+                    "attrid": "kc:/film/film:production design",
+                    "values": [
+                        "프로덕션 디자인: ",
+                        "필 티페트"
+                    ]
+                },
+                {
+                    "attrid": "kc:/film/film:screenplay",
+                    "values": [
+                        "각본: ",
+                        "필 티페트"
+                    ]
+                },
+                {
+                    "attrid": "kc:/film/film:cast",
+                    "values": [
+                        "출연진: ",
+                        "알렉스 콕스",
+                        ", ",
+                        "니키타 로만",
+                        ", ",
+                        "사티쉬 라타콘다",
+                        ", ",
+                        "하퍼 테일러",
+                        ", ",
+                        "브린 테일러",
+                        ", ",
+                        "한스 브렉케",
+                        ", ",
+                        "아르네 하인",
+                        ", ",
+                        "하퍼 기븐스",
+                        ", ",
+                        "터커 기븐스",
+                        ", ",
+                        "제이크 프라이타크"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "ratings": [
+                        {
+                            "rating": "7/10",
+                            "source": "IMDb"
+                        },
+                        {
+                            "rating": "93%",
+                            "source": "Rotten Tomatoes"
+                        },
+                        {
+                            "rating": "3/5",
+                            "source": "IndieWire"
+                        }
+                    ],
+                    "Description": "영어에서 번역됨 - Mad God은 Phil Tippett이 각본, 제작 및 감독한 스톱 모션 애니메이션 공포 영화입니다. 2021년에 완성된 이 영화는 30년에 걸쳐 촬영됐다.\n이 영화는 2022년 6월 16일 Shudder에서 개봉될 예정입니다.   Mad God is a stop motion animated horror film written, produced and directed by Phil Tippett. Completed in 2021, the film was filmed over a period of 30 years.",
+                    "properties": [
+                        {
+                            "attrid": "kc:/film/film:release date",
+                            "key": "개봉일",
+                            "value": "2021년"
+                        },
+                        {
+                            "attrid": "kc:/film/film:director",
+                            "key": "감독",
+                            "value": "필 티페트"
+                        },
+                        {
+                            "attrid": "kc:/film/film:production design",
+                            "key": "프로덕션 디자인",
+                            "value": "필 티페트"
+                        },
+                        {
+                            "attrid": "kc:/film/film:screenplay",
+                            "key": "각본",
+                            "value": "필 티페트"
+                        },
+                        {
+                            "attrid": "kc:/film/film:cast",
+                            "key": "출연진",
+                            "value": "알렉스 콕스, 니키타 로만, 사티쉬 라타콘다, 하퍼 테일러, 브린 테일러, 한스 브렉케, 아르네 하인, 하퍼 기븐스, 터커 기븐스, 제이크 프라이타크"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/film/film:reviews",
+                "description",
+                "kc:/film/film:release date",
+                "kc:/film/film:director",
+                "kc:/film/film:production design",
+                "kc:/film/film:screenplay",
+                "kc:/film/film:cast"
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(17).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "Mad God - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Mad_God",
+            "snippet": "Mad God is a stop motion animated horror film written, produced and directed by Phil Tippett. ... Completed in 2021, the film was filmed over a period of 30 years ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://en.m.wikipedia.org/wiki/Mad_God",
+                "desc": "mad god(출처: en.m.wikipedia.org)"
+            },
+            "properties": [
+                {
+                    "key": "Music by",
+                    "value": "Dan Wool"
+                },
+                {
+                    "key": "Production company",
+                    "value": "Tippett Studio"
+                }
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(18).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "예고편 및 클립",
+            "attrids": [
+                {
+                    "attrid": "kc:/media_common/media_item:video_clips",
+                    "values": [
+                        "1:14",
+                        "Mad God - Official Trailer [HD] | A Shudder Original",
+                        "YouTube",
+                        "·",
+                        " Shudder",
+                        "1:14",
+                        "Mad God - Official Trailer [HD] | A Shudder Original",
+                        "YouTube",
+                        "·",
+                        " Shudder"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/media_common/media_item:video_clips"
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(19).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://m.imdb.com › title",
+            "title": "Mad God (2021) - IMDb",
+            "url": "https://m.imdb.com/title/tt15090124/",
+            "snippet": "Mad God: Directed by Phil Tippett. With Alex Cox, Niketa Roman, Satish Ratakonda, Harper Taylor. A corroded diving bell descends amidst a ruined city and ...",
+            "rating": {
+                "rating_count": "(1,177)",
+                "rating_value": "7/10"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.madgodmovie.com",
+            "title": "Phil Tippett's MAD GOD",
+            "url": "https://www.madgodmovie.com/",
+            "snippet": "The official website for Phil Tippett's stop-motion short film, MAD GOD.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.madgodmovie.com/",
+                "desc": "mad god(출처: www.madgodmovie.com)"
+            },
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(21).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.tippett.com › portfolio",
+            "title": "MAD GOD | Tippett Studio",
+            "url": "https://www.tippett.com/portfolio/mad-god/",
+            "snippet": "Mad God is an experimental stop-motion film set in a Miltonesque world of monsters, mad scientists, and war pigs. Conceived and directed by our founder, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.tippett.com/portfolio/mad-god/",
+                "desc": "mad god(출처: www.tippett.com)"
+            },
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(22).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.rottentomatoes.com › m...",
+            "title": "Mad God - Rotten Tomatoes",
+            "url": "https://www.rottentomatoes.com/m/mad_god",
+            "snippet": "Every set, creature, and effigy in this macabre masterpiece is hand-crafted and painstakingly animated using traditional stop-motion techniques. MAD GOD is a ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.rottentomatoes.com/m/mad_god",
+                "desc": "mad god(출처: www.rottentomatoes.com)"
+            },
+            "properties": [
+                {
+                    "key": "Runtime",
+                    "value": "1h 23m"
+                },
+                {
+                    "key": "Genre",
+                    "value": "Adventure, Animation, Horror"
+                }
+            ],
+            "rating": {
+                "rating_count": "(28)",
+                "rating_value": "93%"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(23).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://deadline.com › 2022/03 › ma...",
+            "title": "Shudder Snags VFX Legend Phil Tippett's Experimental Animated Pic 'Mad God' - Deadline",
+            "url": "https://deadline.com/2022/03/mad-god-shudder-snags-phil-tippetts-experimental-animated-film-1234990952/amp/",
+            "snippet": "2022. 3. 30. — In Mad God, a corroded diving bell descends amidst a ruined city, with an Assassin emerging from it to explore a labyrinth of bizarre ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://deadline.com/2022/03/mad-god-shudder-snags-phil-tippetts-experimental-animated-film-1234990952/amp/",
+                "desc": "mad god(출처: deadline.com)"
+            },
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(24).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.avclub.com › mad-god-...",
+            "title": "Mad God's gorgeously ghastly stop-motion animation is heading to Shudder next month - The AV Club",
+            "url": "https://www.avclub.com/mad-god-shudder-trailer-stop-motion-animation-phil-tip-1848909390/amp",
+            "snippet": "1일 전 — Animation and special effects legend Phil Tippett is finally getting the chance to widen the scope of his cinematic vision: Mad God, ...",
+            "sequence": 12
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c",
+            "segments": [
+                {
+                    "carousels": [
+                        {
+                            "title": "Mathilde",
+                            "subtitle": "2008년"
+                        },
+                        {
+                            "title": "아노말리사",
+                            "subtitle": "2015년"
+                        },
+                        {
+                            "title": "팀 버튼의 크리스마...",
+                            "subtitle": "1993년"
+                        },
+                        {
+                            "title": "박스트롤",
+                            "subtitle": "2014년"
+                        },
+                        {
+                            "title": "Hello God",
+                            "subtitle": "1951년"
+                        },
+                        {
+                            "title": "The Mad Doctor of...",
+                            "subtitle": "1942년"
+                        },
+                        {
+                            "title": "Twice Upon a Time",
+                            "subtitle": "1983년"
+                        },
+                        {
+                            "title": "쿠보와 전설의 악기",
+                            "subtitle": "2016년"
+                        }
+                    ]
+                }
+            ],
+            "searches": [
+                {
+                    "query": "Mad god twitter",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2) > div:nth-child(2)#LK99YqjsJ5qsoATPt6iwCA__93 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Mad God streaming",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(3) > div:nth-child(2)#LK99YqjsJ5qsoATPt6iwCA__96 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "매드 갓",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_1 > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(4) > div:nth-child(2)#LK99YqjsJ5qsoATPt6iwCA__98 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://gizmodo.com › new-mad-go...",
+            "title": "New Mad God Trailer Reveals a Special Effects Passion Project - Gizmodo",
+            "url": "https://gizmodo.com/new-mad-god-trailer-shudder-phil-tippett-animation-horr-1848912865/amp",
+            "snippet": "1일 전 — Our Best Look Yet at Mad God Reveals a Special Effects Wizard's Thrilling Passion Project. Phil Tippett's experimental animated film took 30 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(27).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://collider.com › mad-god-mov...",
+            "title": "Mad God Trailer Reveals SFX Icon Phil Tippett's Stop-Motion Masterpiece - Collider",
+            "url": "https://collider.com/mad-god-movie-trailer-phil-tippett-stop-motion/amp/",
+            "snippet": "13시간 전 — Shudder has released the trailer for Mad God, a stop motion film written and directed by special effects icon Phil Tippett.",
+            "sequence": 15
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c",
+            "results": [
+                {
+                    "query": "Mad God netflix",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_79_LK99YqjsJ5qsoATPt6iwCA__115 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Christos Nikou",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_80_LK99YqjsJ5qsoATPt6iwCA__121 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Cryptozoo",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_81_LK99YqjsJ5qsoATPt6iwCA__124 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Stop motion",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_82_LK99YqjsJ5qsoATPt6iwCA__127 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Memoria 2021",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_83_LK99YqjsJ5qsoATPt6iwCA__130 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Clay animation list",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_84_LK99YqjsJ5qsoATPt6iwCA__132 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Tippett Studio",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_85_LK99YqjsJ5qsoATPt6iwCA__134 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "The Other Side of the Wind",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(2).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_LK99YqjsJ5qsoATPt6iwCA11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).AuVD.wHYlTd.VCOFK.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_86_LK99YqjsJ5qsoATPt6iwCA__135 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 16
+        }
+    ]
+}

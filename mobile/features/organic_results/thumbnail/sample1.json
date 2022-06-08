@@ -1,0 +1,437 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "9a1a8f48-7c34-4b6c-9feb-61a7ffa3b7cb",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T08:20:51.055Z",
+        "q": "여름 탈모샴푸",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%97%AC%EB%A6%84+%ED%83%88%EB%AA%A8%EC%83%B4%ED%91%B8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0015.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111720/223165245093-983DE766FE924CE08B13890967E6FF96-00.html",
+        "json_url": "http://node0015.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111720/223165245093-983DE766FE924CE08B13890967E6FF96-00.json",
+        "crawl_start_time": "2022-05-11T08:20:51.086Z",
+        "crawl_end_time": "2022-05-11T08:20:55.218Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "탈모샴푸",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "여름 탈모샴푸",
+        "parsed_time": "2022-05-11T08:20:55.631Z"
+    },
+    "features": [
+        {
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "여름 탈모샴푸 구매",
+            "carousels": [
+                {
+                    "title": "닥터그루트 애딕트 블루드에르베 샴푸",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLw6r0gdf3AhWaGK0GHa61AsYYABAOGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRozaRvBzxbVA_p9FcsGYTCEifA4t7FmYdbUQGrMhrT2ev5G0Q&sig=AOD64_0k1SDm9E_CC2cV0bl875eQG89u8A&ctype=5&q=&ved=2ahUKEwi8gKX0gdf3AhVWHjQIHTwxDw0Qwg8oAHoECAEQCw&adurl=",
+                    "price": "₩22,000",
+                    "delivery": "무료 배송",
+                    "provider": "닥터그루트",
+                    "data-offer-docid": "11036720978556009282",
+                    "data-merchant-id": "147277446",
+                    "data-offer-id": "닥터그루트 애딕트 블루드에르베 샴푸"
+                },
+                {
+                    "title": "[NEW] 라보에이치 탈모증상완화 샴푸 기획 (333ml+125ml) (두피쿨링)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLw6r0gdf3AhWaGK0GHa61AsYYABAIGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRozaRvBzxbVA_p9FcsGYTCEifA4t7FmYdbUQGrMhrT2ev5G0Q&sig=AOD64_2fFH8rhFH_8xXvOkG9EyDZVo91Mg&ctype=5&q=&ved=2ahUKEwi8gKX0gdf3AhVWHjQIHTwxDw0Qwg8oAHoECAEQEA&adurl=",
+                    "price": "₩14,90019,800",
+                    "delivery": "+ 배송비 ₩2,500",
+                    "provider": "올리브영",
+                    "data-catalog-id": "10623369194786215424",
+                    "data-offer-docid": "9365297278676512942",
+                    "data-merchant-id": "117387471",
+                    "data-offer-id": "A000000158269"
+                },
+                {
+                    "title": "에퓨놀 바이옴 샴푸",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLw6r0gdf3AhWaGK0GHa61AsYYABAKGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRozaRvBzxbVA_p9FcsGYTCEifA4t7FmYdbUQGrMhrT2ev5G0Q&sig=AOD64_1FOUsEjbMXifkX2t4MWorzbJWrMQ&ctype=5&q=&ved=2ahUKEwi8gKX0gdf3AhVWHjQIHTwxDw0Qwg8oAHoECAEQFw&adurl=",
+                    "price": "₩25,900",
+                    "delivery": "+ 배송비 ₩3,000",
+                    "provider": "에퓨놀 공식몰",
+                    "data-offer-docid": "3082071070826681681",
+                    "data-merchant-id": "504799932",
+                    "data-offer-id": "001"
+                },
+                {
+                    "title": "비듬 두피 가려움 약산성 착한 탈모샴푸 팩 500ml",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLw6r0gdf3AhWaGK0GHa61AsYYABALGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRozaRvBzxbVA_p9FcsGYTCEifA4t7FmYdbUQGrMhrT2ev5G0Q&sig=AOD64_2tUX44GokU5EFhGSyy43_Roxh5Ww&ctype=5&q=&ved=2ahUKEwi8gKX0gdf3AhVWHjQIHTwxDw0Qwg8oAHoECAEQHA&adurl=",
+                    "price": "₩19,700",
+                    "delivery": "+ 배송비 ₩2,500",
+                    "provider": "착한팩토리",
+                    "data-offer-docid": "12653612753727813008",
+                    "data-merchant-id": "144400704",
+                    "data-offer-id": "1345351"
+                },
+                {
+                    "title": "레비타 대용량 탈모개선 두피 샴푸 925ml",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjLw6r0gdf3AhWaGK0GHa61AsYYABAJGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRozaRvBzxbVA_p9FcsGYTCEifA4t7FmYdbUQGrMhrT2ev5G0Q&sig=AOD64_3q41ZsdiPTtZLeg-E-f3RL9N2d5w&ctype=5&q=&ved=2ahUKEwi8gKX0gdf3AhVWHjQIHTwxDw0Qwg8oAHoECAEQIQ&adurl=",
+                    "price": "₩106,000",
+                    "delivery": "무료 배송",
+                    "provider": "디에스래보래토리즈",
+                    "data-offer-docid": "12645710279240090327",
+                    "data-merchant-id": "230507198",
+                    "data-offer-id": "revita_sh_925ml"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "http://www.tosowoong.com/",
+            "title": "탈모샴푸 1위 - 약산성 샴푸",
+            "url": "http://tosowoong.com/shop/shopdetail.html?branduid=1032296",
+            "snippet": "#샴푸 #탈모샴푸 #샴푸추천 #지루성두피염 #맥주효모샴푸 #약산성샴푸 #탈모 #지루성두피염샴푸. #미용실샴푸 #두피각질 #지성샴푸 #두피샴푸 #탈모샴푸1위 #두피뾰루지 #탈모샴푸추천. 1+1행사. 오늘특가. 제모크림. 토소웅. 브랜드: 토소웅, 제모크림, 1+1행사.",
+            "carousels": [
+                {
+                    "title": "시카클리닉 흔적크림 1+1"
+                },
+                {
+                    "title": "피지제거기 최대 61% 할인"
+                },
+                {
+                    "title": "마약발팩 1+1 행사중"
+                },
+                {
+                    "title": "핵심은 성분 EWG 천연등급"
+                },
+                {
+                    "title": "모낭충 각질 여드름 개선"
+                },
+                {
+                    "title": "강력한 베큠 피지 흡입기"
+                },
+                {
+                    "title": "클렌징오일 최대 57% 할인"
+                },
+                {
+                    "title": "순한 버블로 모공 케어"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(4).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.drforhair.co.kr/",
+            "title": "탈모샴푸 1위 닥터포헤어 공식몰 - 1900만 소비자의 선택 - 9년 연속 소비자 만족도 1위",
+            "url": "https://www.drforhair.co.kr/board/view.php?period=current&bdId=event&sno=60&utm_source=vac_mass&utm_medium=video&utm_campaign=DF_folligen&utm_content=chs_a",
+            "snippet": "글로벌 두피관리 센터의 연구데이터와 노하우를 담은 과학이 담긴 폴리젠 샴푸. 10개빠지던 모발이 3.3개만 빠지는 놀라운 효과! 더마테스트 Excellent 등급. 20만 후기데이터 4.9점. 2021올리브영 샴푸 1위. CJ오쇼핑 샴푸 1위. 브랜드: 닥터포헤어, 어노브, 닥터랩.",
+            "carousels": [
+                {
+                    "title": "1등 폴리젠 샴푸 19,800원"
+                },
+                {
+                    "title": "스케일링 & 영양 충전팩"
+                },
+                {
+                    "title": "2022 새로운 할인의 시작"
+                }
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "탈모증상",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "두피관리",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "두피케어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "탈모예방",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "탈모방지",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "폴리젠샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "모발",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "천연샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "머리",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid25.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "머리카락",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid27.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "etnews",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid29.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "다나와",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid31.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.joongang.co.kr › article",
+            "title": "[issue&] 자외선 강한 여름철, 두피와 모발에 영양분 공급해 탈모 예방하세요 | 중앙일보",
+            "url": "https://www.joongang.co.kr/amparticle/24116370",
+            "snippet": "2021. 7. 29. — 뜨거운 자외선으로 탈모 증상이 유발되는 여름, 모모단 프리미엄 플러스, 모모단탈모샴푸는 두피 건강관리를 돕는 제품이다. [사진 동진제약].",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.joongang.co.kr/amparticle/24116370",
+                "desc": "여름 탈모샴푸(출처: www.joongang.co.kr)"
+            },
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(40) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.junsungki.com › post-d...",
+            "title": "탈모 예방은 여름하기 나름, 여름철 두피 관리 요령 - 라이나전성기재단",
+            "url": "https://www.junsungki.com/magazine/post-detail.do?id=3000",
+            "snippet": "또한 피지와 유분이 배출되어 모공을 막는데, 모공이 막히면 모낭 내 산소 공급이 어려워 탈모가 촉진된다. 그렇다고 샴푸를 자주 하면 두피가 예민하고 건조해지므로 주의 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(41) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.health.chosun.com › svc",
+            "title": "탈모 악화되기 쉬운 여름, 휴가·장마 때 특히 주의 - 헬스조선",
+            "url": "https://m.health.chosun.com/svc/news_view.html?contid=2020062303784&ref=no_ref",
+            "snippet": "2020. 6. 24. — 자극이 적은 샴푸를 쓰고, 거품을 낼 때는 머리에 바로 올려 비비지 말고 손에서 충분히 거품을 낸 후 비빈다. ▷수영한 후에는 바로 머리 감기=수영장 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.health.chosun.com/svc/news_view.html?contid=2020062303784&ref=no_ref",
+                "desc": "여름 탈모샴푸(출처: m.health.chosun.com)"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(41) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://m.health.chosun.com › svc",
+            "title": "여름철, 탈모가 유독 심해지는 세가지 이유 - 헬스조선",
+            "url": "https://m.health.chosun.com/svc/news_view.html?contid=2011062402186&",
+            "snippet": "2011. 6. 27. — 여름철, 탈모가 유독 심해지는 세가지 이유 ... 모발이 많이 약해져 있기 때문에 머리를 감을 때 미지근한 물과 저자극성 샴푸를 사용하는 것이 좋다.",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(42) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.mk.co.kr › 2014/08",
+            "title": "여름 탈모가 더 무섭다 - 매일경제",
+            "url": "https://m.mk.co.kr/news/it/view-amp/2014/08/1055127/",
+            "snippet": "2014. 8. 1. — 강한 자외선 노출·잦은 샴푸로 손상… ... 무더운 여름철에 탈모 원인을 제공하지 않으려면 무엇보다 머리카락에 쏟아지는 자외선을 차단해줘야 한다.",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "http://kormedi.com › 여성-탈모⑤-...",
+            "title": "[여성 탈모⑤] '탈모의 계절'은 사실 여름? 가을 탈모 막는 여름철 두피 관리법 - 코메디닷컴",
+            "url": "https://kormedi.com/amp/1299310/%EC%97%AC%EC%84%B1-%ED%83%88%EB%AA%A8%E2%91%A4-%ED%83%88%EB%AA%A8%EC%9D%98-%EA%B3%84%EC%A0%88%EC%9D%80-%EC%82%AC%EC%8B%A4-%EC%97%AC%EB%A6%84-%EA%B0%80%EC%9D%84-%ED%83%88%EB%AA%A8/",
+            "snippet": "2019. 8. 8. — 다시 말해, 여름 내내 계속된 두피의 혹사를 막을 수 있다면 머리카락 역시 덜 ... 특히 여름철 지루성피부염으로 인한 탈모는 샴푸만 바꿔도 증상이 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(44) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.k-health.com › news",
+            "title": "두피도 이글이글…여름철 탈모관리 어떻게 해야 할까 - 헬스경향",
+            "url": "https://www.k-health.com/news/articleView.html?idxno=55283",
+            "snippet": "2021. 8. 27. — 무엇보다 강한 자외선과 높은 온도는 두피와 모발 손상을 유발해 탈모 ... 더 자주 머리를 감는 것이 좋다”며 “다만 샴푸의 과다사용은 두피에 자극이 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(45) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.korea.kr › healthView",
+            "title": "탈모를 부르는 나쁜 습관 6가지와 예방법 - 정책뉴스",
+            "url": "https://m.korea.kr/news/healthView.do?newsId=148859699",
+            "snippet": "2019. 4. 2. — 샴푸는 손에 짠 후에 두피에 바로 문지르지 말고 양 손으로 충분히 비빈 후 거품이 많이 나면 머리카락 전체에 골고루 묻혀서 감도록 한다. 또한 머리 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(46) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://imnews.imbc.com › article",
+            "title": "[스마트 리빙] 여름철 탈모 막는 '올바른 샴푸법' 外 - MBC뉴스",
+            "url": "https://imnews.imbc.com/replay/2018/nwtoday/article/4679487_30188.html",
+            "snippet": "2018. 7. 4. — 여름철 탈모 막는 '올바른 샴푸법' 요샌 나이 상관없이 탈모 때문에 고민하는 사람들이 많죠. 특히, 자외선이 강하고 습도 높은 여름엔 탈모 예방을 ...",
+            "thumbnail": {
+                "type": "video",
+                "url": "https://imnews.imbc.com/replay/2018/nwtoday/article/4679487_30188.html",
+                "desc": "여름 탈모샴푸 동영상"
+            },
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "http://m.shop.interpark.com › product",
+            "title": "다모샴푸 두피열감소 여름샴푸 탈모완화토닉 세트 - 인터파크",
+            "url": "http://m.shop.interpark.com/product/4516737326/0000100000",
+            "snippet": "0%할인, 추가 회원 중복 할인 쿠폰, 헤어토닉/두피스케일링에 대한 상품입니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.shop.interpark.com/product/4516737326/0000100000",
+                "desc": "여름 탈모샴푸(출처: m.shop.interpark.com)"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "http://m.shop.interpark.com › product",
+            "title": "다모샴푸 여름샴푸 두피토닉 탈모와화도움 세트 - 인터파크",
+            "url": "http://m.shop.interpark.com/product/4338694717/0000100000?fr=pc",
+            "snippet": "0%할인, 추가 회원 중복 할인 쿠폰, 헤어토닉/두피스케일링에 대한 상품입니다.",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://www.datanet.co.kr › news › a...",
+            "title": "테라피션, 여름철 시원한 쿨링감 선사하는 탈모샴푸 1+1 행사 - 데이터넷",
+            "url": "https://www.datanet.co.kr/news/articleView.html?idxno=148862",
+            "snippet": "2020. 7. 28. — 고온 다습한 여름철에는 탈모로 인한 고민이 늘어나는 계절이다. 강한 자외선과 장마로 두피는 쉽게 민감해지고 비듬, 각질, 지루성두피염, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.datanet.co.kr/news/articleView.html?idxno=148862",
+                "desc": "여름 탈모샴푸(출처: www.datanet.co.kr)"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.datanet.co.kr › news › a...",
+            "title": "테라피션, 여름철 두피케어 위한 탈모샴푸 1+1 이벤트 진행 - 데이터넷",
+            "url": "https://www.datanet.co.kr/news/articleView.html?idxno=149539",
+            "snippet": "2020. 8. 14. — 우리나라 여름은 온도와 습도가 매우 높기 때문에 불쾌지수 역시 높은 편이다. 이에 자외선 차단과 보습 등 피부관리에는 신경을 쓰지만 두피케어에는 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(49) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://www.etnews.com › ...",
+            "title": "여름철 탈모관리, 탈모샴푸 하나면 걱정없다 - 전자신문",
+            "url": "https://www.etnews.com/20150622000341?m=1",
+            "snippet": "2015. 6. 23. — 이런 여름철 탈모예방법 중에서 가장 대표적으로 손 꼽히는 것이 탈모샴푸를 이용하는 것이다. 탈모샴푸는 전문 두피관리센터보다 경제적이고, 손쉽게 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.etnews.com/20150622000341?m=1",
+                "desc": "여름 탈모샴푸(출처: www.etnews.com)"
+            },
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(50) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "http://www.11st.co.kr › products",
+            "title": "[모어댄에잇] 두피열 쿨링 탈모샴푸 500mlx2 비듬케어 저자극 두피관리 여름샴푸 탈모예방 - 11번가",
+            "url": "http://www.11st.co.kr/products/3734181003",
+            "snippet": "[모어댄에잇] 두피열 쿨링 탈모샴푸 500mlx2 비듬케어 저자극 두피관리 여름샴푸 탈모예방. 판매가 중지된 상품입니다. (사유: 허위과대광고).",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(51) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.fnnews.com › news",
+            "title": "모발 이식하기에 좋은 계절이 따로 있을까 - 파이낸셜뉴스",
+            "url": "https://www.fnnews.com/ampNews/202201190010089889",
+            "snippet": "2022. 1. 19. — 모발 이식 후 모발 성장 빠르게 일어나는 여름여름에는 고온다습한 날씨가 이어지므로 두피가 습하고, 땀과 유분이 ... 현대약품 마이녹실 탈모샴푸.",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(51) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.fnnews.com › news",
+            "title": "모발 이식 가을에 해도 될까 - 파이낸셜뉴스",
+            "url": "https://www.fnnews.com/ampNews/202109071749504745",
+            "snippet": "2021. 9. 7. — 현대약품 마이녹실 탈모샴푸. 여름은 신진대사 활발해 회복 빠르고, 가을은 선선해 상처 빨리 아물어. 모발 이식 가을에 해도 될까 Unsplash ...",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(52) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "http://search.danawa.com › dsearch",
+            "title": "여름샴푸 : 다나와 통합검색",
+            "url": "http://search.danawa.com/mobile/dsearch.php?keyword=%EC%97%AC%EB%A6%84%EC%83%B4%ED%91%B8",
+            "snippet": "'여름샴푸'의 다나와 통합검색 결과입니다. ... [탈모 샴푸] 제이멜라 인 잉글랜드 실버 마운틴 탈모 헤어 샴푸 500ml. 12,800원. 네이버페이 제이멜라.",
+            "sequence": 22
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(53) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://m.asiatoday.co.kr › view",
+            "title": "[리스티클] “뜨끈뜨끈 내 머리”...여름 두피 관리법 - 아시아투데이",
+            "url": "https://m.asiatoday.co.kr/kn/view.php?key=20210726001514063",
+            "snippet": "2021. 8. 2. — 여름철 강한 자외선에 두피가 노출되면 정수리 부분이 붉어지고 피지와 땀의 분비량이 많아져 모공이 막히기 쉬워 염증성질환 발생, 심하면 탈모까지 ...",
+            "sequence": 23
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(5)#bottomads > div:nth-child(1)#tadsb > div:nth-child(2).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://post.naver.com/",
+            "title": "탈모샴푸의 효과와 진실에관하여 - 탈모샴푸 제품분석 보고서",
+            "url": "https://post.naver.com/viewer/postView.naver?volumeNo=31387680&memberNo=9455865",
+            "snippet": "탈모샴푸 효과, 정말 있을까? 47일간 공부하고 분석한 리포트를 남긴다. (소비자X파일-성분분석보고서)",
+            "sequence": 24
+        }
+    ]
+}

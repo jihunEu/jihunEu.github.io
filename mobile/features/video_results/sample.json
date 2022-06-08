@@ -1,0 +1,461 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "cb1ae6f2-4741-4283-836a-97444bb555c9",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T01:09:32.682Z",
+        "q": "아기고양이 게임",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%95%84%EA%B8%B0%EA%B3%A0%EC%96%91%EC%9D%B4+%EA%B2%8C%EC%9E%84&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0013.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121009/223165245051-2BE3A1A4423D4EDFA0CF543806EAE093-00.html",
+        "json_url": "http://node0013.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121009/223165245051-2BE3A1A4423D4EDFA0CF543806EAE093-00.json",
+        "crawl_start_time": "2022-05-12T01:09:32.727Z",
+        "crawl_end_time": "2022-05-12T01:09:36.672Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "고양이",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "아기고양이 게임",
+        "parsed_time": "2022-05-12T01:09:37.146Z"
+    },
+    "features": [
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "새끼 고양이 게임 - Y8.COM",
+                    "displayed_link": "https://ko.y8.com › tags › kitten",
+                    "url": "https://ko.y8.com/tags/kitten",
+                    "unordered_list": {
+                        "title": "전부 Kitten 게임 (38)",
+                        "items": [
+                            "Playful Kitty. HTML5. ... ",
+                            "Stray Kitty Care. ... ",
+                            "My Kitten Balloon. ... ",
+                            "Kitten Pet Carer. ... ",
+                            "Snowball World. ... ",
+                            "Kitty Playground Deco. ... ",
+                            "Extreme Kitten. ... ",
+                            "Princess Kitty Care."
+                        ]
+                    }
+                }
+            ],
+            "official": true,
+            "sequence": 1
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).uVMCKf.mnr-c > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "구묘귀의 아기 돌보기 게임 | 아기 고양이 | 펫 키우기 | 리틀투니 | Littletooni",
+                    "url": "https://m.youtube.com/watch?v=Nxv5dXcqOKU"
+                },
+                {
+                    "title": "핸드폰으로 세젤귀 아기 고양이를 키워봐요   [아기 고양이 키우기: 모바일 게임] Mobile Game - Little Kitten Pet - [도티]",
+                    "url": "https://m.youtube.com/watch?v=NnI1u5BYwGQ"
+                },
+                {
+                    "title": "핵귀욤! 아기 고양이를 키워볼까요? 너무 귀여워서 자꾸 보게된다! 핸드폰 모바일 게임 [애니한TV]",
+                    "url": "https://m.youtube.com/watch?v=OrJ-EdVZlHk"
+                },
+                {
+                    "title": "조심조심 고양이 찾기 게임 | 조심조심 길냥이 게임 | 드래곤디와 함께하는 동물의 왕국 | 드래곤디 인기동요&게임 | Dragon Dee | Kids Song",
+                    "url": "https://m.youtube.com/watch?v=ssjM3SKMnhQ"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "app_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10)#ow34 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst",
+            "apps": [
+                {
+                    "title": "온라인 고양이 시뮬레이션",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10)#ow34 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > div:nth-child(1).XtBY1c > div:nth-child(1) > div:nth-child(1).EzLsDb",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(28만)"
+                    }
+                },
+                {
+                    "title": "고양이 다방",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10)#ow34 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > div:nth-child(1).XtBY1c > div:nth-child(2) > div:nth-child(1).EzLsDb",
+                    "rating": {
+                        "rating_value": "4.2",
+                        "rating_count": "(3만)"
+                    }
+                },
+                {
+                    "title": "아기 팬더의 고양이 세계",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10)#ow34 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > div:nth-child(1).XtBY1c > div:nth-child(3) > div:nth-child(1).EzLsDb",
+                    "rating": {
+                        "rating_value": "4.4",
+                        "rating_count": "(2천)"
+                    }
+                }
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://namu.wiki › 우리집 아기고...",
+            "title": "우리집 아기고양이 APP - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%9A%B0%EB%A6%AC%EC%A7%91%20%EC%95%84%EA%B8%B0%EA%B3%A0%EC%96%91%EC%9D%B4%20APP",
+            "snippet": "2021. 12. 20. — 오늘의 운세: 게임 진행시 나오는 모든 Tips들을 수집하면 열린다. 추가 단편: 모든 엔딩을 클리어 했을 때 열리는 라이트노벨 형식의 추가 스토리. 한울 ...",
+            "thumbnail": {
+                "type": "video",
+                "url": "https://namu.wiki/w/%EC%9A%B0%EB%A6%AC%EC%A7%91%20%EC%95%84%EA%B8%B0%EA%B3%A0%EC%96%91%EC%9D%B4%20APP",
+                "desc": "아기고양이 게임 동영상"
+            },
+            "sequence": 4
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "고양이키우기",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "동물",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "길냥이",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "아이패드",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "고양이이야기",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "우리집 아기고양이 텍본",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_32_TF58YuqKNYSY-AbliKTICQ__13 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "우리집 고양이가 여자아이",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_33_TF58YuqKNYSY-AbliKTICQ__15 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "우리집 아기고양이 결말",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_34_TF58YuqKNYSY-AbliKTICQ__16 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "나의 아기고양이",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_35_TF58YuqKNYSY-AbliKTICQ__18 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "편의점 게임",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_36_TF58YuqKNYSY-AbliKTICQ__19 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "고양이 닌자 게임",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_37_TF58YuqKNYSY-AbliKTICQ__21 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://vidkidz.tistory.com › ...",
+            "title": "아기 고양이의 실종 (The kitty story) - 플래시게임 | 와플래시 아카이브",
+            "url": "https://vidkidz.tistory.com/530",
+            "snippet": "사라진 아기고양이를 찾아 떠나는 엄마 고양이의 모험을 그린 아기 고양이의 실종 플래시게임입니다 조작방법 마우스 또는 터치 제작자 정보 제작자 원소랑 염현철 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://vidkidz.tistory.com/530",
+                "desc": "아기고양이 게임(출처: vidkidz.tistory.com)"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://wormyeeee.tistory.com › ...",
+            "title": "유아게임:: 내가 가장 좋아하는, 귀여운 새끼고양이(Little Kitten) 모바일 게임! - wormy's Life",
+            "url": "https://wormyeeee.tistory.com/244",
+            "snippet": "2017. 7. 18. — 내가 가장 좋아하는, 귀여운 새끼고양이(Little Kitten) by. Fox and Sheep GmbH 구글 플레이스토어 다운로드 링크 X 애플 앱스토어 다운로드 링크 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://wormyeeee.tistory.com/244",
+                "desc": "아기고양이 게임(출처: wormyeeee.tistory.com)"
+            },
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.androidlist.co.kr › item",
+            "title": "우리집 아기고양이 안드로이드 앱 - 무료 다운로드",
+            "url": "https://www.androidlist.co.kr/item/android-apps/635721/air-novelengine-babycat-kor/amp/",
+            "snippet": "언어: 영어. 플랫폼: Google Play, iOS Store. 운영 시스템: Android; 개발자: 대한민국의 tales#; 추천: 어린이들에게 이상적인 게임입니다. 가격 세부 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "http://gamefocus.co.kr › ... › 뉴스",
+            "title": "아기 고양이의 나홀로 도시 생존기, CFK '길고양이 이야기' PS4판 발매 결정 - 게임포커스",
+            "url": "http://gamefocus.co.kr/detail.php?number=128608",
+            "snippet": "2022. 4. 15. — 길고양이 이야기'는 엄마를 잃은 아기 고양이가 홀로 지내며 겪게 되는 이야기를 그린 어드벤처 게임으로, 레트로풍의 아기자기한 그래픽과 여러 등장 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://gamefocus.co.kr/detail.php?number=128608",
+                "desc": "아기고양이 게임(출처: gamefocus.co.kr)"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://minimap.net › game › air-no...",
+            "title": "우리집 아기고양이 | 미니맵",
+            "url": "https://minimap.net/game/air-novelengine-babycat-kor-gm",
+            "snippet": "2015. 12. 20. — [와플칸TV] 우리집 아기고양이:1부. TV와플칸•5년 전. 핸드폰으로 세젤귀 아기 고양이를 키워봐요♥ [아기 고양이 키우기: 모바일 게임] Mobile Game ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://myindie.onstove.com › view",
+            "title": "정어리의 게임 추천 #1 : 길고양이 이야기 on STOVE - 스토브인디",
+            "url": "https://myindie.onstove.com/10890906/view/H::6663619",
+            "snippet": "2021. 1. 15. — 길 고양이 이야기는 안드로이드로 나왔던 길고양이 이야기를 스팀과 스위치로 이식한 게임입니다. 엄마랑 같이 살던 새끼 고양이가 엄마와 헤어지고 엄마 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://myindie.onstove.com/10890906/view/H::6663619",
+                "desc": "아기고양이 게임(출처: myindie.onstove.com)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://kr.game-game.com › ...",
+            "title": "게임 고양이 & 개 온라인. 무료로 플레이",
+            "url": "https://kr.game-game.com/62805/",
+            "snippet": "게임 고양이 & 개 (Cat & Dog) 온라인. ... 비슷한 플래시 게임. 게임 아기 엷은 갈색 - 나쁜 고양이 온라인. 아기 엷은 갈색 - 나쁜 고양이. 게임 아기 헤이즐은 ...",
+            "rating": {
+                "rating_count": "(10)",
+                "rating_value": "4.5"
+            },
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://flashgameheaven.com › ...",
+            "title": "아기 고양이의 실종 플래시게임",
+            "url": "https://flashgameheaven.com/280",
+            "snippet": "The Kitty Story - 아기 고양이의 실종 플래시게임입니다. 아기 고양이를 찾기 위하여 떠나는 게임입니다. 아기 고양이의 실종 조작법 마우스 게임 방법 같이 자고 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://flashgameheaven.com/280",
+                "desc": "아기고양이 게임(출처: flashgameheaven.com)"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://apps.apple.com › app-bundle",
+            "title": "어린이용 '작은 아기 고양이' 앱 번들! (앱 3개) 4+ - App Store",
+            "url": "https://apps.apple.com/kr/app-bundle/%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%9A%A9-%EC%9E%91%EC%9D%80-%EC%95%84%EA%B8%B0-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%95%B1-%EB%B2%88%EB%93%A4-%EC%95%B1-3%EA%B0%9C/id1526069278",
+            "snippet": "... 수 있는 탐험과 게임에 중점을 둡니다! 작은 새끼 고양이 - 어드벤처 게임 : 이 앱은 애완용 새끼 고양이를 돌보는 일에 관련된 모든 것과 새끼 고양이가 바깥 세상으…",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://apps.apple.com/kr/app-bundle/%EC%96%B4%EB%A6%B0%EC%9D%B4%EC%9A%A9-%EC%9E%91%EC%9D%80-%EC%95%84%EA%B8%B0-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%95%B1-%EB%B2%88%EB%93%A4-%EC%95%B1-3%EA%B0%9C/id1526069278",
+                "desc": "아기고양이 게임(출처: apps.apple.com)"
+            },
+            "properties": [
+                {
+                    "key": "호환성",
+                    "value": "iOS 11.0 버전 이상이 필요. iPhone, iPad 및 iPod touch와(과) 호환"
+                },
+                {
+                    "key": "크기",
+                    "value": "2.2GB"
+                }
+            ],
+            "rating": {
+                "rating_count": "(2)",
+                "rating_value": "3.0"
+            },
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://kr.ldplayer.net › games › air-...",
+            "title": "우리집 아기고양이 pc버전 다운로드,컴퓨터용 앱플레이어",
+            "url": "https://kr.ldplayer.net/games/air-novelengine-babycat-kor-on-pc.html",
+            "snippet": "2021. 11. 1. — 안드로이드 앱플레이어 LD플레이어로,우리집 아기고양이 게임 PC에 설치하고 원활하게 플레이할 수 있습니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://kr.ldplayer.net/games/air-novelengine-babycat-kor-on-pc.html",
+                "desc": "아기고양이 게임(출처: kr.ldplayer.net)"
+            },
+            "properties": [
+                {
+                    "key": "게임 버전",
+                    "value": "1.6"
+                },
+                {
+                    "key": "업데이트 날짜",
+                    "value": "2021-11-01"
+                }
+            ],
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://m.post.naver.com › postView",
+            "title": "내가 가장 좋아하는, 귀여운 새끼 고양이 리뷰 - Naver Post",
+            "url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=7827877&memberNo=15864833",
+            "snippet": "2017. 5. 24. — 귀여운 고양이가 아이콘이 인상적이네요 ㅎ 어떤 게임일지 궁금합니다. (고양이 키우기 앱 같은 느낌이 들기도 하구요).",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.post.naver.com/viewer/postView.nhn?volumeNo=7827877&memberNo=15864833",
+                "desc": "아기고양이 게임(출처: m.post.naver.com)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://m.notepet.co.kr › article_view",
+            "title": "'잠만 자는데 시선 강탈'..특급 귀여움으로 집사 게임 방해하는 고양이 - 노트펫",
+            "url": "https://m.notepet.co.kr/news/article/article_view_amp/?idx=24893",
+            "snippet": "2022. 2. 24. — ... 의 게임을 방해하는 고양이의 모습이 보는 이들의 미소를 자아내고 있다. 최근 반려묘 '퐁이'의 보호자 보석 씨는 SNS에 \"저희 퐁이 아기 때예요.",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://raycat.net › ...",
+            "title": "아이패드 게임을 좋아하는 아기 고양이 - Raycat : Photo and Story",
+            "url": "https://raycat.net/4253",
+            "snippet": "2018. 3. 1. — 모든 고양이가 그렇지만 아기 고양이는 특히 호기심이 강하다. 소리에도 민감하고 빠르게 움직이는 물체를 보면 본능적으로 쫓아가며 사냥 연습을 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://raycat.net/4253",
+                "desc": "아기고양이 게임(출처: raycat.net)"
+            },
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://univ20.com › ...",
+            "title": "길고양이 돌보기 시뮬레이션 게임 <길냥이를 부탁해> | 대학내일",
+            "url": "https://univ20.com/2299",
+            "snippet": "2016. 11. 12. — 아기 고양이 밥 주기. 일단 아기 고양이를 구조하게 된 초보 캣맘은 멘붕에 빠질 겁니다. '일단 뭐라도 먹여야겠는데 뭘 먹여야 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://univ20.com/2299",
+                "desc": "아기고양이 게임(출처: univ20.com)"
+            },
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://giledu.co.kr › goods_view",
+            "title": "키티비티 / 기억력게임 / 가족두뇌개발게임 / 귀여운 아기고양이는 더 놀고 싶어해요 - 길에듀몰",
+            "url": "https://giledu.co.kr/goods/goods_view.php?goodsNo=1000022539",
+            "snippet": "키티비티 / 기억력게임 / 가족두뇌개발게임 / 귀여운 아기고양이는 더 놀고 싶어해요~!. 공유. SNS 공유하기. 페이스북 공유 페이스북 · 트위터 공유",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://giledu.co.kr/goods/goods_view.php?goodsNo=1000022539",
+                "desc": "아기고양이 게임(출처: giledu.co.kr)"
+            },
+            "sequence": 21
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "아기키우기 게임",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_70_TF58YuqKNYSY-AbliKTICQ__14 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "고양이 게임 구글",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_71_TF58YuqKNYSY-AbliKTICQ__17 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "우리집 아기고양이 pdf",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_72_TF58YuqKNYSY-AbliKTICQ__20 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아기 게임",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_73_TF58YuqKNYSY-AbliKTICQ__22 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "우리집 아기고양이 apk",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_74_TF58YuqKNYSY-AbliKTICQ__23 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아기키우기 게임 2",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_75_TF58YuqKNYSY-AbliKTICQ__24 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아기 돌보기",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_76_TF58YuqKNYSY-AbliKTICQ__25 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "아기게임엄마를찾아서",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_77_TF58YuqKNYSY-AbliKTICQ__26 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 22
+        }
+    ]
+}

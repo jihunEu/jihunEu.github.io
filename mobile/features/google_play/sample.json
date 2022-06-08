@@ -1,0 +1,312 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "f996be30-befe-44ae-9e6f-fcfb8d25cbb3",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T07:44:12.977Z",
+        "q": "왓챠 pc",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%99%93%EC%B1%A0+pc&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0020.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121644/211189154125-6FA3DD104DA9419AB7635401F70364DA-00.html",
+        "json_url": "http://node0020.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121644/211189154125-6FA3DD104DA9419AB7635401F70364DA-00.json",
+        "crawl_start_time": "2022-05-12T07:44:13.042Z",
+        "crawl_end_time": "2022-05-12T07:44:18.003Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "왓챠 pc",
+        "parsed_time": "2022-05-12T07:44:18.304Z"
+    },
+    "features": [
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.watcha.com/",
+            "title": "WATCHA - 왓챠pc",
+            "url": "https://watcha.com/",
+            "snippet": "매주 5백여편 신작 업데이트! 4K 최고화질 영화, 드라마, 예능, 다큐멘터리를 무제한으로! 따로 또 같이! 왓챠파티로 친구와 함께 채팅하며 신작부터 인기작까지 모두 감상하세요! 매주 금요일 신작 업데이트. 취향에 딱 맞는 작품 추천.",
+            "sitelinks": [
+                {
+                    "title": "왓챠 오리지널",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "이 주의 신작",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "왓챠 익스클루시브",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "왓챠 파티",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(7).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://watcha.com › ...",
+            "title": "왓챠",
+            "url": "https://watcha.com/m",
+            "snippet": "지금 무료로 영화 드라마 무제한 감상. 스마트폰, 태블릿, PC, TV 어디서나 최고의 화질로. 2주 무료 이용 시작. 언제든지 해지할 수 있어요.",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://download.beer › Apps › OTT",
+            "title": "왓챠 PC버전 다운로드｜Watcha | Download Beer",
+            "url": "https://download.beer/app/watcha-pc/",
+            "snippet": "왓챠 PC버전은 영화, 드라마 스트리밍 서비스 및 온·오프라인 다운로드 서비스를 제공합니다. PC/노트북/태블릿/모바일 디바이스에서 사용이 가능합니다.",
+            "properties": [
+                {
+                    "key": "운영체제",
+                    "value": "Windows / MacOS / Android / iOS"
+                },
+                {
+                    "key": "파일",
+                    "value": "WatchaInstall.exe 크기: 28MB"
+                }
+            ],
+            "rating": {
+                "rating_count": "(307)",
+                "rating_value": "4.4"
+            },
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://kr.new-version.app › download",
+            "title": "왓챠 플레이 PC 다운로드 - Watcha",
+            "url": "https://kr.new-version.app/download/watcha/",
+            "snippet": "왓챠는 넷플릭스와 같은 대한민국의 동영상 콘텐츠 스트리밍 앱으로 영화와 드라마, 리얼 버라이어티 프로그램, 다큐멘터리, 애니메이션등의 콘텐츠를 제공합니다.",
+            "rating": {
+                "rating_count": "(50)",
+                "rating_value": "3.9"
+            },
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://watcha.team › ...",
+            "title": "왓챠 WATCHA",
+            "url": "https://watcha.team/201fc7f6-5b6f-47b3-adf8-176d8e1306c0",
+            "snippet": "스마트폰, 태블릿, TV, PC, 크롬캐스트, 안드로이드 TV, 애플 TV, PS5에서 모두. 스트리밍 뿐만 아니라 다운로드 및 오프라인 재생 기능까지 ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://happyend4890.tistory.com › ...",
+            "title": "왓챠플레이 pc 이렇게 하세요 - 처음느낌그대로",
+            "url": "https://happyend4890.tistory.com/319",
+            "snippet": "2020. 3. 23. — 왓챠플레이 pc 방법 ... 우선 크롬으로 들어간다음 검색창에 녹스 앱플레이어를 검색하고 클릭해줍니다. ... 들어가면 이런 창모양이 뜹니다. 바로 다운로드를 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://download-hub.com › app",
+            "title": "왓챠 플레이 PC 다운로드｜Watcha ｜ Download-HUB",
+            "url": "https://download-hub.com/app/watcha/",
+            "snippet": "왓챠플레이는 대한민국에서 넷플릭스와 같은 OTT 서비스입니다. 왓챠에 구독하여 PC와 모바일, 스마트 TV, 태블릿등과 같이 기기에 상관없이 언제 어디서나 영화, ...",
+            "properties": [
+                {
+                    "key": "다운로드 파일",
+                    "value": "Watcha PC App / 21MB"
+                },
+                {
+                    "key": "최신버전",
+                    "value": "v1.9.53 / 2020-12-28"
+                }
+            ],
+            "rating": {
+                "rating_count": "(233)",
+                "rating_value": "4.6"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "http://m.blog.naver.com › ...",
+            "title": "[무료 어플 추천] 왓챠플레이 PC/컴퓨터 사용방법 - 네이버 블로그",
+            "url": "http://m.blog.naver.com/dh81193/220902826084",
+            "snippet": "2017. 1. 4. — 1. 우선 PC에서 왓챠플레이 홈페이지에 접속한다. · 2. 시작하기 버튼을 누른다. · 3. 왓챠플레이 회원가입 또는 기존 왓챠 아이디로 로그인하고 결제를 ...",
+            "sequence": 9
+        },
+        {
+            "type": "google_play",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1) > div:nth-child(1).g.mnr-c",
+            "title": "왓챠",
+            "snippet": "영화/드라마/예능/애니메이션/다큐멘터리 무제한 스트리밍/다운로드 감상 앱. - 스마트폰, 태블릿, PC, 맥, 스마트 TV, 셋톱박스, 크롬캐스트에서 모두, 최고의 화질로 ...",
+            "rating": {
+                "rating_count": "(4.7만)",
+                "rating_value": "4.2"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://happytimebay.tistory.com › ...",
+            "title": "왓챠플레이(Watcha Play) PC버전 다운로드 - 해피타임베이",
+            "url": "https://happytimebay.tistory.com/entry/%EC%99%93%EC%B1%A0%ED%94%8C%EB%A0%88%EC%9D%B4Watcha-Play-PC%EB%B2%84%EC%A0%84-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C",
+            "snippet": "2020. 12. 26. — 왓챠플레이는 2011년 9월에 설립된 회사이며 영화, 드라마, 다큐멘터리, 애니메이션 스트리밍 서비스를 제공하고 있는 국내 기업입니다.",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://m.fmkorea.com › ...",
+            "title": "pc로 왓챠 어떻게 봐? - 영화/TV - 에펨코리아 모바일",
+            "url": "https://m.fmkorea.com/3117972433",
+            "snippet": "2020. 9. 29. — pc로 볼때 넷플릭스는 윈도우용 앱 설치해서 보면 되자나왓챠를 윈도우용 앱이 따로 있음?아니면 인터넷 웹브라우저로 봐야되나?어떻게 봐?",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://pcmac.download › app › wat...",
+            "title": "WATCHA PC 용 : 무료 다운로드 - Windows 10,11,7 / MacOS",
+            "url": "https://pcmac.download/kr/app/1096493180/watcha",
+            "snippet": "다운로드 및 설치 방법 WATCHA 를 PC와 Mac에서 사용하십시오. 설치하기 위해서 WATCHA Windows PC 또는 Mac 노트북 / 데스크탑에서 Android 에뮬레이터를 다운로드 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://www.instiz.net › ...",
+            "title": "PC 크롬에서 '왓챠 플레이' 깔끔하게 보는 법...jpg - 인스티즈(instiz) 인티포털 카테고리",
+            "url": "https://www.instiz.net/pt/6776537",
+            "snippet": "크롬 아이콘 우클릭 - 보내기 - 바탕화면에 바로 가기 만들기. PC 크롬에서 '왓챠 플레이' 깔끔하게 보는 법...jpg | 인스. 바탕화면에 만들어진 아이콘 우클릭 - 속성.",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://help.watcha.co.kr › articles",
+            "title": "PC 웹에서 화질이 별로예요. 좋은 화질로 볼 수 없나요? - 왓챠 고객센터",
+            "url": "https://help.watcha.co.kr/hc/ko/articles/900002403243-PC-%EC%9B%B9%EC%97%90%EC%84%9C-%ED%99%94%EC%A7%88%EC%9D%B4-%EB%B3%84%EB%A1%9C%EC%98%88%EC%9A%94-%EC%A2%8B%EC%9D%80-%ED%99%94%EC%A7%88%EB%A1%9C-%EB%B3%BC-%EC%88%98-%EC%97%86%EB%82%98%EC%9A%94-",
+            "snippet": "아래 내용을 확인해 주세요. 1. 왓챠 웹사이트에서 닉네임 옆 화살표 > 설정 > 화질 > '최대 화질'로 되어있는지 확인 2. 감상 시 다른 인터넷 창이 많이 열려있다면 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://modu-print.tistory.com › ...",
+            "title": "윈도10용 싸제 왓챠(Watch) 플레이어 - 곰챠(GomCha) v0.1",
+            "url": "https://modu-print.tistory.com/402",
+            "snippet": "2020. 9. 19. — 제가 못찾은건지 -_- 왓챠는 윈도 PC용 프로그램이 없더라구요 무조건 웹브라우저를 통해서만 봐야 하는;;기껏 PC프로그램이라고 소개해서 들가보면 ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://napkforpc.com › apk › com.f...",
+            "title": "왓챠 PC/맥/ Windows 11,10,8,7 - 무료 다운로드 - Napkforpc.com",
+            "url": "https://napkforpc.com/ko/apk/com.frograms.wplay/",
+            "snippet": "2021. 11. 18. — 이 기사를 계속 읽고 최고 중 하나를 다운로드하고 설치하는 방법을 알아보세요 엔터테인먼트 앱 왓챠 PC용. Google Play Store 또는 iOS Appstore에서 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://programstore.tistory.com › ...",
+            "title": "영화, tv 프로그램 왓챠플레이 pc",
+            "url": "https://programstore.tistory.com/215",
+            "snippet": "넷플릭스와 함께 국내 영화 및 tv 프로그램을 한 눈에 볼 수 있도록 제공해주는 플랫폼이 바로 왓챠플레이어 입니다. 모바일 및 태블릿에서도 즐길 수 있지만, pc버전 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://new-app.download › windows",
+            "title": "왓챠 PC버전 다운로드 - Watcha NEW-APP",
+            "url": "https://new-app.download/windows/watcha/",
+            "snippet": "2022. 2. 21. — 왓챠는 영화나 드라마, 예능 등 다양한 TV프로그램을 시청할 수 있는 OTT 서비스입니다. PC, 스마트폰, 태블릿 등 어떤 기기로도 감상할 수 있으며, ...",
+            "properties": [
+                {
+                    "key": "최대화질",
+                    "value": "1080p"
+                }
+            ],
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://bwang2.tistory.com › ...",
+            "title": "왓챠 모바일, PC로 해지하기(2주 무료체험)",
+            "url": "https://bwang2.tistory.com/m/291",
+            "snippet": "2021. 5. 20. — 조금 양아치 같더라도 안 보는데 돈나 가는 것보단 나으니깐 해지하기로 했죠. 넷플릭스로 넘어가야지,, ㅎㅎ;;. pc로 해지방법. 먼저 왓챠를 들어가 ...",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://namu.wiki › 왓챠",
+            "title": "왓챠 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%99%93%EC%B1%A0",
+            "snippet": "3일 전 — 영화평 기록 및 추천 서비스에 대한 내용은 왓챠피디아 문서 ... 초기에는 PC 웹브라우저에서 결제할 경우 매월 4,900원으로 영화/드라마를 무제한 ...",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://www.clien.net › board › park",
+            "title": "윈도10용 왓챠(Watcha) 플레이어 - 클리앙",
+            "url": "https://www.clien.net/service/board/park/15399730",
+            "snippet": "그래서 왓챠를 가입했는데 ;; 이게 PC프로그램이 없는것 .. 같더군요.. ( 제가 못찾은 걸까요.. ) 웹브라우저로만 보려니 ;; 항상위 옵션같은것도 ...",
+            "sequence": 22
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 23
+        }
+    ]
+}

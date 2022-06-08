@@ -1,0 +1,194 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "6fb21cb8-872a-430d-ab86-a8f334aafceb",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:27:33.186Z",
+        "q": "x^2",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=x%5E2&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0037.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121727/218036020124-B92C2D8622FB4DCDB52CD7536B96F88C-00.html",
+        "json_url": "http://node0037.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121727/218036020124-B92C2D8622FB4DCDB52CD7536B96F88C-00.json",
+        "crawl_start_time": "2022-05-12T08:27:33.231Z",
+        "crawl_end_time": "2022-05-12T08:27:40.249Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "x^2",
+        "parsed_time": "2022-05-12T08:27:40.637Z"
+    },
+    "features": [
+        {
+            "type": "graph",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).mnr-c.IcwJCe.obcontainer.XbtRGb.qxsd.UBoxCb.NV5pMe.yF5Gqd.wDYxhc.NFQFxe > div:nth-child(2)#div_for_graph.card-section.vk_c",
+            "expression": "Graph for x^​2",
+            "sequence": 1
+        },
+        {
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).AuVD.wHYlTd.cUnQKe.Ww4FFb",
+            "results": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_9cR8YuvUGbiD0PEPrLyzgAw31 > div:nth-child(1) > div:nth-child(1)#RELATED_QUESTION_LINK_5_9cR8YuvUGbiD0PEPrLyzgAw__5 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.cuemath.com › algebra",
+                    "url": "https://www.cuemath.com/algebra/x-squared/",
+                    "title": "X Squared - Cuemath",
+                    "snippet": "What is x squared? x squared is a notation that is used to represent the expression x×x x × x . i.e., x squared equals x multiplied by itself. x squared symbol is x2 ."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_9cR8YuvUGbiD0PEPrLyzgAw31 > div:nth-child(2) > div:nth-child(1)#RELATED_QUESTION_LINK_8_9cR8YuvUGbiD0PEPrLyzgAw__8 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.mathway.com › Algebra",
+                    "url": "https://www.mathway.com/popular-problems/Algebra/253210",
+                    "title": "Rewrite in Standard Form x^2 | Mathway",
+                    "snippet": "Algebra Examples To write a polynomial in standard form, simplify and then arrange the terms in descending order. The standard form is x2 ."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_9cR8YuvUGbiD0PEPrLyzgAw31 > div:nth-child(3) > div:nth-child(1)#RELATED_QUESTION_LINK_11_9cR8YuvUGbiD0PEPrLyzgAw__11 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://x12.org",
+                    "url": "https://x12.org/",
+                    "title": "X12: Home",
+                    "snippet": "What is X12? Established more than 40 years ago, X12 is a non-profit, ANSI-accredited, cross-industry standards development organization whose work is used by an overwhelming percentage of business-to-business transactions upholding America's electronic information exchange."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_9cR8YuvUGbiD0PEPrLyzgAw31 > div:nth-child(4) > div:nth-child(1)#RELATED_QUESTION_LINK_17_9cR8YuvUGbiD0PEPrLyzgAw__17 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.sparknotes.com › math",
+                    "url": "https://www.sparknotes.com/math/algebra1/quadratics/section1/",
+                    "title": "Graphing Parabolas - Quadratics - SparkNotes",
+                    "snippet": "Graph of y = x2 The shape of this graph is a parabola."
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.mathway.com › Algebra",
+            "title": "Simplify (-x)^2 | Mathway",
+            "url": "https://www.mathway.com/popular-problems/Algebra/200955",
+            "snippet": "Free math problem solver answers your algebra, geometry, trigonometry, calculus, and statistics homework questions with step-by-step explanations, ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.mathway.com › Algebra",
+            "title": "Graph x<2 | Mathway",
+            "url": "https://www.mathway.com/popular-problems/Algebra/207001",
+            "snippet": "Free math problem solver answers your algebra, geometry, trigonometry, calculus, and statistics homework questions with step-by-step explanations, ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.cuemath.com › algebra",
+            "title": "X Squared - Cuemath",
+            "url": "https://www.cuemath.com/algebra/x-squared/",
+            "snippet": "x squared is a notation that is used to represent the expression x×x x × x . i.e., x squared equals x multiplied by itself. ... x x squared symbol is x2 x 2 .",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "X2 (film) - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/X2_(film)",
+            "snippet": "X2 is a 2003 American superhero film directed by Bryan Singer and written by Michael ... It is the sequel to X-Men (2000), as well as the second installment in ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://en.m.wikipedia.org/wiki/X2_(film)",
+                "desc": "x^2 from en.m.wikipedia.org"
+            },
+            "properties": [
+                {
+                    "key": "Story by",
+                    "value": "Zak Penn ; David Hayter;  Bryan Singer"
+                },
+                {
+                    "key": "Release dates",
+                    "value": "April 24, 2003 (London, UK); May 2, 2003 (United States)"
+                }
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.wolframalpha.com › in...",
+            "title": "x^2 - Wolfram|Alpha",
+            "url": "https://www.wolframalpha.com/input/?i=x%5E2",
+            "snippet": "Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professionals. For math, science, nutrition, ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.mathpapa.com › algebr...",
+            "title": "Algebra Calculator - MathPapa",
+            "url": "https://www.mathpapa.com/algebra-calculator.html",
+            "snippet": "x+3=5 · 1/3 + 1/4 · y=x^2+1. Disclaimer: This calculator is not perfect. Please use at your own risk, and please alert us if something isn't working.",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://mathsolver.microsoft.com › s...",
+            "title": "Solve y=x^2 | Microsoft Math Solver",
+            "url": "https://mathsolver.microsoft.com/en/solve-problem/y%20%3D%20x%20%5E%20%7B%202%20%7D",
+            "snippet": "Solve your math problems using our free math solver with step-by-step solutions. Our math solver supports basic math, pre-algebra, algebra, trigonometry, ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.imdb.com › title",
+            "title": "X2: X-Men United (2003) - IMDb",
+            "url": "https://m.imdb.com/title/tt0290334/",
+            "snippet": "X2: X-Men United: Directed by Bryan Singer. With Patrick Stewart, Hugh Jackman, Ian McKellen, Halle Berry. When anti-mutant Colonel William Stryker kidnaps ...",
+            "rating": {
+                "rating_count": "(540,735)",
+                "rating_value": "7.4/10"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 9,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "SADIO X 2 - YouTube",
+            "url": "https://m.youtube.com/watch?v=zSJBulI5fWU",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.symbolab.com › solver",
+            "title": "x^2-x-6=0 - Symbolab",
+            "url": "https://www.symbolab.com/solver/step-by-step/x%5E%7B2%7D-x-6%3D0?or=ex",
+            "snippet": "Solution · Steps · Show Steps. Solve with the quadratic formula. x 1, 2=−(−1)±√(−1) 2 −4· 1·(−6)2· 1 · Show Steps. √(−1) 2 −4· 1·(−6)=5. x 1, 2=−(−1)± 52 ...",
+            "sequence": 12
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 13
+        }
+    ]
+}

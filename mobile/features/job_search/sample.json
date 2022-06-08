@@ -1,0 +1,459 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "b19df9e8-47ef-4969-8bac-7280c689c2f4",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T21:00:44.527Z",
+        "q": "엔지니어 유형",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EC%9C%A0%ED%98%95&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0039.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205120600/211189154053-D82E44E417CC481890942A9211C1FA9C-00.html",
+        "json_url": "http://node0039.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205120600/211189154053-D82E44E417CC481890942A9211C1FA9C-00.json",
+        "crawl_start_time": "2022-05-11T21:00:44.578Z",
+        "crawl_end_time": "2022-05-11T21:00:48.624Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "유형",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "엔지니어 유형",
+        "parsed_time": "2022-05-11T21:00:50.251Z"
+    },
+    "features": [
+        {
+            "type": "job_search",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e",
+            "title": "채용 정보",
+            "location": "대한민국 부근",
+            "refinements": [
+                {
+                    "text": "지난 3일",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).B8XQWe"
+                },
+                {
+                    "text": "정규직",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(2).B8XQWe"
+                },
+                {
+                    "text": "컴퓨터 및 IT",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(3).B8XQWe"
+                },
+                {
+                    "text": "과학 및 공학",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(4).B8XQWe"
+                },
+                {
+                    "text": "제조 및 창고",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(5).B8XQWe"
+                },
+                {
+                    "text": "인사관리",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(6).B8XQWe"
+                },
+                {
+                    "text": "보호 서비스",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(7).B8XQWe"
+                },
+                {
+                    "text": "예술, 패션 및 디자인",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(8).B8XQWe"
+                },
+                {
+                    "text": "비즈니스 운영",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(9).B8XQWe"
+                },
+                {
+                    "text": "고객 서비스",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1) > g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > div:nth-child(2) > div:nth-child(1).J7eW > div:nth-child(2).CcgH5c > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(10).B8XQWe"
+                }
+            ],
+            "items": [
+                {
+                    "title": "안드로이드 엔지니어(페이퍼)",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > ul > li:nth-child(1).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "RIDI Corp",
+                    "location": "서울특별시",
+                    "via": "BeBee에 등록된 채용 정보"
+                },
+                {
+                    "title": "[뷰메진] 컴퓨터비전 엔지니어 Junior 정규직 채용",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > ul > li:nth-child(3).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "뷰메진(ViewMagine)",
+                    "location": "서울특별시 강남구",
+                    "via": "로켓펀치에 등록된 채용 정보"
+                },
+                {
+                    "title": "Software Engineer",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).nJXhWc > ul > li:nth-child(5).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "Upstage",
+                    "location": "경기도 용인시",
+                    "via": "Upstage - Upstage AI에 등록된 채용 정보"
+                },
+                {
+                    "title": "안드로이드 엔지니어(페이퍼)",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(1).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "RIDI Corp",
+                    "location": "서울특별시",
+                    "via": "BeBee에 등록된 채용 정보"
+                },
+                {
+                    "title": "[뷰메진] 컴퓨터비전 엔지니어 Junior 정규직 채용",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(2).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "뷰메진(ViewMagine)",
+                    "location": "서울특별시 강남구",
+                    "via": "로켓펀치에 등록된 채용 정보"
+                },
+                {
+                    "title": "Software Engineer",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(3).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "Upstage",
+                    "location": "경기도 용인시",
+                    "via": "Upstage - Upstage AI에 등록된 채용 정보"
+                },
+                {
+                    "title": "[개발그룹] 클라우드 보안(DevSecOps) 엔지니어",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(4).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "위메이드",
+                    "location": "경기도 성남시",
+                    "via": "로켓펀치에 등록된 채용 정보"
+                },
+                {
+                    "title": "시스템 엔지니어 모집 - 벼룩시장구인구직",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(5).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "(주)인스프로테크",
+                    "location": "서울특별시",
+                    "via": "벼룩시장에 등록된 채용 정보"
+                },
+                {
+                    "title": "[CDO] 빅데이터 엔지니어 (신입) (마감) | 기아",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(6).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "기아",
+                    "location": "서울특별시 서초구",
+                    "via": "현대자동차그룹에 등록된 채용 정보"
+                },
+                {
+                    "title": "[삼쩜삼] 백엔드 엔지니어 (굿잡 서비스)",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(7).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "자비스앤빌런즈 (삼쩜삼)(JOBIS & VILLAINS)",
+                    "location": "서울특별시",
+                    "via": "로켓펀치에 등록된 채용 정보"
+                },
+                {
+                    "title": "영상플랫폼 필드엔지니어[asap]",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(9).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "SUCCESSKOREA",
+                    "location": "서울특별시",
+                    "via": "BeBee에 등록된 채용 정보"
+                },
+                {
+                    "title": "물류관리 솔루션 백엔드 엔지니어 (4년차 이상)",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(10).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "콜로세움코퍼레이션",
+                    "location": "서울특별시",
+                    "via": "원티드에 등록된 채용 정보"
+                },
+                {
+                    "title": "기구설계 엔지니어",
+                    "_selector": "g-card.cvoI5e > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(3)#immersive_root > g-full-page-view > div:nth-child(1).ln0Qrb.IKlVwc.fp-w.gws-plugins-horizon-jobs__tl-fp-c > div:nth-child(2).b169Y > div:nth-child(1) > div:nth-child(1) > g-tabbed-carousel.dRaNFd > span > span > g-flippy-carousel.OKv0rd > div:nth-child(1).hpdr6b > div:nth-child(1).wooVsc > ol.LacTVd.OhScic.zsYMMe > li:nth-child(1).SbQ21c.epKwIc > span > div:nth-child(1) > span > div:nth-child(1)#__CN8YtzzKNiQmAXvtpbICg20_0 > div:nth-child(1) > div:nth-child(2)#tl_tlc > div:nth-child(2).gws-plugins-horizon-jobs__tl-lvc.fZJWK.NBfCoe.mgaMHc.fp-w.gws-plugins-horizon-jobs__tl-no-filters.A0Xdfb > div:nth-child(4)#VoQFxe.yp > div:nth-child(2) > div:nth-child(1).tl-async-corelist.nJXhWc > ul > li:nth-child(11).iFjolb.gws-plugins-horizon-jobs__li-ed",
+                    "company": "(주)모션투에이아이코리아(Motion2AI)",
+                    "location": "서울특별시 금천구",
+                    "via": "로켓펀치에 등록된 채용 정보"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "http://m.blog.naver.com › booboo2...",
+            "title": "엔지니어종류 - 네이버 블로그",
+            "url": "http://m.blog.naver.com/booboo2514/30185635095",
+            "snippet": "2014. 2. 21. — 엔지니어에도 여러 종류가 있다는 건 알고계셨나요? 그중에서도 시스템엔지니어와 네트워크 엔지니어는 대부분 알고계신 것 같더라구요 ~.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.blog.naver.com/booboo2514/30185635095",
+                "desc": "엔지니어 유형(출처: m.blog.naver.com)"
+            },
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://m.blog.naver.com › PostView",
+            "title": "엔지니어 직업 종류에 대해서 알아보고 취업 준비하자 - 네이버 블로그 - NAVER",
+            "url": "https://m.blog.naver.com/PostView.naver?blogId=thdydduddnjs&logNo=222287178097&categoryNo=7&proxyReferer=",
+            "snippet": "2021. 3. 25. — 오늘은 엔지니어 직업 종류에 대해서 알아보려고. 합니다. . 오늘날, 4차 산업혁명으로 인하여 IT 분야는 계속. 해서 발전하고 있습니다.",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://themoney.co › quels-sont-les-...",
+            "title": "엔지니어의 유형은 무엇입니까?",
+            "url": "https://themoney.co/ko/quels-sont-les-types-dingenieurs/",
+            "snippet": "엔지니어의 유형은 무엇입니까? · 패 ' 기사 컴퓨터 과학에서. 기업의 디지털화와 함께 기사 컴퓨터 과학에서 여전히 매우 모색 . ... · 패 ' 기사 광고. ... · 패 ' 기사 - ...",
+            "sequence": 4
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "엔지니어 직업 종류",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_14__CN8YtzzKNiQmAXvtpbICg__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "기계 엔지니어 종류",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_15__CN8YtzzKNiQmAXvtpbICg__26 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "엔지니어 하는일",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_16__CN8YtzzKNiQmAXvtpbICg__27 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "IT 엔지니어 종류",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_17__CN8YtzzKNiQmAXvtpbICg__28 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "엔지니어 연봉",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_18__CN8YtzzKNiQmAXvtpbICg__29 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "시스템 엔지니어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_19__CN8YtzzKNiQmAXvtpbICg__30 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.tsunagulocal.com › ...",
+            "title": "일본의 엔지니어 종류와 취직 어드바이스 - tsunagu Local",
+            "url": "https://www.tsunagulocal.com/ko/84051/",
+            "snippet": "엔지니어의 종류 · ・시스템 엔지니어 컴퓨터 시스템 개발에 있어서 제안부터 설계, 개발, 테스트까지, 일련의 흐름을 담당 · ・프로그래머 시스템 엔지니어가 작성한 설계서 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://3dplife.tistory.com › ...",
+            "title": "엔지니어링이란? | 공학의 종류 - 기계치와 함께하는 슬기로운 기계생활",
+            "url": "https://3dplife.tistory.com/m/622",
+            "snippet": "2021. 11. 13. — 공학 분야는 응용 수학, 응용 과학 및 응용 유형의 특정 영역에 보다 구체적 ... 그러나 오늘날의 엔지니어는 건물 구조뿐만 아니라 다양한 분야에서 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://namu.wiki › 기술자",
+            "title": "기술자 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EA%B8%B0%EC%88%A0%EC%9E%90",
+            "snippet": "2022. 5. 1. — 프로레슬링의 한 유형에 대한 내용은 프로레슬러/유형/경기 스타일/테크니션 문서 ... 이는 애플의 디자이너와 엔지니어가 상대편 분야에 대한 이해가 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://twotwoclub.com › entry › 시...",
+            "title": "시스템 엔지니어의 그 종류와 역활은? - IT 세상",
+            "url": "https://twotwoclub.com/m/entry/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EA%B7%B8-%EC%A2%85%EB%A5%98%EC%99%80-%EC%97%AD%ED%99%9C%EC%9D%80",
+            "snippet": "2021. 7. 8. — 시스템 엔지니어의 그 종류와 역할은? 세상에는 매우 다양한 기술에 관련된 직종이 있지만, 그 중에서도 정보 시스템에 관한 기술직을 가리켜 '시스템 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.netinbag.com › education",
+            "title": "다른 유형의 프로젝트 엔지니어 직업은 무엇입니까? - Netinbag",
+            "url": "https://www.netinbag.com/ko/education/what-are-the-different-types-of-project-engineer-jobs.html",
+            "snippet": "다양한 유형의 프로젝트 엔지니어 작업이 있으며, 일반적으로 후보자의 산업 및 전문 분야를 기반으로하는 옵션이 있습니다. 프로젝트 엔지니어는 일반적으로 작업 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://comento.kr › learn › ITSW",
+            "title": "데이터 엔지니어의 모든 실무 유형과 취업전략 | 코멘토",
+            "url": "https://comento.kr/edu/learn/ITSW/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4DB-G314/",
+            "snippet": "데이터 엔지니어의 모든 실무 유형과 취업전략. 현직자와 함께하는 데이터베이스(DB) 90일 실무체험. 3일 06시간 59분 50초 후 가격이 인상돼요. 캠프 일정 선택하기.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://comento.kr/edu/learn/ITSW/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4DB-G314/",
+                "desc": "엔지니어 유형(출처: comento.kr)"
+            },
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://medium.com › code-states",
+            "title": "19가지 유형의 개발자 파헤치기 - Medium",
+            "url": "https://medium.com/code-states/19%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-bc42f6b458de",
+            "snippet": "2018. 9. 16. — 웹 개발자는 웹사이트를 구현하는 데 특화된 소프트웨어 엔지니어이다. 웹 개발자는 프론트엔드 개발자이거나, 백엔드 개발자이거나, 미들티어 개발자 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://medium.com/code-states/19%EA%B0%80%EC%A7%80-%EC%9C%A0%ED%98%95%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-bc42f6b458de",
+                "desc": "엔지니어 유형(출처: medium.com)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://evenigame.com › column",
+            "title": "코딩을 몰라도 취업 가능한 게임업계 비엔지니어 직군 종류 - Even I - 이븐아이",
+            "url": "https://evenigame.com/column/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%AA%B0%EB%9D%BC%EB%8F%84-%EA%B0%88-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B2%8C%EC%9E%84%EC%97%85%EA%B3%84-%EB%B9%84%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%A7%81%EA%B5%B0/",
+            "snippet": "코딩을 몰라도 취업 가능한 게임업계 비엔지니어 직군 종류. 안녕하세요, 이브니 대표입니다. 오늘은 비전공자도 게임회사에 취업할 수 있는 게임업계 비엔지니어 직군 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 12,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "영업 과 엔지니어 , 같은 직군에는 같은 MBTI 유형이 모여 있을까? | 취업과 적성, 성격 이야기 - YouTube",
+            "url": "https://m.youtube.com/watch?v=NU1dj0x2y_w",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "https://m.youtube.com/watch?v=NU1dj0x2y_w&t=0"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 13,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "개발자와 소프트웨어 엔지니어의 종류와 필요한 스킬들, 컴퓨터공학의 위인들 I 백엔드, 프론트엔드, 풀스택, 데이터 엔지니어, 사이언티스트, 게임 개발자, Dennis Ritchie",
+            "url": "https://m.youtube.com/watch?v=H9w_1-iLZjc",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://careers.kakao.com › jobs",
+            "title": "진행중공고 - 카카오 영입",
+            "url": "https://careers.kakao.com/jobs",
+            "snippet": "제목: 카카오; 직원유형: 정규직; 영입종료기간: 2022년 5월 20일 까지; 근무지: 판교 ... 제목 데이터센터 시스템 운영 엔지니어 모집. 제목: 카카오; 직원유형 ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://careers.kakao.com › jobs",
+            "title": "진행중공고 / 개발자를 위한 기술플랫폼 엔지니어 모집 (경력) / ...",
+            "url": "https://careers.kakao.com/m/jobs/P-11779?page=7",
+            "snippet": "직원 유형 정규직. ◇ 영입인원 0 명. ◇ 조직소개. 카카오의 개발자들이 보다 좋은 환경에서 시스템 개발 및 유지보수를 수행할 수 있도록 다양한 플랫폼을 제공하는 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://mgtuts.com › other › your-q...",
+            "title": "질문: 건축 엔지니어는 어떤 유형의 작업을 합니까?",
+            "url": "https://mgtuts.com/ko/other/your-question-what-type-of-work-do-architectural-engineers-do.html",
+            "snippet": "건축 엔지니어는 생활 수준을 높이고 삶의 질을 향상시키는 건물을 설계하여 과학과 기술을 현실 세계에 적용 ... 어떤 유형의 건축가가 급여를 가장 많이 받나요?",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.16personalities.com › ...",
+            "title": "성격유형 : “만능 재주꾼” (ISTP) | 16Personalities",
+            "url": "https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-istp",
+            "snippet": "종종 기술자나 엔지니어이기도 한 이들에게 있어 소매를 걷어붙이고 작업에 뛰어들어 직접 분해하고 조립할 때보다 세상에 즐거운 일이 또 없을 것입니다.",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://coder-question-ko.com › cq-...",
+            "title": "시스템 엔지니어의 유형을 변혁 이론에 응용하여 5가지 유형으로 나누어 보았다 - coder-question-ko.com",
+            "url": "https://coder-question-ko.com/cq-ko-blog/12545",
+            "snippet": "나는 이전에 엔지니어가 기술의 관련 방식에 대해 다양한 유형이 있다고 생각했지만 변혁 이론에 적용해 보면 개인이 상당히 적합하다고 생각해서 기사를 썼다.",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(30) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://m.korean.alibaba.com › Engi...",
+            "title": "엔지니어 유형 안전 헬멧 건설 낮은 가격 - Alibaba",
+            "url": "https://m.korean.alibaba.com/p-detail/Engineer-Types-Of-Safety-Helmet-Construction-60050682436.html?language=korean&redirect=1",
+            "snippet": "엔지니어 유형 안전 헬멧 건설 낮은 가격 , Find Complete Details about 엔지니어 유형 안전 헬멧 건설 낮은 가격,Safety Helmet,Engineer Types Of Safety Helmet ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.korean.alibaba.com/p-detail/Engineer-Types-Of-Safety-Helmet-Construction-60050682436.html?language=korean&redirect=1",
+                "desc": "엔지니어 유형(출처: m.korean.alibaba.com)"
+            },
+            "sequence": 21
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "엔지니어 뜻",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_53__CN8YtzzKNiQmAXvtpbICg__16 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "it 엔지니어란",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_54__CN8YtzzKNiQmAXvtpbICg__17 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "자동차 엔지니어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_55__CN8YtzzKNiQmAXvtpbICg__18 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "IT 시스템 엔지니어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_56__CN8YtzzKNiQmAXvtpbICg__19 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "네트워크 엔지니어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_57__CN8YtzzKNiQmAXvtpbICg__20 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "소프트웨어 엔지니어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_58__CN8YtzzKNiQmAXvtpbICg__21 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "it엔지니어 연봉",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_59__CN8YtzzKNiQmAXvtpbICg__22 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "it엔지니어 하는일",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_60__CN8YtzzKNiQmAXvtpbICg__23 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 22
+        }
+    ]
+}

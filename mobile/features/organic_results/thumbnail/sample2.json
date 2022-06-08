@@ -1,0 +1,308 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "00c8e8a1-ce92-441b-a167-e932bede2e31",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T08:24:09.981Z",
+        "q": "알로에젤 샴푸",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%95%8C%EB%A1%9C%EC%97%90%EC%A0%A4+%EC%83%B4%ED%91%B8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0009.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111724/218036020065-14E5651AC3EB48A49F3955DD7D0905DE-00.html",
+        "json_url": "http://node0009.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111724/218036020065-14E5651AC3EB48A49F3955DD7D0905DE-00.json",
+        "crawl_start_time": "2022-05-11T08:24:10.017Z",
+        "crawl_end_time": "2022-05-11T08:24:14.100Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "샴푸",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "알로에젤 샴푸",
+        "parsed_time": "2022-05-11T08:24:14.412Z"
+    },
+    "features": [
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "http://m.coocha.co.kr › search › key...",
+            "title": "'알로에샴푸' 최저가 검색, 최저가 5,600원 : 쿠차 | 시간을 줄여주는 쇼핑검색",
+            "url": "http://m.coocha.co.kr/search/search.do?keyword=%EC%95%8C%EB%A1%9C%EC%97%90%EC%83%B4%ED%91%B8",
+            "snippet": "알로에샴푸' 최저가 상품 가격비교와 함께 핫딜검색, 할인혜택, 특가 정보를 확인하세요. ... 아로마티카 클린뷰티 로즈마리/티트리 샴푸/알로에 젤/여성청결제+.",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "http://m.gsshop.com › searchSect › t...",
+            "title": "검색결과",
+            "url": "http://m.gsshop.com/search/searchSect.gs?lseq=390249&tq=%EC%95%8C%EB%A1%9C%EC%97%90%EC%83%B4%ED%91%B8&ab=",
+            "snippet": "[아로마티카]로즈마리 스케일링 샴푸 1L+1L(캡) +알로에젤 · [아로마티카]로즈마리 스케일링 샴푸 1L+1L(캡) +알로에젤 50mL · 51,000 ; GS 프레시몰 [엘라스틴]프로폴리테라 ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.blog.naver.com › myloveh...",
+            "title": "탈모, 트러블 두피에 놓은 알로에 젤 샴푸 만들기! - 네이버 블로그",
+            "url": "https://m.blog.naver.com/mylovehs73/220048754605",
+            "snippet": "2014. 7. 3. — 레시피 나갑니닷! <알로에 젤 샴푸> 1L. 정제수 300g. 알로에 베라겔 150g. 폴리쿼트 8g. 코코베타인 250g.",
+            "sequence": 3
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "페이셜오일",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "알로에수딩젤",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "아로마티카",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "두피",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "퓨리파잉",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "김정문알로에",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "알로에베라",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "베라젤",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "로즈마리",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid26.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "스칼프스케일링",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid28.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "모발",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid30.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "스케일링샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid32.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "http://www.11st.co.kr › products",
+            "title": "아로마티카 클린뷰티 로즈마리/티트리 샴푸/알로에 젤/여성청결제+견본 - 11번가",
+            "url": "http://www.11st.co.kr/products/1662139032",
+            "snippet": "화해 앱 1위! 착한 샴푸, 카테고리 : 기능성, 가격 : 14400원. ... 아로마티카 클린뷰티 로즈마리/티트리 샴푸/알로에 젤/여성청결제+견본. 14,400원~.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://m.akmall.com › GoodsDetail",
+            "title": "아로마티카 베스트 콜렉션 세트(알로에젤500+로즈마리샴푸400+퓨어소프트여성청결제) | 백화점을 클릭하다. AK 몰",
+            "url": "https://m.akmall.com/goods/GoodsDetail.do?skyYn=Y&urlpath=0%400&goods_id=93491011",
+            "snippet": "용량 또는 중량, 샴푸: 400ml 청결제: 170ml 알로에젤: 500ml. 제품 주요 사양, 모든피부. 사용기한 또는 개봉 후 사용기간, 제조일로부터 30개월, 개봉후 12개월.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.akmall.com/goods/GoodsDetail.do?skyYn=Y&urlpath=0%400&goods_id=93491011",
+                "desc": "알로에젤 샴푸(출처: m.akmall.com)"
+            },
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "http://m.skstoa.com › display › goods",
+            "title": "베스트 콜렉션 세트 (알로에 베라 젤 500ml+로즈마리 샴푸 400ml+퓨어 앤 소프트 여성청결제 170ml) | SK스토아",
+            "url": "http://m.skstoa.com/display/goods/22989753",
+            "snippet": "SK스토아 특별가 [베스트 콜렉션 세트 (알로에 베라 젤 500ml+로즈마리 샴푸 400ml+퓨어 앤 소프트 여성청결제 170ml)], 국민 5% - 행복한 쇼핑 SK스토아.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.coupang.com › search",
+            "title": "알로에샴푸 - 쿠팡!",
+            "url": "https://www.coupang.com/np/search?q=%EC%95%8C%EB%A1%9C%EC%97%90%EC%83%B4%ED%91%B8&channel=relate",
+            "snippet": "쿠팡은 로켓배송 - 알로에샴푸에 대한 검색결과입니다. 알로에샴푸, 샴푸, 미장센제주알로에, 뷰티풀스킨샴푸, 제주알로에샴퓨, 김정문알로에샴푸, 알로에, ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "http://m.danawa.com › product",
+            "title": "김정문알로에 아로마 내추럴 허브 샴푸 430ml (1개) : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/product.html?code=3317018&cateCode=18232906",
+            "snippet": "패션/잡화/뷰티>헤어케어>샴푸, 요약정보 : 샴푸 / 민감성두피 / 손상모발 / 수분공급.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.danawa.com/product/product.html?code=3317018&cateCode=18232906",
+                "desc": "알로에젤 샴푸(출처: m.danawa.com)"
+            },
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "http://item.gmarket.co.kr › Item",
+            "title": "김정문알로에 라센스큐어 사포나리아 알로에 젤 샴푸 - G마켓",
+            "url": "http://item.gmarket.co.kr/Item?goodsCode=2329765156",
+            "snippet": "인터넷쇼핑, 오픈마켓, 패션/뷰티, 디지털, 식품/유아, 스포츠/자동차, 생활용품 , 도서/DVD, 여행/항공권, e쿠폰/티켓, 만화/게임, 공동구매, 경매, 중고, ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "http://m.emart.ssg.com › itemView",
+            "title": "알로에베라젤함유 벼룩예방 애견샴푸 강아지미스트 (S7921474) - 이마트몰 - SSG.com",
+            "url": "http://m.emart.ssg.com/item/itemView.ssg?itemId=1000353019585&siteNo=6001&salestrNo=6005&tlidSrchWd=",
+            "snippet": "... 스파 강아지스프레이 강아지약용샴푸 강아지용품 강아지입욕제 강아지천연샴푸 강아지컨디셔너 강아지탄산스파 강아지탈취제 알로에베라젤함유 벼룩예방 애견샴푸 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://m.hnsmall.com › goods › view",
+            "title": "[릴레이팡팡 상품] 아로마티카 티트리 샴푸 900ml 2개(+알로에젤50ml+쇼핑백) - HOME & SHOPPING - hnsmall",
+            "url": "https://m.hnsmall.com/goods/view/20948252?planclass_code=00000043&plan_code=2021033378",
+            "snippet": "[릴레이팡팡 상품] 아로마티카 티트리 샴푸 900ml 2개(+알로에젤50ml+쇼핑백). 52,900원. 최종혜택가: 42,849원~. 최종혜택가 보기. ~19%. 모바일할인가: 47,610원.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.hnsmall.com/goods/view/20948252?planclass_code=00000043&plan_code=2021033378",
+                "desc": "알로에젤 샴푸(출처: m.hnsmall.com)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://m.hnsmall.com › goods › view",
+            "title": "[릴레이팡팡 상품] 아로마티카 티트리 퓨리파잉 샴푸400ml 2개 (+알로에젤50ml+쇼핑백) - HOME & SHOPPING - hnsmall.com",
+            "url": "https://m.hnsmall.com/goods/view/20491112?planclass_code=00000043&plan_code=2021033378",
+            "snippet": "[릴레이팡팡 상품] 아로마티카 티트리 퓨리파잉 샴푸400ml 2개 (+알로에젤50ml+쇼핑백). 판매가: 25,000원. 앱에서 결제시 10%즉시할인 +10%자동적립앱다운로드.",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://mobile.missyusa.com › boards",
+            "title": "댓글 44",
+            "url": "https://mobile.missyusa.com/mainpage/boards/board_reply_list.asp?id=talk39&idx=4972273&ref=12792&step=1",
+            "snippet": "또 그밑에 댓글에 어떤분은 머리감고나서 알로에젤 바르고 머리톡톡? ... 샴푸후에 린스까지하시고 타올로 물기뚝뚝흐르는거 털어서 가능한 거의 제거 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://www.cosmopolitan.co.kr › ar...",
+            "title": "알로에 베라를 바르면 머리카락이 빨리 자란다? - 코스모폴리탄",
+            "url": "https://www.cosmopolitan.co.kr/article/44035",
+            "snippet": "2020. 1. 6. — 두피와 모발에 알로에 베라 젤을 바른 다음 물로 씻어 내는 게 가장 좋아요. ... 머리카락이 여전히 끈적거릴 경우에는 샴푸를 사용해서 헹궈내면 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://kr.biuky.com › ... › 샴푸",
+            "title": "As I am 알로에 본 컬리 키즈 샴푸 및 목욕 젤 240ml - Biuky",
+            "url": "https://kr.biuky.com/%ED%97%A4%EC%96%B4-%EC%BC%80%EC%96%B4/as-i-am/p-245444?lang=ko",
+            "snippet": "눈물과 황산염이없는 워시를 위해 제조 된 본 컬리 알로에 바디 워시 앤 샴푸는 어린 아이의 모발, 두피 및 섬세한 피부에 적합합니다. 모발의 천연 수분을 유지하면서 ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "http://shop1.thearomatica2.cafe24.com › ...",
+            "title": "고딩딸이 사달라고해서 주문합니다 아로마디카 로즈마리샴푸에 덤으로 받은 알로에젤을 울딸이 사용했는데 ...",
+            "url": "http://shop1.thearomatica2.cafe24.com/board/product/read.html?no=88498&board_no=4&link_product_no=1185&page=5",
+            "snippet": "2021. 5. 26. — 아로마티카 고객분들의 솔직 담백한 상품 사용후기입니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://shop1.thearomatica2.cafe24.com/board/product/read.html?no=88498&board_no=4&link_product_no=1185&page=5",
+                "desc": "알로에젤 샴푸(출처: shop1.thearomatica2.cafe24.com)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.glowpick.com › products",
+            "title": "샴푸 앤 샤워 젤 위드 모이스처라이징 앤 수딩 알로에 베라 | 보테가 베르데 | 제품리뷰 | 글로우픽",
+            "url": "https://www.glowpick.com/products/24533",
+            "snippet": "바디에서 느껴지는 부드러움을 머리끝까지! 샴프 앤 샤워젤 알로에베라 붉어지거나 건조해진 피부를 진정시켜주고 촉촉하게 케어하는 알로에 베라 라인 알로에 베라가 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.sanctmall.com › item",
+            "title": "알로에 베라 샴푸 500ml - 쌍트몰",
+            "url": "https://www.sanctmall.com/shop/item.php?it_id=1000001394",
+            "snippet": "이 제품은 알로에 베라 젤과 실크 프로틴이 조합을 이루고 있는 샴푸입니다. · 거기에 두피를 보호해서 건조해지지 않게 해줍니다. · 알로에 베라는 거칠거나 민감한 피부를 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.sanctmall.com/shop/item.php?it_id=1000001394",
+                "desc": "알로에젤 샴푸(출처: www.sanctmall.com)"
+            },
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 19,
+            "displayed_link": "https://m.youtube.com · 밝은 면 Bri...",
+            "title": "알로에 베라 오일을 만들었더니, 머리가 두 배는 빨리 자라게 되었어요! - YouTube",
+            "url": "https://m.youtube.com/watch?v=0ljX4ijZCTM",
+            "thumbnail": {
+                "type": "direct_video",
+                "url": "https://m.youtube.com/watch?v=0ljX4ijZCTM&t=72"
+            },
+            "sequence": 20
+        }
+    ]
+}

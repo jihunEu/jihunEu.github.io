@@ -1,0 +1,257 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "a0630957-8d46-4712-888b-8dc4d2fc217d",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T10:09:07.877Z",
+        "q": "엄격성 지수",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%97%84%EA%B2%A9%EC%84%B1+%EC%A7%80%EC%88%98&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0027.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121909/211254003120-2EEB33412854452792C478A2DE1DE1DE-00.html",
+        "json_url": "http://node0027.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121909/211254003120-2EEB33412854452792C478A2DE1DE1DE-00.json",
+        "crawl_start_time": "2022-05-12T10:09:07.911Z",
+        "crawl_end_time": "2022-05-12T10:09:11.682Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "지수",
+            "domain": "인물",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "엄격성 지수",
+        "parsed_time": "2022-05-12T10:09:11.909Z"
+    },
+    "features": [
+        {
+            "type": "scholar",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c > div:nth-child(1).card-section > table.std",
+            "title": "엄격성 지수에 대한 학술자료",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://namu.wiki › 엄격성 지수",
+            "title": "엄격성 지수 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%97%84%EA%B2%A9%EC%84%B1%20%EC%A7%80%EC%88%98",
+            "snippet": "2021. 12. 27. — 영국 옥스퍼드 대학교 블라바트닉 행정대학원(Blavatnik School of Government)의 연구진이 국가별 코로나19 대응 수준을 수치화하여 발표한 보고서 ...",
+            "properties": [
+                {
+                    "key": "대응",
+                    "value": "아시아 ( 대만 , 북한, 인도, 일본, 중국) · 유럽 · 아메리카(미국) · 오세아니아 · 아프리카"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://policy.nl.go.kr › searchDetail",
+            "title": "POINT 정책정보포털 | 상세정보",
+            "url": "https://policy.nl.go.kr/search/searchDetail.do?rec_key=SH2_PLC20200258821",
+            "snippet": "옥스퍼드 COVID-19 정부 대응 분석기관의 엄격성 지수를 사용해 COVID-19 유행에 대한 정부 대응의 엄격성을 시간의 흐름에 따라 비교한다. 이 문서는 이 지수를 ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "http://www.mohw.go.kr › react",
+            "title": "주요국 코로나19 대응 전략 비교",
+            "url": "http://www.mohw.go.kr/react/modules/download.jsp?BOARD_ID=140&CONT_SEQ=368821&FILE_SEQ=330849",
+            "snippet": "2021. 11. 11. — 정부 대응 엄격성 지수 (w/ OxCGRT data). Ⅲ. 경제 vs 방역. Ⅳ. 백신 접종. Ⅴ. '단계적 일상회복'? Page 4 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.donga.com › article › all",
+            "title": "[단독]英옥스퍼드大 “한국 코로나 방역 강도, G20 최저 수준” - 동아일보",
+            "url": "https://www.donga.com/news/amp/all/20211111/110186081/1",
+            "snippet": "2021. 11. 11. — 엄격성 지수는 각국의 코로나19 대응 수준을 분석한 것이다. 모임 인원이나 다중이용시설 영업 등 9개 분야의 방역조치를 평가한다. 지수가 낮을수록 방역 ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://eiec.kdi.re.kr › domesticView",
+            "title": "코로나19에 대한 정부 대응이 경제에 미친 영향 | 국내연구자료",
+            "url": "https://eiec.kdi.re.kr/policy/domesticView.do?ac=0000154618",
+            "snippet": "2020. 11. 20. — (산업생산) 정부의 엄격성 지수가 10p 상승(정부의 봉쇄 정책 강도 강화)할 때 산업 생산 감소 영향의 OECD 국가 평균은 -2.8%p 수준이었음.",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.kci.go.kr › kciportal › c...",
+            "title": "엄격성지수(RI)를 활용한 FTA 원산지규정 분석 - 한국학술지인용색인",
+            "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001136292",
+            "snippet": "엄격성지수(RI)를 활용한 FTA 원산지규정 분석 Analysis of Korea's FTA Rules of Origin: Based on the study of restrictiveness index. 국제지역연구.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.dbpia.co.kr › articleDetail",
+            "title": "FTA 원산지결정기준의 엄격성지수에 관한 연구 - 무역학회지 - 한국무역학회 : 논문 - DBpia",
+            "url": "https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07300535",
+            "snippet": "원산지규정의 엄격성은 FTA활용을 저해하는 요소 중의 하나이다. 엄격성지수는 품목별 원산지결정기준 충족의 난이도를 지수로 표현 한 것으로, 지수가 높을수록 FTA ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "http://news.kmib.co.kr › article › view",
+            "title": "靑 “한국, 방역 통제 강하지 않아...'엄격성 지수' 최하위” - 국민일보",
+            "url": "http://m.kmib.co.kr/view_amp.asp?arcid=0016633821",
+            "snippet": "2022. 1. 4. — 박수현 청와대 국민소통수석은 이날 MBC 라디오 '김종배의 시선집중' 전화 인터뷰에서 '엄격성 지수'를 언급하면서 “이것은 우리가 방역을 얼만큼 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.kmib.co.kr/view_amp.asp?arcid=0016633821",
+                "desc": "엄격성 지수(출처: m.kmib.co.kr)"
+            },
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://news.kbs.co.kr › news › view",
+            "title": "[팩트체크K] 한국의 코로나19 방역 통제, 가장 낮은 수준이다? - KBS뉴스",
+            "url": "https://news.kbs.co.kr/news/view.do?ncd=5369310",
+            "snippet": "2022. 1. 11. — 엄격성 지수는 9개 기준에 각각 0~100의 점수를 매긴 뒤 합산해 나눈 평균 점수입니다. 점수가 높을수록, 즉 100에 가까울수록 방역을 위한 사회 통제의 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.kiep.go.kr › gall...",
+            "title": "유럽의 코로나19 재확산 현황과 시사점 - 대외경제정책연구원",
+            "url": "https://www.kiep.go.kr/galleryDownload.es?bid=0003&list_no=3468&seq=1",
+            "snippet": "2020. 12. 11. — ◦ 정부 대응 엄격성지수(Government Response Stringency Index)를 보면 이들 국가의 대응 수준은 유행 초. 반 80 이상으로 올랐다가 6월을 전후하여 50 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://mobile.newsis.com › view",
+            "title": "靑 \"한국, '방역 엄격성 지수' 최하위…통제 강하지 않다\" :: 공감언론 뉴시스통신사 ::",
+            "url": "https://mobile.newsis.com/view.html?ar_id=NISX20220104_0001711966",
+            "snippet": "2022. 1. 4. — [서울=뉴시스] 안채원 기자 = 청와대는 4일 '엄격성 지수'를 들어 한국의 방역 통제 상황이 다른 나라와 비교해 상대적으로 낮은 수준이라고 주장했다 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://www.joongang.co.kr › article",
+            "title": "'위드 코로나' 너무 풀었나…英 \"韓 방역강도, G20 최저수준\" | 중앙일보",
+            "url": "https://www.joongang.co.kr/amparticle/25022997",
+            "snippet": "2021. 11. 11. — 11일(현지시간) 영국 옥스퍼드대학교 발표한 코로나19 엄격성 지수를 보면 우리나라는 100점 만점(11월 8일 집계)에서 39.35점이다. G20 중 한국보다 낮은 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.nabo.go.kr › do...",
+            "title": "코로나19 재확산에 따른 해외 봉쇄정책 현황과 시사점",
+            "url": "https://www.nabo.go.kr/system/common/JSPservlet/download.jsp?fCode=33316399&fSHC=&fName=%5BNABO+FOCUS+%EC%A0%9C27%ED%98%B8%5D+%EC%BD%94%EB%A1%9C%EB%82%9819+%EC%9E%AC%ED%99%95%EC%82%B0%EC%97%90+%EB%94%B0%EB%A5%B8+%ED%95%B4%EC%99%B8+%EB%B4%89%EC%87%84%EC%A0%95%EC%B1%85+%ED%98%84%ED%99%A9%EA%B3%BC+%EC%8B%9C%EC%82%AC%EC%A0%90.pdf&fMime=application/pdf&fBid=68&flag=bluenet",
+            "snippet": "2020. 11. 17. — 1 차 확산기에 강한 봉쇄조치가 시행되면서 전세계 엄격성 지수 평균치가 급등하였으나,. 3차 확산기에는 1차 확산기에 비해 낮은 수준에서 안정적 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://m.segye.com › view",
+            "title": "옥스퍼드대 코로나 '엄격성 지수'서 韓 100점 만점 중 39.35점…G20 중 18번째 - 세계일보",
+            "url": "https://m.segye.com/view/20211111504931",
+            "snippet": "2021. 11. 11. — 엄격성 지수는 영국 옥스퍼드대 연구팀이 180여 개국의 코로나19 대응 수준을 평가한 지수다. 100에 가까울수록 방역 강도가 높고 지수가 낮을수록 방역 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.segye.com/view/20211111504931",
+                "desc": "엄격성 지수(출처: m.segye.com)"
+            },
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://repository.krei.re.kr › ...",
+            "title": "농식품 수출 FTA 활용 현황과 과제* - 한국농촌경제연구원",
+            "url": "https://repository.krei.re.kr/bitstream/2018.oak/20816/1/%EB%86%8D%EC%8B%9D%ED%92%88%20%EC%88%98%EC%B6%9C%20FTA%20%ED%99%9C%EC%9A%A9%20%ED%98%84%ED%99%A9%EA%B3%BC%20%EA%B3%BC%EC%A0%9C.pdf",
+            "snippet": "문한필 저술 — 분석대상인 8개 기체결 FTA별로 농식품 분야 HS 6단위 992개 품목에 대한 원산지. 기준의 엄격성지수 분포를 보면, HS 6단위 품목이 가장 많이 위치하는 엄격성 지수 값.",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.ytn.co.kr › ...",
+            "title": "[사회][팩트와이] 우리나라 방역패스, 해외보다 덜 엄격하다? | YTN",
+            "url": "https://m.ytn.co.kr/news_view.amp.php?param=0103_202201150424031468",
+            "snippet": "2022. 1. 15. — 조사 대상인 185개국에 '방역 엄격성 지수'를 매겼는데요, 청와대의 설명과 달리 우리나라는 최하위가 아닌 91위, 중위권을 차지했습니다.",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://m.hani.co.kr › arti › marketing",
+            "title": "코로나 경제봉쇄·이동제한이 실물경제에 미친 영향은? - 한겨레",
+            "url": "https://m.hani.co.kr/arti/economy/marketing/970628.html",
+            "snippet": "2020. 11. 19. — 옥스퍼드대는 전세계 185개국의 코로나19 정책을 추적해 정부 대응 정도를 나타내는 지수들을 제공하는데, 엄격성 지수는 학교·직장 폐쇄, ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.yna.co.kr › view › AK...",
+            "title": "\"오미크론에도 방역은 점차 완화…내년 글로벌 경기회복세 지속\" | 연합뉴스",
+            "url": "https://m.yna.co.kr/amp/view/AKR20211203144200002",
+            "snippet": "2021. 12. 5. — 각국 백신접종률 및 주요국 방역정책 엄격성 지수. [한은 제공. 재판매 및 DB 금지]. 한은은 먼저 오미크론 변이 발생으로 향후 감염병 전개 양상을 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://scholarworks.bwise.kr › handle",
+            "title": "ScholarWorks@SUNGKYUNKWAN UNIVERSITY: FTA 원산지결정기준의 엄격성지수에 관한 연구: 수산물을 중심으로",
+            "url": "https://scholarworks.bwise.kr/skku/handle/2021.sw.skku/32431",
+            "snippet": "허윤석 저술 · 2017 · 1회 인용 — FTA 원산지결정기준의 엄격성지수에 관한 연구: 수산물을 중심으로A Study on Restrictiveness Index of Product Specific Rule(PSR) under FTA: Focusing on the ...",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 20,
+            "displayed_link": "https://www.bok.or.kr › file",
+            "title": "국제경제리뷰 - 한국은행",
+            "url": "https://www.bok.or.kr/portal/cmmn/file/fileDown.do?menuNo=200434&atchFileId=FILE_000000000027496&fileSn=1",
+            "snippet": "2021. 10. 29. — 옥스퍼드대 엄격성지수(인적이동 제한, 휴교, 직장폐쇄, ... 엄격한 방역조치를 고수하는 뉴질랜드, 중국 등이 확진자수에 따라 엄격하게.",
+            "sequence": 21
+        }
+    ]
+}

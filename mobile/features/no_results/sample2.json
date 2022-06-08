@@ -1,0 +1,41 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "b4b39004-5b84-406c-9dbd-f44956ab894f",
+        "sub_id": 0,
+        "requested_time": "2022-05-16T05:40:23.089Z",
+        "q": "###qZcmonkis",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=%23%23%23qZcmonkis&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0038.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220516/2205161440/218036020105-C89DC0949A5945A79DB3804174753364-00.html",
+        "json_url": "http://node0038.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220516/2205161440/218036020105-C89DC0949A5945A79DB3804174753364-00.json",
+        "crawl_start_time": "2022-05-16T05:40:23.145Z",
+        "crawl_end_time": "2022-05-16T05:40:31.211Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.32.master",
+        "displayed_query": "###qZcmonkis",
+        "parsed_time": "2022-05-16T05:40:31.596Z"
+    },
+    "features": [
+        {
+            "type": "adult_certification",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(3)#topstuff > div:nth-child(1).std > div:nth-child(1).card-section.mnr-c > span.kav-message",
+            "snippet": "청소년에게 유해한 결과는 제외되었습니다. 만 19세 이상의 사용자는 성인인증을 통해 모든 결과를 볼 수 있습니다.",
+            "sequence": 1
+        },
+        {
+            "type": "no_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(3)#topstuff > div:nth-child(3).mnr-c > div:nth-child(1).card-section",
+            "sequence": 2
+        }
+    ]
+}

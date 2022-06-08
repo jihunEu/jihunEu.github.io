@@ -1,0 +1,482 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "44ebe366-af68-49b9-9e22-6ff4088e42cd",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T07:00:43.724Z",
+        "q": "가히 멀티밤 미스트",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EA%B0%80%ED%9E%88+%EB%A9%80%ED%8B%B0%EB%B0%A4+%EB%AF%B8%EC%8A%A4%ED%8A%B8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0021.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111600/223165245012-9C40AA8E6E7A4088A47DAAD609D16671-00.html",
+        "json_url": "http://node0021.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111600/223165245012-9C40AA8E6E7A4088A47DAAD609D16671-00.json",
+        "crawl_start_time": "2022-05-11T07:00:43.769Z",
+        "crawl_end_time": "2022-05-11T07:00:48.955Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "선크림",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.0.26.master",
+        "displayed_query": "가히 멀티밤 미스트",
+        "parsed_time": "2022-05-11T07:00:49.449Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.kiehls.co.kr/",
+            "title": "공식 온라인몰 단독 혜택 - 수분크림 공식몰 단독 혜택",
+            "url": "https://www.kiehls.co.kr/kr/ultra-facial-cream/622.html",
+            "snippet": "첫 구매 15% 할인! 모든 구매 무료배송 및 샘플 증정. 공식몰만의 단독 혜택 놓치지 마세요! 스킨케어 강자 키엘의 공식 온라인 몰! 쉽고 빠르게 키엘의 국민 수분크림을 경험하세요. 선물 포장 서비스. 맞춤형 무료 샘플. 무료 배송. 서비스: 모든 고객 샘플 증정, 공식몰 단독 혜택, 무료배송.",
+            "sitelinks": [
+                {
+                    "title": "전 품목 20% 할인",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.AjNqdc.Cxb6Wc.gsrt > div:nth-child(1) > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "베스트셀러",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "신제품",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "오리지널 머스크 재입고",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(7).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                }
+            ]
+        },
+        {
+            "sequence": 2,
+            "type": "adult_certification",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(3)#topstuff > div:nth-child(1).std > div:nth-child(1).card-section.mnr-c > span.kav-message",
+            "snippet": "청소년에게 유해한 결과는 제외되었습니다. 만 19세 이상의 사용자는 성인인증을 통해 모든 결과를 볼 수 있습니다."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "http://browse.gmarket.co.kr › search",
+            "title": "가히미스트 검색결과 - G마켓",
+            "url": "http://browse.gmarket.co.kr/m/search?keyword=%EA%B0%80%ED%9E%88%EB%AF%B8%EC%8A%A4%ED%8A%B8",
+            "snippet": "가히 멀티밤 세트(멀티밤X2+미스트+발효오일)+쇼핑백 연관상품 3개연관상품 닫기 · 가히 앰플미스트 100ml 연관상품 2개연관상품 닫기 · 가히 주름관리 멀티밤 기본세트(멀티 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://browse.gmarket.co.kr/m/search?keyword=%EA%B0%80%ED%9E%88%EB%AF%B8%EC%8A%A4%ED%8A%B8",
+                "desc": "가히 멀티밤 미스트(출처: browse.gmarket.co.kr)"
+            }
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.lotteon.com › search",
+            "title": "가히미스트 : 롯데ON",
+            "url": "https://www.lotteon.com/search/search/search.ecn?render=search&platform=m&mallId=1&q=%EA%B0%80%ED%9E%88%EB%AF%B8%EC%8A%A4%ED%8A%B8",
+            "snippet": "정렬 · 가히. 상품비교 찜하기. 무료배송 스마트픽. 가히 콜라겐 미스트앰플 100ml 1+1 최신제조 김고은 · 상품비교 찜하기. 스마트픽. 가히 서울 링클 바운스 멀티밤 스틱 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.lotteon.com/search/search/search.ecn?render=search&platform=m&mallId=1&q=%EA%B0%80%ED%9E%88%EB%AF%B8%EC%8A%A4%ED%8A%B8",
+                "desc": "가히 멀티밤 미스트(출처: www.lotteon.com)"
+            }
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.shoppinghow.kakao.com › ...",
+            "title": "가히 멀티밤 콜라겐 - 검색결과 | 쇼핑하우",
+            "url": "https://m.shoppinghow.kakao.com/m/search/q/%EA%B0%80%ED%9E%88%20%EB%A9%80%ED%8B%B0%EB%B0%A4%20%EC%BD%9C%EB%9D%BC%EA%B2%90",
+            "snippet": "가히 링클 바운스 멀티밤 9g 2개+콜라겐 미스트 앰플 100ml. 최저가 43,900원 ... 가히 멀티밤 김고은 바르는뷰티 콜라겐 미스트 홈쇼핑 연예인. 최저가 52,800원.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.shoppinghow.kakao.com/m/search/q/%EA%B0%80%ED%9E%88%20%EB%A9%80%ED%8B%B0%EB%B0%A4%20%EC%BD%9C%EB%9D%BC%EA%B2%90",
+                "desc": "가히 멀티밤 미스트(출처: m.shoppinghow.kakao.com)"
+            }
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "http://m.danawa.com › product",
+            "title": "가히 링클바운스 멀티밤+미스트+오일 4종 세트 : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/product.html?code=15894473&cateCode=1833175",
+            "snippet": "기초세트 / 공용 / 피부타입: 모든피부 / [상세구성] TV홈쇼핑 / 선물용 / 링클바운스 멀티밤 9g*2개, 링클바운스 콜라겐 앰플미스트 100ml, 제주발효오일 6ml.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.danawa.com/product/product.html?code=15894473&cateCode=1833175",
+                "desc": "가히 멀티밤 미스트(출처: m.danawa.com)"
+            },
+            "rating": {
+                "rating_count": "(3,940)",
+                "rating_value": "4.8"
+            }
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "http://m.danawa.com › product",
+            "title": "가히 링클바운스 보습 밤 스틱 9g (1개) : 다나와 가격비교",
+            "url": "http://m.danawa.com/product/product.html?code=11025891&cateCode=18217926",
+            "snippet": "제품명: 가히 링클 바운스 멀티밤 9g□제품특징: 주름고민 부위 집중케어 >>눈가 ... 보습밤 링클바운스 9g - KAHI 가히 김고은 멀티밤 외 미스트 엑스틴C밤 아쿠아밤 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.danawa.com/product/product.html?code=11025891&cateCode=18217926",
+                "desc": "가히 멀티밤 미스트(출처: m.danawa.com)"
+            },
+            "rating": {
+                "rating_count": "(13,962)",
+                "rating_value": "4.5"
+            }
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "http://m.tv.ssg.com › item › itemView",
+            "title": "가히 주름케어 멀티밤 싱글 세트(멀티밤2+미스트1+제주발효오일+쇼핑백) - 신세계TV쇼핑 - SSG.com",
+            "url": "http://m.tv.ssg.com/item/itemView.ssg?itemId=1000284923625&siteNo=6200&salestrNo=6005",
+            "snippet": "멀티밤스킨케어 마지막 단계에서 얼굴 또는 건조한 피부 부위를 중심으로 부드럽게 펴 발라 줍니다. 메이크업 전에도 사용 가능하며, 메이크업 후에도 스틱을 피부에 ..."
+        },
+        {
+            "sequence": 9,
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "가히 콜라겐 미스트 사용법",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_22_G197Ytq_Ooex0PEP-JKAsAk__12 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "가히 콜라겐 미스트후기",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_23_G197Ytq_Ooex0PEP-JKAsAk__13 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "가히 미스트",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_24_G197Ytq_Ooex0PEP-JKAsAk__14 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "가히 링클 바운스 멀티밤",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_25_G197Ytq_Ooex0PEP-JKAsAk__15 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "가히 미스트 앰플 사용법",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_26_G197Ytq_Ooex0PEP-JKAsAk__16 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "가히 멀티밤 단점",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_27_G197Ytq_Ooex0PEP-JKAsAk__17 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ]
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.bunjang.co.kr › products",
+            "title": "가히 멀티밤 중고거래 - 번개장터",
+            "url": "https://m.bunjang.co.kr/search/products?q=%EA%B0%80%ED%9E%88%20%EB%A9%80%ED%8B%B0%EB%B0%A4",
+            "snippet": "가히 멀티밤 (모두)가히멀티밤(유효기간 2025)과 가히미스트가히 멀티밤(4종모두드려요~)가히멀티밤 미스트 오일 쇼핑백(미개봉.유효기간2025)가히 멀티밤 엑스틴c밤 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.bunjang.co.kr/search/products?q=%EA%B0%80%ED%9E%88%20%EB%A9%80%ED%8B%B0%EB%B0%A4",
+                "desc": "가히 멀티밤 미스트(출처: m.bunjang.co.kr)"
+            }
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.hsmoa.com › ...",
+            "title": "가히 멀티밤 기본세트(멀티밤2+미스트1+제주발효오일1+쇼핑백1)",
+            "url": "https://www.hsmoa.com/i?id=10794635&from=timeline",
+            "snippet": "2022. 2. 6. — 구성: * 구성① 가히 링클바운스 보습 밤 스틱 9g 2개② 가히 링클바운스 콜라겐 미스트 앰플 100ml 1개③ 가히 제주발효오일 6ml 1개④ 쇼핑백 1개* ..."
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "http://www.nsmall.com › ProductDis...",
+            "title": "가히 멀티밤 세트(멀티밤X4+앰플미스트X2+제주발효오일X2+아쿠아밤X2+쇼핑백X2)+(상품평시)멀티밤X2 - NS홈쇼핑",
+            "url": "http://www.nsmall.com/ProductDisplay?cate2Code=1583575&cate3Code=1583642&cate4Code=1590096&cate5Code=1590113&catalogId=97001&busChnId=TV&langId=-9&storeId=13001&partNumber=31851330&menuUri=NSItemDetailView&rccode=pc_detail&cate1Code=1583596",
+            "snippet": "본상품구성: 가히 링클바운스 멀티밤 9g * 4개 가히 링클바운스 콜라겐 앰플 미스트 100ml * 2개 가히 제주발효오일 6ml *2개 가히 UV 아쿠아밤 9g * 2개 쇼핑백 2종."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "http://m.shop.interpark.com › product",
+            "title": "[선물포장] (+쇼핑백) 가히 멀티밤+미스트 앰플 2종세트 kahi 수분 주름 가히 - 인터파크",
+            "url": "http://m.shop.interpark.com/product/8439831628/0000100000",
+            "snippet": "판매자의 다른상품 · 무료배송 펩시콜라 제로 500mlx20펫(업소용) · 휴온스 엘루비 메노락토 프로바이오틱스 450mg x90캡슐x1박스 · 가히 링클 바운스 멀티밤 스틱 9g x 3개 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.shop.interpark.com/product/8439831628/0000100000",
+                "desc": "가히 멀티밤 미스트(출처: m.shop.interpark.com)"
+            }
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "http://m.coocha.co.kr › search › key...",
+            "title": "'가히 멀티밤' 최저가 검색, 최저가 2,500원 : 쿠차 | 시간을 줄여주는 쇼핑검색",
+            "url": "http://m.coocha.co.kr/search/search.do?keyword=%EA%B0%80%ED%9E%88+%EB%A9%80%ED%8B%B0%EB%B0%A4&anchor_did=505145623",
+            "snippet": "[히트상품] [1+1] 가히 링클바운스 멀티밤 - 가히 링클 바운스 멀티밤 엑스틴 C밤 아쿠아밤 아이밤 미스트 오일 주름케어 보습스틱 바르는뷰티. 무료배송. 구매999+."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://m.hnsmall.com › goods › view",
+            "title": "[KAHI] 가히 멀티밤 고객감사 기본세트(오일+쇼핑백) - 홈앤쇼핑",
+            "url": "https://m.hnsmall.com/goods/view/24391732?trackingarea=60000020%5E8005173",
+            "snippet": "본구성. [KAHI] 가히 주름관리 멀티밤 기본패키지 □ 가히 링클바운스 멀티밤 9g * 2개 □ 가히 링클바운스 콜라겐 앰플 미스트 100ml * 1개 □ 가히 제주발효오일 6ml ..."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://m.shoppingntmall.com › goods",
+            "title": "가히 멀티밤 기본구성(멀티밤2+미스트1+제주발효오일1) - 쇼핑엔티",
+            "url": "https://m.shoppingntmall.com/display/goods/11349041",
+            "snippet": "본 상품을 구매하시고 쇼핑엔티 모바일앱 상품평 작성시 \"가히 멀티밤 1개'. - 방법 : 본품 배송완료 후 7일이내 쇼핑엔티 모바일 앱 후기 작성"
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "http://mobile.tmon.co.kr › deals",
+            "title": "가히 멀티밤 9g X 2개+콜라겐 미스트앰플(100ml) - 티몬",
+            "url": "http://mobile.tmon.co.kr/deals/6121741658",
+            "snippet": "가히 멀티밤 9g X 2개+콜라겐 미스트앰플(100ml). 균일가. 71,500 원 6개 구매.",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://mobile.tmon.co.kr/deals/6121741658",
+                "desc": "가히 멀티밤 미스트(출처: mobile.tmon.co.kr)"
+            }
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "http://m.11st.co.kr › products",
+            "title": "가히 엑스틴C밤 아쿠아밤 멀티밤 미스트 기미관리밤 김고은 가희 스틱 - 11번가",
+            "url": "http://m.11st.co.kr/products/m/3604593265",
+            "snippet": "- 최근 3개월의 배송데이터 기반으로 분석하여 예측된 배송완료 예상률입니다. - 판매자, 택배사 사정으로 예측치와 다를 수 있습니다. 닫기."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "http://couponchart.co.kr › search › s...",
+            "title": "'가히멀티밤' 최저가 검색, 최저가 2,500원 : 쿠차 | 시간을 줄여주는 쇼핑검색",
+            "url": "http://couponchart.co.kr/search/searchDealList?keyword=%EA%B0%80%ED%9E%88%EB%A9%80%ED%8B%B0%EB%B0%A4",
+            "snippet": "가히멀티밤, 주름관리 습관을 만들어주는 멀티밤, 미스트와 발효오일까지!"
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.g9.co.kr › VIP › Index",
+            "title": "가히 멀티밤 세트(멀티밤X2+미스트+발효오일)+쇼핑백 - G9",
+            "url": "https://www.g9.co.kr/Display/VIP/Index/2245522752",
+            "snippet": "가히 링클바운스 멀티밤 9g 2개 가히 링클바운스 콜라겐 앰플 미스트 100ml 1개 가히 제주발효오일 6ml 1개. 제품 주요 사양. 해당없음."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "http://58.229.122.71 › searchDealList",
+            "title": "'가히멀티밤' 최저가 검색, 최저가 6,680원 : 쿠차 | 시간을 줄여주는 쇼핑검색 - COOCHA",
+            "url": "http://58.229.122.71/search/searchDealList?keyword=%EA%B0%80%ED%9E%88%EB%A9%80%ED%8B%B0%EB%B0%A4&anchor_did=519434119",
+            "snippet": "'가히멀티밤'에 대한 검색 결과는 총 3187건 입니다. '가히멀티밤' 최저가 상품 가격비교와 함께 핫딜검색, 할인혜택, 특가 정보를 확인하세요."
+        },
+        {
+            "sequence": 22,
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "선물포장",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "발효오일",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "콜라겐미스트",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "kahi 가히",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "가히링클",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "쇼핑백",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "주름케어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "화장품",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "피부",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid33.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "미스트앰플",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid36.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "홈쇼핑",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "링클바운스",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid38.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ]
+        },
+        {
+            "sequence": 23,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "http://m.manysa.com › display",
+            "title": "가히 멀티밤 9g X 2개+콜라겐 미스트앰플(100ml) - 유로메가",
+            "url": "http://m.manysa.com/product/%EA%B0%80%ED%9E%88-%EB%A9%80%ED%8B%B0%EB%B0%A4-9g-x-2%EA%B0%9C%EC%BD%9C%EB%9D%BC%EA%B2%90-%EB%AF%B8%EC%8A%A4%ED%8A%B8%EC%95%B0%ED%94%8C100ml/11/display/2/",
+            "snippet": "가히 멀티밤 9g X 2개+콜라겐 미스트앰플(100ml) ; 배송방법, 택배 ; 배송비, 2,500원 (50,000원 이상 구매 시 무료) ; 법인명(상호): 유로메가 ; 대표자(성명): 나하나 ; 전화 ..."
+        },
+        {
+            "sequence": 24,
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(5)#bottomads > div:nth-child(1).IGtt6d.imgac.mnr-c",
+            "position": 2,
+            "title": "가히 멀티밤 미스트 구매",
+            "carousels": [
+                {
+                    "title": "[김고은 Pick] 가히 멀티밤",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwisoIeA8Nb3AhW2Ga0GHS-SA80YABAGGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoVmlYWPBQAOVxmAVHj_WKu48EVjibcz1dt8S6j-VcA4Z66tw&sig=AOD64_3syHabpzMo3T2pjKpZaZrIAfCBVQ&ctype=5&q=&ved=2ahUKEwiauYGA8Nb3AhWHGDQIHXgJAJYQ8w4oAHoECAEQEA&adurl=",
+                    "price": "₩28,40037,800",
+                    "delivery": "무료 배송",
+                    "provider": "올리브영",
+                    "data-catalog-id": "17754366913827395114",
+                    "data-offer-docid": "736838351560561200",
+                    "data-merchant-id": "117387471",
+                    "data-offer-id": "A000000154991"
+                },
+                {
+                    "title": "[ KAHI ] 가히 멀티밤 2개+미스트+발효오일+쇼핑백",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwisoIeA8Nb3AhW2Ga0GHS-SA80YABAJGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoVmlYWPBQAOVxmAVHj_WKu48EVjibcz1dt8S6j-VcA4Z66tw&sig=AOD64_3RyxSiAebHeYgxjCImesSG6m9fJg&ctype=5&q=&ved=2ahUKEwiauYGA8Nb3AhWHGDQIHXgJAJYQ8w4oAHoECAEQFw&adurl=",
+                    "price": "₩45,999",
+                    "delivery": "무료 배송",
+                    "provider": "ssg.com",
+                    "data-offer-docid": "11459613472171089124",
+                    "data-merchant-id": "240381778",
+                    "data-offer-id": "1000347906210"
+                },
+                {
+                    "title": "가히 멀티밤 앰플 미스트 제주 발효 오일 홈쇼핑 세트 주름케어 바르는뷰티 가희 주름 스틱",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwisoIeA8Nb3AhW2Ga0GHS-SA80YABAHGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoVmlYWPBQAOVxmAVHj_WKu48EVjibcz1dt8S6j-VcA4Z66tw&sig=AOD64_0bBNOdNZy7BZnBi5XLorbcPWwX5w&ctype=5&q=&ved=2ahUKEwiauYGA8Nb3AhWHGDQIHXgJAJYQ8w4oAHoECAEQHA&adurl=",
+                    "price": "₩64,895",
+                    "delivery": "무료 배송",
+                    "provider": "ssg.com",
+                    "data-offer-docid": "15666856593741012219",
+                    "data-merchant-id": "240381778",
+                    "data-offer-id": "1000262461139"
+                },
+                {
+                    "title": "[ KAHI ] 가히 멀티밤+미스트+아이밤+발효오일+쇼핑백",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwisoIeA8Nb3AhW2Ga0GHS-SA80YABAIGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRoVmlYWPBQAOVxmAVHj_WKu48EVjibcz1dt8S6j-VcA4Z66tw&sig=AOD64_087Q2WT56Q3xy3yh5CSu0oNZMb5A&ctype=5&q=&ved=2ahUKEwiauYGA8Nb3AhWHGDQIHXgJAJYQ8w4oAHoECAEQIQ&adurl=",
+                    "price": "₩55,955",
+                    "delivery": "무료 배송",
+                    "provider": "ssg.com",
+                    "data-offer-docid": "489866344011286134",
+                    "data-merchant-id": "240381778",
+                    "data-offer-id": "1000347905432"
+                }
+            ]
+        },
+        {
+            "sequence": 25,
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "가히멀티밤 가격비교",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_84_G197Ytq_Ooex0PEP-JKAsAk__19 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "가히 링클 바운스 콜라겐 미스트 앰플",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_85_G197Ytq_Ooex0PEP-JKAsAk__20 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "가히 링클 바운스 콜라겐 미스트 앰플 사용법",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_86_G197Ytq_Ooex0PEP-JKAsAk__21 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "엘루자이 콜라겐 링클밤",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_87_G197Ytq_Ooex0PEP-JKAsAk__22 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "가히 상품평",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_88_G197Ytq_Ooex0PEP-JKAsAk__23 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "가히 제주 발효 오일",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_89_G197Ytq_Ooex0PEP-JKAsAk__24 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "가히 제주 발효 오일 사용법",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_90_G197Ytq_Ooex0PEP-JKAsAk__25 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "오딧세이 블랙",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_91_G197Ytq_Ooex0PEP-JKAsAk__26 > div:nth-child(1) > a.iOJVmb"
+                }
+            ]
+        }
+    ]
+}

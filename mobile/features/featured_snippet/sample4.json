@@ -1,0 +1,289 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "2b02b0b9-92d0-4d35-a501-bf734847cfa9",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:40:58.126Z",
+        "q": "오렌지 카운티 맛집",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%98%A4%EB%A0%8C%EC%A7%80+%EC%B9%B4%EC%9A%B4%ED%8B%B0+%EB%A7%9B%EC%A7%91&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0010.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/218036011036-B5347AED0BFA41BF8A51590D9EA4CF5A-00.html",
+        "json_url": "http://node0010.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/218036011036-B5347AED0BFA41BF8A51590D9EA4CF5A-00.json",
+        "crawl_start_time": "2022-05-12T08:40:58.175Z",
+        "crawl_end_time": "2022-05-12T08:41:03.440Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "맛집",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "오렌지 카운티 맛집",
+        "parsed_time": "2022-05-12T08:41:03.728Z"
+    },
+    "features": [
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "종목에 따라 먹는 오렌지카운티 OC 맛집 10-맛집 - HelloKtown",
+                    "displayed_link": "http://ktown.koreadaily.com › view",
+                    "url": "http://ktown.koreadaily.com/community/restaurants/view/36",
+                    "unordered_list": {
+                        "items": [
+                            " 선농단 - 웨스턴",
+                            " 벤또우먼",
+                            " HOOKMEROLLS.",
+                            " 임스 커피",
+                            " W 브라질리언 스테이크하우스",
+                            " 한우 BBQ.",
+                            " LA 순두부 하우스",
+                            " 치킨 퐁 USA."
+                        ]
+                    }
+                }
+            ],
+            "official": true,
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.tripadvisor.co.kr › Rest...",
+            "title": "오렌지카운티 맛집/음식점 추천 순위 Best 10 - Tripadvisor - 트립어드바이저",
+            "url": "https://www.tripadvisor.co.kr/Restaurants-g659482-Orange_County_California.html",
+            "snippet": "오렌지카운티 음식점 · 1. Baci di Firenze Trattoria. (531) · 2. Vine Restaurant & Bar · 3. Nick's Laguna Beach · 4. Mama D's Italian · 5. Starfish · 6. Nick's San ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.tripadvisor.co.kr › Rest...",
+            "title": "오렌지카운티 소재 전망이 좋은 최고의 레스토랑 - 트립어드바이저",
+            "url": "https://www.tripadvisor.co.kr/Restaurants-g659482-zfp43-Orange_County_California.html",
+            "snippet": "“브런치 맛집!” “크리스탈 코브 스테이트 파크, 해변가에서 즐기는 브런치”.",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.moduba.com › orangec...",
+            "title": "오렌지 카운티에서 꼭 가봐야 할 한국 음식점 TOP5 - MODUBA",
+            "url": "https://www.moduba.com/orangecounty-korean-restaurant/",
+            "snippet": "2021. 11. 27. — 오렌지 카운티에서 꼭 가봐야 할 한국 음식점 TOP5 · Mo Ran Gak · I can bbq Korean Grill · Kaju soft tofu · Baekjeong · Hashigo Korean Kitchen.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.moduba.com/orangecounty-korean-restaurant/",
+                "desc": "오렌지 카운티 맛집(출처: www.moduba.com)"
+            },
+            "sequence": 4
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://ko.yourtripagent.com › 10-b...",
+            "title": "오렌지 카운티, 캘리포니아에있는 10 개의 최고의 레스토랑 - yourtripagent.com",
+            "url": "https://ko.yourtripagent.com/10-best-restaurants-in-orange-county-california-3667",
+            "snippet": "2022. 1. 1. — 오렌지 카운티, 캘리포니아에있는 10 개의 최고의 레스토랑 · 타부 그릴 · 바시 디 피렌체 트라 토리아 · Sealegs · 오리지널 피쉬 컴퍼니 · 몽타쥬 호텔의 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://ktown24.com › tag › 오렌지...",
+            "title": "오렌지카운티 한식당 - KTown24.com",
+            "url": "https://ktown24.com/tag/%EC%98%A4%EB%A0%8C%EC%A7%80%EC%B9%B4%EC%9A%B4%ED%8B%B0%ED%95%9C%EC%8B%9D%EB%8B%B9/",
+            "snippet": "오렌지카운티 한식당 · 경복궁 | 부에나팍 · 산촌 | 라하브라 · 궁중 설렁탕 | 월넛 · 짱분식 | 부에나팍 · 꿀돼지 | 얼바인 · 탕190도 | 얼바인 · 감자골 | 로렌하이츠 · 초당 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.milemoa.com › board",
+            "title": "2020년. 부에나 팍, 가든 그로브, 어바인 맛집 추천? 저는 간장게장집 - MileMoa.com",
+            "url": "https://www.milemoa.com/bbs/board/7139422",
+            "snippet": "2019. 12. 31. — 아래 LA 맛집 추천글이 있네요. 그 아래 동네들 맛집도 릴레이 추천해볼까요? 저는 주차도 편하고, 줄도 덜서서 LA 아래동네들 선호합니다.",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.blog.naver.com › uimani",
+            "title": "[LA/OC 맛집] 괜찮은 퀄리티의 스시가 All you can eat < 사케2미 Sake2Me > - 네이버 블로그",
+            "url": "https://m.blog.naver.com/uimani/221795251929",
+            "snippet": "2020. 2. 3. — 사케2미는 스시와 사시미 등을 All you can eat으로 먹을 수 있는 곳인데 LA와 오렌지카운티에 여러군데 지점을 가지고 있고, 그 중 세리토스 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://myungshinohh.tistory.com › ...",
+            "title": "캘리포니아 맛집, 오렌지카운티 맛집, 중국국수집 'Noodle St' - 명신의 기쁜날, 좋은날",
+            "url": "https://myungshinohh.tistory.com/m/980",
+            "snippet": "캘리포니아 맛집, 오렌지카운티 맛집, 중국국수집 'Noodle St'. 시니냥 2019. 3. 16. 07:00. 신랑이 미국에서 혼자 살 때. 아~주 맛있는 중국 식당을 찾았다며 저를 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://myungshinohh.tistory.com/m/980",
+                "desc": "오렌지 카운티 맛집(출처: myungshinohh.tistory.com)"
+            },
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.siksinhot.com › view",
+            "title": "오렌지카운티|맛집, 양식/레스토랑맛집 - 식신",
+            "url": "https://www.siksinhot.com/hot/m/place/view.do?pid=268654",
+            "snippet": "맛집 오렌지카운티는 평일런치(성인),평일디너(성인),주말·공휴일(성인)를 잘하는 베스트 맛집으로 회식, 모임, 데이트, 추천맛집 입니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.siksinhot.com/hot/m/place/view.do?pid=268654",
+                "desc": "오렌지 카운티 맛집(출처: www.siksinhot.com)"
+            },
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://steemit.com › muksteem",
+            "title": "[미국 오렌지카운티 맛집] 오렌지 힐 레스토랑 - Steemit",
+            "url": "https://steemit.com/muksteem/@sungyu1223/6pibrt",
+            "snippet": "LA 맛집 - 오렌지 힐 레스토랑 미국 캘리포니아주 오렌지 카운티에 있는 경치 좋은 맛집니다. 가끔 미국 LA 출장을 가면 꼭 한번은 다녀오는 곳입니다.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://steemit.com/muksteem/@sungyu1223/6pibrt",
+                "desc": "오렌지 카운티 맛집(출처: steemit.com)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://www.instagram.com › ockorea",
+            "title": "OC on Instagram: “#팔색삼겹살 #부에나팍 #오렌지카운티맛집 #오씨코리아 #삼겹살 #oc맛집”",
+            "url": "https://www.instagram.com/ockorea/p/6x9aHGl52T/",
+            "snippet": "2015. 8. 24. — 6 Likes, 0 Comments - OC (@ockorea) on Instagram: “#팔색삼겹살 #부에나팍 #오렌지카운티맛집 #오씨코리아 #삼겹살 #oc맛집”",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 12,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "오렌지카운티에서 꼭! 가봐야할 5곳 Part II. 숨은 맛집, 공원, 데이트코스, 비치 추천! Best places to visit in Orange County - YouTube",
+            "url": "https://m.youtube.com/watch?v=RQDG8obY3BU",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.pinterest.co.kr › pin",
+            "title": "종목에 따라 먹는 오렌지카운티 OC 맛집 10 | 돼지갈비, 짜장면, 모찌",
+            "url": "https://www.pinterest.co.kr/pin/469148486179960821/",
+            "snippet": "2018. 8. 28 - HelloKTown-종목에 따라 먹는 OC 맛집 10곳을 소개합니다. OC, 맛집, 순대, 물냉면, 모찌, 떡, 짜장면, 돼지갈비, 비빔냉면, 닭갈비, 설렁탕, 떡볶이, ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://brunch.co.kr › ...",
+            "title": "오렌지 카운티 이탈리아 레스토랑 후기 모음 - 브런치",
+            "url": "https://brunch.co.kr/@eliarhocapt/234",
+            "snippet": "2022. 2. 25. — 미국 캘리포니아 오렌지 카운티에도 이탈리안 레스토랑이 많은데, 그중 나름 유명한 곳 다섯 군데를 정리해본다. 가격이 비싼 순에서 저렴한 순으로 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://brunch.co.kr/@eliarhocapt/234",
+                "desc": "오렌지 카운티 맛집(출처: brunch.co.kr)"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://calholic.tistory.com › entry",
+            "title": "[캘리맛집] 오렌지카운티 미슐랭 가이드에 소개된 베트남 식당 - 갈릭 앤 차이브(Garlic & Chives)",
+            "url": "https://calholic.tistory.com/entry/%EC%BA%98%EB%A6%AC%EB%A7%9B%EC%A7%91-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%B9%B4%EC%9A%B4%ED%8B%B0-%EB%AF%B8%EC%8A%90%EB%9E%AD-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EC%86%8C%EA%B0%9C%EB%90%9C-%EB%B2%A0%ED%8A%B8%EB%82%A8-%EC%8B%9D%EB%8B%B9-%EA%B0%88%EB%A6%AD-%EC%95%A4-%EC%B0%A8%EC%9D%B4%EB%B8%8CGarlic-Chives",
+            "snippet": "2022. 5. 2. — GARLIC & CHIVES @ GARDEN GROVE, CA 2019 오렌지카운티 미슐렝에서 오렌지카운티 빕 그루망에 뽑힌 식당 중 하나인 갈릭 앤 차이브.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://calholic.tistory.com/entry/%EC%BA%98%EB%A6%AC%EB%A7%9B%EC%A7%91-%EC%98%A4%EB%A0%8C%EC%A7%80%EC%B9%B4%EC%9A%B4%ED%8B%B0-%EB%AF%B8%EC%8A%90%EB%9E%AD-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EC%86%8C%EA%B0%9C%EB%90%9C-%EB%B2%A0%ED%8A%B8%EB%82%A8-%EC%8B%9D%EB%8B%B9-%EA%B0%88%EB%A6%AD-%EC%95%A4-%EC%B0%A8%EC%9D%B4%EB%B8%8CGarlic-Chives",
+                "desc": "오렌지 카운티 맛집(출처: calholic.tistory.com)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://isllee.tistory.com › ...",
+            "title": "[미국 OC 맛집] 캐주얼한 분위기의 프렌치 레스토랑 물랑(MOULIN) - 울랄라리와 팬더투어",
+            "url": "https://isllee.tistory.com/450",
+            "snippet": "2020. 4. 9. — <뉴포트비치 맛집 물랑 MOULIN>. 오늘의 맛집은 가볍게 프랑스 음식을 즐길 수 있는 프렌치 레스토랑, 물랑(MOULIN) 입니다. 물랑은 오렌지카운티 내에 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://gracefullyexploring.tistory.com › ...",
+            "title": "턱턱 타이 스트릿푸드 - 4가 마켓 푸드코트 맛집 - 다운타운 산타애나 - Tuk Tuk Thai Street Food - DTST Food Court - 우!아!하게 여행하기",
+            "url": "https://gracefullyexploring.tistory.com/entry/%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9A%B4-%EC%82%B0%ED%83%80%EC%95%A0%EB%82%98-%ED%91%B8%EB%93%9C%EC%BD%94%ED%8A%B8-%EB%A7%9B%EC%A7%91-Downtown-Santa-Ana-Food-Court",
+            "snippet": "2021. 12. 17. — 턱턱 타이 스트릿푸드 - 4가 마켓 푸드코트 맛집 - 다운타운 산타애나 - Tuk ... 맛집 - 프렌치 감성 가득한 베이커리 브런치 Moulin 오렌지 카운티 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://story.kakao.com › michellecho",
+            "title": "미쉘의 요리이야기 스토리채널 - Ole! Spain Deli_LA/OC 맛집",
+            "url": "https://story.kakao.com/ch/michellecho/hTQKSoRcA8A",
+            "snippet": "... 코리아 #레시피 #레시피공개 #레시피모음 #맛집 #먹방 #우리동네숨은맛집 #우리동네맛집 #올레스페인 #엠빠나다 #남가주 #오렌지카운티 #나가사키짬뽕 #일식클래스.",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://jinnyjennyworld.tistory.com › ...",
+            "title": "[엘에이 근교 오렌지카운티] 캘리포니아 도넛 맛집 - Duck Donuts - 지니제니월드",
+            "url": "https://jinnyjennyworld.tistory.com/m/37",
+            "snippet": "2020. 3. 14. — 오늘 소개해드릴 캘리포니아 맛집은 엘에이 근교 오렌지 카운티 얼바인에 위치한 도넛 맛집 Duck Donuts입니다. 이미 도넛을 좋아하시는 분들은 많이 ...",
+            "sequence": 21
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 22
+        }
+    ]
+}

@@ -1,0 +1,206 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "cc4e777d-fe74-4c3d-81bb-33e35247e9a1",
+        "sub_id": 0,
+        "requested_time": "2022-05-16T05:20:56.062Z",
+        "q": "the pretty reckless - my medicine uncut",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=the+pretty+reckless+-+my+medicine+uncut&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/220516/2205161421/183110235199-867355A7C0214F04AA3FF02A9CF2F316-00.html",
+        "json_url": "http://dev03.dev.ascentlab.io/serpapi/serpdata/dev/mongttang/google/serpapi/any/220516/2205161421/183110235199-867355A7C0214F04AA3FF02A9CF2F316-00.json",
+        "crawl_start_time": "2022-05-16T05:20:56.121Z",
+        "crawl_end_time": "2022-05-16T05:21:01.236Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.32.master",
+        "displayed_query": "the pretty reckless - my medicine uncut",
+        "parsed_time": "2022-05-16T05:21:01.572Z"
+    },
+    "features": [
+        {
+            "type": "safe_search",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).zNFAfd",
+            "snippet": "검색결과에 선정적인 콘텐츠가 포함될 수 있음   선정적인 검색결과를 숨기려면 세이프서치를 사용 설정하세요.",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://novids.com › video",
+            "title": "The Pretty Reckless - My Medicine (Uncensored) - / - Videos",
+            "url": "https://novids.com/video/276106320_456240814",
+            "snippet": "The Pretty Reckless - Kill Me (Lyric Video). 4:01 ; Therion - Rise of Sodom and Gomorrah (Moscow, 14.10.2014). 6:38 ; The Pretty Reckless - House On A Hill. 4:46.",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://vimeo.com › Vlad › Videos",
+            "title": "The Pretty Reckless - My Medicine - 360HD - [ VKlipe.com ] on Vimeo",
+            "url": "https://vimeo.com/199410695",
+            "snippet": "2017. 1. 13. — This is \"The Pretty Reckless - My Medicine - 360HD - [ VKlipe.com ]\" by Vlad on Vimeo, the home for high quality videos and the people who ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "The Pretty Reckless - My Medicine - YouTube",
+            "url": "https://m.youtube.com/watch?v=cJMSDlWlfMM",
+            "snippet": "2012. 4. 11. — Playlist Best of The Pretty Reckless: https://goo.gl/GKbov3Subscribe for more: ... video by The Pretty Reckless performing My Medicine...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "The Pretty Reckless - My Medicine (Official Music Video) - YouTube",
+            "url": "https://m.youtube.com/watch?v=W6O0-okZlj0",
+            "snippet": "2012. 3. 20. — The Pretty Reckless - “My Medicine”Listen to the new album 'Death By Rock And Roll' | Available Now: http://found.ee/dbrr Subscribe to The ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://mobile.twitter.com › status",
+            "title": "Taylor Momsen on Twitter: \"The uncensored \"My Medicine\" music ...",
+            "url": "https://mobile.twitter.com/taylormomsen/status/182123601242226689",
+            "snippet": "2012. 3. 20. — The uncensored \"My Medicine\" music video is up on VEVO! Experience it here -. youtube.com. The Pretty Reckless - My Medicine (Official Music ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.dailymotion.com › video",
+            "title": "The Pretty Reckless - My Medicine - Dailymotion Video",
+            "url": "https://www.dailymotion.com/video/xsx4jx",
+            "snippet": "The Pretty Reckless - My Medicine Music Video.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.dailymotion.com › video",
+            "title": "The Pretty Reckless - My Medicine - Official Music Video Promo",
+            "url": "https://www.dailymotion.com/video/x1ll774",
+            "snippet": "\"My Medicine\" by the Pretty Reckless: World premiere Directed by Meiert Avis, Taylor Momsen, and Stefan Smith CLICK HERE TO WATCH THE FULL VIDEO: ...",
+            "sequence": 8
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "The pretty reckless oh my god",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_24_Od-BYpb_GpWhkPIP79SzgA8__26 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "The Pretty Reckless",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_25_Od-BYpb_GpWhkPIP79SzgA8__30 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "My medicine lyrics",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_26_Od-BYpb_GpWhkPIP79SzgA8__32 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Make Me Wanna Die",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_27_Od-BYpb_GpWhkPIP79SzgA8__34 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "The Pretty Reckless - Only love can save me now",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_28_Od-BYpb_GpWhkPIP79SzgA8__35 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Death by rock and Roll",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_29_Od-BYpb_GpWhkPIP79SzgA8__36 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "http://taylormomsenblog.blogspot.com › ...",
+            "title": "\"My Medicine\" HQ and Uncensored Video from Vevo! - Taylor Momsen ...",
+            "url": "http://taylormomsenblog.blogspot.com/2012/03/my-medicine-hq-and-uncensored-video.html?m=1",
+            "snippet": "\"My Medicine\" HQ and Uncensored Video from Vevo! Claire at 10:29 AM. Share. No comments: Post a Comment. Note: Only a member of this blog may post a comment ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://m.ok.ru › video",
+            "title": "The Pretty Reckless - My Medicine (Uncensored) (hd 720, Клип, Видео ...",
+            "url": "https://m.ok.ru/video/37862247030",
+            "snippet": "2015. 10. 15. — The Pretty Reckless - My Medicine (Uncensored) (hd 720, Клип, Видео, Рок, Метал, Рок н ролл, Dead metal, Hardcore, Heavi metal, Industrial, ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.reddit.com › comments",
+            "title": "The Pretty Reckless - My Medicine. Trippy video. Awesome song. - Reddit",
+            "url": "https://www.reddit.com/r/Music/comments/1sazi1/the_pretty_reckless_my_medicine_trippy_video/",
+            "snippet": "r/Music - Earth, Wind & Fire saxophonist Andrew Woolfolk has died. He.",
+            "sequence": 12
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "Just tonight",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_41_Od-BYpb_GpWhkPIP79SzgA8__22 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Take me down",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_42_Od-BYpb_GpWhkPIP79SzgA8__24 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "My medicine meaning",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_43_Od-BYpb_GpWhkPIP79SzgA8__25 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "And so it went",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_44_Od-BYpb_GpWhkPIP79SzgA8__27 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "In This moment",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_45_Od-BYpb_GpWhkPIP79SzgA8__28 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Sick like me",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_46_Od-BYpb_GpWhkPIP79SzgA8__29 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "In This Moment - Blood",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_47_Od-BYpb_GpWhkPIP79SzgA8__31 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "There is nothing to be broken In This moment",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_48_Od-BYpb_GpWhkPIP79SzgA8__33 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 13
+        }
+    ]
+}

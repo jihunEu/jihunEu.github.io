@@ -1,0 +1,828 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "6570ed1b-8e32-4058-a8cc-c6ce4f5d5fef",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T10:19:44.122Z",
+        "q": "jisoo 지수",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=jisoo+%EC%A7%80%EC%88%98&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0012.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121919/223165239006-99341EF0ADA3465797BDFE97F7ACD817-00.html",
+        "json_url": "http://node0012.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121919/223165239006-99341EF0ADA3465797BDFE97F7ACD817-00.json",
+        "crawl_start_time": "2022-05-12T10:19:44.150Z",
+        "crawl_end_time": "2022-05-12T10:19:48.292Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "지수",
+            "domain": "인물",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "jisoo 지수",
+        "parsed_time": "2022-05-12T10:19:48.890Z"
+    },
+    "features": [
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub",
+            "title": "듣기",
+            "attrids": [
+                {
+                    "attrid": "image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "action:listen_artist",
+                    "values": [
+                        "애플 뮤직",
+                        "벅스",
+                        "지니"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "지수는 대한민국의 가수이자 배우이며, 걸그룹 블랙핑크의 멤버이다. 2011년 7월부터 YG 엔터테인먼트에서 연습생으로 활동하다가 2016년 8월 8일 블랙핑크로 데뷔하였다.",
+                        "위키백과"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:born",
+                    "values": [
+                        "출생: ",
+                        "1995년 1월 3일 (27세), ",
+                        "군포시 산본동"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:height",
+                    "values": [
+                        "키: ",
+                        "162cm"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:sibling",
+                    "values": [
+                        "형제자매: ",
+                        "김지윤",
+                        ", ",
+                        "김정훈"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "설강화 : snowdrop",
+                        "  2021년 ~ 2022년 ",
+                        "블랙핑크 더 무비",
+                        "  2021년 ",
+                        "프로듀사",
+                        "  2015년 ",
+                        "블핑하우스",
+                        "  2018년 ",
+                        "SBS 인기가요",
+                        "  1991년 ~ ",
+                        "블랙핑크: 세상을 밝혀라",
+                        "  2020년 ",
+                        "BLACKPINK Diaries",
+                        "  2019년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "설강화 : snowdrop",
+                        "  2021년 ~ 2022년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "블랙핑크 더 무비",
+                        "  2021년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "프로듀사",
+                        "  2015년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "블핑하우스",
+                        "  2018년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "SBS 인기가요",
+                        "  1991년 ~ "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "블랙핑크: 세상을 밝혀라",
+                        "  2020년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "BLACKPINK Diaries",
+                        "  2019년 "
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "105px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "115px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "81px"
+                        }
+                    ]
+                },
+                {
+                    "Description": "지수는 대한민국의 가수이자 배우이며, 걸그룹 블랙핑크의 멤버이다. 2011년 7월부터 YG 엔터테인먼트에서 연습생으로 활동하다가 2016년 8월 8일 블랙핑크로 데뷔하였다.  ",
+                    "properties": [
+                        {
+                            "attrid": "kc:/people/person:born",
+                            "key": "출생",
+                            "value": "1995년 1월 3일 (27세), 군포시 산본동"
+                        },
+                        {
+                            "attrid": "kc:/people/person:height",
+                            "key": "키",
+                            "value": "162cm"
+                        },
+                        {
+                            "attrid": "kc:/people/person:sibling",
+                            "key": "형제자매",
+                            "value": "김지윤, 김정훈"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "action:listen_artist",
+                "description",
+                "kc:/people/person:born",
+                "kc:/people/person:height",
+                "kc:/people/person:sibling",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies"
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_QN98YuqmEtCD0PEPpsWxqA011.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid16.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0.Du5Hud",
+            "selected": "개요",
+            "headers": [
+                "개요",
+                "영화 및 방송",
+                "동영상",
+                "듣기",
+                "앨범"
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_QN98YuqmEtCD0PEPpsWxqA011.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid15 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.JlDOsc.LMRCfc.Giv2qe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.CGCvRb.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "105px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "115px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "81px"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image"
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_QN98YuqmEtCD0PEPpsWxqA011.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid15 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(10).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "듣기",
+            "attrids": [
+                {
+                    "attrid": "action:listen_artist",
+                    "values": [
+                        "애플 뮤직",
+                        "벅스",
+                        "지니"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "action:listen_artist"
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_QN98YuqmEtCD0PEPpsWxqA011.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid15 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(16).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).LuVEUc.TjcfIc.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "정보",
+            "attrids": [
+                {
+                    "attrid": "description",
+                    "values": [
+                        "지수는 대한민국의 가수이자 배우이며, 걸그룹 블랙핑크의 멤버이다. 2011년 7월부터 YG 엔터테인먼트에서 연습생으로 활동하다가 2016년 8월 8일 블랙핑크로 데뷔하였다.",
+                        "위키백과"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:born",
+                    "values": [
+                        "출생: ",
+                        "1995년 1월 3일 (27세), ",
+                        "군포시 산본동"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:height",
+                    "values": [
+                        "키: ",
+                        "162cm"
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:sibling",
+                    "values": [
+                        "형제자매: ",
+                        "김지윤",
+                        ", ",
+                        "김정훈"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "지수는 대한민국의 가수이자 배우이며, 걸그룹 블랙핑크의 멤버이다. 2011년 7월부터 YG 엔터테인먼트에서 연습생으로 활동하다가 2016년 8월 8일 블랙핑크로 데뷔하였다.  ",
+                    "properties": [
+                        {
+                            "attrid": "kc:/people/person:born",
+                            "key": "출생",
+                            "value": "1995년 1월 3일 (27세), 군포시 산본동"
+                        },
+                        {
+                            "attrid": "kc:/people/person:height",
+                            "key": "키",
+                            "value": "162cm"
+                        },
+                        {
+                            "attrid": "kc:/people/person:sibling",
+                            "key": "형제자매",
+                            "value": "김지윤, 김정훈"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "description",
+                "kc:/people/person:born",
+                "kc:/people/person:height",
+                "kc:/people/person:sibling"
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_QN98YuqmEtCD0PEPpsWxqA011.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid15 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "영화 및 방송",
+            "attrids": [
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "설강화 : snowdrop",
+                        "  2021년 ~ 2022년 ",
+                        "블랙핑크 더 무비",
+                        "  2021년 ",
+                        "프로듀사",
+                        "  2015년 ",
+                        "블핑하우스",
+                        "  2018년 ",
+                        "SBS 인기가요",
+                        "  1991년 ~ ",
+                        "블랙핑크: 세상을 밝혀라",
+                        "  2020년 ",
+                        "BLACKPINK Diaries",
+                        "  2019년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "설강화 : snowdrop",
+                        "  2021년 ~ 2022년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "블랙핑크 더 무비",
+                        "  2021년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "프로듀사",
+                        "  2015년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "블핑하우스",
+                        "  2018년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "SBS 인기가요",
+                        "  1991년 ~ "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "블랙핑크: 세상을 밝혀라",
+                        "  2020년 "
+                    ]
+                },
+                {
+                    "attrid": "kc:/people/person:tv-shows-and-movies",
+                    "values": [
+                        "BLACKPINK Diaries",
+                        "  2019년 "
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies",
+                "kc:/people/person:tv-shows-and-movies"
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://namu.wiki › 지수(BLACKPI...",
+            "title": "지수(BLACKPINK) - 나무위키",
+            "url": "https://namu.wiki/w/%EC%A7%80%EC%88%98(BLACKPINK)",
+            "snippet": "3일 전 — 지수(BLACKPINK) ; 본명. 김지수 (金智秀, Kim Jisoo) ; 출생. 1995년 1월 3일[1] (27세) ; 출생 · 경기도 휘장 경기도 군포시 CI 군포시 산본동 ; 국적.",
+            "thumbnail": {
+                "type": "video",
+                "url": "https://namu.wiki/w/%EC%A7%80%EC%88%98(BLACKPINK)",
+                "desc": "jisoo 지수 동영상"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5).uVMCKf.mnr-c > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "[페이스캠4K] 블랙핑크 지수 'How You Like That' (BLACKPINK JISOO FaceCam)  @SBS Inkigayo_2020.7.19",
+                    "url": "https://m.youtube.com/watch?v=Ui3WAsnDgtw"
+                },
+                {
+                    "title": "[예능연구소] 블랙핑크 지수 직캠 'Lovesick Girls' (BLACKPINK JISOO FanCam) @Show!MusicCore 201010",
+                    "url": "https://m.youtube.com/watch?v=67aBenO-MeU"
+                },
+                {
+                    "title": "[맛남의 광장] 'JISOO IN YOUR AREA 블랙핑크 지수 입덕문' / 'Delicious Rendezvous' Special | SBS NOW",
+                    "url": "https://m.youtube.com/watch?v=orvI9YXkNQ8"
+                },
+                {
+                    "title": "[페이스캠4K] 블랙핑크 지수 'Lovesick Girls' (BLACKPINK JISOO FaceCam)  @SBS Inkigayo_2020.10.18.",
+                    "url": "https://m.youtube.com/watch?v=YWcq27Z7mkA"
+                }
+            ],
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.instagram.com › sooyaa...",
+            "title": "JISOO (@sooyaaa__) • Instagram photos and videos",
+            "url": "https://www.instagram.com/sooyaaa__/",
+            "snippet": "60.1m Followers, 0 Following, 812 Posts - See Instagram photos and videos from JISOO (@sooyaaa__)",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.instagram.com › ...",
+            "title": "BLΛƆKPIИK on Instagram: “#BLACKPINK #블랙핑크 #JISOO #지수 #HAPPYBIRTHDAY #20220103 #YG”",
+            "url": "https://www.instagram.com/p/CYO2DSYJamP/",
+            "snippet": "1.6m Likes, 7738 Comments - BLΛƆKPIИK (@blackpinkofficial) on Instagram: “#BLACKPINK #블랙핑크 #JISOO #지수 #HAPPYBIRTHDAY #20220103 #YG”",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "http://m.yes24.com › AuthorInfo",
+            "title": "지수(Jisoo) - YES24 작가파일",
+            "url": "http://m.yes24.com/Author/AuthorInfo?AuthNo=187206",
+            "snippet": "지수(Jisoo).",
+            "sequence": 11
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://music.bugs.co.kr › artist",
+            "title": "지수(JISOO) - 벅스",
+            "url": "https://music.bugs.co.kr/artist/80265677?wl_ref=S_ar_02_04",
+            "snippet": "아티스트 정보. 유형, 솔로 (여성). 데뷔, 2016. 국적, 대한민국. 소속 활동, BLACKPINK. 인기곡 듣기 라디오 듣기. 좋아1,252. 좋아를 눌러서 새 소식을 받아보세요!",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://music.bugs.co.kr/artist/80265677?wl_ref=S_ar_02_04",
+                "desc": "jisoo 지수(출처: music.bugs.co.kr)"
+            },
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://m2.melon.com › artist › song",
+            "title": "지수 (JISOO)- 아티스트채널 | Melon",
+            "url": "https://m2.melon.com/artist/song.htm?artistId=995174",
+            "snippet": "아티스트 채널. 지수 (JISOO). 친밀도0°. 작사/작곡 2. 팬맺기 15,285 댓글 1,770 공유하기. 곡. 전체보기. Lovesick Girls BLACKPINK. 앨범 자세히보기 재생.",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://ko.m.wikipedia.org › wiki",
+            "title": "지수 (가수) - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.m.wikipedia.org/wiki/%EC%A7%80%EC%88%98_(%EA%B0%80%EC%88%98)",
+            "snippet": "2011년 7월부터 YG 엔터테인먼트에서 연습생으로 활동하다가 2016년 8월 8일 블랙핑크로 데뷔하였다. Picto infobox music.png. 지수. 210928 Jisoo.jpg. 기본 정보.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://ko.m.wikipedia.org/wiki/%EC%A7%80%EC%88%98_(%EA%B0%80%EC%88%98)",
+                "desc": "jisoo 지수(출처: ko.m.wikipedia.org)"
+            },
+            "properties": [
+                {
+                    "key": "소속 그룹",
+                    "value": "블랙핑크"
+                },
+                {
+                    "key": "본명",
+                    "value": "김지수"
+                }
+            ],
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://mobile.twitter.com › status",
+            "title": ".Off the Page__ on Twitter: \"190714 #블랙핑크 #지수 #BLACKPINK #JISOO https://t.co/GCLcNbYJ8b #올해의_시작은_지수와함께 #WorldStarJISOODay #우리의_ ...",
+            "url": "https://mobile.twitter.com/offthepage_js/status/1345376760754446336",
+            "snippet": "블랙핑크 지수 생일 축하해요 Offthepage oppa I love u☝ #WorldStarJISOODay #우리의_월드 ... thank you masternim for always being with jisoo 블랙핑크 지수 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://mobile.twitter.com/offthepage_js/status/1345376760754446336",
+                "desc": "jisoo 지수(출처: mobile.twitter.com)"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.vogue.co.kr › jisoo-in-...",
+            "title": "JISOO in VOGUE - 보그 코리아",
+            "url": "https://www.vogue.co.kr/2022/03/23/jisoo-in-vogue/",
+            "snippet": "2022. 3. 23. — VOGUE loves JISOO! 2017년부터 2022년 4월호 커버 걸까지, 지수의 스토리. 하고 싶은 것, 이루고 싶은 것을 위해 자기만의 길을 걸어온 네 소녀.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.vogue.co.kr/2022/03/23/jisoo-in-vogue/",
+                "desc": "jisoo 지수(출처: www.vogue.co.kr)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.aladin.co.kr › mproduct",
+            "title": "Elle (월간 홍콩): 2021년 6월호 (Blackpink Jisoo 블랙핑크 지수) - Orange 커버 - 알라딘",
+            "url": "https://www.aladin.co.kr/m/mproduct.aspx?ItemId=272179369",
+            "snippet": "2021. 6. 1. — Elle (월간 홍콩): 2021년 6월호 (Blackpink Jisoo 블랙핑크 지수) - Orange 커버.",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://m.workplace.com › photos",
+            "title": "felling love bby . #BLACKPINK #JISOO | Facebook - Workplace",
+            "url": "https://m.workplace.com/KimJisoo.YG.FAMILY/photos/a.104589198670613/160105953118937/?type=3",
+            "snippet": "Jisoo-지수, profile picture. Jisoo-지수. hii blink✨. May be an image of 1 person. 1 mo Report. Jafar Baabad, profile picture. Jafar Baabad.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.workplace.com/KimJisoo.YG.FAMILY/photos/a.104589198670613/160105953118937/?type=3",
+                "desc": "jisoo 지수(출처: m.workplace.com)"
+            },
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://www.wkorea.com › tag › jisoo",
+            "title": "jisoo | 더블유 코리아 (W Korea)",
+            "url": "https://www.wkorea.com/tag/jisoo/",
+            "snippet": "디올의 NEW '포에버 스킨 글로우 쿠션'과 함께한 '지수'의 빛나는 순간.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.wkorea.com/tag/jisoo/",
+                "desc": "jisoo 지수(출처: www.wkorea.com)"
+            },
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.pinterest.com › pin",
+            "title": "BLACKPINK JISOO 지수 on Twitter - Pinterest",
+            "url": "https://www.pinterest.com/pin/665125438725291283/",
+            "snippet": "“【Instagram】 210810 @ sooyaaa__ 잇미샤와 함께 https://t.co/ufdbdeafrS #BLACKPINK #JISOO #블랙핑크 #지수 @BLACKPINK” ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.pinterest.com/pin/665125438725291283/",
+                "desc": "jisoo 지수(출처: www.pinterest.com)"
+            },
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://ca.amazingtalker.com › jisoo-...",
+            "title": "지수 JIsoo 일본어 강사 경력 단기간에 프리토킹까지⛳️ - AmazingTalker",
+            "url": "https://ca.amazingtalker.com/teachers-and-tutors/jisoo-lee-8ce842f9-9097-4447-bfe6-513e9973165f",
+            "snippet": "지수쌤의 수업은 특별합니다  목적에 맞게 제작된 특별한 수업자료 : 학생의 목적과 레벨에 맞는 맞춤 교재로 수업 물론 1:1 맞춤 수업 적절한 타이밍에 ...",
+            "rating": {
+                "rating_count": "(1)",
+                "rating_value": "5.0"
+            },
+            "sequence": 22
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://brunch.co.kr › ...",
+            "title": "지수Jisoo의 브런치",
+            "url": "https://brunch.co.kr/@41f0e63d4af84b0",
+            "snippet": "지수Jisoo의 브런치입니다. 브런치 정보: 구독자0: 관심작가3. 구독하기. 다른 작가들의 글과 매거진 ...",
+            "sequence": 23
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 16,
+            "displayed_link": "https://m.vlive.tv › video",
+            "title": "JISOO-VLOG :: 지수의 향을 찾아서 | 취향 듬뿍 향수 만들기 - V LIVE",
+            "url": "https://m.vlive.tv/video/266660",
+            "sequence": 24
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.genie.co.kr › songInfo",
+            "title": "뒷모습 / 지수 (JISOO) - genie - 지니",
+            "url": "https://www.genie.co.kr/detail/songInfo?xgnm=88099907",
+            "snippet": "지수 (JISOO); Tonight; 장르 가요 / 발라드; 재생시간 04:06; 작사가 지수 (JISOO); 작곡가 지수 (JISOO); 편곡자 이기현. 듣기 담기 다운로드 더보기 다운로드 선물 ...",
+            "sequence": 25
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 26
+        }
+    ]
+}

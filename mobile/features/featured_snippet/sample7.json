@@ -1,0 +1,273 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "319999c0-7e0b-4dd0-a938-c0d74507c687",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T07:29:45.753Z",
+        "q": "아이 패드 리모트",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%95%84%EC%9D%B4+%ED%8C%A8%EB%93%9C+%EB%A6%AC%EB%AA%A8%ED%8A%B8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121629/218036105124-C5AE6564A69F4DB2929F8CEC5E14321B-00.html",
+        "json_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121629/218036105124-C5AE6564A69F4DB2929F8CEC5E14321B-00.json",
+        "crawl_start_time": "2022-05-12T07:29:45.818Z",
+        "crawl_end_time": "2022-05-12T07:29:51.676Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "사용법",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "아이 패드 리모트",
+        "parsed_time": "2022-05-12T07:29:52.018Z"
+    },
+    "features": [
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "PS5 게임 아이패드에서 하는 법! 플스5 리모트 플레이 해보니! [4K] - YouTube",
+                    "displayed_link": "YouTube · 이퓨",
+                    "url": "https://m.youtube.com/watch?v=irWXnsZYlqc",
+                    "video_exist": true
+                }
+            ],
+            "official": true,
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://dongsig88.tistory.com › ...",
+            "title": "아이패드로 플레이스테이션5 (PS5) 리모트 플레이 설정 및 간략 후기 - 동식라이프",
+            "url": "https://dongsig88.tistory.com/242",
+            "snippet": "2021. 8. 16. — 먼저 앱스토어에서 플스 리모트 플레이(PS Remote Play) 앱을 설치해줍니다. 아이패드뿐만 아니라 아이폰에서도 플레이가 가능한데, 화면 크기 때문에 ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://apps.apple.com › app › ps-re...",
+            "title": "App Store에서 제공하는 PS Remote Play",
+            "url": "https://apps.apple.com/kr/app/ps-remote-play/id1436192460",
+            "snippet": "PS Remote Play의 리뷰를 읽고 고객 평점을 비교할 수 있습니다. 스크린샷을 보고 자세한 내용을 확인해 보세요. PS Remote Play 항목을 다운로드하고 iPhone, iPad 및 ...",
+            "rating": {
+                "rating_count": "(412)",
+                "rating_value": "3.3"
+            },
+            "sequence": 3
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).uVMCKf.mnr-c > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "이걸 무료로 풀었다고? 대박 ㅋㅋ 플스4 게임 이제 아이폰 아이패드에서 정식으로 된다! 플스게임 아이폰 아이패드에 원격으로 즐기는 법 ps4 remote play for ios",
+                    "url": "https://m.youtube.com/watch?v=gDoiXHjNf8g"
+                },
+                {
+                    "title": "PS5 리모트 플레이 테스트 (아이패드 pro 11인치)",
+                    "url": "https://m.youtube.com/watch?v=LSFqN_JCejo"
+                },
+                {
+                    "title": "PS4 리모트플레이 아이패드에 ps4듀얼쇼크 무선연결하기",
+                    "url": "https://m.youtube.com/watch?v=L86kS-zyPrA"
+                }
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://joeunnal.tistory.com › ...",
+            "title": "ipadOS 13 아이패드에 ps4 리모트 플레이 설치, 듀얼쇼크 연결 방법. - 모아나의 이파리",
+            "url": "https://joeunnal.tistory.com/m/58",
+            "snippet": "2020. 2. 14. — 아이패드 PS4 리모트 플레이는. 바닥에 콕 박힌 플스와 tv를. 휴대할 수 있는 즐거움을 주었다. 이동하면서 즐길 수 있는 형태인 것.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "http://m.blog.naver.com › nemonan...",
+            "title": "아이폰, 아이패드 등 IOS 기기에서 PS4 리모트플레이 사용하는 방법과 장단점 정리 - 네이버 블로그",
+            "url": "http://m.blog.naver.com/nemonangoom/221506518281",
+            "snippet": "2019. 4. 5. — 아이폰과 아이패드 등의 IOS 기기에서 PS4 리모트플레이를 즐길 수 있게 되었습니다. 지금까지는 유료 앱에 의존해야만 했는데, 이렇게 소니에서 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.clien.net › board › use",
+            "title": "플스5 아이패드 원격 플레이 사용 후기 - 클리앙",
+            "url": "https://www.clien.net/service/board/use/16140492",
+            "snippet": "아이폰 혹은 아이패드에 PS remote play 앱을 설치하고, 플스 계정을 로그인 ... 사실 플스4 리모트 플레이와 큰 차이가 없을 수도 있을 것 같습니다만.",
+            "sequence": 7
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://maroenispace.tistory.com › ...",
+            "title": "아이패드 프로 4세대 PS4 리모트 플레이 연결하기 - 마로에니 공간",
+            "url": "https://maroenispace.tistory.com/106",
+            "snippet": "2021. 4. 16. — 아이패드 프로에 듀얼쇼크4 연결하기. 리모트. 듀얼쇼크4에서 Shere버튼과 PS버튼을 꾹 누르고 있으면 다른 기기와 블루투스 연결을 할 수 있는 상태 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://thursday1101.tistory.com › ...",
+            "title": "아이폰, 아이패드 PS4 리모트 플레이 설정하기 - Geek",
+            "url": "https://thursday1101.tistory.com/entry/%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-PS4-%EB%A6%AC%EB%AA%A8%ED%8A%B8-%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0?category=723120",
+            "snippet": "2019. 5. 3. — iOS 플레이스테이션4 원격 사용하기 PS4의 PS4 Remote Play 어플을 사용하여 아이폰, 아이패드로 플스4를 원격으로 이용할 수 있다.",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://sparkle-all-the-way.tistory.com › ...",
+            "title": "PS4와 iOS 완벽 호환! 어디서나 PS4와 함께. SONY 공식 PS 파트너 앱(Remote play 외) 5종 및 DUALSHOCK 4 연결하는 법 - PETILLANT",
+            "url": "https://sparkle-all-the-way.tistory.com/13",
+            "snippet": "2020. 3. 12. — PlayStation 4를 사용하는 동안 보조장비로 iPhone이나 iPad 같은 iOS 디바이스를 활용할 수 있다. 이 심플한 앱은 세컨드 스크린 모드, 터치 패드 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.playstation.com › ko-kr",
+            "title": "PS 리모트 플레이",
+            "url": "https://www.playstation.com/ko-kr/remote-play/",
+            "snippet": "PS 리모트 플레이는 Android 스마트폰/태블릿, iPhone, iPad, Windows PC, Mac, PS5, PS4 콘솔에서 이용할 수 있습니다. 자세히 보기. 리모트 플레이는 모바일 데이터 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://remoteplay.dl.playstation.net › ...",
+            "title": "모바일 기기에서 PS5 제어하기 | PS Remote Play",
+            "url": "https://remoteplay.dl.playstation.net/remoteplay/lang/kr/ps5_mobile.html",
+            "snippet": "시작하기. 리모트 플레이를 사용하려면 다음 항목이 필요합니다. Android™ 스마트폰 또는 태블릿, iPhone 또는 iPad 시스템 요구 사항에 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://slowjeong.tistory.com › ...",
+            "title": "아이패드 Remote Desktop Client(RD Client) 어플로 간편하게 PC 원격접속 해보자 - 느린 블로그",
+            "url": "https://slowjeong.tistory.com/18",
+            "snippet": "2020. 12. 8. — 안녕하세요 느린 블로그의 정거북입니다 아이패드, 아이폰을 쓰시는 분들 중에서 집에서 데스크탑 이용하시는 분들이 있을텐데요 바깥에 나왔을 때, ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://chiwater.tistory.com › ...",
+            "title": "아이패드 PS4 듀얼쇼크 연결하기 (애플 아케이드 / PS4 리모트 플레이 활용) - 치킨먹는수박",
+            "url": "https://chiwater.tistory.com/64",
+            "snippet": "2019. 10. 12. — 애플의 아이패드를 활용해 다양하게 게임을 즐길 수 있습니다. PS4가 있는 경우 리모트 플레이를 하거나, 이번에 새로 나온 애플 아케이드를 통해 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://files.rsupport.com › re...",
+            "title": "RemoteView ASP IPhone/iPad User Guide - Rsupport",
+            "url": "https://files.rsupport.com/kr/remoteview/documents/user-guides/remoteview6.0-ios-userguide-kr.pdf",
+            "snippet": "2022. 4. 5. — 아이폰, 아이패드, 안드로이드. 폰, 윈도우 모바일 폰 계열의 모바일 기기로 다른 기기도 원격 제어할 수 있습니다. 본 문서는 리모트뷰(RemoteView) ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://sonhc.tistory.com › ...",
+            "title": "iPad Pro에서 PS4 듀얼쇼크로 xbox cloud 리모트 플레이",
+            "url": "https://sonhc.tistory.com/m/897",
+            "snippet": "2022. 2. 9. — 티스토리 · 1. xcloud 스트리밍을 위한 게임패스 얼티밋 구독 필요. - 설명 생략 · 2. iPad에 PS4 듀얼쇼크 패드 BT 페어링 (iPad Pro 5세대, iOS 15 기준).",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://m.ruliweb.com › board › read",
+            "title": "iOS PS Remote Play 업데이트 (모바일 데이터 연결 지원) | 플레이스테이션 정보 - 루리웹",
+            "url": "https://m.ruliweb.com/ps/board/300001/read/2252731",
+            "snippet": "2021. 9. 15. — https://apps.apple.com/kr/app/ps-remote-play... ... 0 / 600 bytes. 아 이럴줄 알았으면 셀룰러 아이패드를 사는건데. 끝발난가을이 | 220.83.***.",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.zdnet.co.kr › view",
+            "title": "소니, 아이폰-아이패드에 PS4 리모트 플레이 지원 - ZDNet korea",
+            "url": "https://www.zdnet.co.kr/view/?no=20190308082534",
+            "snippet": "2019. 3. 8. — 이 기능을 사용하기 위해서는 PSN 계정이 필요하며, 앱이 설치된 아이폰과 아이패드가 와이파이 기능이 활성화 되야 한다. 플레이스테이션4의 리모트 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://cboard.net › ...",
+            "title": "아이패드 리모트 LTE로 접속하기 > 플레이 스테이션 | 시보드 - 종합 커뮤니티",
+            "url": "https://cboard.net/ps/291905",
+            "snippet": "2021. 10. 11. — 아이패드 리모트 LTE로 접속하기 - () ... 요즘 대부분 통신은 IPv6을 지원하지만 플스 리모트 어플은 예전에 출시된거라 아직 IPv4 밖에 지원이 ...",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://dvdprime.com › bbs › board",
+            "title": "PS4 리모트앱 + 아이패드미니로 외부에서 게임을 ㅎㅎ - DVDPrime",
+            "url": "https://dvdprime.com/g2/bbs/board.php?bo_table=comm&wr_id=20163529",
+            "snippet": "블루투스도 잘 붙고, 안드로이드 / IOS 사이도 쉽게 전환되는것 같네요. 폰은 컨트롤러 자체에 거치대가 있어서 괜찮은데 아이패드 거치대는 직접 제작한 ...",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://kasakyu.tistory.com › ...",
+            "title": "[유료어플]아이폰,아이패드용 PS4 리모트앱 R-PLAY 연결방법 - 서주니아빠",
+            "url": "https://kasakyu.tistory.com/m/869",
+            "snippet": "2018. 10. 4. — 아이폰,아이패드. PS4 리모트앱 R-PLAY. ￣￣￣￣￣￣￣￣￣￣￣￣￣￣. 안녕하세요 쥔장입니다. 오늘은 예전에 한번 올렸던 PS4 리모트앱입니다.",
+            "sequence": 22
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 23
+        }
+    ]
+}

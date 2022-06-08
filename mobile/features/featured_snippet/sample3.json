@@ -1,0 +1,285 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "73f72403-2232-4b27-813f-a6f0238e6cdb",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:40:59.491Z",
+        "q": "응급실 과밀화 지수",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%9D%91%EA%B8%89%EC%8B%A4+%EA%B3%BC%EB%B0%80%ED%99%94+%EC%A7%80%EC%88%98&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0010.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/211254003099-773E7F534A854155BCCD7283A1B2E556-00.html",
+        "json_url": "http://node0010.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/211254003099-773E7F534A854155BCCD7283A1B2E556-00.json",
+        "crawl_start_time": "2022-05-12T08:40:59.517Z",
+        "crawl_end_time": "2022-05-12T08:41:03.912Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "지수",
+            "domain": "인물",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "응급실 과밀화 지수",
+        "parsed_time": "2022-05-12T08:41:04.153Z"
+    },
+    "features": [
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "[보고서]응급실 과밀화 개선을 위한 응급의료체계 모델 개발 연구 - 한국과학기술정보연구원",
+                    "displayed_link": "https://scienceon.kisti.re.kr › srch › s...",
+                    "url": "https://scienceon.kisti.re.kr/srch/selectPORSrchReport.do?cn=TRKO201900000663&dbt=TRKO",
+                    "snippet": "초록 ○ 응급실 과밀화지수 (응급실 병상포화지수)는 전국 응급의료센터 평균 (52.6%) 이지만 가장 과밀한 상위 20개 기관은 107%로 365일 내내 빈 병상이 없는...",
+                    "emphasis": [
+                        "응급실",
+                        "응급실 과밀화지수",
+                        "과밀",
+                        "지수"
+                    ],
+                    "properties": [
+                        {
+                            "key": "안내",
+                            "value": "총 건의 자료가 검색되었습니다. > 다운받으실 자료의 인덱스를 입력하세요. ..."
+                        },
+                        {
+                            "key": "구성항목",
+                            "value": "기본정보 상세정보 관리번호, 제목(한글), 저자명(한글), 발행일자, 전자원문, ..."
+                        }
+                    ]
+                }
+            ],
+            "official": true,
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://m.medigatenews.com › news",
+            "title": "MEDI:GATE NEWS 서울대병원 응급실 가장 과밀",
+            "url": "https://m.medigatenews.com/news/2623687079",
+            "snippet": "응급실 과밀화지수 100% 초과란 병상이 부족하다는 뜻으로, 내원환자는 간이침대, 의자, 바닥 등에서 대기하게 될 수 있다. 중증응급환자의 재실시간이 가장 긴 병원은 ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.e-gen.or.kr › nemc › b...",
+            "title": "응급의료기관 평가 | E-GEN통합홈페이지",
+            "url": "https://www.e-gen.or.kr/nemc/business_medical_institution_evaluation.do?tabId=3",
+            "snippet": "병상포화지수 : 응급실 병상 수 대비 내원 환자를 반영한 과밀화 측정 ※ 중증상병해당환자 재실시간 : 응급실에 내원한 중증상병해당 환자들의 응급실 내원부터 진료 ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.doctorsnews.co.kr › news",
+            "title": "응급의료기관 과밀화지수 107%...여전히 높아 - 의협신문",
+            "url": "https://www.doctorsnews.co.kr/news/articleView.html?idxno=108971",
+            "snippet": "2016. 3. 3. — 응급실 과밀화 지수는 응급실 내원환자의 재실 시간 총합을 병상 수에 365일·24시간을 곱한 수로 나눈 수치로, 과밀화 지수가 100%를 초과하는 병원은 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.sedaily.com › NewsVIew",
+            "title": "지역응급의료센터 포화도 44.1%→46.1%…응급실 과밀화 여전 - 서울경제",
+            "url": "https://m.sedaily.com/NewsViewAmp/1ZAKJI4ZNC",
+            "snippet": "2020. 11. 27. — 응급실 환경 개선...과밀화는 여전. 병상포화지수, 지역응급의료센터 2%포인트 상승. 중증상병환자, 응급실 내원 후 6시간 안팎 머물러.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "http://www.monews.co.kr › news",
+            "title": "서울대병원 응급실, 과밀화지수 가장 높아 - 메디칼업저버",
+            "url": "http://www.monews.co.kr/news/articleView.html?idxno=86450",
+            "snippet": "2015. 10. 6. — 전국 10개 국립대병원 중 응급실 과밀화지수가 가장 높은 곳은 서울대병원으로 조사됐다. 6일 교육문화체육관광 국정감사에서 새정치민주연합 박혜자 ...",
+            "sequence": 6
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "http://www.bosa.co.kr › articleView",
+            "title": "서울대병원, 응급실 과밀화지수 '1위' < 기타기관 < 정책 - 의학신문",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=585211",
+            "snippet": "응급실 과밀화지수는 내원환자의 재실시간 총 합계를 병상수와 일 년의 시간을 곱한 값으로 나눈 수치로 응급실 과밀화지수가 100%를 초과하는 병원은 응급실 병상이 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.medicaltimes.com › News",
+            "title": "서울대병원 응급실의 기적…고질적 '과밀화'가 사라졌다 - 메디칼타임즈",
+            "url": "https://www.medicaltimes.com/News/1121592",
+            "snippet": "2018. 10. 12. — 올해 내내 80~90% 내외를 유지하고 있다. 더 이상 과밀화 지수 170%까지 찍으며 응급환자 수용 능력이 현저히 떨어지던 서울대병원이 아니었다. 서울대 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.mohw.go.kr › react",
+            "title": "알림 > 보도자료 내용보기 \" 법정기준 충족률, 응급실 과밀화, 중증환자 책임진료 등 점차 개선 3년 연속 법정기준 미충족 기관 8개소 지정취소 등 행정조치 추진 \" - 보건복지부",
+            "url": "https://www.mohw.go.kr/react/al/sal0301vw.jsp?PAR_MENU_ID=04&MENU_ID=0403&page=135&CONT_SEQ=339014",
+            "snippet": "2017. 4. 3. — 보건복지부(장관 정진엽)는 전국 414개 응급의료기관에 대해 '15.7월˜'16.6월에 대한 시설·장비·인력 법정기준 충족 여부, 응급실 과밀화 지수, ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.joongang.co.kr › article",
+            "title": "[시론] 응급환자 생명 위협하는 응급실 과밀화 | 중앙일보",
+            "url": "https://www.joongang.co.kr/amparticle/19760200",
+            "snippet": "2016. 3. 22. — 환자가 집중되는 유명 대형병원들은 과밀화와 소란, 입원정체 등 후진적 환경이 심화되고 있었다. 과밀화지수가 가장 높은 병원은 서울대병원(182%)으로 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://m.health.chosun.com › svc",
+            "title": "북적이는 응급실, 중증 응급환자 응급실에서 14.0시간 머문다 - 헬스조선",
+            "url": "https://m.health.chosun.com/svc/news_view.html?contid=2016030302873",
+            "snippet": "2016. 3. 3. — 보건복지부의 '2015년도 응급의료기관 평가결과'에 따르면, 전국 414개 응급 의료기관 중 가장 과밀한 상위 20개 병원의 응급실 과밀화 지수는 2014년도의 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.health.chosun.com/svc/news_view.html?contid=2016030302873",
+                "desc": "응급실 과밀화 지수(출처: m.health.chosun.com)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://www.akomnews.com › board",
+            "title": "대형병원 응급실 과밀화 여전 > 뉴스 | 한의신문",
+            "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=24889",
+            "snippet": "2016. 3. 3. — 응급실과밀화지수가 100%를 초과하는 병원은 응급실 병상이 부족해 응급실 내원환자가 간이침대, 의자, 바닥 등에서 대기하게 됨을 의미한다. 응급실이 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=24889",
+                "desc": "응급실 과밀화 지수(출처: www.akomnews.com)"
+            },
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "http://m.whosaeng.com › ...",
+            "title": "전북대병원 응급실 개선 효과 '톡톡' - 후생신보",
+            "url": "http://m.whosaeng.com/96080",
+            "snippet": "2017. 9. 19. — 우선 응급실 과밀화 지수를 말하는 병상포화지수는 100%로 개선목표치(110%)를 10% 초과 달성했으며, 전국권역응급센터를 대상으로 한 2016년 평가 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "http://m.rapportian.com › articleView",
+            "title": "응급실 과밀화 더 악화됐는데 응급의료 질 높아졌다는 복지부",
+            "url": "http://m.rapportian.com/news/articleView.html?idxno=119058",
+            "snippet": "2019. 7. 31. — 2018년 응급의료기관 평가 결과 발표... 시설·장비·인력기준 충족 비율 향상 권역응급의료센터 등 병상포화지수 더 나빠져 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.rapportian.com/news/articleView.html?idxno=119058",
+                "desc": "응급실 과밀화 지수(출처: m.rapportian.com)"
+            },
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://jkana.or.kr › DOIx › jkana.2...",
+            "title": "응급실 과밀화와 간호사 배치수준이 폐렴 환자의 입실 후 항생제 투여까지 소요된 시간에 미치는 영향 - :: JKANA :: Journal of Korean Academy of Nursing Administration",
+            "url": "https://jkana.or.kr/DOIx.php?id=10.11111/jkana.2018.24.2.107",
+            "snippet": "이주현 저술 · 2018 · 2회 인용 — 응급실 과밀화는 응급의료기관평가의 적시성 평가 기준인 '병상포화지수(occupancy rate)'를 사용하였다[14]. 병상포화지수(%)는(내원 환자수×평균 재 ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "http://m.healthfocus.co.kr › news",
+            "title": "대형병원 응급실 과밀화 여전, 서울대 1위 - 헬스포커스뉴스",
+            "url": "http://m.healthfocus.co.kr/news/articleView.html?idxno=57473",
+            "snippet": "2016. 3. 3. — 2015년도 응급의료기관 평가결과, 가장 과밀한 상위 20개 병원의 응급실 과밀화지수는 2014년도의 108%에 비해 소폭 감소한 107%로 나타났으며, 중증응급 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.medifonews.com › article",
+            "title": "전북대병원, 응급실 안전성 및 중환자 책임진료 큰 성과 김선호 기자 - 메디포뉴스",
+            "url": "https://www.medifonews.com/mobile/article.html?no=142792",
+            "snippet": "2018. 12. 13. — 응급실 감염관리와 중증상병해당환자 분담률 및 구성비 1등급… ... 응급실 과밀화 지수를 말하는 병상포화지수의 경우 2016년에는 135.8%였지만 2017 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "http://www.khanews.com › news › a...",
+            "title": "국내 응급실 수준 해마다 향상 - 병원신문",
+            "url": "http://www.khanews.com/news/articleView.html?idxno=128447",
+            "snippet": "2017. 4. 4. — 정부가 해마다 400여 곳의 응급의료기관에 대해 법정기준 충족 여부와 응급실 과밀화 지수, 최종치료 제공률 등에 대해 평가한 결과 우리나라 응급실 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.mk.co.kr › 2016/03",
+            "title": "서울대병원 응급실 20시간 기다려야 - 매일경제",
+            "url": "https://m.mk.co.kr/news/economy/view-amp/2016/03/168191/",
+            "snippet": "2016. 3. 3. — 응급실 과밀화지수란 환자가 응급실에 머문 시간을 병상 수 등으로 나눠 산출한 것이다. 이 지수가 100%를 넘으면 응급실 방문 환자가 간이침대나 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.mk.co.kr/news/economy/view-amp/2016/03/168191/",
+                "desc": "응급실 과밀화 지수(출처: m.mk.co.kr)"
+            },
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "http://www.clinicjournal.co.kr › article",
+            "title": "응급실 가장 과밀한 병원 서울대병원, 전북대병원순 - 클리닉저널",
+            "url": "http://www.clinicjournal.co.kr/mobile/article.html?no=5469",
+            "snippet": "2016. 3. 3. — '2015년도 응급의료기관 평가결과, 가장 과밀한 상위 20개 병원의 응급실 과밀화지수는 '14년도의 108%에 비해 소폭 감소한 107%로 나타났으며, 중증응급 ...",
+            "sequence": 21
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 22
+        }
+    ]
+}

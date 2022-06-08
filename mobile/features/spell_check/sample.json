@@ -1,0 +1,225 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "6cdb0334-c8a9-4b9b-bfdb-19421b4b73f7",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T06:02:25.655Z",
+        "q": "c# linkq 최대값",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=c%23+linkq+%EC%B5%9C%EB%8C%80%EA%B0%92&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0022.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131502/223165239016-5394C3206FC44FD087F8CA31F951511E-00.html",
+        "json_url": "http://node0022.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131502/223165239016-5394C3206FC44FD087F8CA31F951511E-00.json",
+        "crawl_start_time": "2022-05-13T06:02:25.717Z",
+        "crawl_end_time": "2022-05-13T06:02:29.999Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "c# linq 최대값",
+        "parsed_time": "2022-05-13T06:02:30.350Z"
+    },
+    "features": [
+        {
+            "type": "spell_check",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(1) > div:nth-child(1) > p#fprs.p64x9c.card-section.KDCVqf.mnr-c",
+            "fixed_query": "c# linq 최대값",
+            "origin_query": "c# linkq 최대값",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://hijuworld.tistory.com › ...",
+            "title": "C# LINQ 집계함수(Sum,MAX,MIN,Average,count,Aggregate 등) - 공돌창고",
+            "url": "https://hijuworld.tistory.com/m/57",
+            "snippet": "2018. 6. 14. — C#의 LINQ를 사용하면 데이터를 가공하고 추출하는데 편리하고 빠른 장점이 ... 우선 기본적인 합(Sum), 최대값(Max), 최소값(Min), 평균값(Average), ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://goodcopy.tistory.com › ...",
+            "title": "linq를 사용하여 최대 값을 가진 항목을 찾는 방법은 무엇입니까? - goodcopy",
+            "url": "https://goodcopy.tistory.com/m/123",
+            "snippet": "2021. 1. 18. — EF 또는 LINQ to SQL 사용 : var item = db.Items.OrderByDescending(i => i.Value).FirstOrDefault();. LINQ to Objects를 사용하면 ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://ibocon.tistory.com › ...",
+            "title": "[C#] LINQ 사용방법 - 집계 작업 Max - 김예건",
+            "url": "https://ibocon.tistory.com/111",
+            "snippet": "2020. 2. 2. — 집계 작업에 해당하는 LINQ 메서드로는 Count, Sum, Min, Max, Average, Aggregate 가 있습니다. Max. 집합 내에 최댓값 찾기. int[] numbers = { ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(6) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://docs.microsoft.com › api › sy...",
+            "title": "Enumerable.Max 메서드 (System.Linq) | Microsoft Docs",
+            "url": "https://docs.microsoft.com/ko-kr/dotnet/api/system.linq.enumerable.max",
+            "snippet": "값 시퀀스의 최대값을 반환합니다. ... C# 복사. public static decimal Max (this System.Collections.Generic.IEnumerable<decimal> source);",
+            "properties": [
+                {
+                    "key": "Max(IEnumerable>)",
+                    "value": "nullable Double 값 시퀀스의 최대값을 반환..."
+                },
+                {
+                    "key": "Max(IEnumerable>)",
+                    "value": "nullable Decimal 값 시퀀스의 최대값을 반..."
+                },
+                {
+                    "key": "Max(IEnumerable)",
+                    "value": "Int32 값 시퀀스의 최대값을 반환합니다"
+                },
+                {
+                    "key": "Max(IEnumerable)",
+                    "value": "Decimal 값 시퀀스의 최대값을 반환합니다"
+                }
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://afsdzvcx123.tistory.com › C-...",
+            "title": "[C# 문법] C# LINQ GroupBy 이용하여 최대값 가져오기",
+            "url": "https://afsdzvcx123.tistory.com/entry/C-%EB%AC%B8%EB%B2%95-C-LINQ-GroupBy-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B5%9C%EB%8C%80%EA%B0%92-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0",
+            "snippet": "2021. 8. 13. — 소개 안녕하세요. C# 문법에서 LINQ 구문에 대해서 알려 드리려고 합니다. 그 중에서도 특정 데이터에서 그룹을 지어서 해당 그룹별 가장 큰 값, ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://afsdzvcx123.tistory.com › C-...",
+            "title": "[C# 문법] C# Linq 이용하여 Min, Max, Sum 함수 사용하기 - 범범조조",
+            "url": "https://afsdzvcx123.tistory.com/entry/C-%EB%AC%B8%EB%B2%95-C-Linq-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-Min-Max-Sum-%ED%95%A8%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0",
+            "snippet": "2020. 8. 12. — 오늘은 C# 문법에서 Linq 에 대해서 알아보려고 합니다. 그 중에서도 Linq를 이용하여 숫자를 다룰 때, 해당 배열 혹은 List에서 Min, Max, Sum 값 ...",
+            "sequence": 7
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "C LINQ select",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_16_cfR9YoyFNsSq0PEPyZuPkAo__22 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "C LINQ Aggregate",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_17_cfR9YoyFNsSq0PEPyZuPkAo__25 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "C LINQ group by Max",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_18_cfR9YoyFNsSq0PEPyZuPkAo__27 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "C LINQ 함수",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_19_cfR9YoyFNsSq0PEPyZuPkAo__29 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "C List 가장 큰 값",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_20_cfR9YoyFNsSq0PEPyZuPkAo__31 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "C list average",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_21_cfR9YoyFNsSq0PEPyZuPkAo__32 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://ponyozzang.tistory.com › ...",
+            "title": "C# LINQ 리스트 집계 최대,최소,합계,평균값 구하기 - 포뇨아빠",
+            "url": "https://ponyozzang.tistory.com/385",
+            "snippet": "2019. 11. 15. — C#에서 리스트(List)에 저장된 값 중 최대값, 최소값, 합계, 평균값을 구하는 샘플을 보도록 하겠습니다. Linq에는 최대값, 최소값, 합계, 평균값 등 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.sysnet.pe.kr › ...",
+            "title": ".NET Framework: 247. LINQ에서의 Max 기능 구현 - 정성태",
+            "url": "https://www.sysnet.pe.kr/2/0/1146",
+            "snippet": "2011. 10. 12. — 이를 위해서 Max에 대한 별도의 확장 함수를 제공해 주면 되는데, 이에 대해서는 다음의 글에서 자세하게 설명해 주고 있습니다. Custom C# 3.0 LINQ Max ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://hl4rny.tistory.com › ...",
+            "title": "LINQ 집계함수(Sum,MAX,MIN,Average,count,Aggregate 등) - 백곡시스템",
+            "url": "https://hl4rny.tistory.com/452?category=779313",
+            "snippet": "2020. 5. 24. — https://hijuworld.tistory.com/57?category=817153 C# LINQ 집계함수(Sum,MAX,MIN,Average,count,Aggregate 등) C#의 LINQ를 사용하면 데이터를 가공 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "http://daplus.net › c-linq를-사용하...",
+            "title": "[C#] LINQ를 사용하여 최소 또는 최대 속성 값을 가진 개체를 선택하는 방법 - 리뷰나라",
+            "url": "http://daplus.net/c-linq%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%B5%9C%EC%86%8C-%EB%98%90%EB%8A%94-%EC%B5%9C%EB%8C%80-%EC%86%8D%EC%84%B1-%EA%B0%92%EC%9D%84-%EA%B0%80%EC%A7%84-%EA%B0%9C%EC%B2%B4%EB%A5%BC/",
+            "snippet": "[C#] LINQ를 사용하여 최소 또는 최대 속성 값을 가진 개체를 선택하는 방법. C# / 글쓴이 ... Null DateOfBirth 값은 최소 고려 사항에서 제외하기 위해 DateTime.",
+            "sequence": 12
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "C List 평균",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_32_cfR9YoyFNsSq0PEPyZuPkAo__19 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "c# 입력 받아 최대값 구하기",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_33_cfR9YoyFNsSq0PEPyZuPkAo__20 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "C LINQ Max value",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_34_cfR9YoyFNsSq0PEPyZuPkAo__21 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "C LINQ Min",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_35_cfR9YoyFNsSq0PEPyZuPkAo__23 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "C list Max",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_36_cfR9YoyFNsSq0PEPyZuPkAo__24 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "C LINQ 속도",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_37_cfR9YoyFNsSq0PEPyZuPkAo__26 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "c# 배열 최대값 인덱스",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_38_cfR9YoyFNsSq0PEPyZuPkAo__28 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "C LINQ 병렬",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_39_cfR9YoyFNsSq0PEPyZuPkAo__30 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 13
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "14677392-783f-4030-9609-37caadfa5291",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:41:21.983Z",
+        "q": "프랑스 학생비자 신청",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%ED%94%84%EB%9E%91%EC%8A%A4+%ED%95%99%EC%83%9D%EB%B9%84%EC%9E%90+%EC%8B%A0%EC%B2%AD&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0016.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/218036020024-5D2F44A4DC19429390568BBF5578471E-00.html",
+        "json_url": "http://node0016.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/218036020024-5D2F44A4DC19429390568BBF5578471E-00.json",
+        "crawl_start_time": "2022-05-12T08:41:22.027Z",
+        "crawl_end_time": "2022-05-12T08:41:26.276Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "프랑스 학생비자 신청",
+        "parsed_time": "2022-05-12T08:41:26.547Z"
+    },
+    "features": [
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "학생비자 신청과 수속 과정 - 프랑스 엥포",
+                    "displayed_link": "http://www.franceinfos.org › sub02",
+                    "url": "http://www.franceinfos.org/sub04/sub02.php",
+                    "ordered_list": {
+                        "title": "필요한 서류는 아래와 같습니다.",
+                        "items": [
+                            "여권 및 여권 사본 1부",
+                            "비자 신청서",
+                            "캠퍼스프랑스 도장이 찍힌 프랑스 학교 가등록증 1부",
+                            "주한프랑스대사관 방문 예약확인증 1부",
+                            "영문 은행 잔고 증명서 원본 1부",
+                            "택배 운송장: 대사관에서 직접 작성하여 제출",
+                            "비자 신청 접수료 50유로: 대사관에서 직접 납부"
+                        ]
+                    }
+                }
+            ],
+            "official": true,
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.coree.campusfrance.org › ...",
+            "title": "학생비자 신청 절차",
+            "url": "https://www.coree.campusfrance.org/hagsaengbija-sincheong-jeolcha",
+            "snippet": "프랑스 학생비자 신청 절차는 다음의 두 단계로 진행됩니다. 1단계 : Campus France 온라인 서류 절차 및 면접. 2단계 : 주한 프랑스대사관 홈페이지에 안내 되어 있는 ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://kr.ambafrance.org › 한국에...",
+            "title": "한국에서 프랑스 비자 신청하기",
+            "url": "https://kr.ambafrance.org/%ED%95%9C%EA%B5%AD%EC%97%90%EC%84%9C-%ED%94%84%EB%9E%91%EC%8A%A4-%EB%B9%84%EC%9E%90-%EC%8B%A0%EC%B2%AD%ED%95%98%EA%B8%B0",
+            "snippet": "2022. 3. 15. — 한국에서 제출된 비자 신청 서류는 주한 프랑스 대사관에서 처리합니다.",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://brunch.co.kr › ...",
+            "title": "프랑스 학생비자 발급 - 브런치",
+            "url": "https://brunch.co.kr/@sonoeunz/11",
+            "snippet": "2021. 5. 18. — 학생비자 발급은 1 캠퍼스 프랑스 심사 후 2 프랑스 대사관 서류 제출 두가지 절차가 필요하다. 우선 캠퍼스 프랑스에서는. - “Etudes en France” 라는 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://labodeoa.tistory.com › ...",
+            "title": "프랑스 유학준비 3.학생비자 신청하기(최신판) - Labo de Oa",
+            "url": "https://labodeoa.tistory.com/m/5",
+            "snippet": "2020. 11. 24. — 프랑스 유학준비 3.학생비자 신청하기(최신판) · 6. 이미 프랑스 비자를 받은 적 있는 사람에게만 해당되는 조항 ; · 5. 수업 시작일과 종료일이 명시된 ...",
+            "sequence": 5
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://aaaparis.net › visa-2",
+            "title": "프랑스 학생 비자 발급 - 프랑스유학 파리어학연수 파리 추천 어학원 AAA - AAA Paris",
+            "url": "https://aaaparis.net/ko/visa-2/",
+            "snippet": "프랑스 학생비자 발급 · 1)납부 계좌 : 기업은행(IBK) / 037-062826-01-011 / 프랑스문화원 · 2)납부 금액: 29만원 · 3) 반드시 학생비자 신청자 명의로 송금 · 4)행정 비용 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.studydestiny.co.kr › DI...",
+            "title": "프랑스 학생비자 절차",
+            "url": "https://www.studydestiny.co.kr/france/DIY-visa.html",
+            "snippet": "학생비자 신청 방법 · 1 여권 사진면 스캔본 (프랑스 입국예정일 기준, 유효기간이 15개월 이상 남아있어야 함) · 2 행정비용 납부 영수증 스캔본 (입금확인증, ATM 영수증, ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "http://www.hifrance.co.kr › visa-faq",
+            "title": "프랑스 학생 비자 FAQ - 자주 하는 질문들",
+            "url": "http://www.hifrance.co.kr/visa/visa-faq.html",
+            "snippet": "A) 비자발급승인 확인 관계로 면접 후 비자심사 및 발급에 걸리는 시간은 최소 2주 (성수기에는 3-4주)가 소요되며, 비자신청 절차가 모두 완료되는 시점부터 날짜를 헤 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.blog.naver.com › PostView",
+            "title": "[프랑스유학] 프랑스 학생비자 발급 및 프랑스 유학, 프랑스어학연수 안내 - 하이프랑스 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/PostView.naver?blogId=hi_france&logNo=222314379429&categoryNo=1&proxyReferer=",
+            "snippet": "2021. 4. 18. — 2020년 7월 이후로 프랑스 학생비자 신청이 가능하며. 프랑스 유학을 자유롭게 진행하실 수 있습니다. . 또한 대학교 입학 조건이 가능한 프랑스어학 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://m.blog.naver.com › tour_dada",
+            "title": "주한 프랑스 대사관 영사과 방문 예약, 온라인 비자 신청, 서류 제출 : 네이버 블로그",
+            "url": "https://m.blog.naver.com/tour_dada/222558683548",
+            "snippet": "2021. 11. 4. — Cliquez ici pour Visa étudiant long séjour를 누르면 할 수 있다. . 학생비자인 경우 꼭 이걸 선택해야한다! . 나는 다른 블로그에서 보고.",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "http://www.csfrance.co.kr › uhak",
+            "title": "프랑스 유학정보 - CSFRANCE",
+            "url": "http://www.csfrance.co.kr/uhak.php?table=138",
+            "snippet": "유효기간 : 서류 심사후 4개월에서 12개월 사이 유효한 비자 발급. 비자 신청시 필요한 서류 장기 학생비자 신청자는 반드시 캠퍼스 프랑스와 주한 프랑스 대사관 영사과 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "http://www.gofrance.co.kr › study02",
+            "title": "학생비자&CEF - Go 프랑스",
+            "url": "http://www.gofrance.co.kr/studying/study02.html",
+            "snippet": "아울러, 학생비자는 명시된 기간에 따른 OFII신청을 현지 도착후 해야 하며, 매년 학교 등록관련한 증빙 서류를 경시청에 제출하여 학업이 끝나는 싯점까지 체류증을 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://overseas.mofa.go.kr › view",
+            "title": "(프랑스생활정보) 유학비자로 입국한지 거의 1년이 되어가는데, 체류증 신청은 어떻게 하나요? - 대한민국 재외공관",
+            "url": "https://overseas.mofa.go.kr/fr-ko/brd/m_9466/view.do?seq=1123312&srchFr=&amp;srchTo=&amp;srchWord=&amp;srchTp=&amp;multi_itm_seq=0&amp;itm_seq_1=0&amp;itm_seq_2=0&amp;company_cd=&amp;company_nm=&page=1",
+            "snippet": "작성자: 주 프랑스 대사관; 작성일: 2021-04-16. * VLS-TS비자 : 입국 후 1년간 체류증을 대체하는 체류비자. o (신청시기) 유학비자 소지자는 비자 만료 최소 2개월 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://kupa.korea.ac.kr › about",
+            "title": "주한 프랑스 대사관 – 영사과/비자 www.ambafrance-kr.org - [학생 장기 비자]",
+            "url": "https://kupa.korea.ac.kr/kufra/about/report.do?mode=download&articleNo=112859&attachNo=96184&totalNoticeYn=&totalBoardNo=",
+            "snippet": "주의사항: - 비자 심사 중 추가서류가 요구될 수 있습니다. - 비자 심사 및 발급에 소요되는 기간은 완벽한 서류를 제출하고 특별한 결격사유가 없을 경우에 한해, ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "http://www.eufrance.com › board",
+            "title": "학생비자 신청절차 - EU프랑스유학회",
+            "url": "http://www.eufrance.com/bbs/board.php?bo_table=i_1&wr_id=1",
+            "snippet": "학생비자 신청절차 · 1단계 : 학생비자를 먼저 EU 프랑스에 있는 마이 페이지에 가입 및 서식 입력 회원 가입 후 생성되는 본인 계정(KR회원고유번호) EU 프랑스 기입 · 2 ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "http://168.188.254.57 › data01",
+            "title": "프랑스 학생비자 신청안내 및 서식",
+            "url": "http://168.188.254.57/sub01_05_03/articles/do_print/tableid/data01/id/2058",
+            "snippet": "학생 비자 신청에 필요한 서류 · A. 보증인이 직장인이면 : 재직증명서, 월급명세서 ( 최근 3 개월분 ) 또는원천징수영수증 ( 지난해 ) · B. 보증인이 자영업이면 : 사업자 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://gon0721.tistory.com › ...",
+            "title": "ETAPE 2: 학생비자 발급받기 ② - Etudes en France 면접 - 메종 드 무아",
+            "url": "https://gon0721.tistory.com/627",
+            "snippet": "2020. 11. 16. — 비자 받느라 지쳐서 오늘 글은 대충 써보기로 한다. 1. Campus France 절차 1) 학생비자 개인페이지(Etudes en France) 가입 및 온라인 서식 입력 후 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://lavienomade.tistory.com › ...",
+            "title": "혼자서 프랑스 학생비자 준비하기 - 영사과 서류 준비",
+            "url": "https://lavienomade.tistory.com/82",
+            "snippet": "2018. 2. 13. — 혼자서 프랑스 학생비자 준비하기 - 영사과 서류 준비 · 1) 여권 + 여권사본 · 2) 장기비자신청서 1부: 사진 부착, 작성한 뒤 서명 · 3) 가족관계증명서 원본 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.y-axis.com › france",
+            "title": "프랑스 유학 - 인도 학생 요구 사항, 수수료 - Y-Axis",
+            "url": "https://www.y-axis.com/ko/visa/study/france/",
+            "snippet": "프랑스 학생 비자는 어떻게 신청하나요? 프랑스에서 공부하기 위한 주요 문서, 수수료 및 자격 요건을 숙지하십시오. 빠른 비자 승인을 위해 최고의 연구 컨설턴트인 ...",
+            "rating": {
+                "rating_count": "(896)",
+                "rating_value": "4.8"
+            },
+            "sequence": 20
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 21
+        }
+    ]
+}

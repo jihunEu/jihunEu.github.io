@@ -1,0 +1,865 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "91b950a5-54f4-4ae4-aa63-fda6111ee658",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T07:48:45.773Z",
+        "q": "lenovo laptop computer",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=lenovo+laptop+computer&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0023.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121648/223165239090-49361615BE54494E9338DE71B92E9925-00.html",
+        "json_url": "http://node0023.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121648/223165239090-49361615BE54494E9338DE71B92E9925-00.json",
+        "crawl_start_time": "2022-05-12T07:48:45.821Z",
+        "crawl_end_time": "2022-05-12T07:48:52.778Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "lenovo laptop computer",
+        "parsed_time": "2022-05-12T07:48:53.888Z"
+    },
+    "features": [
+        {
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "Shop lenovo laptop computer",
+            "carousels": [
+                {
+                    "title": "Dell Latitude 5420 Rugged Business Laptop - w/ Windows 11 Pro OS & Intel Core - 14\" FHD Screen - 8 GB - 256 GB - s006l542014us",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAOGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_17ul2MawCH_6qjD26DP1Z6rpjkhg&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQCw&adurl=",
+                    "price": "$1,319.00",
+                    "provider": "Dell",
+                    "data-offer-docid": "1435239180852227350",
+                    "data-merchant-id": "7827",
+                    "data-offer-id": "S006L542014US"
+                },
+                {
+                    "title": "Lenovo Intel Core i7 11th Gen 2.80GHz 512GB SSD 15.6\" Screen Gray 12GB Memory Home/Personal Windows 11 Home 1920x1080 Gaming Laptops",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAJGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_2WbHzk1X33U4IGg8z9yIn2T4vnyw&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQEg&adurl=",
+                    "price": "$629.99",
+                    "provider": "Newegg.com",
+                    "data-catalog-id": "7371038544978375114",
+                    "data-offer-docid": "10123166435217563340",
+                    "data-merchant-id": "102661588",
+                    "data-offer-id": "9SIA24GGE12469"
+                },
+                {
+                    "title": "Lenovo ThinkPad X1 Carbon Gen 9 Intel Laptop - 11th Generation Intel Core i5 1135G7 Processor with Evo - 256GB SSD - 8GB RAM",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAIGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_1-esj9Yc4nEC8PUCbNLvmY4Xu-9g&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQGQ&adurl=",
+                    "price": "$1,475.40",
+                    "provider": "Lenovo",
+                    "data-catalog-id": "8859170466963404822",
+                    "data-offer-docid": "1582245755043317476",
+                    "data-merchant-id": "2354005",
+                    "data-offer-id": "20XW003EUS"
+                },
+                {
+                    "title": "Lenovo - IdeaPad 3 15\" HD Touch Screen Laptop - Intel Core i3-1115G4 - Intel UHD Graphics - 8GB Memory - 256GB SSD - Almond",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAKGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3B-17ZyBYcDCYJG9pCsN2CPZwFPw&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQIA&adurl=",
+                    "price": "$499.99",
+                    "provider": "Best Buy",
+                    "data-catalog-id": "12982291352014995488",
+                    "data-offer-docid": "7866575308177389873",
+                    "data-merchant-id": "1311674",
+                    "data-offer-id": "6497829"
+                },
+                {
+                    "title": "Lenovo 17 Laptop R5 12GB RAM 256GB SSD withWindows 11 ,Grey",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAMGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_0oaFqpVpenlRgE8vu3aPEuWA7DOQ&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQJw&adurl=",
+                    "price": "$769.98",
+                    "provider": "QVC.com",
+                    "data-catalog-id": "1803796517618576132",
+                    "data-offer-docid": "14196580763137065458",
+                    "data-merchant-id": "1218484",
+                    "data-offer-id": "E241818-060-000"
+                },
+                {
+                    "title": "Lenovo Ideapad 3i 14 inch FHD PC Laptop, Intel Core i5-10210U, 8GB Ram, 512gb Ssd, Windows 11 Home, Platinum Grey, 81wa00q7us",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABANGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_35Bq2-rvIGGKgymiv7PWwgrJWDvg&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQLg&adurl=",
+                    "price": "$419.00",
+                    "provider": "Walmart",
+                    "data-catalog-id": "7192580368316026022",
+                    "data-offer-docid": "10686640809379145797",
+                    "data-merchant-id": "8175035",
+                    "data-offer-id": "725997675"
+                },
+                {
+                    "title": "Lenovo ThinkBook 15 Gen 2 Intel Laptop - Intel Core i7 Processor (2.80 GHz) - 512GB SSD - 16GB RAM",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAHGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_2F0Xh_36kYidYqxzPdGcbQBPP4cA&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQNQ&adurl=",
+                    "price": "$1,006.85",
+                    "provider": "Lenovo",
+                    "data-catalog-id": "10051630842319333474",
+                    "data-offer-docid": "16541549099882954013",
+                    "data-merchant-id": "2354005",
+                    "data-offer-id": "20VE004HUS"
+                },
+                {
+                    "title": "Lenovo ThinkPad E15 Gen 2 - 15.6 - Core i7 1165G7 - 16 GB RAM - 512 GB SSD",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAgGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3iLmEhP6BLeLVz7jRahzstx5bEaA&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQPA&adurl=",
+                    "price": "$1,231.99",
+                    "provider": "CDW",
+                    "data-catalog-id": "4972822272145494333",
+                    "data-offer-docid": "14173594614814438307",
+                    "data-merchant-id": "4257713",
+                    "data-offer-id": "6614084"
+                },
+                {
+                    "title": "Recertified - Lenovo Intel Core i5 6th Gen 6300U (2.40GHz) Intel HD Graphics 520 ThinkPad 256GB SSD Windows 10 Pro 12.5\" Screen X270 Grade A Laptop",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAVGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_0z-ZG4bEQlvXCB3RpfepR1aQQ8YQ&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQQw&adurl=",
+                    "price": "$289.99",
+                    "provider": "Newegg.com",
+                    "data-offer-docid": "10035452484651084114",
+                    "data-merchant-id": "8438988",
+                    "data-offer-id": "N82E16834645395"
+                },
+                {
+                    "title": "Lenovo Intel Core i5 11th Gen 1135G7 (2.40GHz) DDR4 3200 12GB Memory 15.6\" Screen Windows 11 in S mode Intel Iris Xe Graphics Laptop",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAZGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3PbK9otH4pqo9fzlyQCZ-UJvR1NA&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQSQ&adurl=",
+                    "price": "$596.96",
+                    "provider": "Newegg.com",
+                    "data-catalog-id": "16317180391768669766",
+                    "data-offer-docid": "17980068176020323735",
+                    "data-merchant-id": "136714425",
+                    "data-offer-id": "9SIAKKBH4T5093"
+                },
+                {
+                    "title": "Lenovo - Yoga 7i 2-in-1 15.6\" Touch Screen Laptop - Intel Core i5 - 8GB Memory - 256GB Solid State Drive - Slate Grey",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAYGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_1EpwO-_qrVdK8uv8sL0QQbPMBebg&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQUA&adurl=",
+                    "price": "$849.99",
+                    "provider": "Best Buy",
+                    "data-catalog-id": "9596898112223596753",
+                    "data-offer-docid": "3253953008776678966",
+                    "data-merchant-id": "1311674",
+                    "data-offer-id": "6426705"
+                },
+                {
+                    "title": "Lenovo ThinkPad P15 Gen 2 Intel - 11th Generation Intel Core i9 11950H Processor with vPro - 1TB SSD - 128GB RAM - Intel vPro platform",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAUGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_26lln-JMZOCg-yEqUMBaJxEq3ScA&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQVw&adurl=",
+                    "price": "$4,609.00",
+                    "provider": "Lenovo",
+                    "data-catalog-id": "1227571417020806944",
+                    "data-offer-docid": "14717705406743884936",
+                    "data-merchant-id": "2354005",
+                    "data-offer-id": "20YQ004TUS"
+                },
+                {
+                    "title": "Lenovo - Yoga 9i 14 2-in-1 14\" Touch-Screen Laptop - Intel Evo Platform Core i7 - 16GB Memory - 512GB SSD - Mica",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAlGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3N9nrR9jQOeEcZQZ9ZRc985xPltA&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQXg&adurl=",
+                    "price": "$1,449.99",
+                    "provider": "Best Buy",
+                    "data-catalog-id": "17710796029752543830",
+                    "data-offer-docid": "3097928421666140267",
+                    "data-merchant-id": "1311674",
+                    "data-offer-id": "6426709"
+                },
+                {
+                    "title": "Lenovo Yoga 6 13 2-in-1 13.3\" Touch Screen Laptop - AMD Ryzen 5 - 8GB Memory - 256GB SSD - Abyss Blue with Fabric Cover",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAaGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_0LiPuMuc6LH6vdcBY-xMKuQIAcWA&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQZg&adurl=",
+                    "price": "$749.99",
+                    "provider": "Best Buy",
+                    "data-catalog-id": "3782738923559135525",
+                    "data-offer-docid": "10440783006417116882",
+                    "data-merchant-id": "1311674",
+                    "data-offer-id": "6455181"
+                },
+                {
+                    "title": "Lenovo Intel Core i7 11th Gen 1165G7 (2.80GHz) 512GB SSD 15.6\" Screen 20TDS06700 Intel Iris Xe Graphics 16GB Memory Laptop",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAmGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3lwROPm4liv8jptBX9QwlmC3Qa2g&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQbQ&adurl=",
+                    "price": "$1,189.00",
+                    "provider": "Newegg.com",
+                    "data-catalog-id": "4972822272145494333",
+                    "data-offer-docid": "10026442418824445119",
+                    "data-merchant-id": "8438988",
+                    "data-offer-id": "2WC-000J-00U25"
+                },
+                {
+                    "title": "Lenovo IdeaPad 3i Laptop, 15.6\" Screen, Intel Core i3, 8GB Memory, 1TB Hard Drive, Wi-Fi 6, Windows 11, 82H801ELUS",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAiGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_2gJ3WRtd3jBPkZDVDkYwcgUTMeAw&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQdA&adurl=",
+                    "price": "$309.99",
+                    "provider": "Office Depot",
+                    "data-catalog-id": "10007355890798021742",
+                    "data-offer-docid": "8012037584365973403",
+                    "data-merchant-id": "7933",
+                    "data-offer-id": "8818764"
+                },
+                {
+                    "title": "Lenovo 17.3\" IdeaPad 3i Laptop Arctic Gray Basic, 17.\", RAM 8GB, DDR4 200MHz, 1x 4GB User Replaceable, Processor Intel Core i Dual Core 11th Gen, ",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAfGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3bGZegv2p2pn5YRdDd1u2ACfoytg&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoECAEQeg&adurl=",
+                    "price": "$359.00",
+                    "provider": "B&H Photo-Video-Audio",
+                    "data-catalog-id": "13160953410006908167",
+                    "data-offer-docid": "16060689433296506516",
+                    "data-merchant-id": "1172711",
+                    "data-offer-id": "1672657-REG"
+                },
+                {
+                    "title": "Lenovo ThinkPad X390 Yoga Silver - 20NN002YUS",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAjGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_2mKp38Bvd_3qIWFvZxVMUHQVRI5A&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoFCAEQhgE&adurl=",
+                    "price": "$1,299.00",
+                    "provider": "HDvisionworks.com",
+                    "data-catalog-id": "2504957097875274645",
+                    "data-offer-docid": "1308031440949191312",
+                    "data-merchant-id": "129114482",
+                    "data-offer-id": "20NN002YUS"
+                },
+                {
+                    "title": "Lenovo - Yoga 9i 14 2-in-1 14\" 4K HDR Touch-Screen Laptop - Intel Evo Platform Core i7 - 16GB Memory - 512GB SSD - Shadow Black",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAoGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_0w6oonSVduB8iHAvBFDR5GSJ-n3Q&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoFCAEQjAE&adurl=",
+                    "price": "$1,749.99",
+                    "provider": "Best Buy",
+                    "data-catalog-id": "2687902478863368827",
+                    "data-offer-docid": "3218478563262015611",
+                    "data-merchant-id": "1311674",
+                    "data-offer-id": "6479683"
+                },
+                {
+                    "title": "Lenovo IdeaPad 3i (15\") Touchscreen Laptop - Intel Core i3 Processor (3.00 GHz) - 128GB SSD - 8GB RAM",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAnGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_0w4LuA4r6hLsgSIJ4IVl7XuS_jJg&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoFCAEQkwE&adurl=",
+                    "price": "$399.99$580",
+                    "provider": "Lenovo",
+                    "data-catalog-id": "2407007855027142794",
+                    "data-offer-docid": "2178458601115935989",
+                    "data-merchant-id": "2354005",
+                    "data-offer-id": "82H801EHUS"
+                },
+                {
+                    "title": "Lenovo Ideapad 3i 15\" Laptop, Intel Pentium 7505, 4GB Memory, 256 SSD, Windows 11 Home (82H801EJUS)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAuGgJwdg&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_3BLAQnC9RhzX_gS3_Kcl4LH-HVKw&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoFCAEQnAE&adurl=",
+                    "price": "$249.99",
+                    "provider": "Staples",
+                    "data-catalog-id": "5098731762231694729",
+                    "data-offer-docid": "15438786856847968616",
+                    "data-merchant-id": "10048",
+                    "data-offer-id": "24503588"
+                },
+                {
+                    "title": "Lenovo IdeaPad 3 15IML05 15.6-inch (2020) - Pentium Gold 6405U - 4 GB - HDD 1 TB",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAtGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_2cWyTB8B2FLf7lmiVAZr46-6mkAw&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoFCAEQowE&adurl=",
+                    "price": "$216.45",
+                    "provider": "Back Market",
+                    "data-catalog-id": "3414486392392037432",
+                    "data-offer-docid": "17279522961783869318",
+                    "data-merchant-id": "118622995",
+                    "data-offer-id": "173678"
+                },
+                {
+                    "title": "Lenovo Yoga 7i 2-in-1 Laptop - 11th Generation Intel Core i7 1165G7 Processor with Evo - 512GB SSD - 8GB RAM",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAsGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_11mK-m486WeNlx-KWB88xnIE9jqQ&ctype=5&q=&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQwg8oAHoFCAEQqQE&adurl=",
+                    "price": "$839.991,210",
+                    "provider": "Lenovo",
+                    "data-catalog-id": "18394235672102222520",
+                    "data-offer-docid": "7117186311764527244",
+                    "data-merchant-id": "2354005",
+                    "data-offer-id": "82BJ0080US"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.lenovo.com/",
+            "title": "Lenovo® Official Store - Latest Tech In Laptops And PCs",
+            "url": "https://www.lenovo.com/us/en/d/deals/doorbusters/",
+            "snippet": "Best Deals on Extraordinary Laptops, Desktops, & More, With Intel® Core™ & Windows® 10 Pro. The Latest Processing, Memory, and Storage. Best Selection & Great Savings. Shop Lenovo®! Trusted Quality. Free Returns. Price Match Guarantee. Shop Our Doorbuster Deals. Diverse Styles. Save On PCs & Electronics. Earn MyLenovo Rewards. Free Shipping & Returns. Models: Home Laptops, Business Laptops, Gaming Laptops, Convertibles, Student Laptops.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwic9onNvNn3AhXMwMIEHR-QCD0YABAxGgJwdg&ae=2&ohost=www.google.com&cid=CAASJeRo-OcosXIQXL627HBpZp3R8jWKqZm5mJKU-IqyUdnixaVA4W0&sig=AOD64_18H0TADCroKgDzu7e_a3QmZ9bBuA&ved=2ahUKEwiO3IDNvNn3AhXgCTQIHbqwAgIQ4uUGegQIBBAH&adurl="
+            },
+            "sequence": 2
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(4).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.samsung.com/",
+            "title": "The Samsung Galaxy Book2 Pro - Thin And Light Sleek Design - Now With 5G Capability",
+            "url": "https://www.samsung.com/us/computing/galaxy-book2/buy/",
+            "snippet": "Buy The Galaxy Book2 Pro & Get 12th Gen Intel® Evo-Certified Platform & Windows 11 OS. Order The Galaxy Book2 Pro & Get $100 Off With Credit. Available at Samsung.com. FHD Camera Auto Framing. 12th Gen Intel Core. S-Pen Capability.",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.lenovo.com › laptops",
+            "title": "Shop Laptops, 2 in 1s, & More | Lenovo US",
+            "url": "https://www.lenovo.com/us/en/laptops",
+            "snippet": "Find top laptops or 2 in 1s for work, school, gaming & more at Lenovo ✔️ Buy or build a model that suits your needs ✔️ Shop Now! FREE SHIPPING.",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.lenovo.com › pc",
+            "title": "Laptops, Desktop PCs, Tablets, Accessories & Monitors | Lenovo US",
+            "url": "https://www.lenovo.com/us/en/pc/",
+            "snippet": "Shop latest PCs, tablets, 2-in-1s, computer accessories, laptops for home, office work, gaming, entertainment & students. Call ☎ 1-855-2-LENOVO ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(5).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.lenovo.com › ...",
+            "title": "Lenovo Official US Site | Laptops, PCs, Tablets & Data Center | Lenovo US",
+            "url": "https://www.lenovo.com/us/en/",
+            "snippet": "Find & buy the right laptop, tablet, desktop or best server. ✔️Build your own PC today or call our sales team ☎ 1-855-2-LENOVO (1-855-253-6686)",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.lenovo.com/us/en/",
+                "desc": "lenovo laptop computer from www.lenovo.com"
+            },
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(7).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.lenovo.com › laptops",
+            "title": "Best Laptop Sale | Lenovo US",
+            "url": "https://www.lenovo.com/us/en/d/deals/laptops/",
+            "snippet": "Results 1 - 40 of 326 — Shop the best laptop deals. Save with cheap discounts on Lenovo laptops and low prices. ✔️ Fast & free shipping.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.lenovo.com/us/en/d/deals/laptops/",
+                "desc": "lenovo laptop computer from www.lenovo.com"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).AuVD.wHYlTd.cUnQKe.Ww4FFb",
+            "results": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_3bt8Ys75POCT0PEPuuGKEA119 > div:nth-child(1) > div:nth-child(1)#RELATED_QUESTION_LINK_12_3bt8Ys75POCT0PEPuuGKEA__59 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.laptopmag.com › best-l...",
+                    "url": "https://www.laptopmag.com/best-lenovo-laptops",
+                    "title": "Best Lenovo laptops in 2022",
+                    "snippet": "The best Lenovo laptops consistently rank near the top of our overall best laptops rankings. From the excellent ThinkPad business laptops to the sleek Yoga notebook and affordable Ideapad laptops, Lenovo offers something for all types of laptop users.Apr 19, 2022"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_3bt8Ys75POCT0PEPuuGKEA119 > div:nth-child(2) > div:nth-child(1)#RELATED_QUESTION_LINK_18_3bt8Ys75POCT0PEPuuGKEA__65 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.newindianexpress.com › ...",
+                    "url": "https://www.newindianexpress.com/expressdeals/laptops/best-lenovo-laptops-in-india/243.html",
+                    "title": "10 Best Lenovo Laptops in India (May 2022) – Buyer's Guide | TNIE",
+                    "snippet": "Best Overall - Lenovo IdeaPad S540 11th Gen Intel Core i7 33.78 cm (13.3\") QHD IPS Thin & Light Laptop. With its 11th Gen Intel Core i7-1165G7 processor and Intel Iris Xe Integrated graphics, the Lenovo Ideapad S540 is the best overall Lenovo laptop on this list."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_3bt8Ys75POCT0PEPuuGKEA119 > div:nth-child(3) > div:nth-child(1)#RELATED_QUESTION_LINK_21_3bt8Ys75POCT0PEPuuGKEA__68 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.lifewire.com › fix-when...",
+                    "url": "https://www.lifewire.com/fix-when-lenovo-laptop-isnt-working-5119130",
+                    "title": "How to Fix It When a Lenovo Laptop Isn't Working - Lifewire"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(2)#_3bt8Ys75POCT0PEPuuGKEA119 > div:nth-child(4) > div:nth-child(1)#RELATED_QUESTION_LINK_24_3bt8Ys75POCT0PEPuuGKEA__71 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.staples.com › cat_CL16...",
+                    "url": "https://www.staples.com/Lenovo-Laptops-Deals/cat_CL167289/006bu-00792",
+                    "title": "Lenovo Laptops on Sale - Shop Lenovo Laptop Deals | Staples",
+                    "snippet": "Lenovo laptops are typically priced between $250 and $2,000, depending on the device's capabilities."
+                }
+            ],
+            "sequence": 8
+        },
+        {
+            "type": "popular_products",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2",
+            "title": "Top Lenovo Laptops",
+            "refinements": [
+                {
+                    "text": "Up to $450",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(1).bp6B7c"
+                },
+                {
+                    "text": "$450 - $800",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(2).bp6B7c"
+                },
+                {
+                    "text": "Over $800",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(3).bp6B7c"
+                },
+                {
+                    "text": "Touchscreen",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(4).bp6B7c"
+                },
+                {
+                    "text": "Chromebook",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(5).bp6B7c"
+                },
+                {
+                    "text": "For Gaming",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(6).bp6B7c"
+                },
+                {
+                    "text": "Convertible",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(7).bp6B7c"
+                },
+                {
+                    "text": "Chrome OS",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(8).bp6B7c"
+                },
+                {
+                    "text": "Windows OS",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(9).bp6B7c"
+                },
+                {
+                    "text": "Silver",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(10).bp6B7c"
+                },
+                {
+                    "text": "Black",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(11).bp6B7c"
+                },
+                {
+                    "text": "Gray",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(12).bp6B7c"
+                },
+                {
+                    "text": "Solid State Drive",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(13).bp6B7c"
+                },
+                {
+                    "text": "Hard Disk Drive",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(14).bp6B7c"
+                },
+                {
+                    "text": "HDMI",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(15).bp6B7c"
+                },
+                {
+                    "text": "USB-C",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(16).bp6B7c"
+                },
+                {
+                    "text": "Ethernet",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(17).bp6B7c"
+                },
+                {
+                    "text": "Netbook",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(18).bp6B7c"
+                },
+                {
+                    "text": "3840 x 2160",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(19).bp6B7c"
+                },
+                {
+                    "text": "NVIDIA GPU",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(2).z4qXNd > g-scrolling-carousel#tRxTrf > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > ul.IvwE0d > li:nth-child(20).bp6B7c"
+                }
+            ],
+            "items": [
+                {
+                    "title": "Lenovo Yoga 7 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(1).gXGikb.wTrwWd",
+                    "price": "$699.99$900",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(5k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Duet Chromebook (10.1)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(2).gXGikb.wTrwWd",
+                    "price": "$242.99",
+                    "provider": "TTechinn.comand 10+ stores",
+                    "rating": {
+                        "rating_value": "(5k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Yoga 9 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(3).gXGikb.wTrwWd",
+                    "price": "$1,449.99",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(4k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad X1 Carbon Gen 9",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(4).gXGikb.wTrwWd",
+                    "price": "$1,475.40",
+                    "provider": "LLenovoand 10+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad 3 (15)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(5).gXGikb.wTrwWd",
+                    "price": "$249.99",
+                    "provider": "SStaplesand 10+ stores",
+                    "rating": {
+                        "rating_value": "(9k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad X1 Yoga Gen 6",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(6).gXGikb.wTrwWd",
+                    "price": "$1,319.50",
+                    "provider": "Llenovo.comand 10+ stores",
+                    "rating": {
+                        "rating_value": "(658)"
+                    }
+                },
+                {
+                    "title": "Lenovo Legion 5 (15)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(7).gXGikb.wTrwWd",
+                    "price": "$1,199.99",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(3k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Legion 5 Pro (16)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(8).gXGikb.wTrwWd",
+                    "price": "$1,499.99",
+                    "provider": "WWalmart - LENOVOand 10+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Chromebook Flex 5 (13)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(9).gXGikb.wTrwWd",
+                    "price": "$419.00",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(959)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad X1 Nano",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(10).gXGikb.wTrwWd",
+                    "price": "$1,599.99",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(334)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad 3 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(11).gXGikb.wTrwWd",
+                    "price": "$299.00",
+                    "provider": "Wwalmart.comand 10+ stores",
+                    "rating": {
+                        "rating_value": "(6k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad Flex 5 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(12).gXGikb.wTrwWd",
+                    "price": "$447.99",
+                    "provider": "LLenovoand 10+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad 5 (15)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(13).gXGikb.wTrwWd",
+                    "price": "$599.99",
+                    "provider": "SStaplesand 10+ stores",
+                    "rating": {
+                        "rating_value": "(4k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad Slim 7 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(14).gXGikb.wTrwWd",
+                    "price": "$699.99",
+                    "provider": "SStaplesand 10+ stores",
+                    "rating": {
+                        "rating_value": "(106)"
+                    }
+                },
+                {
+                    "title": "Lenovo Yoga Slim 7 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(15).gXGikb.wTrwWd",
+                    "price": "$1,531.99",
+                    "provider": "Bbigamart.comand 1+ stores",
+                    "rating": {
+                        "rating_value": "(700)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad X12 Detachable",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(16).gXGikb.wTrwWd",
+                    "price": "$1,843.99",
+                    "provider": "TTechinn.comand 5+ stores",
+                    "rating": {
+                        "rating_value": "(268)"
+                    }
+                },
+                {
+                    "title": "Lenovo Legion Slim 7 (15)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(17).gXGikb.wTrwWd",
+                    "price": "$1,099.99$1,500",
+                    "provider": "BBest Buyand 5+ stores",
+                    "rating": {
+                        "rating_value": "(493)"
+                    }
+                },
+                {
+                    "title": "Lenovo Chromebook S330",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(18).gXGikb.wTrwWd",
+                    "price": "$180.91",
+                    "provider": "Llenovo.comand 10+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Legion 5 Gen 11",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(19).gXGikb.wTrwWd",
+                    "price": "$1,199.00",
+                    "provider": "BB&H Photo-Video-Audioand 10+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad X240",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(20).gXGikb.wTrwWd",
+                    "price": "$339.95",
+                    "provider": "NNotebookparts",
+                    "rating": {
+                        "rating_value": "(278)"
+                    }
+                },
+                {
+                    "title": "Lenovo Thinkpad X1 Carbon Laptop Intel Core i7-3667U 2.0GHz 2C 8GB D",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(21).gXGikb.wTrwWd",
+                    "price": "$1,803.24",
+                    "provider": "CColamcoand 10+ stores",
+                    "rating": {
+                        "rating_value": "(2k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad P1 Gen 4",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(22).gXGikb.wTrwWd",
+                    "price": "$4,159.00",
+                    "provider": "LLenovoand 2+ stores",
+                    "rating": {
+                        "rating_value": "(313)"
+                    }
+                },
+                {
+                    "title": "Lenovo Legion 5 Pro",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(23).gXGikb.wTrwWd",
+                    "price": "$1,321.95",
+                    "provider": "CColamcoand 5+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Yoga 3 Pro",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(24).gXGikb.wTrwWd",
+                    "price": "$1,396.95",
+                    "provider": "NNewegg.com - Premium Wholesale",
+                    "rating": {
+                        "rating_value": "(136)"
+                    }
+                },
+                {
+                    "title": "Lenovo Ideapad Yoga (13)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(25).gXGikb.wTrwWd",
+                    "price": "$1,206.25",
+                    "provider": "AAztek Computers",
+                    "rating": {
+                        "rating_value": "(48)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad 1 (14)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(26).gXGikb.wTrwWd",
+                    "price": "$294.99",
+                    "provider": "LLenovoand 10+ stores",
+                    "rating": {
+                        "rating_value": "(5k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad E15 Gen 2",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(27).gXGikb.wTrwWd",
+                    "price": "$764.99",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(1k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo Yoga 7 (15)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(28).gXGikb.wTrwWd",
+                    "price": "$849.99",
+                    "provider": "BBest Buyand 10+ stores",
+                    "rating": {
+                        "rating_value": "(4k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo IdeaPad 3 (17)",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(29).gXGikb.wTrwWd",
+                    "price": "$359.00",
+                    "provider": "BB&H Photo-Video-Audioand 10+ stores",
+                    "rating": {
+                        "rating_value": "(8k+)"
+                    }
+                },
+                {
+                    "title": "Lenovo ThinkPad T15 Gen 2",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).baPFxb.g.kSMK2 > g-card.T98FId > div:nth-child(1).mnr-c > div:nth-child(3) > div:nth-child(1).aJegcc > div:nth-child(1).xCCdqb > div:nth-child(1) > g-card.tkfIqc.g > div:nth-child(1).mnr-c > div:nth-child(2) > div:nth-child(1) > div:nth-child(1) > g-scrolling-carousel.hPPP7d.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).MhZJBd > div:nth-child(30).gXGikb.wTrwWd",
+                    "price": "$1,313.40",
+                    "provider": "LLenovoand 10+ stores",
+                    "rating": {
+                        "rating_value": "(543)"
+                    }
+                }
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(40) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.lenovo.com › laptop-bu...",
+            "title": "Laptop Buying Guide | Lenovo US",
+            "url": "https://www.lenovo.com/us/en/laptop-buying-guide/",
+            "snippet": "When buying a new laptop, there are a ton of factors to keep in mind ✓ This Laptop ... check out our ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(40) > div:nth-child(1) > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.laptopmag.com › best-l...",
+            "title": "Best Lenovo laptops in 2022",
+            "url": "https://www.laptopmag.com/best-lenovo-laptops",
+            "snippet": "Apr 19, 2022 — The best Lenovo laptops · 1. Lenovo ThinkPad X1 Carbon (Gen 9) · 2. Lenovo Yoga 9i · 3. Lenovo ThinkPad X1 Yoga (Gen 6, 2021) · 4. Lenovo ThinkPad ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(40) > div:nth-child(1) > div:nth-child(3) > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.pcmag.com › picks › th...",
+            "title": "The Best Lenovo Laptops for 2022 | PCMag",
+            "url": "https://www.pcmag.com/picks/the-best-lenovo-laptops",
+            "snippet": "Best Lenovo Laptop for Mainstream PC Gaming. Lenovo Legion 7 Gen 6 (AMD) Image. editors' choice.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.pcmag.com/picks/the-best-lenovo-laptops",
+                "desc": "lenovo laptop computer from www.pcmag.com"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(41) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.bestbuy.com › lenovo",
+            "title": "Lenovo Laptops - Best Buy",
+            "url": "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
+            "snippet": "Items 1 - 24 of 135 — Best Buy offers a wide selection of Lenovo notebook computers and 2-in-1 laptops, so you can balance features with price and find the ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.bestbuy.com/site/lenovo/lenovo-laptops/pcmcat230600050001.c?id=pcmcat230600050001",
+                "desc": "lenovo laptop computer from www.bestbuy.com"
+            },
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(41) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.bestbuy.com › lenovo",
+            "title": "Lenovo Computers - Best Buy",
+            "url": "https://www.bestbuy.com/site/brands/lenovo/pcmcat230600050000.c?id=pcmcat230600050000",
+            "snippet": "Transform the way you live, work and play. Shop the latest from Lenovo. 2-in-1 laptop. Lenovo Yoga family. Yoga ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.bestbuy.com/site/brands/lenovo/pcmcat230600050000.c?id=pcmcat230600050000",
+                "desc": "lenovo laptop computer from www.bestbuy.com"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(42) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.amazon.com › Laptops-...",
+            "title": "Lenovo - Laptops / Computers & Tablets: Electronics - Amazon.com",
+            "url": "https://www.amazon.com/Laptops-Lenovo-Computers-Tablets/s?rh=n%3A565108%2Cp_89%3ALenovo",
+            "snippet": "Results 1 - 24 of 10000+ — Lenovo Legion 5 Pro 16\" 165Hz QHD IPS NVIDIA G-Sync 500 nits Gaming Laptop AMD Ryzen 7-5800H 16GB RAM 1TB SSD RTX 3070 8GB GDDR6 TGP ...",
+            "sequence": 15
+        },
+        {
+            "type": "refined_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).vZFyxc",
+            "title": "Refine Lenovo Laptops",
+            "segments": [
+                {
+                    "segment_name": "By Lenovo product line",
+                    "carousels": [
+                        {
+                            "title": "ThinkPad"
+                        },
+                        {
+                            "title": "IdeaPad"
+                        },
+                        {
+                            "title": "Yoga"
+                        },
+                        {
+                            "title": "Legion"
+                        },
+                        {
+                            "title": "ThinkBook"
+                        }
+                    ]
+                }
+            ],
+            "searches": [
+                {
+                    "query": "By Lenovo product line",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).vZFyxc > div:nth-child(1) > div:nth-child(2) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb.VkuR6c > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc"
+                },
+                {
+                    "query": "By color",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).vZFyxc > div:nth-child(1) > div:nth-child(3) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc"
+                },
+                {
+                    "query": "By operating system",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).vZFyxc > div:nth-child(1) > div:nth-child(4) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc"
+                },
+                {
+                    "query": "By graphics processor",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).vZFyxc > div:nth-child(1) > div:nth-child(5) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc"
+                },
+                {
+                    "query": "By available ports",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).vZFyxc > div:nth-child(1) > div:nth-child(6) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc"
+                }
+            ],
+            "sequence": 16
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 17
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "37bab9c4-d315-4b9d-a098-aacabb76f5a8",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T07:54:11.564Z",
+        "q": "가비아 영업",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EA%B0%80%EB%B9%84%EC%95%84+%EC%98%81%EC%97%85&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0011.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121654/218036105015-73DD14F9AF9041FDBF9C3AB0D8E08656-00.html",
+        "json_url": "http://node0011.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121654/218036105015-73DD14F9AF9041FDBF9C3AB0D8E08656-00.json",
+        "crawl_start_time": "2022-05-12T07:54:11.606Z",
+        "crawl_end_time": "2022-05-12T07:54:15.677Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "가비아 영업",
+        "parsed_time": "2022-05-12T07:54:16.020Z"
+    },
+    "features": [
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://trust.gabia.com/",
+            "title": "가비아 - 고객 인프라에 맞춘 매니지먼트 서비스",
+            "url": "https://trust.gabia.com/",
+            "snippet": "20년 노하우의 전문 엔지니어가 제공하는 믿을 수 있는 인프라 종합 관리 서비스. 클라우드/서버 구축 컨설팅, 마이그레이션, 모니터링, 장애대응, 리포팅을 제공합니다. 1:1 컨설팅. 무료 서버모니터링. 브랜드 서버 100% 서비스: 서버 임대 구매, 1분 설치 서버, VPS, 코로케이션, 위탁운영.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj18rHovdn3AhVFHH0KHd9bBgcYABAOGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoYQZEDaxb7Hh-ObpmT8XXWk3m4EP7QCPtVDhlBtUslE_p2w&sig=AOD64_2yZWYcbs4QEBW-_1UTkiftSYw_NQ&q=&ved=2ahUKEwiAsKrovdn3AhUJHzQIHd1lAwwQh78CegQIBhAH&adurl=",
+                "desc": "gabia.com의 이미지"
+            },
+            "sitelinks": [
+                {
+                    "title": "IDC 전용 매니지먼트",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.AjNqdc.Cxb6Wc.gsrt > div:nth-child(1) > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "매니지드 서비스",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "베어메탈 서버 상품 출시",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(4).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.daouidc.com/",
+            "title": "다우IDC / 다우CLOUD 코로케이션 - 호스팅, 클라우드, CDN - 전문IDC 365일 24시간 고객지원 - daouidc.com",
+            "url": "https://m.daouidc.com/",
+            "snippet": "고객의 성공을 지원하는 다우IDC. 클라우드 신규고객 무료 해택 이벤트.",
+            "carousels": [
+                {
+                    "title": "다우IDC홈페이지"
+                },
+                {
+                    "title": "상담문의"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(5).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.슈츠.com/",
+            "title": "온라인 판로 개척, 영업 서비스 - 외주 영업 전문 회사 슈츠 - 슈츠.com",
+            "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj18rHovdn3AhVFHH0KHd9bBgcYABACGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoYQZEDaxb7Hh-ObpmT8XXWk3m4EP7QCPtVDhlBtUslE_p2w&sig=AOD64_2L71Q2Egat-p9w-G9owx3JchrSNw&adurl=&q=",
+            "snippet": "신속.정직.정확 비즈니스 실속 있는 영업 회사를 찾고계신가요? 국내 최고 비즈니스 파트너 슈츠. 국내 최저 수수료. 최고 효율. 성과급. 가장 정직하고, 믿을 수 있는 브랜드 슈츠코퍼레이션.",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://careers.gabia.com › sales",
+            "title": "영업 - 역할과 책임 | 가비아 채용",
+            "url": "https://careers.gabia.com/gabiacrew/job_description/sales",
+            "snippet": "가비아의 영업 직무는 가비아의 상품/서비스를 필요로 하는 고객에게 맞춤 컨설팅을 제공하고 판매하는 역할을 합니다. 최신 기술/경쟁사 및 시장 동향 등을 파악하는 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://careers.gabia.com › gabiacrew",
+            "title": "인터뷰 | 가비아 채용",
+            "url": "https://careers.gabia.com/gabiacrew/crewinterviewConts?index=5",
+            "snippet": "B2B 영업 특성상 전문가로 구성된 고객을 상대하기 위해선 상품 정보를 비롯하여 최신 기술, 경쟁사, 시장 동향 등을 정확하게 파악하고 있어야 합니다. 입사 후 교육은 ...",
+            "sequence": 5
+        },
+        {
+            "type": "articles",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).xSoq1 > div:nth-child(1).wtFsOb",
+            "cards": [
+                {
+                    "title": "가비아, 당해사업연도 1분기 연결 영업이익 93.40억원",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > a.WlydOe",
+                    "url": "http://vip.mk.co.kr/news/view/21/23/434488.html"
+                },
+                {
+                    "title": "[특징주] 가비아, 영업이익 공시 이후 주가 상승세",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(4) > a.WlydOe",
+                    "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=970865"
+                },
+                {
+                    "title": "가비아, 1Q 영업이익 93억원…전년比 46% ↑",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(6).amp_re > a.WlydOe.amp_r",
+                    "url": "https://cm.asiae.co.kr/ampview.htm?no=2022050615373247425"
+                }
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.blog.naver.com › gabianow",
+            "title": "[가비아 채용] 영업 직무 인터뷰 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/gabianow/221471296651",
+            "snippet": "2019. 2. 21. — 가비아 클라우드IDC사업부 Mac 입니다. ... 정기 방문도 있고 실제 영업을 위한 방문도 있어요. ... 영업만큼 KPI가 확실한 직무가 없잖아요?",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.mk.co.kr › 2022/05",
+            "title": "가비아, 당해사업연도 1분기 연결 영업이익 93.40억원 - 매일경제",
+            "url": "https://m.mk.co.kr/news/stock/view-amp/2022/05/419954/",
+            "snippet": "3시간 전 — 가비아는 분기보고서를 통해 당해사업연도 1분기 연결기준 영업이익이 93.40억원으로 전년대비 46.14% 증가했다고 밝혔다.",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.theteams.kr › post",
+            "title": "[가비아 채용] 영업 직무 인터뷰 - 더팀스",
+            "url": "https://www.theteams.kr/teams/7015/post/70792",
+            "snippet": "2020. 2. 20. — [가비아 채용] 영업 직무 인터뷰 · - 클라우드IDC사업부 영업팀은 무슨 일을 하나요? · - 하루 중 이뤄지는 업무 프로세스가 궁금합니다. · - 사내 분위기나 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.teamblind.com › mention",
+            "title": "가비아 - 블라인드 | mention",
+            "url": "https://www.teamblind.com/kr/mention/%EA%B0%80%EB%B9%84%EC%95%84?mention=330&context",
+            "snippet": "영업 하다가 직무 바꾸고 싶어서 지원해서 면접 잡혔는데 비개발쪽은 정보가 넘 ... 가비아 비개발 직군 구매총무 지원하려는데 개발 비개발 연봉 이나 대우 차이가 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.jobkorea.co.kr › Start › view",
+            "title": "합격자소서 - (주)가비아 - 잡코리아",
+            "url": "https://m.jobkorea.co.kr/Start/passassay/view?IsOpened=False&Job_Epil_No=146128",
+            "snippet": "[영업에 대해 많은 것을 보고 배웠고 이제는 가비아의 전문 영업인이 되고 싶습니다] 대학교 1학년 때부터 지금까지 수많은 아르바이트를 경험하면서 제가 배운 것은 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.jobkorea.co.kr › Qna › Qu...",
+            "title": "선배님들 가비아 영업 신입에 기계과가 우대 받을 수 있을까요? | 잡코리아 취업톡톡",
+            "url": "https://m.jobkorea.co.kr/Textuser/Qna/QuestionDetailAll?qstnNo=35696",
+            "snippet": "(주)가비아 | IT·솔루션·기술영업 | 제목 내용 그대로입니다. 이번 가비아 공채 신입에 전산/상경 계열 우대한다고 써있는데 기계나...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.ajunews.com › view",
+            "title": "가비아, 상반기 기획·영업·개발·정보보호 등 경력직 공채 | 아주경제",
+            "url": "https://m.ajunews.com/amp/20220108213053238",
+            "snippet": "2022. 1. 8. — 가비아는 오는 2월 2일까지 2022년 상반기 경력직 직원을 채용한다. 사업·상품 기획, 서비스 기획, 공공영업, 백엔드 개발, 정보보호, 취약점진단· ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.ips.co.kr › duty_view",
+            "title": "영업 곽경환님 - WONIK IPS",
+            "url": "https://www.ips.co.kr/ko/mo/careers/duty_view.php?idx=384",
+            "snippet": "저희 영업팀은 고객과 가장 가까운 곳에서 원익IPS 장비에 대해 소통함으로서 회사가 더욱 성장할 수 있도록 매개체 역할을 하는 중요한 부서입니다. 영업이라는 직무는 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://www.wanted.co.kr › ...",
+            "title": "[가비아] 공공 클라우드 영업 담당자 채용 | 원티드",
+            "url": "https://www.wanted.co.kr/wd/112142",
+            "snippet": "가비아에 지원하고 합격하면 보상금 50만원. ... 공공 클라우드 영업(IaaS, SaaS) 및 고객 관리 업무를 수행합니다. • 신규 영업 및 사업 기회 발굴을 위해 전략을 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "http://comp.fnguide.com › ASP › S...",
+            "title": "가비아(A079940) | 재무제표 | 기업정보 | Company Guide",
+            "url": "http://comp.fnguide.com/SVO2/ASP/SVD_Finance.asp?pGB=1&gicode=A079940&cID=&MenuYn=Y&ReportGB=B&NewMenuID=103&stkGb=701",
+            "snippet": "영업이익. 41, 49, 71, 76, 71, 6.7. 영업이익(발표기준). 41, 49, 71, 76, 71, 6.7. 금융수익계산에 참여한 계정 펼치기. 4, 8, 11, 12, 11, 2.8.",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://m.saramin.co.kr › view",
+            "title": "[(주)가비아씨엔에스] 영업전략실 사업관리팀 PM/기획 경력자 모집 - 사람인",
+            "url": "https://m.saramin.co.kr/job-search/view?rec_idx=39321949",
+            "snippet": "2020. 12. 24. — (주)가비아씨엔에스, 영업전략실 사업관리팀 PM/기획 경력자 모집, 경력:경력 5년 이상, 학력:학력무관, 연봉:회사내규에 따름 , 마감일:2021-01-17, ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://m.datatooza.com › view",
+            "title": "가비아, 1분기 연결 영업이익 93억...전년비 46%↑ - 데이터투자",
+            "url": "https://m.datatooza.com/ampview.php?ud=2022051213523256353f2b9ec7b9_80",
+            "snippet": "3시간 전 — 가비아는 올해 연결기준 1분기 영업이익이 93억4026만원으로 전년대비 46.1% 증가했다고 12일 공시했다.매출액은 27.7% 증가한 551억7587만원, ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "http://www.itdaily.kr › ... › 인터뷰",
+            "title": "[인터뷰] “산업·서비스별 특화 전략으로 클라우드 시장 '정조준'” - 아이티데일리",
+            "url": "http://www.itdaily.kr/news/articleView.html?idxno=206640",
+            "snippet": "2022. 2. 28. — 가비아의 클라우드 사업을 책임지고 있는 정대원 이사를 만나 올해 클라우드 비즈니스 방향과 영업·마케팅 전략 등에 대해 들어봤다.",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://m.catch.co.kr › CompSummary",
+            "title": "가비아 기업정보 - 연봉 5,046만원 | 캐치",
+            "url": "https://m.catch.co.kr/Comp/CompSummary/154319",
+            "snippet": "가비아 매출액 2004억, 사원수 300명, 초봉 3900만원, 재무평가 상위 16%, 가비아의 모든 기업정보 ... 가비아는 어떤 기업일까? ... 영업이익, 연결 재무제표 : 331억",
+            "properties": [
+                {
+                    "key": "영업이익",
+                    "value": "연결 재무제표: 331억; 별도 재무제표: 76억"
+                },
+                {
+                    "key": "기업규모",
+                    "value": "중소기업"
+                },
+                {
+                    "key": "기업형태",
+                    "value": "코스닥"
+                },
+                {
+                    "key": "매출액",
+                    "value": "연결 재무제표: 2,004억; 별도 재무제표: 719억"
+                }
+            ],
+            "sequence": 20
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "영업이익",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "영업직무",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "면접",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "재무제표",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "실적",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "지배지분",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "매출액",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "클라우드",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 21
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(5)#bottomads > div:nth-child(1)#tadsb > div:nth-child(2).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.jobkorea.co.kr/",
+            "title": "오늘부턴 잡코리아 퓨처랩 - 채용 잡코리아",
+            "url": "https://www.jobkorea.co.kr/",
+            "snippet": "2022 취업성공 파트너 잡코리아, 실시간 채용공고, 이력서만 작성하면 즉시지원! 기업분석, 합격자소서, 직무인터뷰, 취업톡톡으로 합격 전략 확인. 업직종, 지역별 채용정보. 모바일 입사지원 가능. 기업 분석 자료 제공. 인적성, 면접후기.",
+            "carousels": [
+                {
+                    "title": "기업분석/연봉정보"
+                },
+                {
+                    "title": "지역/직무별 채용정보"
+                },
+                {
+                    "title": "합격자소서 모음"
+                },
+                {
+                    "title": "무료 공기업 모의고사"
+                }
+            ],
+            "sequence": 22
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 23
+        }
+    ]
+}

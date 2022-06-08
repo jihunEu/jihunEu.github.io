@@ -1,0 +1,240 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "46e49c9a-54ec-41d0-939c-d799d2e088a1",
+        "sub_id": 0,
+        "requested_time": "2022-05-08T21:10:31.595Z",
+        "q": "레지던트 이블  라쿤시티 resident evil welcome to raccoon city 2021.1080p 10bit webrip 6ch x265 .hevc psa",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EB%A0%88%EC%A7%80%EB%8D%98%ED%8A%B8+%EC%9D%B4%EB%B8%94++%EB%9D%BC%EC%BF%A4%EC%8B%9C%ED%8B%B0+resident+evil+welcome+to+raccoon+city+2021.1080p+10bit+webrip+6ch+x265+.hevc+psa&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0009.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220509/2205090610/211254003031-E2F8230EC6324A21A53A171F26494601-00.html",
+        "json_url": "http://node0009.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220509/2205090610/211254003031-E2F8230EC6324A21A53A171F26494601-00.json",
+        "crawl_start_time": "2022-05-08T21:10:31.644Z",
+        "crawl_end_time": "2022-05-08T21:10:36.316Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "에이다",
+            "domain": "일반",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.0.26.master",
+        "displayed_query": "레지던트 이블 라쿤시티 resident evil welcome to raccoon city 2021.1080p 10bit webrip 6ch x265 hevc psa",
+        "parsed_time": "2022-05-08T21:10:36.562Z"
+    },
+    "features": [
+        {
+            "sequence": 1,
+            "type": "no_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(3)#topstuff > div:nth-child(1).mnr-c > div:nth-child(1) > div:nth-child(1).card-section.rQUFld"
+        },
+        {
+            "sequence": 2,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://torrentqq142.com › mov",
+            "title": "레지던트 이블 라쿤시티 (정식자막) Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.KOR.FHDRip.H264.AAC-JTC",
+            "url": "https://torrentqq142.com/torrent/mov/541260.html",
+            "snippet": "4일 전 — 레지던트 이블 라쿤시티 (정식자막) Resident.Evil.Welcome.To.Raccoon. ... REPACK.2160p.10bit.HDR.WEBRip.6CH.x265.HEVC-PSA · 6[아동/가족] 버블 ..."
+        },
+        {
+            "sequence": 3,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://torrentsome36.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay ...",
+            "url": "https://torrentsome36.com/v/175478",
+            "snippet": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA, 토렌트,torrent,토렌트사이트, 토렌트순위, 무료영화, ..."
+        },
+        {
+            "sequence": 4,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://torrentsome36.com › ...",
+            "title": "레지던트 이블 라쿤시티 (정식자막) Resident.Evil.Welcome.To.Raccoon.City.2021.1080p ...",
+            "url": "https://torrentsome36.com/v/172343",
+            "snippet": "레지던트 이블 라쿤시티 (정식자막) Resident.Evil.Welcome.To. ... 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA."
+        },
+        {
+            "sequence": 5,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "http://185.145.128.81 › topic-1-11",
+            "title": "가장 빠른 다운로드 - 토렌트웹",
+            "url": "http://185.145.128.81/topic-1-11?page=230",
+            "snippet": "The.Edge.of.War.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA 01-23; 10 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.1080p.ENGLISH-HINDI.10bit."
+        },
+        {
+            "sequence": 6,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(5) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "http://185.145.128.81 › topic",
+            "title": "살인 - 토렌트웹-가장 빠른 다운로드",
+            "url": "http://185.145.128.81/topic/99807",
+            "snippet": "The.Edge.of.War.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA 01-23; 10 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.1080p.ENGLISH-HINDI.10bit."
+        },
+        {
+            "sequence": 7,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://torrentqq141.com › mov",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay ... - 토렌트큐큐",
+            "url": "https://torrentqq141.com/torrent/mov/560744.html",
+            "snippet": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA. 액션 02-07. Resident.Evil.Welcome.to.Raccoon."
+        },
+        {
+            "sequence": 8,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://torrentrj34.com › ...",
+            "title": "레지던트 이블 라쿤시티 (정식자막) Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.KOR.FHDRip.H264.AAC-JTC",
+            "url": "https://torrentrj34.com/v/175638",
+            "snippet": "레지던트 이블 라쿤시티 (정식자막) Resident.Evil.Welcome.To.Raccoon.City.2021.1080p.KOR.FHDRip.H264.AAC-JTC, 토렌트알지 1위 토렌트 파일공유 속도최강!"
+        },
+        {
+            "sequence": 9,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://torrentgoogle19.com › index....",
+            "title": "레지던트 이블: 라쿤시티 Resident Evil Welcome to Raccoon City 2021 1080p BluRay x264 DTS - 5-1- MSubS - KINGDOM-RG_new - 토렌트구글",
+            "url": "https://torrentgoogle19.com/index.php/t/gOD7YY.html",
+            "snippet": "2022. 3. 10. — AMZN.WEBRip.DD5.1.X.264-EVO · 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA."
+        },
+        {
+            "sequence": 10,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://torrentgoogle19.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.4K.WEB.x265 ... - 토렌트구글",
+            "url": "https://torrentgoogle19.com/t/O8Akgy.html",
+            "snippet": "2021. 12. 28. — 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX] 토렌트구글,토렌트,토렌트큐큐, ..."
+        },
+        {
+            "sequence": 11,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://torrentrj33.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.AMZN.WEBRip.DD5.1.X.264-EVO",
+            "url": "https://torrentrj33.com/v/176036",
+            "snippet": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.AMZN.WEBRip.DD5.1.X.264-EVO, 토렌트알지 1위 토렌트 파일공유 속도최강!"
+        },
+        {
+            "sequence": 12,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://torrentbam20.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.WEB.H265-SLOT - 토렌트밤",
+            "url": "https://torrentbam20.com/t/8gaYzN.html",
+            "snippet": "2021. 12. 22. — 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.WEB.H265-SLOT 토렌트밤,토렌트,토렌트큐큐,토렌트킴, ..."
+        },
+        {
+            "sequence": 13,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://www.torrentonly1.com › torr...",
+            "title": "레지던트 이블: 라쿤시티 Resident Evil Welcome to Raccoon City 2021 1080p WEB-Rip… - 토렌트온리",
+            "url": "https://www.torrentonly1.com/torrent_movieov/46757?stx=2021",
+            "snippet": "2021. 12. 25. — 레지던트 이블: 라쿤시티 Resident Evil Welcome to Raccoon City 2021 1080p WEB-Rip ... 세틀러스 Settlers.2021.1080p.10bit.BluRay.6CH.x265.HEVC."
+        },
+        {
+            "sequence": 14,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://torrenttt21.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay ... - 토렌트티티",
+            "url": "https://torrenttt21.com/t/Pz2Qq9.html",
+            "snippet": "2022. 2. 7. — 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA 토렌트티티,토렌트,토렌트큐큐, ..."
+        },
+        {
+            "sequence": 15,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://www.torrentreel84.top › list",
+            "title": "영화 - www.자료천국.com",
+            "url": "https://www.torrentreel84.top/m/list.php?b_id=tmovie",
+            "snippet": "Resurrections.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA 한글, 12-28. 1564, [액션] 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon."
+        },
+        {
+            "sequence": 16,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://torrentsome35.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.WEB.H265-SLOT - 토렌트썸",
+            "url": "https://torrentsome35.com/v/172218",
+            "snippet": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.WEB.H265-SLOT, 토렌트,torrent,토렌트사이트, 토렌트순위, 무료영화,최고의 무료토렌트 ..."
+        },
+        {
+            "sequence": 17,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://torrentgoogle20.com › index....",
+            "title": "앤틀러스 Antlers.2021.2160p.4K.WEB.x265.10bit.AAC5.1-[YTS.MX] - 토렌트구글 - torrentgoogle20.com",
+            "url": "https://torrentgoogle20.com/index.php/t/D2B8VN.html",
+            "snippet": "2021. 12. 16. — 앤틀러스 Antlers.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA · 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.To.Raccoon.City.2021.2160p.4K."
+        },
+        {
+            "sequence": 18,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.tfreeca22.com › board",
+            "title": "티프리카 > 영화 > 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.Bluray.DTS-HD.MA.5.1.X264-EVO",
+            "url": "https://www.tfreeca22.com/m/bbs/board.php?bo_table=tmovie&wr_id=376469",
+            "snippet": "[액션] 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.Bluray.DTS-HD.MA.5.1.X264-EVO · 줄거리 · 영화."
+        },
+        {
+            "sequence": 19,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://torrentsome34.com › ...",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.AMZN ...",
+            "url": "https://torrentsome34.com/v/172741",
+            "snippet": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.AMZN.WEBRip.DD5.1.X.264-EVO, 토렌트,torrent,토렌트사이트, 토렌트순위, 무료영화, ..."
+        },
+        {
+            "sequence": 20,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://torrentqq139.com › mov",
+            "title": "레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit.BluRay ... - 토렌트큐큐",
+            "url": "https://torrentqq139.com/torrent/mov/560744.html",
+            "snippet": "2021.1080p.10bit.BluRay.6CH.x265.HEVC-PSA. 액션 02-07. Resident.Evil.Welcome.to.Raccoon.City.2021.1080p."
+        },
+        {
+            "sequence": 21,
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 20,
+            "displayed_link": "https://torrentrj31.com › search",
+            "title": "Win10::토렌트알지-TORRENTRJ",
+            "url": "https://torrentrj31.com/search/index?keywords=Win10&page=12&order=time",
+            "snippet": "해외영화 레지던트 이블: 라쿤시티 Resident.Evil.Welcome.to.Raccoon.City.2021.1080p.10bit. ... 해외영화 럼블 Rumble.2021.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA."
+        }
+    ]
+}

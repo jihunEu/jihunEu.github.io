@@ -1,0 +1,274 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "19f11077-66d4-474e-b18f-a617ac6b8d35",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:15:12.688Z",
+        "q": "카카오 대리기사 승인",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%B9%B4%EC%B9%B4%EC%98%A4+%EB%8C%80%EB%A6%AC%EA%B8%B0%EC%82%AC+%EC%8A%B9%EC%9D%B8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0023.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121715/211241247086-DEB83BDD9E4E454AA50B9527DF8DD47E-00.html",
+        "json_url": "http://node0023.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121715/211241247086-DEB83BDD9E4E454AA50B9527DF8DD47E-00.json",
+        "crawl_start_time": "2022-05-12T08:15:12.726Z",
+        "crawl_end_time": "2022-05-12T08:15:16.570Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "카카오 대리기사 승인",
+        "parsed_time": "2022-05-12T08:15:16.861Z"
+    },
+    "features": [
+        {
+            "type": "app_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1)#ow21 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst",
+            "apps": [
+                {
+                    "title": "카카오 T 대리 기사용 - 대리운전, 기사등록, 앱대리",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1)#ow21 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > div:nth-child(1).XtBY1c > div:nth-child(1) > div:nth-child(1).EzLsDb",
+                    "rating": {
+                        "rating_value": "4.1",
+                        "rating_count": "(5천)"
+                    }
+                },
+                {
+                    "title": "카카오 T 대리 - 대리운전",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1)#ow21 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > div:nth-child(1).XtBY1c > div:nth-child(2) > div:nth-child(1).EzLsDb",
+                    "rating": {
+                        "rating_value": "4.3",
+                        "rating_count": "(1만)"
+                    }
+                },
+                {
+                    "title": "카카오 T 택시 기사용",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1)#ow21 > div:nth-child(2).mnr-c.fp-w.qs-ic.aig-grd > div:nth-child(3).qs-io.aig-lst > div:nth-child(1).qs-ii > div:nth-child(4).NYqkHd > span#QPzTyf > div:nth-child(1).XtBY1c > div:nth-child(3) > div:nth-child(1).EzLsDb",
+                    "rating": {
+                        "rating_value": "4.5",
+                        "rating_count": "(3만)"
+                    }
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://namu.wiki › 카카오 T 대리",
+            "title": "카카오 T 대리 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4%20T%20%EB%8C%80%EB%A6%AC",
+            "snippet": "2022. 3. 20. — 기사로부터 가져가는 수수료는 20%이며 별도 비용은 없다. 서비스 초기에는 면접과 심사를 거쳐 기사 등록을 승인했으며, 이때 카카오드라이버 명찰과 ...",
+            "properties": [
+                {
+                    "key": "서비스 요금",
+                    "value": "무료"
+                },
+                {
+                    "key": "기능",
+                    "value": "대리운전"
+                }
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://healingfactor.co.kr › entry",
+            "title": "카카오 대리 하는 법 비용 수수료 가격 안내 - 건강한 생각",
+            "url": "https://healingfactor.co.kr/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%8C%80%EB%A6%AC-%ED%95%98%EB%8A%94-%EB%B2%95",
+            "snippet": "2021. 12. 19. — ▷ 카카오 대리 기사 콜 잡기 · 승인이 완료 되고 나면 카카오 T 대리 기사 애플리케이션에서 출근하기 버튼을 클릭합니다. · 인근 키로수를 설정하고 나서 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://byunki.tistory.com › ...",
+            "title": "카카오대리운전 드라이버 승인 완료! (feat.카카오T드라이버)",
+            "url": "https://byunki.tistory.com/171",
+            "snippet": "2018. 6. 30. — 얼마 전에 대리운전 투잡을 위해 카카오드라이버 등록하는 과정에 대해 포스팅 했었는데요. [해당 글 바로가기 >> (투잡 시작! 카카오대리운전 기사로 ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://cezacx2.tistory.com › ...",
+            "title": "카카오T 대리운전 기사 1일차 후기 - 귀하신분",
+            "url": "https://cezacx2.tistory.com/1213",
+            "snippet": "2017. 12. 31. — 카카오 대리기사나 다른 어플에서도 마찬가지일 듯 했습니다. 따닥! 따닥! 출발지 목적지 상관없이 배차 승인 과정을 계속해서 연습해봅니다.",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://tsar1004.blogspot.com › 201...",
+            "title": "대리운전 : 카카오 T 대리기사용 등록방법 - 짜르의 잡동사니",
+            "url": "https://tsar1004.blogspot.com/2019/05/t.html?m=1",
+            "snippet": "2019. 5. 27. — 걸릴 수 있는 부분 양해부탁드립니다. ==> 통상 휴일제외하고 일주일 이내 승인되는 듯 합니다. 카카오 T 대리 기사 신청 절차는 어떻게 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://goodfellas5.com › entry › 카...",
+            "title": "카카오 T대리(기사용)에 대해서 알고 계신가요?(실제사용후기, 수익공개)",
+            "url": "https://goodfellas5.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4t%EB%8C%80%EB%A6%AC%EA%B8%B0%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EA%B3%A0-%EA%B3%84%EC%8B%A0%EA%B0%80%EC%9A%94%EC%8B%A4%EC%A0%9C%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0-%EC%88%98%EC%9D%B5%EA%B3%B5%EA%B0%9C",
+            "snippet": "2021. 9. 18. — 카카오T 대리 기사용'은 제가 대리기사가 돼서 직접 운전을 하는거고, '카카오T 대리'.. ... 승인해주는데까지 일주일 안 걸렸던거 같아요.",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://iii1990.tistory.com › ...",
+            "title": "[부업정보]카카오 대리기사 부업하는 방법 및 일주일차 후기",
+            "url": "https://iii1990.tistory.com/m/42",
+            "snippet": "2021. 4. 21. — 일 끝나고 저녘에 용돈벌이 정도는 할 수 있을 거 같아 좋을것 같다며. 추진력이 좋은 남친님은 어느새 대리기사 등록과 승인까지 완료했습니다.",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://boodood.tistory.com › ...",
+            "title": "카카오대리운전기사 투잡후기 3편 - 별별리",
+            "url": "https://boodood.tistory.com/29",
+            "snippet": "2020. 2. 6. — 카카오 대리기사용을 누르면 첫 화면이에요. (보험승인까지 완료 후 화면입니다.) ① 공지. 카카오에서 공지내역 볼 수 있고 카카오톡으로 동시에 같이 오 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://stocksearch.tistory.com › ...",
+            "title": "카카오 대리운전 대리운전 기사 신청 등록 및 후기 - 1편",
+            "url": "https://stocksearch.tistory.com/12",
+            "snippet": "2022. 2. 12. — 카카오 대리운전을 하며 알게 된 운전기사 신청 방법과 승인 후 진행방법에 대해 전달해 드리도록 하겠습니다. 1부로는 카카오 대리운전기사 등록 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://pajustory.tistory.com › entry",
+            "title": "카카오대리운전 기사 되는법, 수수료 투잡알바(T대리) - 우리동네파주이야기",
+            "url": "https://pajustory.tistory.com/m/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%8C%80%EB%A6%AC%EC%9A%B4%EC%A0%84-%EA%B8%B0%EC%82%AC-%EB%90%98%EB%8A%94%EB%B2%95-%EC%88%98%EC%88%98%EB%A3%8C-%ED%88%AC%EC%9E%A1%EC%95%8C%EB%B0%94T%EB%8C%80%EB%A6%AC",
+            "snippet": "2020. 6. 16. — 앱스토어에서 '카카오T대리기사용 앱'을 다운받으시고 정보를 입력하세요. 신청하고 기다리시면 승인해 드립니다. 심사시 확인사항은 보험심사가 큰 영향 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://byline.network › 2016/03",
+            "title": "누구나 카카오 대리기사가 될 수는 없다 - Byline Network",
+            "url": "https://byline.network/2016/03/1-74/amp/",
+            "snippet": "2016. 3. 7. — 보험사는 운전경력, 사고이력 등을 조사해서 보험 가입승인 여부를 판단한다고 합니다.카카오는 KB손해보험, 동부화재와 제휴를 맺고 있습니다. 보험 가입 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://tkfkdgo1234.tistory.com › ...",
+            "title": "카카오대리운전 앱실행 - 콜 접수 및 실행",
+            "url": "https://tkfkdgo1234.tistory.com/m/38",
+            "snippet": "2020. 2. 28. — 카카오 대리운전 어플을 통해서. 대리기사 등록을 하고. 카카오 측에서 승인이 떨어졌다. 대리운전 등록을 보지 못하셨다면.",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.kakao.com › driver",
+            "title": "카카오대리 - Kakao",
+            "url": "https://www.kakao.com/kakaodriver/driver",
+            "snippet": "이 페이지에 관한 정보가 없습니다.",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 14,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "[단독] 카카오대리 앱 사용하면 '대리기사 일 못해' / YTN (Yes! Top News) - YouTube",
+            "url": "https://m.youtube.com/watch?v=HnaAJT-NDMU",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.PHap3c",
+            "position": 15,
+            "displayed_link": "https://m.youtube.com › watch",
+            "title": "목숨 내놓고 불러야 하는 카카오 대리 - YouTube",
+            "url": "https://m.youtube.com/watch?v=85MQhtA2Lvk",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "http://www.진해신문.com › board",
+            "title": "카카오 대리기사 줄줄이 보험심사에서 탈락 > 뉴스 | 진해신문",
+            "url": "http://www.xn--z92b13lg5f73m.com/bbs/board.php?bo_table=news&wr_id=372",
+            "snippet": "2021. 4. 18. — 대리기사들의 보험갱신이 이루어지는 시기가 왔다. 보통 6개월에서 1년단위로 보험사에서는 갱신심사를 한다. 대리기사들의 사고건수가 1년에 2-3건 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://talksoda.tistory.com › ...",
+            "title": "카카오대리 요금 및 대리운전기사 하는법 - 머니정보!",
+            "url": "https://talksoda.tistory.com/661",
+            "snippet": "2020. 8. 19. — 카카오대리 요금 지불을 위해서는 택시와 다른점으로 무조건 앱을 통해 ... 신청자의 보험수가가 높다는 판정이 나오면 승인이 안될수도 있습니다.",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://m.blog.naver.com › yeongh...",
+            "title": "카카오 대리운전 기사용앱 사용방법&서울,경기,수도권,인천,부천,수원 로지추천 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/yeonghwan82/221700789179",
+            "snippet": "2019. 11. 7. — 이번엔 #카카오대리기사 를 하기위해 필요한 #카카오t대리기사용앱 기본적인 사용방법 일하는법을 알려 ... 승인나는데 3~5일 정도 걸린다고 하네요.",
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://moneylover.tistory.com › ...",
+            "title": "투잡 카카오대리로~ - 이슈 인사이드 - Tistory",
+            "url": "https://moneylover.tistory.com/130",
+            "snippet": "2021. 5. 31. — 다음으로는 본인의 운전면허와 사진을 등록하고 가입신청을 하면 됩니다. 그 후 3~4일 후 보험가입이 승인이 되면 카카오대리기사로 일을 시작할 수 ...",
+            "sequence": 21
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 22
+        }
+    ]
+}

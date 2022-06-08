@@ -1,0 +1,303 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "bd19e1ac-7f6f-48a6-8a15-d8852fd492a6",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T15:02:25.688Z",
+        "q": "카카오 모바일 게임",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=%EC%B9%B4%EC%B9%B4%EC%98%A4+%EB%AA%A8%EB%B0%94%EC%9D%BC+%EA%B2%8C%EC%9E%84&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0037.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205120002/218036020022-C4A285BB725C40C1A223257E24AEFD5A-00.html",
+        "json_url": "http://node0037.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205120002/218036020022-C4A285BB725C40C1A223257E24AEFD5A-00.json",
+        "crawl_start_time": "2022-05-11T15:02:25.799Z",
+        "crawl_end_time": "2022-05-11T15:02:32.514Z",
+        "device": "desktop",
+        "usage_id": "desktop.appbar.more_likes-test",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "카카오 모바일 게임",
+        "hidden_people_also_search_for": [
+            "카카오톡 스낵게임",
+            "카카오게임",
+            "카카오 PC 게임",
+            "카카오게임 목록",
+            "카카오게임즈 신규 게임",
+            "카카오 게임 다운"
+        ],
+        "parsed_time": "2022-05-11T15:02:32.842Z"
+    },
+    "features": [
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(15) > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 1,
+            "displayed_link": "https://game.kakao.com",
+            "title": "카카오게임즈",
+            "url": "https://game.kakao.com/",
+            "snippet": "대세게임 · 보상가득 사전예약 · 받고보는 이모티콘 · 추천 모바일 게임.",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(15) > div:nth-child(1).g > div:nth-child(2).d4rhi > ul.FxLDp > li:nth-child(1).MYVUIe > div:nth-child(1).XN9cAe > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 2,
+            "displayed_link": "https://game.kakao.com › games",
+            "title": "kakaogames 모바일 - 카카오게임즈",
+            "url": "https://game.kakao.com/games",
+            "snippet": "카카오톡 친구들과 재미있는 게임 플레이!",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(16).hlcw0c > div:nth-child(1) > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 3,
+            "displayed_link": "https://namu.wiki › 카카오게임",
+            "title": "카카오게임 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B2%8C%EC%9E%84",
+            "snippet": "2022. 1. 29. — 플랫폼만 카카오/모바일일 뿐 근본적으로는 소셜 게임이기 때문. 카카오게임즈 통합 이전에는 항상 게임 뒤에 for kakao를 붙였던 것이 특징.",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(16).hlcw0c > div:nth-child(1) > div:nth-child(1).g > div:nth-child(2).d4rhi > ul.FxLDp > li:nth-child(1).MYVUIe > div:nth-child(1).XN9cAe > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 4,
+            "displayed_link": "https://namu.wiki › 카카오게임 › 목록",
+            "title": "카카오게임/목록 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B2%8C%EC%9E%84/%EB%AA%A9%EB%A1%9D",
+            "snippet": "2022. 4. 4. — 참고: 모바일 게임/목록/퍼즐 및 보드게임. 1 to 50 for Kakao(2012~2016) [2]. 2048 월드컵(2014~2015). 가로세로 낱말 맞히기(2012~2017).",
+            "sequence": 4
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(17).ULSxyf > div:nth-child(1).EyBRub > div:nth-child(2).LnbJhc > g-section-with-header.yG4QQe.TBC9ub",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(31) > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 5,
+            "displayed_link": "https://www.kakaocorp.com › service › KakaoGames",
+            "title": "함께해요, 카카오게임즈",
+            "url": "https://www.kakaocorp.com/page/service/service/KakaoGames",
+            "snippet": "누구나 즐길 수 있는 모바일 게임, 카카오게임. 카카오톡의 소셜 파워 기반, 캐주얼 게임부터 MMORPG까지 다채로운 장르의 모바일 게임을 카카오톡 친구들과 함께 즐길 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(31) > div:nth-child(1).g > div:nth-child(2).d4rhi > ul.FxLDp > li:nth-child(1).MYVUIe > div:nth-child(1).XN9cAe > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 6,
+            "displayed_link": "https://www.kakaocorp.com › page › detail",
+            "title": "카카오 게임하기, 게임이 일상이 되는 세상을 열다",
+            "url": "https://www.kakaocorp.com/page/detail/9345",
+            "snippet": "전 카카오 신규사업부 매니저 토드의 인물 사진. 현 Grepp의 CSO. #비주류, 모바일 게임. 그 해 여름을 지나 가을까지, 게임 비즈니스는 '검토 대상 ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(32).hlcw0c > div:nth-child(4).g.tF2Cxc",
+            "position": 7,
+            "displayed_link": "https://play.google.com › store › apps › dev",
+            "title": "Google Play의 Kakao Games Corp. 개발자 Android 앱",
+            "url": "https://play.google.com/store/apps/dev?id=6236189329207394247&hl=ko&gl=US",
+            "snippet": "RPG부터 퀴즈게임까지~ 골라서 하는 재미가 있는 모바일 게임세상! 함께해요 카카오게임즈!",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "",
+            "position": 8,
+            "title": "카카오게임즈 - YouTube",
+            "url": "https://www.youtube.com/channel/UC41pPCX5hKw92fdL1Qd1c5g",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(34).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 9,
+            "displayed_link": "https://ko.wikipedia.org › wiki › 카카오게임즈",
+            "title": "카카오게임즈 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.wikipedia.org/wiki/%EC%B9%B4%EC%B9%B4%EC%98%A4%EA%B2%8C%EC%9E%84%EC%A6%88",
+            "snippet": "카카오게임즈는 대한민국의 비디오 게임 기업이다. 카카오의 게임 전문 자회사로서, 한국과 해외 게임 시장에 PC와 모바일, VR 등의 플랫폼을 아우르며 다양한 장르나 ...",
+            "sequence": 10
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb",
+            "results": [
+                {
+                    "query": "카카오톡 스낵게임",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오게임 순위",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오게임",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오게임즈 신규 게임",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오게임 목록",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오게임즈 비디오 게임",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오 게임 다운",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "카카오 PC 게임",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(4)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                }
+            ],
+            "sequence": 11
+        }
+    ],
+    "page_navigation": {
+        "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(13)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(6) > span#xjs > table.AaVjTc",
+        "next_url": "/search?q=%EC%B9%B4%EC%B9%B4%EC%98%A4+%EB%AA%A8%EB%B0%94%EC%9D%BC+%EA%B2%8C%EC%9E%84&hl=ko&gl=kr&pws=0&ei=AtB7Yv7nNY-G-AbBqYyoAQ&start=10&sa=N&ved=2ahUKEwj-8P_V29f3AhUPA94KHcEUAxUQ8NMDegQIARBO"
+    },
+    "appbar": [
+        {
+            "type": "more_likes",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb",
+            "title": "Games/모바일 장치/카카오",
+            "carousels": [
+                {
+                    "title": "오딘: 발할라 라이징",
+                    "entity_name": "오딘: 발할라 라이징",
+                    "entity_id": "/g/11nyqfjbns",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "가디언 테일즈",
+                    "entity_name": "가디언 테일즈",
+                    "entity_id": "/g/11jf9hpwvc",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "애니팡",
+                    "entity_name": "애니팡",
+                    "entity_id": "/m/0v4g_23",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프렌즈팝콘",
+                    "entity_name": "프렌즈팝콘",
+                    "entity_id": "/g/11dxm8srht",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프렌즈레이싱",
+                    "entity_name": "프렌즈레이싱",
+                    "entity_id": "/g/11ftndzj9l",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "캔디팡",
+                    "entity_name": "캔디팡",
+                    "entity_id": "/g/11vk9th37",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "윈드러너",
+                    "entity_name": "윈드러너",
+                    "entity_id": "/g/1203nc7m1",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프린세스 커넥트! Re:Dive",
+                    "entity_name": "프린세스 커넥트! Re:Dive",
+                    "entity_id": "/g/11fk09rnwm",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프렌즈타운",
+                    "entity_name": "프렌즈타운",
+                    "entity_id": "/g/11h5rl7wd7",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "애니팡2",
+                    "entity_name": "애니팡2",
+                    "entity_id": "/g/11ftm9dqjp",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프렌즈팝",
+                    "entity_name": "프렌즈팝",
+                    "entity_id": "/g/11c52m9ksz",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "드래곤 플라이트",
+                    "entity_name": "드래곤 플라이트",
+                    "entity_id": "/g/11vk9sy04",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "세븐나이츠",
+                    "entity_name": "세븐나이츠",
+                    "entity_id": "/g/11c3swbpt_",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프렌즈사천성",
+                    "entity_name": "프렌즈사천성",
+                    "entity_id": "/g/11f53qsndn",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ46.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "맞고의 신 : 카카오 공식 무료 고스톱",
+                    "entity_name": "맞고의 신 : 카카오 공식 무료 고스톱",
+                    "entity_id": "/g/11g65f9lsw",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ48.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "프렌즈타워",
+                    "entity_name": "프렌즈타워",
+                    "entity_id": "/g/11j5lw5dj6",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ50.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "몬스터 길들이기",
+                    "entity_name": "몬스터 길들이기",
+                    "entity_id": "/g/11c2y8r23n",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ52.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "애니팡4",
+                    "entity_name": "애니팡4",
+                    "entity_id": "/g/11jgk41y8n",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ54.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "아이러브커피",
+                    "entity_name": "아이러브커피",
+                    "entity_id": "/g/11c2y7xc8s",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ56.ct5Ked.klitem-tr.PZPZlf"
+                },
+                {
+                    "title": "마이리틀셰프",
+                    "entity_name": "마이리틀셰프",
+                    "entity_id": "/g/11g6rk8rb_",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(9)#appbar.appbar > div:nth-child(2)#extabar > div:nth-child(2) > div:nth-child(1).pGEVQb > div:nth-child(2) > div:nth-child(1) > div:nth-child(1).EyBRub > g-scrolling-carousel#_AtB7Yv7nNY-G-AbBqYyoAQ33.sfS5Re > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#_AtB7Yv7nNY-G-AbBqYyoAQ58.ct5Ked.klitem-tr.PZPZlf"
+                }
+            ]
+        }
+    ]
+}

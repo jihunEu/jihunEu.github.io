@@ -1,0 +1,196 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "d8d18428-7257-4993-81d9-1d140327b00e",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:31:02.317Z",
+        "q": "신한은행 본점",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89+%EB%B3%B8%EC%A0%90&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0033.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121731/211189154018-55ADA920310A40ADB1937F4D0CA3D46C-00.html",
+        "json_url": "http://node0033.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121731/211189154018-55ADA920310A40ADB1937F4D0CA3D46C-00.json",
+        "crawl_start_time": "2022-05-12T08:31:02.354Z",
+        "crawl_end_time": "2022-05-12T08:31:06.559Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "신한은행 본점",
+        "parsed_time": "2022-05-12T08:31:06.855Z"
+    },
+    "features": [
+        {
+            "type": "local_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).scm-c.mnr-c.XEaKQb",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.shinhan.com › webzine",
+            "title": "본점 | 신한은행 홈페이지",
+            "url": "https://www.shinhan.com/webzine/index.jsp?w2xPath=/hpe/bank_introduce/BI07/home01.xml",
+            "snippet": "상단메뉴 바로가기본문내용 바로가기. 신한은행 영업점 안내. 국내영업점; 365자동화; PB센터; 공항영업점; 해외영업점. 미국; 영국; 독일; 일본; 중국; 홍콩; 싱가폴 ...",
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.shinhan.com › webzine",
+            "title": "국내영업점 | 신한은행 홈페이지",
+            "url": "https://www.shinhan.com/webzine/index.jsp?w2xPath=/hpe/bank_introduce/BI07/internal01_type01.xml",
+            "snippet": "... 영국; 독일; 일본; 중국; 홍콩; 싱가폴; 베트남; 인도; 캄보디아; 카자흐스탄; 우즈베키스탄; 멕시코; 미얀마; 캐나다; 폴란드; 아랍에미레이트; 필리핀. 본점안내.",
+            "properties": [
+                {
+                    "key": "Address",
+                    "value": "value"
+                }
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "http://www.shinhangroup.com › co...",
+            "title": "회사위치 | 회사소개 - 신한금융지주",
+            "url": "http://www.shinhangroup.com/kr/introduce/companyLocation.jsp",
+            "snippet": "서울특별시 중구 세종대로 9길 20 (태평로 2가 120) 대경빌딩(신한은행 본점) 16층/17층 TEL 02)6360-3000. 글로벌 500대 금융브랜드 대한민국1위; 다우존스 지속가능 ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://ko.m.wikipedia.org › wiki",
+            "title": "신한은행 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.m.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89",
+            "snippet": "신한은행 ; 이희건 · 대한민국 · 서울특별시 중구 세종대로9길 20 (태평로2가, 대경빌딩) · 진옥동 (은행장) · 국내은행 · 2,044,595,000,000원 (2017).",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://ko.m.wikipedia.org/wiki/%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89",
+                "desc": "신한은행 본점(출처: ko.m.wikipedia.org)"
+            },
+            "properties": [
+                {
+                    "key": "전신",
+                    "value": "신한은행 ;  조흥은행"
+                },
+                {
+                    "key": "본사 소재지",
+                    "value": "대한민국 서울특별시 중구 세종대로9길 20; ( 태평로2가 , 대경빌딩)"
+                }
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.ssyenc.co.kr › business",
+            "title": "쌍용건설 - 신한은행 본점",
+            "url": "https://www.ssyenc.co.kr/ko/business/domestic_view.asp?seq=297&menu=1&sub=4",
+            "snippet": "신한은행 본점. Shinhan Bank Head Office. 사업 정보. 위치, 서울특별시 중구. 준공일, 1988 / 10. 발주처, 신한은행. 공사개요, 지하 6층, 지상 20층 규모의 대형 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.ssyenc.co.kr/ko/business/domestic_view.asp?seq=297&menu=1&sub=4",
+                "desc": "신한은행 본점(출처: www.ssyenc.co.kr)"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://namu.wiki › 신한은행",
+            "title": "신한은행 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89",
+            "snippet": "3일 전 — 신한금융그룹 계열 시중은행으로, 국내 최초로 민간 주도 금융지주회사를 설립했다. 노조는 한국노총 금융노조 소속이다. 신한은행본점 본사는 서울특별시 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.place.naver.com › place",
+            "title": "신한은행 영업부(본점) - 네이버 MY플레이스",
+            "url": "https://m.place.naver.com/place/1151686409?entry=ple",
+            "snippet": "신한은행 영업부(본점) · 주소. 서울 중구 세종대로9길 20 (대경빌딩) 지도 내비게이션 거리뷰. 12시청역 9번 출구에서217m · 영업시간. 평일 09:30 - 15:30 사회적거리두기 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.shinhansavings.com › ...",
+            "title": "영업점안내 [ 홈|회사소개 - 신한저축은행",
+            "url": "https://www.shinhansavings.com/bbgud_0001A_01.act",
+            "snippet": "본점영업부. 주소: 서울특별시 중구 청계천로 54, 광교빌딩 3층; 전화번호: 1644-7777; 팩스: 02-6716-2102 *e-mail: shsb09@shinhan.com. 주차안내: 건물주차장 이용 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.jusoen.com › addreng",
+            "title": "신한은행 본점 - 영문주소변환",
+            "url": "https://www.jusoen.com/addreng.asp?p1=%EC%8B%A0%ED%95%9C%EC%9D%80%ED%96%89%20%EB%B3%B8%EC%A0%90",
+            "snippet": "신한은행 본점. ... 경상남도 창원시 마산합포구 산호북19길 1 (산호동, 신한은행). 1, Sanhobuk 19-gil, Masanhappo-gu, Changwon-si, Gyeongsangnam-do, ...",
+            "sequence": 11
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "shinhan bank",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "foursquare",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "온실가스",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "지하주차장",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "transit",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "주차",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "신한금융",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 12
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 13
+        }
+    ]
+}

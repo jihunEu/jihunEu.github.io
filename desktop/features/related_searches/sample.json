@@ -1,0 +1,182 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "9556b082-2640-410f-a247-b08263f3006f",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T01:30:16.562Z",
+        "q": "iphone 11",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=iphone+11&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131030/211241247097-94935390951243E2BF9CF3EA08FBFE1E-00.html",
+        "json_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131030/211241247097-94935390951243E2BF9CF3EA08FBFE1E-00.json",
+        "crawl_start_time": "2022-05-13T01:30:16.604Z",
+        "crawl_end_time": "2022-05-13T01:30:22.147Z",
+        "device": "desktop",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "iphone 11",
+        "total_results": 3720000000,
+        "hidden_people_also_search_for": [
+            "iphone 11 pro",
+            "iphone 11 pro max",
+            "iphone 11 release date",
+            "iphone 11 size",
+            "iphone 11 verizon",
+            "iphone 11 unlocked"
+        ],
+        "parsed_time": "2022-05-13T01:30:22.488Z"
+    },
+    "features": [
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(1).hlcw0c > div:nth-child(14) > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).kWxLod > div:nth-child(1).jtfYYd",
+            "position": 1,
+            "displayed_link": "https://www.apple.com › iPhone › iPhone 11",
+            "title": "Buy iPhone 11 - Apple",
+            "url": "https://www.apple.com/shop/buy-iphone/iphone-11",
+            "snippet": "Get $110 - $700 off a new iPhone 11 when you trade in an iPhone 8 or newer. Personal setup available. Buy now with free delivery.",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(1).hlcw0c > div:nth-child(14) > div:nth-child(1).g > div:nth-child(2).d4rhi > ul.FxLDp > li:nth-child(1).MYVUIe > div:nth-child(1).XN9cAe > div:nth-child(1) > div:nth-child(1).jtfYYd",
+            "position": 2,
+            "displayed_link": "https://www.apple.com › iPhone › iPhone 11",
+            "title": "iPhone 11 - Technical Specifications - Apple",
+            "url": "https://www.apple.com/iphone-11/specs/",
+            "snippet": "iPhone 11 Technical Specifications · Liquid Retina HD display · 6.1‑inch (diagonal) all-screen LCD Multi-Touch display with IPS technology · 1792‑by‑828‑pixel ...",
+            "sequence": 2
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(3).ULSxyf > g-section-with-header.yG4QQe.TBC9ub",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(21).g.tF2Cxc",
+            "position": 3,
+            "displayed_link": "https://www.macrumors.com › roundup › iphone-11",
+            "title": "iPhone 11: Still a Good Buy? Everything We Know",
+            "url": "https://www.macrumors.com/roundup/iphone-11/",
+            "snippet": "6 days ago — The iPhone 11 was introduced in September 2019, and Apple has continued selling it as a lower-priced option alongside subsequent iPhone ...",
+            "rating": {
+                "rating_value": "5"
+            },
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(22).g > div:nth-child(1) > div:nth-child(1).f0OOpe.qJ4Pqe > div:nth-child(1).FCIUXc > div:nth-child(1).tF2Cxc",
+            "position": 4,
+            "displayed_link": "https://www.t-mobile.com › Phones › Apple",
+            "title": "Apple iPhone 11 | 1 color in 64GB | T-Mobile",
+            "url": "https://www.t-mobile.com/cell-phone/apple-iphone-11",
+            "snippet": "iPhone 11 ; MEMORY. 64GB ; COLOR : Black ; estimated ship date · May 10 - May 13 ; Key features. Dual 12MP Ultra Wide & Wide Cameras w/ Night Mode 12MP TrueDepth ...",
+            "rating": {
+                "rating_value": "4.3",
+                "rating_count": "1,438"
+            },
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(23).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 5,
+            "displayed_link": "https://www.bestbuy.com › Cell Phones › iPhone",
+            "title": "iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max - Best Buy",
+            "url": "https://www.bestbuy.com/site/iphone/shop-iphone-11-iphone-11-pro-and-iphone-11-pro-max/pcmcat1568147641595.c?id=pcmcat1568147641595",
+            "snippet": "The Apple iPhone 11 comes with a dual-camera system, featuring a 12-megapixel ultra-wide angle lens with an f/2.4 aperture, and a 12-megapixel wide lens with an ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(25).g.tF2Cxc",
+            "position": 6,
+            "displayed_link": "https://www.verizon.com › smartphones › apple-iphone-11",
+            "title": "Apple iPhone 11 - 6 Cool Colors & Dual Camera | Best Price",
+            "url": "https://www.verizon.com/smartphones/apple-iphone-11/",
+            "snippet": "Meet the iPhone 11. A new dual-camera system captures more of what you see and love. The fastest chip ever in a smartphone and all-day battery life let you do ...",
+            "rating": {
+                "rating_value": "3.6",
+                "rating_count": "226"
+            },
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(26).g > div:nth-child(1) > div:nth-child(1).f0OOpe.qJ4Pqe > div:nth-child(1).FCIUXc > div:nth-child(1).tF2Cxc",
+            "position": 7,
+            "displayed_link": "https://www.amazon.com › Apple-iPhone-11-128GB-Black",
+            "title": "Amazon.com: Apple iPhone 11, US Version, 128GB, Black",
+            "url": "https://www.amazon.com/Apple-iPhone-11-128GB-Black/dp/B07ZPKR714",
+            "snippet": "Apple iPhone 11, US Version, 128GB, Black - Unlocked (Renewed) ; Was: $414.97$414.97 ; Price: $394.00$394.00 ; You Save: $20.97$20.97 (5%) ...",
+            "rating": {
+                "rating_value": "4.4",
+                "rating_count": "1,952"
+            },
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(27).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 8,
+            "displayed_link": "https://9to5mac.com › guides › iphone-11",
+            "title": "iPhone 11: Features, Release Date, Price, Cameras, etc.",
+            "url": "https://9to5mac.com/guides/iphone-11/",
+            "snippet": "Apple's iPhone 11 includes dual cameras and new colors. iPhone 11 Pro includes a triple camera, A13 chip, and Super Retina XDR screen.",
+            "sequence": 9
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb",
+            "results": [
+                {
+                    "query": "iphone 11 pro",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 pro max",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 release date",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 verizon",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 unlocked",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 t-mobile",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 cricket",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "iphone 11 deals",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                }
+            ],
+            "sequence": 10
+        }
+    ],
+    "page_navigation": {
+        "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(7) > span#xjs > table.AaVjTc",
+        "next_url": "/search?q=iphone+11&hl=en&gl=us&pws=0&ei=qbR9YpCeE4SB-QaNpIqICg&start=10&sa=N&ved=2ahUKEwjQlrLvqdv3AhWEQN4KHQ2SAqEQ8NMDegUIAhC1AQ"
+    }
+}

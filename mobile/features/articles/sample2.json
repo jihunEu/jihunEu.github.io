@@ -1,0 +1,1038 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "06a9a33f-124c-4927-8d65-bb5dacf2275f",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T07:21:10.796Z",
+        "q": "nfl",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=nfl&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0016.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121621/211254003067-0DE64B8CE8B14C958FA10F02FD3F9E95-00.html",
+        "json_url": "http://node0016.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220512/2205121621/211254003067-0DE64B8CE8B14C958FA10F02FD3F9E95-00.json",
+        "crawl_start_time": "2022-05-12T07:21:10.820Z",
+        "crawl_end_time": "2022-05-12T07:21:20.138Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "nfl",
+        "parsed_time": "2022-05-12T07:21:22.819Z"
+    },
+    "features": [
+        {
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid15.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0.Du5Hud",
+            "selected": "Overview",
+            "headers": [
+                "Overview",
+                "Games",
+                "Standings",
+                "Teams",
+                "News",
+                "Videos",
+                "Players",
+                "Apps",
+                "Awards"
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "articles",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb",
+            "items": [
+                {
+                    "carousels": [
+                        {
+                            "title": "NFL draft 2022 - Best team fits for top rookies, perfect landing spots and \nmidround steals with early-impact potential",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.espn.com/nfl/insider/draft2022/insider/story/_/id/33891791/nfl-draft-2022-best-team-fits-top-rookies-perfect-landing-spots-midround-steals-early-impact-potential?platform=amp"
+                        },
+                        {
+                            "title": "Check out the highlights of the Steelers top 2022 NFL draft picks",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://steelerswire.usatoday.com/lists/pittsburgh-steelers-2022-nfl-draft-picks-kenny-pickett-george-pickens-demarvin-leal-2/"
+                        },
+                        {
+                            "title": "'Rare air': How agent Nicole Lynn, Patriots rookie QB Bailey Zappe forged \nuncommon NFL partnership",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.usatoday.com/story/sports/nfl/2022/05/11/bailey-zappe-nicole-lynn-black-agents-nfl-draft/9722350002/"
+                        },
+                        {
+                            "title": "Power rankings: Post 2022 NFL draft edition",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://touchdownwire.usatoday.com/lists/power-rankings-nfl-2022-draft-bills-rams-bengals-packers/"
+                        },
+                        {
+                            "title": "Every NFL Team's 2022 Undrafted Free Agent Most Likely to Make the Roster",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid37.JJZKK > div:nth-child(1)#NEWS_TILE_23_ZrV8YpbsPL2y0PEPweu1gAM__56.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://syndication.bleacherreport.com/amp/2955955-every-nfl-teams-2022-undrafted-free-agent-most-likely-to-make-the-roster.amp.html"
+                        },
+                        {
+                            "title": "NFL draft: 5 first-round picks entering tricky situations in Year 1",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid52.JJZKK > div:nth-child(1)#NEWS_TILE_26_ZrV8YpbsPL2y0PEPweu1gAM__59.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://sports.yahoo.com/amphtml/nfl-draft-5-first-round-picks-entering-tricky-situations-in-year-1-191727185.html"
+                        },
+                        {
+                            "title": "Key intel on all 32 teams after the 2022 NFL draft - Buzz and exec \nreactions on depth chart fits, remaining needs, what comes next",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid50.JJZKK > div:nth-child(1)#NEWS_TILE_29_ZrV8YpbsPL2y0PEPweu1gAM__62.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.espn.com/nfl/insider/draft2022/insider/story/_/id/33883074/key-intel-all-32-teams-2022-nfl-draft-buzz-exec-reactions-depth-chart-fits-remaining-needs-comes-next?platform=amp"
+                        },
+                        {
+                            "title": "2023 NFL Draft: C.J. Stroud and Bryce Young among offensive prospects to \nwatch in 2022 college football season",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(8)#tsuid68.JJZKK > div:nth-child(1)#NEWS_TILE_32_ZrV8YpbsPL2y0PEPweu1gAM__65.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/draft/news/2023-nfl-draft-c-j-stroud-and-bryce-young-among-offensive-prospects-to-watch-in-2022-college-football-season/amp/"
+                        },
+                        {
+                            "title": "Why it might be a while before you get trading cards for NFL draft picks",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(9)#tsuid85.JJZKK > div:nth-child(1)#NEWS_TILE_35_ZrV8YpbsPL2y0PEPweu1gAM__68.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.espn.com/nfl/story/_/id/33892788/why-a-get-trading-cards-nfl-draft-picks?platform=amp"
+                        },
+                        {
+                            "title": "Falcons’ Arthur Smith Clear on Current Starting QB After NFL Draft",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(1) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM95.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(10)#tsuid33.JJZKK > div:nth-child(1)#NEWS_TILE_38_ZrV8YpbsPL2y0PEPweu1gAM__71.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.si.com/.amp/nfl/2022/05/11/falcons-arthur-smith-clear-current-starting-qb-nfl-draft"
+                        }
+                    ]
+                },
+                {
+                    "title": "News about NFL, schedule release",
+                    "carousels": [
+                        {
+                            "title": "The NFL Schedule Release Demeans Us All",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(1) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://defector.com/the-nfl-schedule-release-demeans-us-all/"
+                        },
+                        {
+                            "title": "2022 NFL strength of schedule for all 32 teams: Cowboys have it easiest, \nRams facing toughest slate",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(2) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/2022-nfl-strength-of-schedule-for-all-32-teams-cowboys-have-it-easiest-rams-facing-toughest-slate/amp/"
+                        },
+                        {
+                            "title": "NFL 2022 schedule release: One man's zany format for league's newest \nmust-see event, plus some real questions",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(3) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-one-mans-zany-format-for-leagues-newest-must-see-event-plus-some-real-questions/amp/"
+                        },
+                        {
+                            "title": "2022 NFL Schedule: Early confirmed regular season matchups and dates",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(4) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.fieldgulls.com/platform/amp/2022/5/11/23064524/2022-nfl-schedule-news-confirmed-regular-season-matchups-dates"
+                        },
+                        {
+                            "title": "NFL 2022 schedule release: CBS reveals champion Rams will host Russell \nWilson, Broncos on Christmas Day",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(5)#tsuid91 > div:nth-child(1)#NEWS_TILE_54_ZrV8YpbsPL2y0PEPweu1gAM__87.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/nfl-2022-schedule-release-cbs-reveals-champion-rams-will-host-russell-wilson-broncos-on-christmas-day/amp/"
+                        },
+                        {
+                            "title": "How to watch the 2022 NFL Schedule Release",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(6)#tsuid56 > div:nth-child(1)#NEWS_TILE_57_ZrV8YpbsPL2y0PEPweu1gAM__90.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.buffalobills.com/news/how-to-watch-the-2022-nfl-schedule-release"
+                        },
+                        {
+                            "title": "2022 NFL schedule release: Here's a running list of every game we know so \nfar ahead of Thursday's unveiling",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(7)#tsuid54 > div:nth-child(1)#NEWS_TILE_60_ZrV8YpbsPL2y0PEPweu1gAM__93.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-heres-a-running-list-of-every-game-we-know-so-far-ahead-of-thursdays-unveiling/amp/"
+                        },
+                        {
+                            "title": "2022 NFL schedule release: Eagles opponents, previews, full list of teams \non regular-season schedule",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(8)#tsuid70 > div:nth-child(1)#NEWS_TILE_63_ZrV8YpbsPL2y0PEPweu1gAM__96.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-eagles-opponents-previews-full-list-of-teams-on-regular-season-schedule/amp/"
+                        },
+                        {
+                            "title": "How To Watch The 2022 NFL Schedule Release",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(9)#tsuid72 > div:nth-child(1)#NEWS_TILE_66_ZrV8YpbsPL2y0PEPweu1gAM__99.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.seahawks.com/news/how-to-watch-the-2022-nfl-schedule-release"
+                        },
+                        {
+                            "title": "Veterans who could be facing chopping block, plus NFL schedule leaks and \n2023 top offensive prospects",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM84.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(10)#tsuid35 > div:nth-child(1)#NEWS_TILE_69_ZrV8YpbsPL2y0PEPweu1gAM__102.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/veterans-who-could-be-facing-chopping-block-plus-nfl-schedule-leaks-and-2023-top-offensive-prospects/amp/"
+                        }
+                    ]
+                },
+                {
+                    "title": "Also in the news",
+                    "carousels": [
+                        {
+                            "title": "Dolphins proudly tweet video of Tua Tagovailoa throwing wounded duck to \nTyreek Hill",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(1) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://sports.yahoo.com/amphtml/dolphins-proudly-tweet-video-of-tua-tagovailoa-throwing-wounded-duck-to-tyreek-hill-195700057.html"
+                        },
+                        {
+                            "title": "Ex-NFL star Ricky Williams on how cannabis use changed his mindset, helped \nhim deal with anxiety",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(2) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.foxnews.com/sports/ricky-williams-cannabis-changed-mindset-deal-social-anxiety.amp"
+                        },
+                        {
+                            "title": "The Most Overrated NFL Teams Heading into the 2022 Season",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(3) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://syndication.bleacherreport.com/amp/2956058-the-most-overrated-nfl-teams-heading-into-the-2022-season.amp.html"
+                        },
+                        {
+                            "title": "Broncos sale: NFL owners would love Walmart heir Rob Walton to buy",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(4) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.si.com/nfl/2022/05/11/nfl-owners-would-love-for-walmart-heir-rob-walton-to-buy-the-broncos"
+                        },
+                        {
+                            "title": "NFL draft 2022 - Ranking the best in-draft trades and why the Eagles should \nnot have traded up to No. 13",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(5)#tsuid93 > div:nth-child(1)#NEWS_TILE_85_ZrV8YpbsPL2y0PEPweu1gAM__118.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.espn.com/nfl/story/_/id/33861237/nfl-draft-2022-ranking-best-draft-trades-why-eagles-not-traded-no-13?platform=amp"
+                        },
+                        {
+                            "title": "Tales from inside the NFL draft process -- Trading up, tense moments and \nlying season",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(6)#tsuid99 > div:nth-child(1)#NEWS_TILE_88_ZrV8YpbsPL2y0PEPweu1gAM__121.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.espn.com/nfl/story/_/id/33845649/tales-nfl-draft-process-trading-tense-moments-lying-season?platform=amp"
+                        },
+                        {
+                            "title": "Ten bold NFL predictions for 2022 season: Russell Wilson wins MVP, Aaron \nRodgers calls it a career and more",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(7)#tsuid78 > div:nth-child(1)#NEWS_TILE_91_ZrV8YpbsPL2y0PEPweu1gAM__124.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.cbssports.com/nfl/news/ten-bold-nfl-predictions-for-2022-season-russell-wilson-wins-mvp-aaron-rodgers-calls-it-a-career-and-more/amp/"
+                        },
+                        {
+                            "title": "2022 NFL Draft grades for all 32 teams | NFL Draft",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(8)#tsuid101 > div:nth-child(1)#NEWS_TILE_94_ZrV8YpbsPL2y0PEPweu1gAM__127.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.pff.com/news/draft-2022-nfl-draft-grades"
+                        },
+                        {
+                            "title": "2022 NFL Draft: Inside the Eagles’ Process of Collecting and Trading Picks",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(9)#tsuid103 > div:nth-child(1)#NEWS_TILE_97_ZrV8YpbsPL2y0PEPweu1gAM__130.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.si.com/.amp/nfl/2022/05/02/nfl-draft-howie-roseman-eagles-daily-cover"
+                        },
+                        {
+                            "title": "2022 NFL draft -- Analysis of all 262 selections",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.mnr-c.UBoxCb.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM96.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(10)#tsuid39 > div:nth-child(1)#NEWS_TILE_100_ZrV8YpbsPL2y0PEPweu1gAM__133.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.espn.com/nfl/story/_/id/33809808/2022-nfl-draft-analysis-all-262-selections?platform=amp"
+                        }
+                    ]
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(25).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Images",
+            "attrids": [
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image"
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(26).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "About",
+            "attrids": [
+                {
+                    "attrid": "visit_official_site",
+                    "values": [
+                        "nfl.com"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Description",
+                        "The National Football League is a professional American football league that consists of 32 teams, divided equally between the American Football Conference and the National Football Conference.",
+                        "Wikipedia"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:commission",
+                    "values": [
+                        "Commissioner: ",
+                        "Roger Goodell"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:found",
+                    "values": [
+                        "Founded: ",
+                        "September 17, 1920; 101 years ago; ",
+                        "Canton",
+                        ", ",
+                        "Ohio",
+                        ", U.S."
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:most_titl",
+                    "values": [
+                        "Most titles: ",
+                        "Green Bay Packers; (13 titles)"
+                    ]
+                },
+                {
+                    "attrid": "kc:/events/recurring_event:next_date",
+                    "values": [
+                        "Next date: ",
+                        "Thu, Sep 8, 2022 – Sun, Jan 8, 2023"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:inaugur_season",
+                    "values": [
+                        "Inaugural season: ",
+                        "1920"
+                    ]
+                },
+                {
+                    "attrid": "kc:/award/award_winner:awards",
+                    "values": [
+                        "Awards: ",
+                        "Shorty Industry Award for Best in Sports",
+                        ", ",
+                        "Shorty Industry Award for Best Use of Animated GIFs",
+                        ", ",
+                        "Shorty Industry Award for Best Overall Instagram Presence",
+                        ",",
+                        "More"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "The National Football League is a professional American football league that consists of 32 teams, divided equally between the American Football Conference and the National Football Conference.  ",
+                    "properties": [
+                        {
+                            "attrid": "ss:/webfacts:commission",
+                            "key": "Commissioner",
+                            "value": "Roger Goodell"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:found",
+                            "key": "Founded",
+                            "value": "September 17, 1920; 101 years ago; Canton, Ohio, U.S."
+                        },
+                        {
+                            "attrid": "ss:/webfacts:most_titl",
+                            "key": "Most titles",
+                            "value": "Green Bay Packers; (13 titles)"
+                        },
+                        {
+                            "attrid": "kc:/events/recurring_event:next_date",
+                            "key": "Next date",
+                            "value": "Thu, Sep 8, 2022 – Sun, Jan 8, 2023"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:inaugur_season",
+                            "key": "Inaugural season",
+                            "value": "1920"
+                        },
+                        {
+                            "attrid": "kc:/award/award_winner:awards",
+                            "key": "Awards",
+                            "value": "Shorty Industry Award for Best in Sports, Shorty Industry Award for Best Use of Animated GIFs, Shorty Industry Award for Best Overall Instagram Presence,  More "
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "visit_official_site",
+                "description",
+                "ss:/webfacts:commission",
+                "ss:/webfacts:found",
+                "ss:/webfacts:most_titl",
+                "kc:/events/recurring_event:next_date",
+                "ss:/webfacts:inaugur_season",
+                "kc:/award/award_winner:awards"
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(27).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.nfl.com",
+            "title": "NFL.com | Official Site of the National Football League",
+            "url": "https://www.nfl.com/",
+            "snippet": "8 hours ago — The official source for NFL News, NFL video highlights, Fantasy Football, game-day coverage, NFL schedules, stats, scores & more.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.nfl.com/",
+                "desc": "nfl from www.nfl.com"
+            },
+            "sequence": 5
+        },
+        {
+            "type": "twitter",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(28).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(2) > div:nth-child(1) > g-card.g.F6CFcc",
+            "channel_name": "NFL",
+            "carousels": [
+                {
+                    "desc": "We'll take a large popcorn, please. 🍿\n\n@Bwagz | @RamsNFL\n\n📺: 2022 NFL Schedule Release -- Thursday, 5/12 at 8pm ET on @NFLNetwork ",
+                    "date": "Twitter · 12 hours ago"
+                },
+                {
+                    "desc": "Emmanuel Sanders honored Demaryius Thomas by visiting one of DT's most frequent stops: The Denver Broncos Boys & Girls Club 🧡 (THREAD ⬇️) ",
+                    "date": "Twitter · 11 hours ago"
+                },
+                {
+                    "desc": "Carson Wentz will be back in Philly this year...but in a @Commanders uniform. 👀\n\n📺:  2022 NFL Schedule Release -- Thursday at 8pm ET on @nflnetwork ",
+                    "date": "Twitter · 6 hours ago"
+                },
+                {
+                    "desc": ".@RamsNFL vs. @Buccaneers was an absolute thriller in the playoffs. 🔥\n\nCan't wait to see when we get the rematch this season.\n\n📺:  2022 NFL Schedule Release -- Thursday at 8pm ET on @nflnetwork ",
+                    "date": "Twitter · 8 hours ago"
+                },
+                {
+                    "desc": "We get not one but two matchups next season between the last two rushing champs. 🙌🙌\n\n@KingHenry_2 | @JayT23\n\n📺: 2022 NFL Schedule Release -- Thursday at 8pm ET on @NFLNetwork ",
+                    "date": "Twitter · 14 hours ago"
+                }
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb",
+            "results": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(1)#_ZrV8YpbsPL2y0PEPweu1gAM219 > div:nth-child(1) > div:nth-child(1)#RELATED_QUESTION_LINK_149_ZrV8YpbsPL2y0PEPweu1gAM__273 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.pff.com › news › draft-...",
+                    "url": "https://www.pff.com/news/draft-best-pick-every-round-2022-nfl-draft",
+                    "title": "The best picks in every round of the 2022 NFL Draft - PFF"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(1)#_ZrV8YpbsPL2y0PEPweu1gAM219 > div:nth-child(2) > div:nth-child(1)#RELATED_QUESTION_LINK_152_ZrV8YpbsPL2y0PEPweu1gAM__279 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.sharpfootballanalysis.com › ...",
+                    "url": "https://www.sharpfootballanalysis.com/analysis/2022-nfl-strength-of-schedule/",
+                    "title": "2022 NFL Strength Of Schedule, Regular Season - Sharp Football ...",
+                    "snippet": "What NFL teams have the easiest schedule for 2022: Based on projected win totals, the Washington Commanders have the easiest strength of schedule for the 2022 NFL season. The next easiest schedules, in order, are the Chicago Bears, Philadelphia Eagles, Indianapolis Colts, and Seattle Seahawks."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(1)#_ZrV8YpbsPL2y0PEPweu1gAM219 > div:nth-child(3) > div:nth-child(1)#RELATED_QUESTION_LINK_158_ZrV8YpbsPL2y0PEPweu1gAM__303 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.cbssports.com › news",
+                    "url": "https://www.cbssports.com/nfl/news/2022-nfl-schedule-release-heres-a-running-list-of-every-game-we-know-so-far-ahead-of-thursdays-unveiling/",
+                    "title": "2022 NFL schedule release: Here's a running list of every game we ...",
+                    "snippet": "Not only will we update this list with any new announcements, but we'll also be sure to add any leaks if those come out before the schedule is unveiled. The full 2022 NFL schedule will be released on Thursday, May 12, at 8 p.m. ET on NFL Network, NFL.com and the NFL app.19 hours ago"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(29).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).AuVD.wHYlTd.cUnQKe.Ww4FFb > div:nth-child(4).ouy7Mc > div:nth-child(1)#_ZrV8YpbsPL2y0PEPweu1gAM219 > div:nth-child(4) > div:nth-child(1)#RELATED_QUESTION_LINK_161_ZrV8YpbsPL2y0PEPweu1gAM__310 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://langleyrams.com › oldest-nfl-...",
+                    "url": "https://langleyrams.com/oldest-nfl-team/",
+                    "title": "What Is The Oldest NFL Team? Top 10 Oldest NFL Teams Of All Time"
+                }
+            ],
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(30).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.nfl.com › draft",
+            "title": "2022 NFL Draft - News, Video & Photos",
+            "url": "https://www.nfl.com/draft/",
+            "snippet": "Get the latest NFL draft news. Watch live streaming draft videos & video ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.nfl.com/draft/",
+                "desc": "nfl from www.nfl.com"
+            },
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(31).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.cbssports.com › nfl",
+            "title": "NFL Football - News, Scores, Stats, Standings, and Rumors - CBS Sports",
+            "url": "https://www.cbssports.com/nfl/",
+            "snippet": "CBS Sports has the latest NFL Football news, live scores, player stats, standings, fantasy games, and projections.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.cbssports.com/nfl/news/2022-nfl-draft-chris-carson-nelson-agholor-and-other-veterans-who-could-be-replaced-by-rookies/amp/"
+            },
+            "carousels": [
+                {
+                    "title": "2022 NFL Draft: Chris Carson, Nelson Agholor and other veterans who could be replaced by rookies",
+                    "date": "18 hours ago"
+                },
+                {
+                    "title": "NFL 2022 schedule release: One man's zany format for league's newest must-see event, plus some real questions",
+                    "date": "3 hours ago"
+                },
+                {
+                    "title": "2022 NFL schedule release: Here's a running list of every leaked game ahead of Thursday's unveiling",
+                    "date": "6 hours ago"
+                },
+                {
+                    "title": "2022 NFL strength of schedule for all 32 teams: Cowboys have it easiest, Rams facing toughest slate",
+                    "date": "13 hours ago"
+                },
+                {
+                    "title": "Steelers' Mike Tomlin leads active NFL head coaches in significant category, including Bill Belichick",
+                    "date": "14 hours ago"
+                },
+                {
+                    "title": "2022 NFL schedule release: Broncos opponents, previews, full list of teams on regular-season schedule",
+                    "date": "14 hours ago"
+                },
+                {
+                    "title": "2022 NFL schedule release: Mike McCarthy, Cowboys will travel to Green Bay to face Packers in Week 10",
+                    "date": "18 hours ago"
+                },
+                {
+                    "title": "2022 NFL schedule release: Raiders opponents, previews, full list of teams on regular-season schedule",
+                    "date": "1 day ago"
+                },
+                {
+                    "title": "2022 NFL Draft: Lamar Jackson leads veterans who benefitted; Ryan Tannehill now looking over his shoulder",
+                    "date": "1 day ago"
+                },
+                {
+                    "title": "2023 NFL Mock Draft: Will Levis goes No. 1 to Texans as part of deservedly hyped QB class, with 7 in Round 1",
+                    "date": "2 days ago"
+                }
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(32).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.CGCvRb.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Teams",
+            "attrids": [
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "San Francisco 49ers",
+                        "Green Bay Packers",
+                        "Kansas City Chiefs",
+                        "Philadelphia Eagles",
+                        "Las Vegas Raiders",
+                        "New England Patriots",
+                        "Buffalo Bills",
+                        "View all"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "San Francisco 49ers"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "Green Bay Packers"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "Kansas City Chiefs"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "Philadelphia Eagles"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "Las Vegas Raiders"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "New England Patriots"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/sports_associations:teams",
+                    "values": [
+                        "Buffalo Bills"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams",
+                "hw:/collection/sports_associations:teams"
+            ],
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(33).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.instagram.com › nfl",
+            "title": "NFL (@nfl) • Instagram photos and videos",
+            "url": "https://www.instagram.com/nfl/?hl=en",
+            "snippet": "24.4m Followers, 2072 Following, 44.8k Posts - See Instagram photos and videos from NFL (@nfl)",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(34).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.espn.com › nfl",
+            "title": "NFL Football Teams, Scores, Stats, News, Standings, Rumors - ESPN",
+            "url": "https://www.espn.com/nfl/",
+            "snippet": "19 hours ago — Get the latest NFL football news, scores, stats, standings, fantasy games, and more from ESPN.",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(35).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://bleacherreport.com › nfl",
+            "title": "NFL | Bleacher Report | Latest News, Rumors, Scores and Highlights",
+            "url": "https://bleacherreport.com/nfl",
+            "snippet": "2 hours ago — Be the best NFL fan you can be with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights, scores and more.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://syndication.bleacherreport.com/amp/10035605-former-patriots-rb-danny-woodhead-advances-to-2022-us-open-qualification-finals.amp.html"
+            },
+            "carousels": [
+                {
+                    "title": "Former Patriots RB Danny Woodhead Advances to 2022 US Open Qualification Finals",
+                    "date": "3 hours ago"
+                },
+                {
+                    "title": "Steelers' Potential Trade, Cut Candidates After 2022 NFL Draft",
+                    "date": "5 hours ago"
+                },
+                {
+                    "title": "Free Agents Packers Should Pursue After 2022 NFL Draft",
+                    "date": "10 hours ago"
+                },
+                {
+                    "title": "Eagles' Potential Trade, Cut Candidates After 2022 NFL Draft",
+                    "date": "10 hours ago"
+                },
+                {
+                    "title": "Every NFL Team's 2022 Undrafted Free Agent Most Likely to Make the Roster",
+                    "date": "15 hours ago"
+                },
+                {
+                    "title": "Ranking the NFL's Best Bargain Adds of the 2022 Offseason",
+                    "date": "16 hours ago"
+                },
+                {
+                    "title": "The Most Overrated NFL Teams Heading into the 2022 Season",
+                    "date": "17 hours ago"
+                },
+                {
+                    "title": "Raiders' Potential Trade, Cut Candidates After 2022 NFL Draft",
+                    "date": "17 hours ago"
+                },
+                {
+                    "title": "The Best Player Who Could Be Cut from Every NFL Roster in 2022 Offseason",
+                    "date": "21 hours ago"
+                },
+                {
+                    "title": "Ranking the 7 Best Moves of the 2022 NFL Offseason",
+                    "date": "2 days ago"
+                }
+            ],
+            "sequence": 13
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(36).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1)#dub_2 > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "segments": [
+                {
+                    "carousels": [
+                        {
+                            "title": "NBA"
+                        },
+                        {
+                            "title": "National Hockey League"
+                        },
+                        {
+                            "title": "Ultimate Fighting Champion..."
+                        },
+                        {
+                            "title": "ESPN"
+                        },
+                        {
+                            "title": "WWE"
+                        },
+                        {
+                            "title": "Premier League"
+                        },
+                        {
+                            "title": "Liga MX"
+                        },
+                        {
+                            "title": "NASCAR"
+                        }
+                    ]
+                }
+            ],
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(37).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://m.facebook.com › ... › NFL",
+            "title": "NFL - Home | Facebook",
+            "url": "https://m.facebook.com/NFL/",
+            "snippet": "12 hours ago — Derrick Henry or Jonathan Taylor? : 2022 NFL Schedule Release -- Thursday at 8pm ET on NFL Network.",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(38).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://theathletic.com › nfl",
+            "title": "NFL News - National Football League Scores, Schedule, Standings, Stats, and Rumors - The Athletic",
+            "url": "https://theathletic.com/nfl/",
+            "snippet": "9 hours ago — Breaking NFL news and in-depth analysis from the best newsroom in sports. Follow your favorite teams. Get the latest injury updates, trade analysis, ...",
+            "sequence": 16
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(39).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).uVMCKf.mnr-c > div:nth-child(4)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "What's your All-Time Favorite Signature Move in NFL History?",
+                    "url": "https://m.youtube.com/watch?v=OBXg8V0uS4w"
+                },
+                {
+                    "title": "Mayor of Dallas wants NFL expansion franchise | Pro Football Talk | NBC Sports",
+                    "url": "https://m.youtube.com/watch?v=E986vYew85A"
+                },
+                {
+                    "title": "NFL Network | Watch Live Football Games & Events",
+                    "url": "https://www.nfl.com/network/watch/nfl-network-live"
+                }
+            ],
+            "sequence": 17
+        },
+        {
+            "type": "video_carousels",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c",
+            "displayed_link": "https://m.youtube.com › user › NFL",
+            "title": "NFL Channels - YouTube",
+            "url": "https://m.youtube.com/user/NFL",
+            "carousels": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=TaXoKFmIB00",
+                    "title": "First Look at '22 Rookies in Uniform | Madden 22"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(2).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=OBXg8V0uS4w",
+                    "title": "What's your All-Time Favorite Signature Move in NFL History?"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(3).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=gRw1aklfh6Q",
+                    "title": "2022 Win Total Projections for Every Team"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(4).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=FikM8Wc3cfg",
+                    "title": "Nick Chubb Squats a Car Basically | 675 Pounds"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(5).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=iXZCsukYJh8",
+                    "title": "The Top 10 BEST Picks in the 2022 NFL Draft | Baldy Breakdowns"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(6).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=WUJladbZkPQ",
+                    "title": "Rookie Madden Ratings?"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(7).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=581Od1S4S3E",
+                    "title": "So Close Yet So Far Away"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(8).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=jZiN35aDEiE",
+                    "title": "Karma Will Always Catch Up to You"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(9).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=DLyOH5coowo",
+                    "title": "NFL 2022 International Games Revealed!"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(40).TzHB6b.mnr-c.UBoxCb.K7khPe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).wXlZre.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY > div:nth-child(1).mnr-c > g-scrolling-carousel#_ZrV8YpbsPL2y0PEPweu1gAM199.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(10).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=qw-pqIwP0Mo",
+                    "title": "Name this QB WR Duo (via IG: @cliffordtayloriv)"
+                }
+            ],
+            "sequence": 18
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(42).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Standings",
+            "attrids": [
+                {
+                    "attrid": "kc:/sports/sports:standings summary",
+                    "values": [
+                        "Round",
+                        "Regular season",
+                        "Regular season",
+                        "Post season",
+                        "American Football Conference",
+                        "National Football Conference",
+                        "AFC East",
+                        "Team",
+                        "W",
+                        "L",
+                        "T",
+                        "Pct",
+                        "PF",
+                        "PA",
+                        "Home",
+                        "Strk",
+                        "Bills",
+                        "11",
+                        "6",
+                        "0",
+                        ".647",
+                        "483",
+                        "289",
+                        "6-3",
+                        "W4",
+                        "Patriots",
+                        "10",
+                        "7",
+                        "0",
+                        ".588",
+                        "462",
+                        "303",
+                        "4-5",
+                        "L1",
+                        "Dolphins",
+                        "9",
+                        "8",
+                        "0",
+                        ".529",
+                        "341",
+                        "373",
+                        "6-3",
+                        "W1",
+                        "Jets",
+                        "4",
+                        "13",
+                        "0",
+                        ".235",
+                        "310",
+                        "504",
+                        "3-6",
+                        "L2",
+                        "NFC East",
+                        "Team",
+                        "W",
+                        "L",
+                        "T",
+                        "Pct",
+                        "PF",
+                        "PA",
+                        "Home",
+                        "Strk",
+                        "Cowboys",
+                        "12",
+                        "5",
+                        "0",
+                        ".706",
+                        "530",
+                        "358",
+                        "5-3",
+                        "W1",
+                        "Eagles",
+                        "9",
+                        "8",
+                        "0",
+                        ".529",
+                        "444",
+                        "385",
+                        "3-5",
+                        "L1",
+                        "Commanders",
+                        "7",
+                        "10",
+                        "0",
+                        ".412",
+                        "335",
+                        "434",
+                        "3-5",
+                        "W1",
+                        "Giants",
+                        "4",
+                        "13",
+                        "0",
+                        ".235",
+                        "258",
+                        "416",
+                        "3-5",
+                        "L6",
+                        "Something went wrong.",
+                        "Check your connection and ",
+                        "try again",
+                        "Sports data is temporarily unavailable.",
+                        "Try ",
+                        "reloading",
+                        " this page or check back later.",
+                        "More standings",
+                        "More standings"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/sports/sports:standings summary"
+            ],
+            "sequence": 19
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(43).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).vnLNtd.mnr-c.XleQBd.CGCvRb.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Profiles",
+            "attrids": [
+                {
+                    "attrid": "kc:/common/topic:social media presence",
+                    "values": [
+                        "Twitter",
+                        "Instagram",
+                        "Facebook",
+                        "YouTube",
+                        "LinkedIn",
+                        "Tumblr",
+                        "TikTok"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/common/topic:social media presence"
+            ],
+            "sequence": 20
+        },
+        {
+            "type": "broaden_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(44).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe",
+            "carousels": [
+                {
+                    "title": "American Football leagues",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(44).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(1)#_ZrV8YpbsPL2y0PEPweu1gAM111 > a.HOoKtb"
+                },
+                {
+                    "title": "Professional sports leagues",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(44).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM109 > a.HOoKtb"
+                },
+                {
+                    "title": "World soccer leagues",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(44).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).hYVxKd.GWRUbe.o2uj8d.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(3)#_ZrV8YpbsPL2y0PEPweu1gAM107 > a.HOoKtb"
+                }
+            ],
+            "sequence": 21
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(1)#rso > div:nth-child(1).kp-wholepage.pEZBSb.kp-wholepage-osrp.EyBRub > div:nth-child(2).fKw1wf > div:nth-child(2)#_ZrV8YpbsPL2y0PEPweu1gAM11.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1) > div:nth-child(2).V734yf.eXEBMb.Znsfnf > div:nth-child(1).GhpATe.pttBJc > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1) > div:nth-child(1) > div:nth-child(3)#kp-wp-tab-overview > div:nth-child(44).TzHB6b.mnr-c.UBoxCb > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2)#dub_1 > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 22
+        }
+    ]
+}

@@ -1,0 +1,1565 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "59929c03-b93e-4109-aaf7-0b7ab9c0db2e",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T00:34:23.366Z",
+        "q": "apple",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=apple&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0009.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205130934/218036105060-5AC5CB6CFF9C429C9FE3F9FA23DF4869-00.html",
+        "json_url": "http://node0009.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205130934/218036105060-5AC5CB6CFF9C429C9FE3F9FA23DF4869-00.json",
+        "crawl_start_time": "2022-05-13T00:34:23.422Z",
+        "crawl_end_time": "2022-05-13T00:34:31.081Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "apple",
+        "parsed_time": "2022-05-13T00:34:32.582Z"
+    },
+    "features": [
+        {
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "Shop apple",
+            "carousels": [
+                {
+                    "title": "Apple iPhone 13 ProMax 256 GB in Alpine Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAPGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1YxS1it7Ja9KfUrWK3zOsq5ZpFog&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQCw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "7015347144552433207",
+                    "data-offer-docid": "994918442767008400",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MNCF3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro Max 128 GB in Sierra Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABANGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1MF60Y0hfJweDwfGHp86MifOVBfQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQEA&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "2402470133369247909",
+                    "data-offer-docid": "17339789636833497352",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLF53LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 256 GB in Pink with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAIGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2DawkdLTuckLq5KdmopIMnE8y_JQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQFQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "2634254953845398295",
+                    "data-offer-docid": "11333609083090574091",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLAR3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro Max 1TB in Graphite, Size: 1 TB, Grey with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAOGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2ftF_g7mruF9s46F3H4IaiNDw4TQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQGg&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "16275527216819146477",
+                    "data-offer-docid": "10573417263714594746",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLFF3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 128 GB in Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAKGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0WOuvkExGO39WEdNjCcYn39PVRsA&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQHw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "9659919150225942770",
+                    "data-offer-docid": "4776318262448815573",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MJN23LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro Max 256 GB in Gold with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAMGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_3tGlXlbpCddg9Z2JH8NhV00bKsog&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQJA&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "5503810129278517366",
+                    "data-offer-docid": "891952692707559834",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLF83LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAJGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0azdOymRE79PtdvcLVcqC3nQ_UGw&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQKQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "612229038237127299",
+                    "data-offer-docid": "7650863553082960363",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLAA3LL/A"
+                },
+                {
+                    "title": "Apple 12.9-inch iPad Pro (2021) 512 GB in Space Gray with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABALGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2pcCnY7y4t8R__fGybuoHtnUIE2g&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQLg&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "8094954947314548163",
+                    "data-offer-docid": "17275779675693248481",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MHNY3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro 256 GB in Sierra Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAYGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0BRDhFZ5QFDlHysKfpqlGpF5KgVQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQMw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "963886503894847081",
+                    "data-offer-docid": "16426406702610054241",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLR93LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro Max 1TB in Silver, Size: 1 TB with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAZGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_3rqxE3yuez1yTjcL7cz4QhtNKx8w&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQOA&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "3057402423549601114",
+                    "data-offer-docid": "13570606095863614430",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLFG3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 mini 256 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAaGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0uSJJXHzwYOGA3bDB0fKpfVyt3Hw&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQPQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "2566459081296340491",
+                    "data-offer-docid": "8037611709237008878",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLAW3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro 256 GB in Gold with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAcGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2R-u3U-G_rtd4itdMjrPmdxpTwHQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQQg&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "8206474917539717488",
+                    "data-offer-docid": "17990896884291650604",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLR83LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro 128 GB in Graphite, Grey with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAbGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2ihNWPGEDKWg8Ebd1MDzihvGnFeg&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQRw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "13059578921760966042",
+                    "data-offer-docid": "9665630765305816927",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLR23LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 256 GB in Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAdGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_02gUMRFpiQjVskyeoGmEGBFnpBJg&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQTA&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "17772162735732067830",
+                    "data-offer-docid": "17839657553268260907",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MNG73LL/A"
+                },
+                {
+                    "title": "Apple iPhone 11 128 GB in Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAgGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_3uz4g6qTWcAGSP0lCbLSXx5lceqA&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQUQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "10197016512764868176",
+                    "data-offer-docid": "12366049587421863731",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MHCG3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 512 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAhGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2ob0dkMHDtrIdj_iR2qQPguDmZOw&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQVg&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "2889224287752164874",
+                    "data-offer-docid": "5347836895493843245",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLCC3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 11 128 GB in Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAnGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0b1ikUjsn6s7dMPKEcS3L9AhBXDg&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQWw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "3413616653985953924",
+                    "data-offer-docid": "1344731248071878667",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MHCF3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 256 GB in Blue with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAmGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1w2VsCFGkMsELQFB-DFa6-al0EEw&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQYA&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "5481754767161842023",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGFJ3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro 128 GB in Silver with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAoGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0domvaW46zRdzC7O5fLaHv4qeQxw&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQZQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "10750918320667996160",
+                    "data-offer-docid": "7203517034744266875",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLR33LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 128 GB in Midnight, Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAsGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_27L8h7d1TncppwLtaE1LVx4CXTgA&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQag&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "2824299440727003791",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLA23LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 256 GB in Starlight with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABApGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_2l7bxUoNcaifZMA4pu7uESnlpXlQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQbw&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "4014486741628411757",
+                    "data-offer-docid": "7183316115131397306",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MLAP3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 11 128 GB in (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABAqGgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1v0qK3ccP_7wrmvdzL6PO42wVs5w&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQdA&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "2571274193097780958",
+                    "data-offer-docid": "4529414720830823345",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MHCD3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 11 64 GB in Black with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA3GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1TeZPq7K-GItWlbTz6QaIekBVhag&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQeQ&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "10378234520580481284",
+                    "data-offer-docid": "13148897716586708975",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MHC43LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 128 GB in Green with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA1GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1V9w3O8G_XJeNXjii2AYAiMzD0hw&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoECAEQfg&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "3223182366187615567",
+                    "data-offer-docid": "9026265078603183083",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGFE3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 mini 64 GB in Purple with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA0GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0yLnpP8l9kOksBMT7e-mFlmxiOTQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoFCAEQgwE&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "4867423175973914285",
+                    "data-offer-docid": "17352222023808034197",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MJNT3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 128 GB in (PRODUCT)RED with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA2GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_14D3533ium5eyQA_BRIMe3Uq5avg&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoFCAEQiAE&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-offer-docid": "578050528532457218",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MGFC3LL/A"
+                },
+                {
+                    "title": "Apple iPhone 12 mini 64 GB in White with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA4GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_1n2E0U6JqVtbxvlFn2Y55poVbJsQ&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoFCAEQjQE&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "5339931747232731662",
+                    "data-offer-docid": "509218080342818625",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MG6H3LL/A"
+                },
+                {
+                    "title": "Apple iPhone SE 2022 128 GB in ProductRed with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA5GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_03XQNvZMRGduam9PYAz3Q7-Jhh2Q&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoFCAEQkgE&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "8267472768482121837",
+                    "data-offer-docid": "16978566324017082283",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MMXA3LL/A"
+                },
+                {
+                    "title": "Apple iPhone SE 2022 64 GB in Starlight with installment",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA6GgJ0bQ&ae=2&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_0HJ6F2bvOjoY8jT5T8kYJklQFXTg&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoFCAEQlwE&adurl=",
+                    "price": "$0.00",
+                    "provider": "Verizon",
+                    "data-catalog-id": "12079440381735785710",
+                    "data-offer-docid": "8439974727333958052",
+                    "data-merchant-id": "1378784",
+                    "data-offer-id": "MMX63LL/A"
+                },
+                {
+                    "title": "Apple iPhone 13 Pro Max - Sierra Blue - 128GB - (with 36 monthly installment payments)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiZ1KOwndv3AhXIwEwCHeFHDSkYABA7GgJ0bQ&ohost=www.google.com&cid=CAASJuRoAHuToCS_FJbDP8hsFUOKKiLXFN4ODRv6I7j-m_Yaisz647CD&sig=AOD64_00aUrgrWGenMU5go7tgky0Ci47Ew&ctype=5&q=&ved=2ahUKEwiAqZqwndv3AhXXAd4KHezZAE8Qwg8oAHoFCAEQnAE&adurl=",
+                    "price": "$0.00",
+                    "provider": "Optimum Mobile",
+                    "data-catalog-id": "7281734062348557534",
+                    "data-offer-docid": "325768236389095128",
+                    "data-merchant-id": "144728268",
+                    "data-offer-id": "M10329A"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.apple.com/",
+            "title": "Apple - Official Site",
+            "url": "https://www.apple.com/",
+            "snippet": "Shop for iPhone, Apple Watch, iPad, Mac, and more. Save even more with eligible trade in during our Trade-in Event...",
+            "sitelinks": [
+                {
+                    "title": "iPhone",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "Mac",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "iPad",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "Apple Watch",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(7).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.apple.com",
+            "title": "Apple",
+            "url": "https://www.apple.com/",
+            "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, ...",
+            "sitelinks": [
+                {
+                    "title": "iPhone",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "Mac",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "Watch",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "iPad",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(7).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "Store",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(9).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "Support",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38).mnr-c.g > div:nth-child(2).BYM4Nd > div:nth-child(2) > div:nth-child(2).E8hWLe.SVMeif.BmP5tf > div:nth-child(11).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                }
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "local_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(42) > div:nth-child(1).scm-c.mnr-c.XEaKQb",
+            "sequence": 4
+        },
+        {
+            "type": "articles",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb",
+            "items": [
+                {
+                    "title": "Top stories",
+                    "carousels": [
+                        {
+                            "title": "Apple is no longer the world's most valuable company",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.cnbc.com/amp/2022/05/11/saudi-aramco-surpasses-apple-as-the-worlds-most-valuable-company.html"
+                        },
+                        {
+                            "title": "Apple Dethroned as World's Most Valuable Company",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.thewrap.com/apple-saudi-aramco-worlds-most-valuable-company/amp/?fbclid=IwAR0F1sth-RFSUeh7wEkxIyHne6hPLXaH9JceBsYE6QMyl8lL_1evfqHHeps"
+                        },
+                        {
+                            "title": "Apple Is No Longer World’s Most Valuable Company",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.wsj.com/amp/articles/apple-is-no-longer-worlds-most-valuable-company-11652373781"
+                        },
+                        {
+                            "title": "This company has replaced Apple as the most valuable in the world",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.marketwatch.com/story/this-company-has-replaced-apple-as-the-most-valuable-in-the-world-11652394034"
+                        },
+                        {
+                            "title": "Saudi Aramco eclipses Apple to once again become the world's most valuable \ncompany",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid271.JJZKK > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__137.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://amp.cnn.com/cnn/2022/05/12/investing/saudi-aramco-becomes-most-valuable-company-intl-hnk/index.html"
+                        },
+                        {
+                            "title": "Oil giant Saudi Aramco overtakes Apple as world's most valuable firm",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid280.JJZKK > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__140.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://markets.businessinsider.com/news/commodities/oil-giant-saudi-aramco-overtakes-apple-world-most-valuable-company-2022-5?amp"
+                        },
+                        {
+                            "title": "Apple Is No Longer the World's Most Valuable Company. This Company Is No. 1.",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid231.JJZKK > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__144.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.barrons.com/amp/articles/apple-saudi-aramco-most-valuable-company-51652350815"
+                        },
+                        {
+                            "title": "Apple Dethroned as World’s Most Valuable Company",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(8)#tsuid239.JJZKK > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__148.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.yahoo.com/amphtml/entertainment/apple-dethroned-world-most-valuable-233607362.html"
+                        },
+                        {
+                            "title": "Apple Is No Longer The World's Most Valuable Company",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(9)#tsuid261.JJZKK > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__152.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).xCURGd > a.WlydOe",
+                            "url": "https://www.iflscience.com/technology/apple-is-no-longer-the-worlds-most-valuable-company/"
+                        },
+                        {
+                            "title": "Saudi Aramco Dethrones Apple As World's Most Valuable Company: Report",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA284.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(10)#tsuid210.JJZKK > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__156.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).xCURGd > a.WlydOe.amp_r",
+                            "url": "https://www.ndtv.com/world-news/saudi-aramco-dethrones-apple-as-worlds-most-valuable-company-report-2967979/amp/1"
+                        }
+                    ]
+                },
+                {
+                    "title": "News about Stock",
+                    "carousels": [
+                        {
+                            "title": "Warren Buffett bought Apple stock after hearing of friend's iPhone loss",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(1) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://markets.businessinsider.com/news/stocks/warren-buffett-berkshire-hathaway-apple-tech-stock-iphone-taxi-weschler-2022-5?amp"
+                        },
+                        {
+                            "title": "Down 11.8% in a Week, Why Apple Inc. (NASDAQ:AAPL) may be Approaching Value \nTerritory",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(2) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://finance.yahoo.com/amphtml/news/down-11-8-week-why-125307053.html"
+                        },
+                        {
+                            "title": "Every 'FAANG' stock is now in a bear market as Apple shares topple in \nrolling sell-off",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(3) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.cnbc.com/2022/05/12/every-faang-stock-is-now-in-a-bear-market-as-apple-shares-topple-in-rolling-sell-off.html"
+                        },
+                        {
+                            "title": "Will Apple and Microsoft Finally Give Way in the Stock Market's Downturn?",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(4) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.fool.com/investing/2022/05/12/will-apple-and-microsoft-finally-give-way-in-the-s/"
+                        },
+                        {
+                            "title": "Dow down 470 points on losses for shares of Boeing, Apple Inc.",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(5)#tsuid296 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__175.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.marketwatch.com/amp/story/dow-down-470-points-on-losses-for-shares-of-boeing-apple-inc-01652377688"
+                        },
+                        {
+                            "title": "Apple Drops 22% From January Peak as Tech Selloff Spreads",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(6)#tsuid303 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__178.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://finance.yahoo.com/news/apple-drops-22-january-peak-134006364.html"
+                        },
+                        {
+                            "title": "Apple Stock Has Broken Down. That’s Bad for the Market.",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(7)#tsuid244 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__181.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.barrons.com/amp/articles/apple-stock-has-broken-down-thats-bad-for-the-market-51652379363"
+                        },
+                        {
+                            "title": "Stocks Resume Slide, Disney, Apple, Beyond Meat And Bitcoin In Focus - Five \nThings You Must Know",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(8)#tsuid255 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__184.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.thestreet.com/.amp/markets/-5-things-you-must-know-before-market-opens-thursday-051222"
+                        },
+                        {
+                            "title": "Unity Software stock crashes, cites Apple advertising identifier changes as \nQ1 drag",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(9)#tsuid273 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__187.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://finance.yahoo.com/amphtml/video/unity-software-stock-crashes-cites-135602542.html"
+                        },
+                        {
+                            "title": "What's Going On With Apple Stock? - Benzinga",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(3) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA302.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(10)#tsuid224 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__190.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.benzinga.com/amp/content/27171550"
+                        }
+                    ]
+                },
+                {
+                    "title": "Also in the news",
+                    "carousels": [
+                        {
+                            "title": "iPod touch is now completely sold out in the US Apple Online Store",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(1) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://9to5mac.com/2022/05/11/ipod-touch-is-now-completely-sold-out-in-the-us-apple-online-store/amp/"
+                        },
+                        {
+                            "title": "Apple reportedly gives retail managers anti-union scripts",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(2) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.theverge.com/2022/5/12/23069415/apple-retail-unionization-talking-points-scripts"
+                        },
+                        {
+                            "title": "Apple sending notice to developers invited to special WWDC 2022 in-person \nevent",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(3) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://9to5mac.com/2022/05/12/apple-sending-notice-to-developers-invited-to-special-wwdc-2022-in-person-event/amp/"
+                        },
+                        {
+                            "title": "Is Apple secretly launching a space network for iPhones?",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(4) > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://qz.com/2165106/is-apple-secretly-launching-a-space-network-for-iphones/amp/"
+                        },
+                        {
+                            "title": "Apple releases iOS 15.5 RC, here’s the list of everything new",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(5)#tsuid290 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__206.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://9to5mac.com/2022/05/12/ios-15-5-new-features-list/amp/"
+                        },
+                        {
+                            "title": "Apple’s anti-union talking points revealed in leaked memo: ‘fewer \nopportunities’ for promotion, more",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(6)#tsuid300 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__209.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://9to5mac.com/2022/05/12/apple-anti-union-talking-points-leak/amp/"
+                        },
+                        {
+                            "title": "Apple imagines an iPhone case that triggers UI for gaming, photography, more",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(7)#tsuid246 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__212.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://9to5mac.com/2022/05/12/apple-imagines-an-iphone-case-that-triggers-ui-for-gaming-photography-more/amp/"
+                        },
+                        {
+                            "title": "Why Jony Ive Left Apple to the ‘Accountants’",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(8)#tsuid257 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__215.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.nytimes.com/2022/05/01/technology/jony-ive-apple-design.amp.html"
+                        },
+                        {
+                            "title": "Review: ‘After Steve: How Apple Became a Trillion-Dollar Company and Lost \nIts Soul,’ by Tripp Mickle",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(9)#tsuid269 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__218.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe.amp_re > div:nth-child(1).JooUXc > a.WlydOe.amp_r",
+                            "url": "https://www.nytimes.com/2022/05/01/books/review/after-steve-tripp-mickle.amp.html"
+                        },
+                        {
+                            "title": "Feral: Apple Silicon Opens Up 'Exciting Opportunities' for the Future of \nMac Gaming",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43).xSoq1 > div:nth-child(4).wtFsOb > div:nth-child(4) > div:nth-child(2) > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA305.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).Qmf1 > div:nth-child(10)#tsuid220 > div:nth-child(1)#NEWS_TILE_0_j6d9YsClI9eD-Abss4P4BA__221.fcy3bb > div:nth-child(1).kno-fb-ctx.n49mp > div:nth-child(2).Lzzbxe > div:nth-child(1).JooUXc > a.WlydOe",
+                            "url": "https://www.macrumors.com/2022/05/06/feral-publishing-apple-silicon-mac-gaming/"
+                        }
+                    ]
+                }
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(44).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.h5zaub.EyBRub",
+            "title": "Products",
+            "attrids": [
+                {
+                    "attrid": "visit_official_site",
+                    "values": [
+                        "apple.com"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services headquartered in Cupertino, California, United States.",
+                        "Wikipedia"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/issuer:stock quote",
+                    "values": [
+                        "Stock price: ",
+                        "AAPL",
+                        "(NASDAQ)",
+                        "$142.56",
+                        "-3.94 (-2.69%)",
+                        "May 12, 4:00 PM EDT - ",
+                        "Disclaimer"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:founded",
+                    "values": [
+                        "Founded: ",
+                        "April 1, 1976, ",
+                        "Los Altos, CA"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:ceo",
+                    "values": [
+                        "CEO: ",
+                        "Tim Cook",
+                        " (Aug 24, 2011–)"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:headquarters",
+                    "values": [
+                        "Headquarters: ",
+                        "Cupertino, CA"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:sales phone",
+                    "values": [
+                        "Sales: ",
+                        "1 (800) 692-7753"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:founder",
+                    "values": [
+                        "Founders: ",
+                        "Steve Jobs",
+                        ", ",
+                        "Steve Wozniak",
+                        ", ",
+                        "Ronald Wayne"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/organizations:subsidiaries",
+                    "values": [
+                        "Subsidiaries: ",
+                        "Beats Electronics",
+                        ", ",
+                        "Beddit",
+                        ", ",
+                        "NextVR, Inc.",
+                        ", ",
+                        "Apple Store",
+                        ", ",
+                        "Itunes K.K.",
+                        ", ",
+                        "InVisage Technologies",
+                        ", ",
+                        "Drive.ai",
+                        ", ",
+                        "Braeburn Capital",
+                        ", ",
+                        "AuthenTec",
+                        ", ",
+                        "Metaio",
+                        ", ",
+                        "Mobeewave Inc.",
+                        ",",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/consumer_companies:product",
+                    "values": [
+                        "Products: ",
+                        "iPhone",
+                        ", ",
+                        "Apple Watch",
+                        ", ",
+                        "iPad",
+                        ", ",
+                        "Apple TV",
+                        ", ",
+                        "iOS",
+                        ", ",
+                        "macOS",
+                        ", ",
+                        "AirTag",
+                        ", ",
+                        "Macintosh",
+                        ", ",
+                        "iPod",
+                        ", ",
+                        "HomePod",
+                        ", ",
+                        "Logic Pro",
+                        ", ",
+                        "GarageBand",
+                        ", ",
+                        "watchOS",
+                        ", ",
+                        "iOS 10",
+                        ", ",
+                        "Final Cut Pro",
+                        ", ",
+                        "Keynote",
+                        ", ",
+                        "Pages",
+                        ", ",
+                        "macOS Sierra",
+                        ", ",
+                        "Numbers",
+                        ",",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "okra/answer_panel/Serial number lookup",
+                    "values": [
+                        "Serial number lookup",
+                        "Depending on the product, you can find your serial number: ",
+                        "On the surface of your product",
+                        ". On a Mac, by choosing About This Mac from the Apple menu. On an iPhone, iPad, iPod touch, iPod, or Apple Watch, in Settings > General > About.",
+                        "Jul 13, 2021",
+                        "https://support.apple.com",
+                        " › en-us",
+                        "Find the serial number of your Apple product",
+                        "serial number lookup on apple"
+                    ]
+                },
+                {
+                    "attrid": "wa:/description",
+                    "values": [
+                        "Depending on the product, you can find your serial number: ",
+                        "On the surface of your product",
+                        ". On a Mac, by choosing About This Mac from the Apple menu. On an iPhone, iPad, iPod touch, iPod, or Apple Watch, in Settings > General > About.",
+                        "Jul 13, 2021"
+                    ]
+                },
+                {
+                    "attrid": "okra/answer_panel/Contact support",
+                    "values": [
+                        "Contact support",
+                        "800–692–7753",
+                        "You can buy online or call ",
+                        "(800) MY–APPLE (800–692–7753)",
+                        ". You can get information about an order you placed on the Apple Online Store through the Order Status page.",
+                        "https://www.apple.com",
+                        " › contact",
+                        "How to Contact Us - Apple",
+                        "apple contact support"
+                    ]
+                },
+                {
+                    "attrid": "wa:/description",
+                    "values": [
+                        "You can buy online or call ",
+                        "(800) MY–APPLE (800–692–7753)",
+                        ". You can get information about an order you placed on the Apple Online Store through the Order Status page."
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:company_products_and_refinements",
+                    "values": [
+                        "Smart Watches",
+                        "Cell Phones",
+                        "Tablets",
+                        "Wireless Headphones",
+                        "Watch Bands",
+                        "Apple Watch Series 7",
+                        "(8k+)",
+                        "Apple Watch Series 3",
+                        "(58k+)",
+                        "Apple iPhone 13",
+                        "(6k+)",
+                        "Apple MacBook Air (13\", M1, 2020)",
+                        "(28k+)",
+                        "iPhone 11",
+                        "(37k+)",
+                        "AirPods Pro",
+                        "(40k+)",
+                        "iPad (9th generation)",
+                        "(8k+)",
+                        "Apple Watch SE",
+                        "(16k+)",
+                        "Apple Sport Loop",
+                        "(736)",
+                        "APPLE AIRTAG",
+                        "(1k+)"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:company_products_and_refinements",
+                    "values": [
+                        "Smart Watches",
+                        "Cell Phones",
+                        "Tablets",
+                        "Wireless Headphones",
+                        "Watch Bands",
+                        "Apple Watch Series 7",
+                        "(8k+)",
+                        "Apple Watch Series 3",
+                        "(58k+)",
+                        "Apple iPhone 13",
+                        "(6k+)",
+                        "Apple MacBook Air (13\", M1, 2020)",
+                        "(28k+)",
+                        "iPhone 11",
+                        "(37k+)",
+                        "AirPods Pro",
+                        "(40k+)",
+                        "iPad (9th generation)",
+                        "(8k+)",
+                        "Apple Watch SE",
+                        "(16k+)",
+                        "Apple Sport Loop",
+                        "(736)",
+                        "APPLE AIRTAG",
+                        "(1k+)"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services headquartered in Cupertino, California, United States.  ",
+                    "refinements": [
+                        "Smart Watches",
+                        "Cell Phones",
+                        "Tablets",
+                        "Wireless Headphones",
+                        "Watch Bands"
+                    ],
+                    "properties": [
+                        {
+                            "attrid": "kc:/business/issuer:stock quote",
+                            "key": "Stock price",
+                            "value": "AAPL (NASDAQ) $142.56 -3.94 (-2.69%)May 12, 4:00 PM EDT - Disclaimer"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:founded",
+                            "key": "Founded",
+                            "value": "April 1, 1976, Los Altos, CA"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:ceo",
+                            "key": "CEO",
+                            "value": "Tim Cook (Aug 24, 2011–)"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:headquarters",
+                            "key": "Headquarters",
+                            "value": "Cupertino, CA"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:sales phone",
+                            "key": "Sales",
+                            "value": "1 (800) 692-7753"
+                        },
+                        {
+                            "attrid": "kc:/business/business_operation:founder",
+                            "key": "Founders",
+                            "value": "Steve Jobs, Steve Wozniak, Ronald Wayne"
+                        },
+                        {
+                            "attrid": "hw:/collection/organizations:subsidiaries",
+                            "key": "Subsidiaries",
+                            "value": "Beats Electronics, Beddit, NextVR, Inc., Apple Store, Itunes K.K., InVisage Technologies, Drive.ai, Braeburn Capital, AuthenTec, Metaio, Mobeewave Inc., More"
+                        },
+                        {
+                            "attrid": "hw:/collection/consumer_companies:product",
+                            "key": "Products",
+                            "value": "iPhone, Apple Watch, iPad, Apple TV, iOS, macOS, AirTag, Macintosh, iPod, HomePod, Logic Pro, GarageBand, watchOS, iOS 10, Final Cut Pro, Keynote, Pages, macOS Sierra, Numbers, More"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "visit_official_site",
+                "description",
+                "kc:/business/issuer:stock quote",
+                "kc:/organization/organization:founded",
+                "kc:/organization/organization:ceo",
+                "kc:/organization/organization:headquarters",
+                "kc:/organization/organization:sales phone",
+                "kc:/business/business_operation:founder",
+                "hw:/collection/organizations:subsidiaries",
+                "hw:/collection/consumer_companies:product",
+                "okra/answer_panel/Serial number lookup",
+                "okra/answer_panel/Contact support",
+                "kc:/business/business_operation:company_products_and_refinements",
+                "kc:/business/business_operation:company_products_and_refinements"
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "sticky_header_tabs",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(44).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.h5zaub.EyBRub > div:nth-child(2) > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA31.osrp-blk > sticky-header.pA48Db > div:nth-child(1)#sh_tsuid48.qLJQNc.JAWg1b.sthh.MUWIfd.gHjb0.Du5Hud",
+            "selected": "Overview",
+            "headers": [
+                "Overview",
+                "Locations",
+                "Apps",
+                "Products",
+                "Videos",
+                "Refund policy",
+                "Deals",
+                "Subscription",
+                "Contact details"
+            ],
+            "sequence": 7
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(44).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.h5zaub.EyBRub > div:nth-child(2) > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA31.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid47 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(1).TzHB6b.JlDOsc.LMRCfc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.TjcfIc.B03h3d.P6OZi.V14nKc.OYXDld.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "visit_official_site",
+                    "values": [
+                        "apple.com"
+                    ]
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services headquartered in Cupertino, California, United States.",
+                        "Wikipedia"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/issuer:stock quote",
+                    "values": [
+                        "Stock price: ",
+                        "AAPL",
+                        "(NASDAQ)",
+                        "$142.56",
+                        "-3.94 (-2.69%)",
+                        "May 12, 4:00 PM EDT - ",
+                        "Disclaimer"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:founded",
+                    "values": [
+                        "Founded: ",
+                        "April 1, 1976, ",
+                        "Los Altos, CA"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:ceo",
+                    "values": [
+                        "CEO: ",
+                        "Tim Cook",
+                        " (Aug 24, 2011–)"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:headquarters",
+                    "values": [
+                        "Headquarters: ",
+                        "Cupertino, CA"
+                    ]
+                },
+                {
+                    "attrid": "kc:/organization/organization:sales phone",
+                    "values": [
+                        "Sales: ",
+                        "1 (800) 692-7753"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:founder",
+                    "values": [
+                        "Founders: ",
+                        "Steve Jobs",
+                        ", ",
+                        "Steve Wozniak",
+                        ", ",
+                        "Ronald Wayne"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/organizations:subsidiaries",
+                    "values": [
+                        "Subsidiaries: ",
+                        "Beats Electronics",
+                        ", ",
+                        "Beddit",
+                        ", ",
+                        "NextVR, Inc.",
+                        ", ",
+                        "Apple Store",
+                        ", ",
+                        "Itunes K.K.",
+                        ", ",
+                        "InVisage Technologies",
+                        ", ",
+                        "Drive.ai",
+                        ", ",
+                        "Braeburn Capital",
+                        ", ",
+                        "AuthenTec",
+                        ", ",
+                        "Metaio",
+                        ", ",
+                        "Mobeewave Inc.",
+                        ",",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/consumer_companies:product",
+                    "values": [
+                        "Products: ",
+                        "iPhone",
+                        ", ",
+                        "Apple Watch",
+                        ", ",
+                        "iPad",
+                        ", ",
+                        "Apple TV",
+                        ", ",
+                        "iOS",
+                        ", ",
+                        "macOS",
+                        ", ",
+                        "AirTag",
+                        ", ",
+                        "Macintosh",
+                        ", ",
+                        "iPod",
+                        ", ",
+                        "HomePod",
+                        ", ",
+                        "Logic Pro",
+                        ", ",
+                        "GarageBand",
+                        ", ",
+                        "watchOS",
+                        ", ",
+                        "iOS 10",
+                        ", ",
+                        "Final Cut Pro",
+                        ", ",
+                        "Keynote",
+                        ", ",
+                        "Pages",
+                        ", ",
+                        "macOS Sierra",
+                        ", ",
+                        "Numbers",
+                        ",",
+                        "More"
+                    ]
+                },
+                {
+                    "attrid": "okra/answer_panel/Serial number lookup",
+                    "values": [
+                        "Serial number lookup",
+                        "Depending on the product, you can find your serial number: ",
+                        "On the surface of your product",
+                        ". On a Mac, by choosing About This Mac from the Apple menu. On an iPhone, iPad, iPod touch, iPod, or Apple Watch, in Settings > General > About.",
+                        "Jul 13, 2021",
+                        "https://support.apple.com",
+                        " › en-us",
+                        "Find the serial number of your Apple product",
+                        "serial number lookup on apple"
+                    ]
+                },
+                {
+                    "attrid": "wa:/description",
+                    "values": [
+                        "Depending on the product, you can find your serial number: ",
+                        "On the surface of your product",
+                        ". On a Mac, by choosing About This Mac from the Apple menu. On an iPhone, iPad, iPod touch, iPod, or Apple Watch, in Settings > General > About.",
+                        "Jul 13, 2021"
+                    ]
+                },
+                {
+                    "attrid": "okra/answer_panel/Contact support",
+                    "values": [
+                        "Contact support",
+                        "800–692–7753",
+                        "You can buy online or call ",
+                        "(800) MY–APPLE (800–692–7753)",
+                        ". You can get information about an order you placed on the Apple Online Store through the Order Status page.",
+                        "https://www.apple.com",
+                        " › contact",
+                        "How to Contact Us - Apple",
+                        "apple contact support"
+                    ]
+                },
+                {
+                    "attrid": "wa:/description",
+                    "values": [
+                        "You can buy online or call ",
+                        "(800) MY–APPLE (800–692–7753)",
+                        ". You can get information about an order you placed on the Apple Online Store through the Order Status page."
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services headquartered in Cupertino, California, United States.  ",
+                    "properties": [
+                        {
+                            "attrid": "kc:/business/issuer:stock quote",
+                            "key": "Stock price",
+                            "value": "AAPL (NASDAQ) $142.56 -3.94 (-2.69%)May 12, 4:00 PM EDT - Disclaimer"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:founded",
+                            "key": "Founded",
+                            "value": "April 1, 1976, Los Altos, CA"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:ceo",
+                            "key": "CEO",
+                            "value": "Tim Cook (Aug 24, 2011–)"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:headquarters",
+                            "key": "Headquarters",
+                            "value": "Cupertino, CA"
+                        },
+                        {
+                            "attrid": "kc:/organization/organization:sales phone",
+                            "key": "Sales",
+                            "value": "1 (800) 692-7753"
+                        },
+                        {
+                            "attrid": "kc:/business/business_operation:founder",
+                            "key": "Founders",
+                            "value": "Steve Jobs, Steve Wozniak, Ronald Wayne"
+                        },
+                        {
+                            "attrid": "hw:/collection/organizations:subsidiaries",
+                            "key": "Subsidiaries",
+                            "value": "Beats Electronics, Beddit, NextVR, Inc., Apple Store, Itunes K.K., InVisage Technologies, Drive.ai, Braeburn Capital, AuthenTec, Metaio, Mobeewave Inc., More"
+                        },
+                        {
+                            "attrid": "hw:/collection/consumer_companies:product",
+                            "key": "Products",
+                            "value": "iPhone, Apple Watch, iPad, Apple TV, iOS, macOS, AirTag, Macintosh, iPod, HomePod, Logic Pro, GarageBand, watchOS, iOS 10, Final Cut Pro, Keynote, Pages, macOS Sierra, Numbers, More"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "visit_official_site",
+                "description",
+                "kc:/business/issuer:stock quote",
+                "kc:/organization/organization:founded",
+                "kc:/organization/organization:ceo",
+                "kc:/organization/organization:headquarters",
+                "kc:/organization/organization:sales phone",
+                "kc:/business/business_operation:founder",
+                "hw:/collection/organizations:subsidiaries",
+                "hw:/collection/consumer_companies:product",
+                "okra/answer_panel/Serial number lookup",
+                "okra/answer_panel/Contact support"
+            ],
+            "sequence": 8
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(44).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.h5zaub.EyBRub > div:nth-child(2) > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA31.osrp-blk > sticky-header.pA48Db > div:nth-child(3) > div:nth-child(1)#tb_tsuid47 > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(2).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(2).TzHB6b.JlDOsc > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(2) > div:nth-child(1).LuVEUc.TjcfIc.eE3xqf.B03h3d.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "title": "Products",
+            "attrids": [
+                {
+                    "attrid": "kc:/business/business_operation:company_products_and_refinements",
+                    "values": [
+                        "Smart Watches",
+                        "Cell Phones",
+                        "Tablets",
+                        "Wireless Headphones",
+                        "Watch Bands",
+                        "Apple Watch Series 7",
+                        "(8k+)",
+                        "Apple Watch Series 3",
+                        "(58k+)",
+                        "Apple iPhone 13",
+                        "(6k+)",
+                        "Apple MacBook Air (13\", M1, 2020)",
+                        "(28k+)",
+                        "iPhone 11",
+                        "(37k+)",
+                        "AirPods Pro",
+                        "(40k+)",
+                        "iPad (9th generation)",
+                        "(8k+)",
+                        "Apple Watch SE",
+                        "(16k+)",
+                        "Apple Sport Loop",
+                        "(736)",
+                        "APPLE AIRTAG",
+                        "(1k+)"
+                    ]
+                },
+                {
+                    "attrid": "kc:/business/business_operation:company_products_and_refinements",
+                    "values": [
+                        "Smart Watches",
+                        "Cell Phones",
+                        "Tablets",
+                        "Wireless Headphones",
+                        "Watch Bands",
+                        "Apple Watch Series 7",
+                        "(8k+)",
+                        "Apple Watch Series 3",
+                        "(58k+)",
+                        "Apple iPhone 13",
+                        "(6k+)",
+                        "Apple MacBook Air (13\", M1, 2020)",
+                        "(28k+)",
+                        "iPhone 11",
+                        "(37k+)",
+                        "AirPods Pro",
+                        "(40k+)",
+                        "iPad (9th generation)",
+                        "(8k+)",
+                        "Apple Watch SE",
+                        "(16k+)",
+                        "Apple Sport Loop",
+                        "(736)",
+                        "APPLE AIRTAG",
+                        "(1k+)"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "refinements": [
+                        "Smart Watches",
+                        "Cell Phones",
+                        "Tablets",
+                        "Wireless Headphones",
+                        "Watch Bands"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "kc:/business/business_operation:company_products_and_refinements",
+                "kc:/business/business_operation:company_products_and_refinements"
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(45).AuVD.wHYlTd.cUnQKe.mnr-c",
+            "results": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(45).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA212 > div:nth-child(1) > div:nth-child(1)#RELATED_QUESTION_LINK_0_j6d9YsClI9eD-Abss4P4BA__98 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.makeuseof.com › why-...",
+                    "url": "https://www.makeuseof.com/why-apple-products-are-so-expensive/",
+                    "title": "9 Reasons Why Apple Products Are So Expensive - MakeUseOf",
+                    "snippet": "Factors like Apple's exclusive ecosystem, privacy policy, marketing costs, and high resale value also contribute to a product's high price. In this list, we'll look at several factors that explain why Apple products are so expensive.Apr 15, 2022"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(45).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA212 > div:nth-child(2) > div:nth-child(1)#RELATED_QUESTION_LINK_0_j6d9YsClI9eD-Abss4P4BA__113 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://fourweekmba.com › who-ow...",
+                    "url": "https://fourweekmba.com/who-owns-apple/",
+                    "title": "Who Owns Apple? | FourWeekMBA",
+                    "snippet": "Now Apple Inc. is owned by two main institutional investors (Vanguard Group and BlackRock, Inc). While its major individual shareholders comprise people like Art Levinson, Tim Cook, Bruce Sewell, Al Gore, Johny Sroujli, and others.7 days ago"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(45).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA212 > div:nth-child(3) > div:nth-child(1)#RELATED_QUESTION_LINK_0_j6d9YsClI9eD-Abss4P4BA__134 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.macrumors.com › ipho...",
+                    "url": "https://www.macrumors.com/2022/05/11/iphone-15-ditch-lightning-for-usb-c/",
+                    "title": "Kuo: iPhone 15 to Switch From Lightning to USB-C in 2023",
+                    "snippet": "Apple will ditch its proprietary Lightning port and switch to USB-C on all or possibly some models of the iPhone 15 lineup destined to launch in the second half of 2023, Apple analyst Ming-Chi Kuo said today.2 days ago"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(45).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA212 > div:nth-child(4) > div:nth-child(1)#RELATED_QUESTION_LINK_0_j6d9YsClI9eD-Abss4P4BA__147 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.tomsguide.com › best-a...",
+                    "url": "https://www.tomsguide.com/us/best-apple-iphone,review-6348.html",
+                    "title": "Best iPhones in 2022: Which iPhone should you buy? | Tom's Guide"
+                }
+            ],
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(46) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://en.m.wikipedia.org › wiki",
+            "title": "Apple Inc. - Wikipedia",
+            "url": "https://en.m.wikipedia.org/wiki/Apple_Inc.",
+            "snippet": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services headquartered in Cupertino ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://en.m.wikipedia.org/wiki/Apple_Inc.",
+                "desc": "apple from en.m.wikipedia.org"
+            },
+            "properties": [
+                {
+                    "key": "Number of employees",
+                    "value": "154,000 (2021)"
+                },
+                {
+                    "key": "Industry",
+                    "value": "Consumer electronics ,  software  and  online services"
+                }
+            ],
+            "sequence": 11
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "Apple ID",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA311 > div:nth-child(1) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__224 > div:nth-child(1).UlIbl > div:nth-child(1).z9gcx > div:nth-child(1).wWOJcd > div:nth-child(2)#exacc_j6d9YsClI9eD-Abss4P4BA1.iDjcJe.wHYlTd.JIFdL > span"
+                },
+                {
+                    "query": "Apple login",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(3) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__225 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Apple USA",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(4) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__226 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Apple Watch",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(5) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__227 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Apple iCloud",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(6) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__228 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Apple iPhone",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(47)#dub_2 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(7) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__229 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 12
+        },
+        {
+            "type": "video_carousels",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c",
+            "displayed_link": "https://m.youtube.com › user › apple",
+            "title": "Apple - iPhone 13 - YouTube",
+            "url": "https://m.youtube.com/user/apple",
+            "carousels": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(1).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=h4MXZc9FdLI",
+                    "title": "Features of Mplaza Metaverse Platform"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(2).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=rp-GFzwyWtw",
+                    "title": "Mplaza project"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(3).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=zunmNnMhc3I",
+                    "title": "Introduction of the Mplaza project"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(4).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=dwBItNi_9gI",
+                    "title": "Monthly Payments and Insurance on a Lamborghini Huracan Costs ..."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(5).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=bUsfQHlGrQw",
+                    "title": "Introducing WorkQuest"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(6).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=lioyIlufPgE",
+                    "title": "Haruno Inu Overview"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(7).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=Mvn8ewd0hks",
+                    "title": "Haruno's GameFi Move-to-Earn"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(8).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=8E_euxEv8CA",
+                    "title": "TALETE CODE AUTO-STAKING PROTOCOL"
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(9).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=_tlpY1fQZ54",
+                    "title": "Aufin Protocol - transforms DeFi with Autostaking Protocol APY most ..."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(48).mnr-c > g-scrolling-carousel#_j6d9YsClI9eD-Abss4P4BA193.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf > div:nth-child(10).XmLlIe",
+                    "url": "https://www.youtube.com/watch?v=vcpsC4w2O_A",
+                    "title": "Protocol AI TOKEN"
+                }
+            ],
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(49) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.youtube.com › user › videos",
+            "title": "Apple - YouTube",
+            "url": "https://m.youtube.com/user/Apple/videos",
+            "snippet": "Welcome to the official Apple YouTube channel. Here you'll find news about product launches, tutorials, and other great content.",
+            "thumbnail": {
+                "type": "video",
+                "url": "https://m.youtube.com/watch?v=PFhOG55lSSM"
+            },
+            "carousels": [
+                {
+                    "title": "Apple is FINALLY Switching iPhone to USB-C!",
+                    "date": "7 hours ago"
+                },
+                {
+                    "title": "Man Tracks Down Stolen Truck Using Apple Air Tag",
+                    "date": "1 day ago"
+                },
+                {
+                    "title": "Is Apple's New LEAKED Gaming System Coming at WWDC?!",
+                    "date": "2 days ago"
+                },
+                {
+                    "title": "I tested the Apple Robot - It's Game Changing.",
+                    "date": "5 days ago"
+                },
+                {
+                    "title": "Using Apple's Tools to Fix My iPhone",
+                    "date": "6 days ago"
+                },
+                {
+                    "title": "Behind the Mac: Skywalker Sound | Apple",
+                    "date": "1 week ago"
+                },
+                {
+                    "title": "The new iPad Air | Election | Apple",
+                    "date": "1 month ago"
+                },
+                {
+                    "title": "Escape from the Office | Apple at Work",
+                    "date": "Mar 10, 2022"
+                },
+                {
+                    "title": "Apple Event — March 8",
+                    "date": "Mar 8, 2022"
+                }
+            ],
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(50) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://mobile.twitter.com › apple",
+            "title": "Apple - Twitter",
+            "url": "https://mobile.twitter.com/apple",
+            "snippet": "The latest Tweets from Apple (@Apple). https://t.co/4dZx1rem2Q. Cupertino, CA.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://mobile.twitter.com/apple",
+                "desc": "apple from mobile.twitter.com"
+            },
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(51) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.instagram.com › apple",
+            "title": "@apple • Instagram photos and videos",
+            "url": "https://www.instagram.com/apple/",
+            "snippet": "27.5m Followers, 9 Following, 1021 Posts - See Instagram photos and videos from @apple.",
+            "sequence": 16
+        },
+        {
+            "type": "broaden_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).hYVxKd.GWRUbe.TBC9ub.yG4QQe",
+            "carousels": [
+                {
+                    "title": "iPhone 12 price in USA",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).hYVxKd.GWRUbe.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(1)#_j6d9YsClI9eD-Abss4P4BA184 > a.HOoKtb"
+                },
+                {
+                    "title": "When can I buy iPhone 13 in-store",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).hYVxKd.GWRUbe.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA178 > a.HOoKtb"
+                },
+                {
+                    "title": "iPod touch software",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(2).hYVxKd.GWRUbe.TBC9ub.yG4QQe > div:nth-child(2) > g-scrolling-carousel > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > div:nth-child(1).l5Jbne.diAzE.zhYvOe.PlIw0e > div:nth-child(3)#_j6d9YsClI9eD-Abss4P4BA173 > a.HOoKtb"
+                }
+            ],
+            "sequence": 17
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "segments": [
+                {
+                    "segment_name": "Apple platform",
+                    "carousels": [
+                        {
+                            "title": "Macintosh"
+                        },
+                        {
+                            "title": "iPad (8th generation)"
+                        },
+                        {
+                            "title": "iPhone"
+                        },
+                        {
+                            "title": "iPad"
+                        }
+                    ]
+                }
+            ],
+            "results": [
+                {
+                    "query": "Apple platform",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA312 > div:nth-child(1) > div:nth-child(1)#j6d9YsClI9eD-Abss4P4BA__72 > div:nth-child(1) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte.dMcjUd > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb.VkuR6c > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc > div:nth-child(2).TpGXxb.OSrXXb.s8bAkb.uYZpsf.U09Jxd"
+                },
+                {
+                    "query": "Apple iPad",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2)#_j6d9YsClI9eD-Abss4P4BA312 > div:nth-child(2) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__73 > div:nth-child(1) > div:nth-child(1).Eee1Bd.GWRUbe.LL6Bte.dMcjUd > div:nth-child(1) > div:nth-child(1).arRknd > div:nth-child(1).vQ6j2c.LKLadb > div:nth-child(3) > div:nth-child(1).N7nxZd.ddWYqc > div:nth-child(2).TpGXxb.OSrXXb.s8bAkb.uYZpsf.U09Jxd"
+                },
+                {
+                    "query": "Apple laptop",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__74 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple Support",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__75 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple TV",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__76 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple India",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__77 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple AirPods",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__78 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple Card",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__79 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple Education",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__80 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "Apple number",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(9)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3)#dub_1 > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(10) > div:nth-child(2)#j6d9YsClI9eD-Abss4P4BA__81 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 18
+        }
+    ]
+}

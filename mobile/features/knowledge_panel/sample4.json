@@ -1,0 +1,743 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "50e28152-d8c5-45db-a10a-c6d353ac21a3",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T06:36:39.857Z",
+        "q": "카카오페이",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0004.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131536/211241247117-2DE3CB781DB540DC948695AE4B218A3C-00.html",
+        "json_url": "http://node0004.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131536/211241247117-2DE3CB781DB540DC948695AE4B218A3C-00.json",
+        "crawl_start_time": "2022-05-13T06:36:39.905Z",
+        "crawl_end_time": "2022-05-13T06:36:45.043Z",
+        "device": "mobile",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "카카오페이",
+        "parsed_time": "2022-05-13T06:36:45.618Z"
+    },
+    "features": [
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://www.kakaopay.com",
+            "title": "카카오페이 | 마음 놓고 금융하다",
+            "url": "https://www.kakaopay.com/",
+            "snippet": "카카오페이 공식 브랜드사이트.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.kakaopay.com/",
+                "desc": "카카오페이(출처: www.kakaopay.com)"
+            },
+            "sequence": 1
+        },
+        {
+            "type": "google_play",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1) > div:nth-child(1).g.mnr-c",
+            "title": "카카오페이",
+            "snippet": "자주 쓰는 서비스는 앞으로 꺼내고 ○ 결제가 필요한 순간 APP으로 결제하고 ○ 마음 전할 땐 앞으로 송금 봉투 ○ 흩어낸 내 모든 자산을 한곳에 모아보고",
+            "rating": {
+                "rating_count": "(2.9만)",
+                "rating_value": "4.5"
+            },
+            "sequence": 2
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "카카오페이 사용법",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__2 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "카카오페이 회사",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__3 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "카카오페이 주가",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__4 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "카카오페이 앱",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__5 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "카카오페이 결제",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__6 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "카카오페이 가입",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__7 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 3
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub",
+            "title": "함께 찾은 검색어",
+            "attrids": [
+                {
+                    "attrid": "image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "description",
+                    "values": [
+                        "카카오페이는 카카오페이가 제공하는 송금이나 결제를 할 수 있는 핀테크 서비스이다. 2014년 9월 5일 서비스를 개시했다.\nCopyright © kakaopay corp.와 같은 식으로 소문자로 표기한다.\n2017년 4월에는 주식회사 카카오페이라는 법인을 만들어 분사하였다.",
+                        "위키백과"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:서비스",
+                    "values": [
+                        "서비스: ",
+                        "간편 결제·송금 서비스"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/software:appear date",
+                    "values": [
+                        "최초 출시일: ",
+                        "2014년 9월 5일"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:모기업",
+                    "values": [
+                        "모기업: ",
+                        "(주) 카카오"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:창립",
+                    "values": [
+                        "창립: ",
+                        "2017년",
+                        " 4월"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:형태",
+                    "values": [
+                        "형태: ",
+                        "주식회사"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:자회사",
+                    "values": [
+                        "자회사: ",
+                        "카카오페이증권주식회사"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:본사_소재지",
+                    "values": [
+                        "본사 소재지: ",
+                        "대한민국"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "72px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        }
+                    ]
+                },
+                {
+                    "Description": "카카오페이는 카카오페이가 제공하는 송금이나 결제를 할 수 있는 핀테크 서비스이다. 2014년 9월 5일 서비스를 개시했다.\nCopyright © kakaopay corp.와 같은 식으로 소문자로 표기한다.\n2017년 4월에는 주식회사 카카오페이라는 법인을 만들어 분사하였다.  ",
+                    "properties": [
+                        {
+                            "attrid": "ss:/webfacts:서비스",
+                            "key": "서비스",
+                            "value": "간편 결제·송금 서비스"
+                        },
+                        {
+                            "attrid": "hw:/collection/software:appear date",
+                            "key": "최초 출시일",
+                            "value": "2014년 9월 5일"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:모기업",
+                            "key": "모기업",
+                            "value": "(주) 카카오"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:창립",
+                            "key": "창립",
+                            "value": "2017년 4월"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:형태",
+                            "key": "형태",
+                            "value": "주식회사"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:자회사",
+                            "key": "자회사",
+                            "value": "카카오페이증권주식회사"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:본사_소재지",
+                            "key": "본사 소재지",
+                            "value": "대한민국"
+                        }
+                    ],
+                    "more_likes": [
+                        "카카오페이지",
+                        "페이코",
+                        "카카오톡",
+                        "네이버페이",
+                        "제로페이",
+                        "L pay",
+                        "삼성 페이"
+                    ]
+                }
+            ],
+            "_attrids": [
+                "image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "description",
+                "ss:/webfacts:서비스",
+                "hw:/collection/software:appear date",
+                "ss:/webfacts:모기업",
+                "ss:/webfacts:창립",
+                "ss:/webfacts:형태",
+                "ss:/webfacts:자회사",
+                "ss:/webfacts:본사_소재지"
+            ],
+            "sequence": 4
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_ePx9YvuXA5C80PEP0byr8Ag19.osrp-blk > div:nth-child(3) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(4).TzHB6b.JlDOsc.LMRCfc.Giv2qe > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.CGCvRb.TjcfIc.eE3xqf.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                },
+                {
+                    "attrid": "secondary image"
+                }
+            ],
+            "cards": [
+                {
+                    "card_name": "images",
+                    "_debug_name": "small_images",
+                    "images": [
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "144px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "72px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        },
+                        {
+                            "height": "144px",
+                            "width": "192px"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image",
+                "secondary image"
+            ],
+            "sequence": 5
+        },
+        {
+            "type": "knowledge_panel",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12).kp-wholepage.ss6qqb.mnr-c.UBoxCb.kp-wholepage-osrp.EyBRub > div:nth-child(2) > div:nth-child(2)#_ePx9YvuXA5C80PEP0byr8Ag19.osrp-blk > div:nth-child(3) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(5).TzHB6b.JlDOsc.SHuCDf > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(2).LuVEUc.TjcfIc.B03h3d.P6OZi.V14nKc.ptcLIOszQJu__wholepage-card.wp-ms",
+            "attrids": [
+                {
+                    "attrid": "description",
+                    "values": [
+                        "카카오페이는 카카오페이가 제공하는 송금이나 결제를 할 수 있는 핀테크 서비스이다. 2014년 9월 5일 서비스를 개시했다.\nCopyright © kakaopay corp.와 같은 식으로 소문자로 표기한다.\n2017년 4월에는 주식회사 카카오페이라는 법인을 만들어 분사하였다.",
+                        "위키백과"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:서비스",
+                    "values": [
+                        "서비스: ",
+                        "간편 결제·송금 서비스"
+                    ]
+                },
+                {
+                    "attrid": "hw:/collection/software:appear date",
+                    "values": [
+                        "최초 출시일: ",
+                        "2014년 9월 5일"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:모기업",
+                    "values": [
+                        "모기업: ",
+                        "(주) 카카오"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:창립",
+                    "values": [
+                        "창립: ",
+                        "2017년",
+                        " 4월"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:형태",
+                    "values": [
+                        "형태: ",
+                        "주식회사"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:자회사",
+                    "values": [
+                        "자회사: ",
+                        "카카오페이증권주식회사"
+                    ]
+                },
+                {
+                    "attrid": "ss:/webfacts:본사_소재지",
+                    "values": [
+                        "본사 소재지: ",
+                        "대한민국"
+                    ]
+                }
+            ],
+            "cards": [
+                {
+                    "Description": "카카오페이는 카카오페이가 제공하는 송금이나 결제를 할 수 있는 핀테크 서비스이다. 2014년 9월 5일 서비스를 개시했다.\nCopyright © kakaopay corp.와 같은 식으로 소문자로 표기한다.\n2017년 4월에는 주식회사 카카오페이라는 법인을 만들어 분사하였다.  ",
+                    "properties": [
+                        {
+                            "attrid": "ss:/webfacts:서비스",
+                            "key": "서비스",
+                            "value": "간편 결제·송금 서비스"
+                        },
+                        {
+                            "attrid": "hw:/collection/software:appear date",
+                            "key": "최초 출시일",
+                            "value": "2014년 9월 5일"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:모기업",
+                            "key": "모기업",
+                            "value": "(주) 카카오"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:창립",
+                            "key": "창립",
+                            "value": "2017년 4월"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:형태",
+                            "key": "형태",
+                            "value": "주식회사"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:자회사",
+                            "key": "자회사",
+                            "value": "카카오페이증권주식회사"
+                        },
+                        {
+                            "attrid": "ss:/webfacts:본사_소재지",
+                            "key": "본사 소재지",
+                            "value": "대한민국"
+                        }
+                    ]
+                }
+            ],
+            "_attrids": [
+                "description",
+                "ss:/webfacts:서비스",
+                "hw:/collection/software:appear date",
+                "ss:/webfacts:모기업",
+                "ss:/webfacts:창립",
+                "ss:/webfacts:형태",
+                "ss:/webfacts:자회사",
+                "ss:/webfacts:본사_소재지"
+            ],
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://pay-cs-web.kakao.com",
+            "title": "카카오페이 고객센터",
+            "url": "https://pay-cs-web.kakao.com/",
+            "snippet": "전체 · 계정/보안 · 송금 · 결제 · 자산 · 주식 · 청구서/내문서함 · 투자",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.kakaocorp.com › service",
+            "title": "마음놓고 금융하다, 카카오페이",
+            "url": "https://www.kakaocorp.com/page/service/service/KakaoPay",
+            "snippet": "분식점에 카카오페이 가능하다는 스티커와 라이언 홍보물. 카카오페이 심볼. 금융의 수고로움을 줄이고 생활에 이로운 흐름을 만듭니다. 송금, 결제, 멤버십으로",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.kakaocorp.com/page/service/service/KakaoPay",
+                "desc": "카카오페이(출처: www.kakaocorp.com)"
+            },
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://namu.wiki › 카카오페이",
+            "title": "카카오페이 - 나무위키",
+            "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4",
+            "snippet": "카카오페이머니는 토스와 같이 앱에 돈을 보관할 수 있는 서비스다. 말이 페이머니지, 쉽게 말해서 잔액이다. 송금 시 연결된 계좌에서 1만원 단위로 충전한 후 송금되며, ...",
+            "thumbnail": {
+                "type": "video",
+                "url": "https://namu.wiki/w/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4",
+                "desc": "카카오페이 동영상"
+            },
+            "properties": [
+                {
+                    "key": "금융/투자",
+                    "value": "카카오뱅크 | 카카오페이 | 카카오인베스트먼트 | 카카오벤처스"
+                },
+                {
+                    "key": "기타",
+                    "value": "카카오스페이스 | 카카오임팩트"
+                }
+            ],
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://kakaopay.recruiter.co.kr",
+            "title": "카카오페이 채용",
+            "url": "https://kakaopay.recruiter.co.kr/",
+            "snippet": "카카오페이 ; 진행 중 공고. 진행 중인 공고를 확인해보세요 ; 인재풀 등록. 언제든지 지원할 수 있어요 ; 채용 문의. 궁금한 내용을 확인해보세요 ...",
+            "sequence": 10
+        },
+        {
+            "type": "articles",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb",
+            "items": [
+                {
+                    "title": "주요 뉴스",
+                    "carousels": [
+                        {
+                            "title": "카카오페이, 장초반 공모가 아래로…신저가 경신",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(1).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe.amp_r",
+                            "url": "https://www.hankyung.com/finance/amp/2022051298756"
+                        },
+                        {
+                            "title": "카카오·카카오페이·카카오뱅크 등 카카오그룹주 동반 신저가(종합)",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(2).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe",
+                            "url": "https://news.nate.com/view/20220510n30661"
+                        },
+                        {
+                            "title": "[특징주] 카뱅·카카오페이 공모가 밑으로…카카오그룹주 동반약세(종합)",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(3).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe.amp_r",
+                            "url": "https://m.mk.co.kr/news/stock/view-amp/2022/05/420692/"
+                        },
+                        {
+                            "title": "[특징주] 카카오 그룹주 일제히 하락…카카오페이 공모가 하회",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(4).JJZKK > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe",
+                            "url": "https://www.etoday.co.kr/news/view/2132918"
+                        },
+                        {
+                            "title": "[특징주] 카카오페이, 장초반 공모가 하회…신저가 경신",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(5)#tsuid54.JJZKK > div:nth-child(1)#NEWS_TILE_0_ePx9YvuXA5C80PEP0byr8Ag__112.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe.amp_r",
+                            "url": "https://m.yna.co.kr/amp/view/AKR20220512039300002"
+                        },
+                        {
+                            "title": "카카오페이·카카오뱅크, 공모가 밑으로 '추락'…카카오도 '와르르'",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(6)#tsuid56.JJZKK > div:nth-child(1)#NEWS_TILE_0_ePx9YvuXA5C80PEP0byr8Ag__115.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe",
+                            "url": "https://news.mt.co.kr/mtview.php?no=2022051216555396604"
+                        },
+                        {
+                            "title": "[특징주]카카오페이 공모가 9만원 아래로 '뚝'…금리인상에 성장주 약세",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(7)#tsuid61.JJZKK > div:nth-child(1)#NEWS_TILE_0_ePx9YvuXA5C80PEP0byr8Ag__118.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe.amp_r",
+                            "url": "https://cm.asiae.co.kr/ampview.htm?no=2022051210133375416"
+                        },
+                        {
+                            "title": "[특징주] 카카오페이, 장중 공모가 9만원 하회",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(8)#tsuid59.JJZKK > div:nth-child(1)#NEWS_TILE_0_ePx9YvuXA5C80PEP0byr8Ag__121.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe.amp_r",
+                            "url": "http://daily.hankooki.com/news/articleViewAmp.html?idxno=823302"
+                        },
+                        {
+                            "title": "“출구가 없다”…카카오페이·카카오뱅크 또 신저가",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(9)#tsuid64.JJZKK > div:nth-child(1)#NEWS_TILE_0_ePx9YvuXA5C80PEP0byr8Ag__124.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe",
+                            "url": "https://economist.co.kr/2022/05/12/stock/stockNormal/20220512112510806.html"
+                        },
+                        {
+                            "title": "[특징주] 카카오페이, 장초반 공모가 하회…신저가 경신",
+                            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17).xSoq1 > div:nth-child(1).wtFsOb > div:nth-child(2) > g-scrolling-carousel#_ePx9YvuXA5C80PEP0byr8Ag63.kQ9KOd > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1.qIfKhf.yUxSId > div:nth-child(1).fhQnRd > div:nth-child(10)#tsuid48.JJZKK > div:nth-child(1)#NEWS_TILE_0_ePx9YvuXA5C80PEP0byr8Ag__127.iVOoxf > g-inner-card.Cq2QEe.kno-fb-ctx.VoEfsd > div:nth-child(1).amp_re.E7YbUb > div:nth-child(1).zZ9K7e > a.WlydOe.amp_r",
+                            "url": "https://m.mk.co.kr/news/stock/view-amp/2022/05/418428/"
+                        }
+                    ]
+                }
+            ],
+            "sequence": 11
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18).uVMCKf.mnr-c > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "스마트폰 금융거래 카카오페이 사용방법을 알려드립니다",
+                    "url": "https://m.youtube.com/watch?v=ykGfA6FhbeA"
+                },
+                {
+                    "title": "결제하는 법 — 카카오페이",
+                    "url": "https://m.youtube.com/watch?v=tjT4JI-LaBY"
+                },
+                {
+                    "title": "결제하는 방법 — 카카오페이",
+                    "url": "https://m.youtube.com/watch?v=UfZVJIjE0GI"
+                }
+            ],
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://apps.apple.com › app › 카카...",
+            "title": "App Store에서 제공하는 카카오페이",
+            "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/id1464496236",
+            "snippet": "카카오페이의 리뷰를 읽고 고객 평점을 비교할 수 있습니다. 스크린샷을 보고 자세한 내용을 확인해 보세요. 카카오페이 항목을 다운로드하고 iPhone, ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://apps.apple.com/kr/app/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4/id1464496236",
+                "desc": "카카오페이(출처: apps.apple.com)"
+            },
+            "rating": {
+                "rating_count": "(18,875)",
+                "rating_value": "4.7"
+            },
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.saramin.co.kr › csn › (...",
+            "title": "(주)카카오페이 2022년 기업정보 | 사원수 914명, 근무환경, 복리후생 등 기업정보 제공 - 사람인",
+            "url": "https://m.saramin.co.kr/amp/company-info?csn=K1o4KzhpYno3cHcxZFlmNnJ5a01qQT09",
+            "snippet": "(주)카카오페이 회사 소개, 기업정보, 근무환경, 복리후생, 하는 일, 회사위치, 채용정보, 연봉정보 등을 사람인에서 확인해보세요. (saramin.co.kr)",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.saramin.co.kr/amp/company-info?csn=K1o4KzhpYno3cHcxZFlmNnJ5a01qQT09",
+                "desc": "카카오페이(출처: m.saramin.co.kr)"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "카카오페이 주식",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__67 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이센터",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__68 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이 사용처",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__69 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이 해외",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__70 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이증권",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__71 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이 고객센터",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__72 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이머니",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__73 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "카카오페이 채용",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_0_ePx9YvuXA5C80PEP0byr8Ag__74 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 15
+        }
+    ]
+}

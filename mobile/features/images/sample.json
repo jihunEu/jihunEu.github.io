@@ -1,0 +1,305 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "79179741-dcc9-4702-ad24-4783ea62cb54",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:24:16.546Z",
+        "q": "지역예비군 훈련",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%A7%80%EC%97%AD%EC%98%88%EB%B9%84%EA%B5%B0+%ED%9B%88%EB%A0%A8&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121724/218036020078-8C39D915B9F3453282B802D44C383776-00.html",
+        "json_url": "http://node0006.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121724/218036020078-8C39D915B9F3453282B802D44C383776-00.json",
+        "crawl_start_time": "2022-05-12T08:24:16.589Z",
+        "crawl_end_time": "2022-05-12T08:24:21.932Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "유형",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "지역예비군 훈련",
+        "parsed_time": "2022-05-12T08:24:22.270Z"
+    },
+    "features": [
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "http://easylaw.go.kr › CnpClsMain",
+            "title": "예비군 및 민방위 > 예비군 > 예비군훈련 실시 > 지역예비군훈련 (본문) | 찾기쉬운 생활법령정보",
+            "url": "http://easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=1456&ccfNo=1&cciNo=5&cnpClsNo=2",
+            "snippet": "지역방위 임무수행을 위해 거주지나 직장일대에서 실시하는 방어훈련을 말합니다(「예비군 교육훈련 훈령」 제2조제3호 후단 및 병무청 「2022년 예비군 복무 길라잡이 ...",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(2) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://namu.wiki › 예비군훈련 › 훈...",
+            "title": "예비군훈련/훈련 시간 - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EC%98%88%EB%B9%84%EA%B5%B0%ED%9B%88%EB%A0%A8/%ED%9B%88%EB%A0%A8%20%EC%8B%9C%EA%B0%84",
+            "snippet": "4일 전 — 본래는 전후반기 작계 훈련도 별도로 받아야 해서 지역예비군(6H)x2+동미참훈련(8Hx3)= 총 36시간의 훈련을 받아야 했지만, 2018년부터는 작계 훈련이 ...",
+            "sequence": 2
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(3).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(7) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://www.law.go.kr › 행정규칙",
+            "title": "예비군교육훈련훈령 - 국가법령정보센터",
+            "url": "https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EC%98%88%EB%B9%84%EA%B5%B0%EA%B5%90%EC%9C%A1%ED%9B%88%EB%A0%A8%ED%9B%88%EB%A0%B9/",
+            "snippet": "3. \"지역예비군훈련\"이란 「예비군법」에 따른 임무수행을 위한 필수과목(제)을 실시하는 기본훈련과 거주지나 직장 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://ko.m.wikipedia.org › wiki",
+            "title": "대한민국 예비군 - 위키백과, 우리 모두의 백과사전",
+            "url": "https://ko.m.wikipedia.org/wiki/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EC%98%88%EB%B9%84%EA%B5%B0",
+            "snippet": "... Korea Reserve Forces, ROKRF)은 평상시에는 사회 생활을 하다가 유사시(有事時)에 소집되는 대한민국 국군의 예비 전력이며, 동원 및 지역예비군으로 분류된다.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://m.korea.kr › policyNewsView",
+            "title": "예비군 소집훈련 2년만에 재개…6월 2일부터 실시",
+            "url": "https://m.korea.kr/news/policyNewsView.do?newsId=148900994",
+            "snippet": "2022. 4. 22. — 국방부 계획대로 2024년까지 40개의 과학화 예비군훈련장을 완성하면 전국 지역예비군훈련 대상자의 100%가 과학화 훈련을 받을 수 있다. 문의 : 국방부 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.mma.go.kr › data",
+            "title": "예비군이 꼭 알아야 할 사항 - 예비군편성 - 예비군편성 / 병력동원 - 병역이행안내 - 병무청",
+            "url": "https://www.mma.go.kr/navigation/training/data.do?mc=usr0000194",
+            "snippet": "학생예비군에 편성되어야 예비군훈련 시간단축혜택을 받으실 수 있으며, ... 학교의 경우 재학증명서를 발급받아 거주지 지역예비군중대에 보류신고를 하셔야 합니다.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(10) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.mma.go.kr › contents",
+            "title": "동원훈련 입영 - 병력동원훈련소집 - 예비군편성 / 병력동원 - 병역이행안내 - 병무청",
+            "url": "https://www.mma.go.kr/contents.do?mc=mma0002242",
+            "snippet": "동원예비군훈련 · 병 1~4년차 · 간부 1~6년차, 동원지정, 동원훈련(8H), 소집부대 (또는 동원훈련장), 동일교육(8H). 동원미지정, 기본훈련(8H), 지역 예비군훈련장.",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(11) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://www.yebigun1.mil.kr",
+            "title": "예비군",
+            "url": "https://www.yebigun1.mil.kr/",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(12) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "http://encykorea.aks.ac.kr › Item",
+            "title": "향토예비군(鄕土豫備軍) - 한국민족문화대백과사전",
+            "url": "http://encykorea.aks.ac.kr/Contents/Item/E0062995",
+            "snippet": "향토방위 기본훈련(향방훈련)은 예비군 중 5∼6년차 예비군들이 지역 예비군 훈련장에서 8시간 동안 기초 군사훈련을 받는 예비군 훈련이며, 향토방위 작전계획 훈련(향방 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://yebigun.kaist.ac.kr › sub2 › s...",
+            "title": "교육훈련 시간 - 카이스트 예비군 민방위 - Kaist",
+            "url": "https://yebigun.kaist.ac.kr/html/kr/sub2/sub2_0203.html",
+            "snippet": "예비군 교육훈련 시간(직원) ... 구분, 계, 동원예비군훈련, 지역예비군훈련, 예비시간. 동원훈련, 동미참훈련, 기본훈련, 작계훈련 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://www.chungbuk.ac.kr › ...",
+            "title": "2018년 변경된 지역예비군 훈련",
+            "url": "https://www.chungbuk.ac.kr/site/yebigun/boardDownload.do?boardSeq=10&post=3151586&bdfiles=298351",
+            "snippet": "2018년 변경된 지역예비군 훈련. □ 지역예비군훈련. ○ 기본훈련. - 자율 참여형 예비군 훈련시행 . 예비군 스스로 “판단-조치” 할 수 있는 훈련장 조성.",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "http://m.wsu.ac.kr › page",
+            "title": "예비군안내 - : 우송대학교",
+            "url": "http://m.wsu.ac.kr/page/index.jsp?code=man0402",
+            "snippet": "현역전역(보충역 또는 소집해제)다음날부터 본인 주소지 지역예비군 중대에 지방 ... 1) 기본훈련 : 학기 중 훈련부대와 협조하여 실시, (년1회 8시간 이수시 당해연도 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.karts.ac.kr › main",
+            "title": "예비군대대 < 학생지원 < 대학생활 | 한국예술종합학교",
+            "url": "https://www.karts.ac.kr/main/index.do?menuId=090205000010",
+            "snippet": "예비군대대 · 대학직장예비군에 편성된 교수, 학생 : 기본훈련 8시간(전역 후 익년부터 1~6년차), 단 학생의 경우 수업연한 이내 재학중인 자 · 교직원, 조교 : 지역예비군과 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://military.korea.ac.kr › training",
+            "title": "고려대학교 병무행정팀 | 예비군훈련",
+            "url": "https://military.korea.ac.kr/mma/reserve/training.do",
+            "snippet": "예비군 훈련 · 일반예비군훈련 · 학교 직장 예비군 연대 훈련 · 방침일부 보류자 훈련(기본훈련 8H) · 기타 훈련(지역예비군 부대에서 이관된 훈련).",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://www.skku.edu › popup_notice",
+            "title": "공지사항 게시판읽기 ( 2022년 예비군 훈련 시행 지침 안내 ) | 성균관대학교",
+            "url": "https://www.skku.edu/skku/campus/skk_comm/popup_notice.do?mode=view&articleNo=97105",
+            "snippet": "2022. 5. 2. — 국방부 등 상급기관 지침에 따른 2022년 예비군 훈련에 대한 안내 입니다. 1. ... 2) 5∼6년차 : 기본훈련 1일 8H / 지역예비군 훈련장(훈련대) 다.",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.kookmin.ac.kr › content",
+            "title": "예비군안내 - 국민대학교",
+            "url": "https://www.kookmin.ac.kr/comm/menu/user/dfa76305535943a595e422a4c7ff7101/content/index.do",
+            "snippet": "예비군 훈련 : 신분 구분 없이 6년차까지 실시. 편성 체계. 예비군은 지역 예비군과 직장 예비군(대학직장 예비군 포함)으로 구분; 현역 또는 보충역(사회복무요원 등) ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "http://www.sejong.ac.kr › military_02",
+            "title": "예비군 훈련안내 - 세종대학교",
+            "url": "http://www.sejong.ac.kr/unilife/military_02.html?menu_id=1.8",
+            "snippet": "* 휴학생은 지역예비군에 편성되기 때무에 휴학 중 지역 예비군중대에 부여되는 훈련은 전부 이수하여야 함. (휴학 중인 학생은 학생예비군의 훈련단축 혜택이 없음). 교육 ...",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.skuniv.ac.kr › reserve",
+            "title": "예비군안내 - 서경대학교",
+            "url": "https://www.skuniv.ac.kr/reserve",
+            "snippet": "대학 직장예비군 교육훈련 — 대학 직장예비군 편성목적. 대학(원)생 및 대학에 재직중인 예비군을 지역예비군에 편성함에 따른 부담을 경감하고, 교육훈련 및 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://www.dongguk.edu › page",
+            "title": "학사/생활/장학 - 생활센터 - 병사/예비군/학군단 - 예비군안내 - 동국대학교",
+            "url": "https://www.dongguk.edu/page/195",
+            "snippet": "학생 예비군, 8H (기본훈련), 비상소집망 점검. 휴대폰번호 확인; E-mail 주소 확인. 지역 예비군, 동원지정자, 연 2박3일 (등원훈련), 연 20H (기본훈련 8H, 작계훈련 ...",
+            "sequence": 20
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "코로나",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "집중호우",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "육군",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "예비군훈련장",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "예비군동원",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "예비역",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "군복",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "병력동원",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "작계훈련",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid20.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "학생예비군",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid22.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "예비군연차",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid24.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "동미참",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid26.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "예비군소집",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid28.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "향방작계",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid30.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "병사",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid32.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "연차별",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid34.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 21
+        },
+        {
+            "type": "unknown",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.Ww4FFb",
+            "sequence": 22
+        }
+    ]
+}

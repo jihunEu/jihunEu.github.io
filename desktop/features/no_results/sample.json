@@ -1,0 +1,134 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "c56c2430-b058-4f7f-b2f9-1ff15d426eb6",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T01:43:24.265Z",
+        "q": "\"침착한 낙타 자동차\"",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 10,
+        "query_string": "q=%22%EC%B9%A8%EC%B0%A9%ED%95%9C+%EB%82%99%ED%83%80+%EC%9E%90%EB%8F%99%EC%B0%A8%22&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0029.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131043/218036011072-8ED3A8C69B20410F82DCD448817EF8FE-00.html",
+        "json_url": "http://node0029.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131043/218036011072-8ED3A8C69B20410F82DCD448817EF8FE-00.json",
+        "crawl_start_time": "2022-05-13T01:43:24.311Z",
+        "crawl_end_time": "2022-05-13T01:43:30.473Z",
+        "device": "desktop",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "침착한 낙타 자동차",
+        "total_results": 161000,
+        "parsed_time": "2022-05-13T01:43:30.636Z"
+    },
+    "features": [
+        {
+            "type": "no_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(1)#topstuff > div:nth-child(1).Uj3I6c.lsMMHb > div:nth-child(1) > div:nth-child(1).card-section.rQUFld",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(1).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 1,
+            "displayed_link": "http://m.blog.naver.com › mib72",
+            "title": "카타르 버거킹, 낙타!? - 네이버 블로그",
+            "url": "http://m.blog.naver.com/mib72/60213936456",
+            "snippet": "2014. 5. 3. — 뒤에 차가 있는데도 침착한 모습을 보니. 카타르 버거킹에서는 흔한 풍경인 것 같아요 ㅋㅋ. 종이상자로 자동차 만들어서 드라이브스루 가는것도 웃겼 ...",
+            "sequence": 2
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(2).ULSxyf > div:nth-child(1).EyBRub > div:nth-child(2).LnbJhc > g-section-with-header.yG4QQe.TBC9ub",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(8).g.tF2Cxc",
+            "position": 2,
+            "displayed_link": "https://m.hankooki.com › m_kd_view",
+            "title": "[수학으로 통하는 과학] 자동차에 담긴 작용과 반작용 ②",
+            "url": "https://m.hankooki.com/m_kd_view.php?m=&WM=kd&WEB_GSNO=6844346",
+            "snippet": "2021. 4. 2. — 미로가 자동차 문을 힘차게 열자 신기하게도 마루와 루이, 낙타들까지도 거뜬히 탈 수 있었다. 퀴즈 우리 주변에는 작용과 반작용을 활용한 물건이 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(9).g.tF2Cxc",
+            "position": 3,
+            "displayed_link": "https://namu.wiki › 낙타",
+            "title": "낙타 (r531 판) - 나무위키:대문",
+            "url": "https://namu.wiki/w/%EB%82%99%ED%83%80?rev=531",
+            "snippet": "2021. 10. 10. — 주로 사막 지역에 서식하는 동물로, 사막에서 자동차 바퀴는 모래에 파묻히기 쉽고 말은 ... 한때 프랑스에서 낙타 부대를 운용한 적이 있었는데, ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(10).g.tF2Cxc",
+            "position": 4,
+            "displayed_link": "https://ko.birmiss.com › 쌍봉-낙타-이름-흥미로운-사...",
+            "title": "쌍봉 낙타 : 이름, 흥미로운 사실, 사진 - ad",
+            "url": "https://ko.birmiss.com/%EC%8C%8D%EB%B4%89-%EB%82%99%ED%83%80-%EC%9D%B4%EB%A6%84-%ED%9D%A5%EB%AF%B8%EB%A1%9C%EC%9A%B4-%EC%82%AC%EC%8B%A4-%EC%82%AC%EC%A7%84/",
+            "snippet": "따라서, 많은 두 숙 낙타의 이름을 알고에 관심 흥미로운 사실은 그것과 관련된. ... 짝짓기 시즌에도 침착 한 동물 사나운 있습니다. 그들은 땅, 사용 송곳니로 상대 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(11).g.tF2Cxc",
+            "position": 5,
+            "displayed_link": "https://www.joongang.co.kr › article",
+            "title": "바람을 그리려는 사람들 | 중앙일보",
+            "url": "https://www.joongang.co.kr/article/4749015",
+            "snippet": "2010. 12. 5. — 자동차로 한 시간 달린 후 도착한 사막, 우리는 낙타의 등에 올라탔다. ... 에서 사람이 곁에 있다는 것만으로도 침착할 수 있는 용기는 생겨났다.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(12).g.tF2Cxc",
+            "position": 6,
+            "displayed_link": "https://ko.wukihow.com › wiki › Ride-a-Camel",
+            "title": "낙타를 타는 방법 - Wukihow",
+            "url": "https://ko.wukihow.com/wiki/Ride-a-Camel",
+            "snippet": "그러나 낙타를 타거나 타는 것은 특히 초보자라면 고귀한 일이 아닙니다. ... 다른 낙타들은 당신의 차를 뜯어 내거나 놀 수 있지만, 당신이 침착하고 시원하게 유지 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(16).g > div:nth-child(1) > div:nth-child(1).tF2Cxc",
+            "position": 7,
+            "displayed_link": "https://books.google.co.kr › books",
+            "title": "헬로 아메리카 - Google 도서 검색결과",
+            "url": "https://books.google.co.kr/books?id=vFixDwAAQBAJ&pg=PT147&lpg=PT147&dq=%EC%B9%A8%EC%B0%A9%ED%95%9C+%EB%82%99%ED%83%80+%EC%9E%90%EB%8F%99%EC%B0%A8&source=bl&ots=EPgdrdQA8A&sig=ACfU3U0ow-ycV87xi6NaUOgeEUWq9L5aUg&hl=ko&sa=X&ved=2ahUKEwjoi4nnrNv3AhWVEogKHdvOA44Q6AF6BAggEAM",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(17).g.tF2Cxc",
+            "position": 8,
+            "displayed_link": "https://ko.public-welfare.com › 4122658-camel-speed-c...",
+            "title": "낙타 속도 : 호기심 많은 정보 - 자연 2022",
+            "url": "https://ko.public-welfare.com/4122658-camel-speed-curious-information",
+            "snippet": "사람들은 낙타와 연결된 한 가지 방법이나 다른 방법으로 동물을 사냥하고 오락을했습니다. 낙타 달리기의 속도는 그들에게 종족을 허용했습니다. 아라비아 반도에서는 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(18).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 9,
+            "displayed_link": "https://pixabay.com › images › search › 지시",
+            "title": "500 + 무료 지시 & 정지시키다 이미지 - Pixabay",
+            "url": "https://pixabay.com/ko/images/search/%EC%A7%80%EC%8B%9C/",
+            "snippet": "꽃, 붉은, 평화, 침착 한, 기분 전환, 읽다, 시각, ... 사막, 밤, 별이 빛나는 하늘, 사람, 단봉 낙타, 모래, ... 존재, Be, 오전, 영혼, 영적인, 소울풀한, 연결,.",
+            "sequence": 11
+        }
+    ],
+    "page_navigation": {
+        "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(7) > span#xjs > table.AaVjTc",
+        "next_url": "/search?q=%EC%B9%A8%EC%B0%A9%ED%95%9C+%EB%82%99%ED%83%80+%EC%9E%90%EB%8F%99%EC%B0%A8&hl=ko&gl=kr&pws=0&ei=vbd9Yqi5CpWloATbnY_wCA&start=10&sa=N&ved=2ahUKEwjoi4nnrNv3AhWVEogKHdvOA44Q8NMDegQIARBK"
+    }
+}

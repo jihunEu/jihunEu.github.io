@@ -1,0 +1,360 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "883c7657-edd6-454f-be53-2ed58d35ebeb",
+        "sub_id": 0,
+        "requested_time": "2022-05-12T08:41:13.184Z",
+        "q": "마카 피아 가격",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EB%A7%88%EC%B9%B4+%ED%94%BC%EC%95%84+%EA%B0%80%EA%B2%A9&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0026.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/218036105125-DCCE26A83F71405692F316D7770A8F70-00.html",
+        "json_url": "http://node0026.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205121741/218036105125-DCCE26A83F71405692F316D7770A8F70-00.json",
+        "crawl_start_time": "2022-05-12T08:41:13.243Z",
+        "crawl_end_time": "2022-05-12T08:41:17.320Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "후기",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "마카 피아 가격",
+        "parsed_time": "2022-05-12T08:41:17.722Z"
+    },
+    "features": [
+        {
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "마카 피아 가격 구매",
+            "carousels": [
+                {
+                    "title": "마카올로지 선물세트 3+1 (4달분)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABAHGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_0n4nx7_HX3Q_I5gwRyc5lS7p-Y4Q&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQCw&adurl=",
+                    "price": "₩163,800",
+                    "delivery": "+ 배송비 ₩3,000",
+                    "provider": "푸드올로지",
+                    "data-offer-docid": "11403814201039796725",
+                    "data-merchant-id": "550435468",
+                    "data-offer-id": "72"
+                },
+                {
+                    "title": "[남자활력] 마카올로지 초특가",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABAIGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_17CqAVRPT_Vn8BSV0MllB2R1sKpw&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQEA&adurl=",
+                    "price": "₩34,800",
+                    "delivery": "+ 배송비 ₩3,000",
+                    "provider": "푸드올로지",
+                    "data-offer-docid": "11797926401234682383",
+                    "data-merchant-id": "550435468",
+                    "data-offer-id": "93"
+                },
+                {
+                    "title": "심플리커 남자 활력 영양제 마카 아르기닌 아연 야관문 4대성분 고함량 환",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABAMGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_0n7C_EXJpHE9GBbWKbb4DEox8OZw&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQFQ&adurl=",
+                    "price": "₩49,800",
+                    "delivery": "+ 배송비 ₩3,000",
+                    "provider": "원큐헬푸",
+                    "data-offer-docid": "8922675776878140991",
+                    "data-merchant-id": "386390027",
+                    "data-offer-id": "184"
+                },
+                {
+                    "title": "익스트림 블랙마카 & 트리플 아르기닌 세트",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABALGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_3T4Ol2D_RzwV0iR3LU_S028ctE3g&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQGg&adurl=",
+                    "price": "₩58,500",
+                    "delivery": "+ 배송비 ₩3,000",
+                    "provider": "익스트림",
+                    "data-offer-docid": "8505225923810869316",
+                    "data-merchant-id": "463904800",
+                    "data-offer-id": "25"
+                },
+                {
+                    "title": "[2+1] 삼대오백 블랙 젤라틴 마카",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABAJGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_2fwEm-GPdPjMVjV3eOH-5iG5RJDA&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQHw&adurl=",
+                    "price": "₩54,900",
+                    "delivery": "무료 배송",
+                    "provider": "뉴트리커먼",
+                    "data-offer-docid": "7458849423108903736",
+                    "data-merchant-id": "392859440",
+                    "data-offer-id": "cafe24_voar_1_103"
+                },
+                {
+                    "title": "나우푸드 NOW Foods 마카, 500mg, 베지 캡슐 250정",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABANGgJwdg&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_2luGi2QPWO4vXsJJRPWVOvSlfpKA&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQJA&adurl=",
+                    "price": "₩15,294",
+                    "delivery": "+ 배송비 ₩4,800",
+                    "provider": "iHerb",
+                    "data-catalog-id": "8790407567592392677",
+                    "data-offer-docid": "6401799214434705307",
+                    "data-merchant-id": "169620201",
+                    "data-offer-id": "NOW-04762"
+                },
+                {
+                    "title": "마카올로지(macaology)",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjIzO2pyNn3AhXyEecKHX0MCAkYABAKGgJwdg&ae=2&ohost=www.google.com&cid=CAASJORoeEHyqz2s2RYACjLFrYWX2J3B_Z_o1HEugeRkkQ5EDbSzAw&sig=AOD64_2UNULJCOCok8cE4B_Wweecar5FGA&ctype=5&q=&ved=2ahUKEwjir-epyNn3AhVtIDQIHXjgDlYQwg8oAHoECAEQKw&adurl=",
+                    "price": "₩46,800",
+                    "delivery": "+ 배송비 ₩3,000",
+                    "provider": "푸드올로지",
+                    "data-offer-docid": "16640042289905239213",
+                    "data-merchant-id": "550435468",
+                    "data-offer-id": "41"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "featured_snippet",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > block-component > div:nth-child(1).g.kno-result.mnr-c.JnwWd.g-blk",
+            "results": [
+                {
+                    "title": "온앤업 마카피아 - 온앤업",
+                    "displayed_link": "http://m.onandup.co.kr › product",
+                    "url": "http://m.onandup.co.kr/product/%EC%98%A8%EC%95%A4%EC%97%85-%EB%A7%88%EC%B9%B4%ED%94%BC%EC%95%84/35/",
+                    "table": {
+                        "title": "지금 잘나가는 상품도 보실래요?",
+                        "items": [
+                            [
+                                "상품명",
+                                "온앤업 마카피아"
+                            ],
+                            [
+                                "수량",
+                                "마카피아 12 BOX / 6개월"
+                            ],
+                            [
+                                "소비자가",
+                                "550,800원"
+                            ],
+                            [
+                                "특별 판매가",
+                                "299,800원"
+                            ],
+                            [
+                                "회원 적립혜택",
+                                "6,000원 (2%)"
+                            ]
+                        ]
+                    }
+                }
+            ],
+            "official": true,
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://soogo.tistory.com › entry",
+            "title": "마카피아 효능 알고드세요 - 건강로그",
+            "url": "https://soogo.tistory.com/entry/%EB%A7%88%EC%B9%B4%ED%94%BC%EC%95%84-%ED%9A%A8%EB%8A%A5-%EC%95%8C%EA%B3%A0%EB%93%9C%EC%84%B8%EC%9A%94",
+            "snippet": "2021. 6. 16. — 온앤업 마카피아 15일 1박스 제품은 34,800원, 1개월 2박스 제품은 64,800원, 2개월 4박스 제품은 119,800원, 3개월 6박스 제품은 159,800원, 6개월 12 ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://davey.tistory.com › entry",
+            "title": "마카피아 효능 가격",
+            "url": "https://davey.tistory.com/entry/%EB%A7%88%EC%B9%B4%ED%94%BC%EC%95%84-%ED%9A%A8%EB%8A%A5-%EA%B0%80%EA%B2%A9",
+            "snippet": "2021. 9. 25. — 안녕하세요, 이번 포스팅은 마카피아 효능 가격에 대해서 작성하도록 하겠습니다. 마카피아는 페루의 산삼이라고 불리는 블랙마카와 근육을 키우거나 ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "http://search.danawa.com › dsearch",
+            "title": "마카 : 다나와 통합검색",
+            "url": "http://search.danawa.com/mobile/dsearch.php?keyword=%EB%A7%88%EC%B9%B4",
+            "snippet": "광고상품입니다. 실제 구매가격은 할인율, 옵션 선택에 따라 달라질 수 있습니다. 신청하기 · 닥터프리오 ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://nextdoorped.tistory.com › ...",
+            "title": "[필독] 마카피아 효과, 부작용 알고 먹기 - 우리 옆집 소아과",
+            "url": "https://nextdoorped.tistory.com/296",
+            "snippet": "마카피아 이제는 마카라는 이름이 많이 익숙해진 것 같습니다. 그래서 인지 시중에 정말 많은 마카 관련 건강기능식품이 나오고 있습니다. 오늘은 이중에서도 활력에 ...",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://www.coupang.com › search",
+            "title": "블랙마카 - 쿠팡!",
+            "url": "https://www.coupang.com/np/search?q=%EB%B8%94%EB%9E%99%EB%A7%88%EC%B9%B4&channel=relate",
+            "snippet": "쿠팡은 로켓배송 - 블랙마카에 대한 검색결과입니다. 나우푸드 블랙마카, 페루 블랙마카, 블랙마카 김종국마카, 익스트림 블랙마카 1600, 페루 블랙마카2500, ...",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://novelstory.tistory.com › ...",
+            "title": "익스트림 블랙마카 vs 마카피아 비교 내돈내산 솔직 후기, 가격 효능 성분 부작용 소개해드릴게요! - 노벨스토리",
+            "url": "https://novelstory.tistory.com/191",
+            "snippet": "2021. 7. 31. — 익스트림 블랙마카 vs 마카피아 비교 내돈내산 솔직 후기, 가격 효능 성분 부작용 소개해드릴게요! 안녕하세요, 요즘 마카라는 것에 대한 관심이 ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://baby-first.tistory.com › ...",
+            "title": "마카피아 성분 효과 부작용 총정리 - BaBy First & Health",
+            "url": "https://baby-first.tistory.com/372",
+            "snippet": "2021. 6. 21. — 나이가 들어가면서 힘도 없어지고 아침에 눈뜨기도 버거워집니다. 이런 증상들을 막을 방법은 건강한 식습관, 꾸준한 운동 등 좋은 방법들이 있지만 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "http://bamtrae.co.kr › 2021/06/19",
+            "title": "알쓰리 블랙마카 가격과 품질을 비교한 실속있는 상품들입니다 - 밤뜨레쇼핑",
+            "url": "http://bamtrae.co.kr/blog/2021/06/19/%EC%95%8C%EC%93%B0%EB%A6%AC-%EB%B8%94%EB%9E%99%EB%A7%88%EC%B9%B4-%EA%B0%80%EA%B2%A9%EA%B3%BC-%ED%92%88%EC%A7%88%EC%9D%84-%EB%B9%84%EA%B5%90%ED%95%9C-%EC%8B%A4%EC%86%8D%EC%9E%88%EB%8A%94-%EC%83%81/",
+            "snippet": "2021. 6. 19. — 마카피아 2box 1개월 블랙마카 아르기닌 남성피로회복제 온앤업, 단품, 단품. 평점. 가격 : 64,800원. 마카피아 2box 1개월 블랙마카 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://usefully.tistory.com › ...",
+            "title": "마카피아 효능 및 부작용 성분 알아보자 - 슬기로운 정보생활",
+            "url": "https://usefully.tistory.com/37",
+            "snippet": "2021. 7. 7. — 마카피아 효능 및 성분; 마카피아 가격; 마카피아 섭취방법 및 부작용 ... 마카피아 제품에 보면 페루산 블랙마카를 포함하고 있다고 표기가 되어 ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(30) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://gofigiiw.tistory.com › entry",
+            "title": "마카피아 효능 효과 부작용 핵심 정보 - v돈대는이야기v",
+            "url": "https://gofigiiw.tistory.com/entry/%EB%A7%88%EC%B9%B4%ED%94%BC%EC%95%84-%ED%9A%A8%EB%8A%A5-%ED%9A%A8%EA%B3%BC-%EB%B6%80%EC%9E%91%EC%9A%A9-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%B3%B4",
+            "snippet": "2022. 3. 22. — 그래서 말인데 아마 다들 마카피아 효능 알아보고자 하시는 것이 아닌가 하는데요. ... 마카피아 효능; 마카피아 부작용; 마카피아 가격 ...",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(31) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://acemall.net › 상품소개",
+            "title": "[히트상품] 블랙마카 제품 비교 순위 정보 - AceMall",
+            "url": "https://acemall.net/%ED%9E%88%ED%8A%B8%EC%83%81%ED%92%88-%EB%B8%94%EB%9E%99%EB%A7%88%EC%B9%B4-%EC%A0%9C%ED%92%88-%EB%B9%84%EA%B5%90-%EC%88%9C%EC%9C%84/",
+            "snippet": "본 제품(1982567652)은 특별한 가격으로 64,350원에 판매되고 있으며 로켓배송 제품입니다. ... 마카피아 2box 1개월 블랙마카 아르기닌 남성피로회복제 온앤업, 단품, ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://m.blog.naver.com › PostView",
+            "title": "블랙마카 로 매일 활력을 채우자 온앤업 마카피아 - 네이버 블로그",
+            "url": "https://m.blog.naver.com/PostView.naver?blogId=jo_rry&logNo=222337365763&proxyReferer=",
+            "snippet": "2021. 5. 6. — 온앤업 마카피아. - 1 BOX 단품 기준 15포. - 가격 34,800원. 이 제품으로 말할 것 같으면 #블랙마카 부터 시작해 아르기닌, 오자 등 정력에 좋은 ...",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(33) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "http://m.coocha.co.kr › search › key...",
+            "title": "'마카 아르기닌' 최저가 검색, 최저가 12,000원 : 쿠차 | 시간을 줄여주는 쇼핑검색",
+            "url": "http://m.coocha.co.kr/search/search.do?keyword=%EB%A7%88%EC%B9%B4+%EC%95%84%EB%A5%B4%EA%B8%B0%EB%8B%8C",
+            "snippet": "'마카 아르기닌'에 대한 검색 결과는 총 201 개입니다. '마카 아르기닌' 최저가 상품 가격비교와 함께 핫딜검색, 할인혜택, 특가 정보를 확인하세요.",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(34) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://m.shoppinghow.kakao.com › ...",
+            "title": "마카피아 - 검색결과 | 쇼핑하우",
+            "url": "https://m.shoppinghow.kakao.com/m/search/q/%EB%A7%88%EC%B9%B4%ED%94%BC%EC%95%84",
+            "snippet": "쇼핑하우. 쇼핑 사이드 메뉴 펼치기. 검색어 입력폼. 검색. 쇼핑하우 메뉴. loading.. 검색결과. 검색필터. 필터 전체보기. 숏컷필터. 무료배송; 할인쿠폰 ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(35) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://jarit.tistory.com › ...",
+            "title": "마카피아 4box 2개월 블랙마카 아르기닌 남성피로회복제 온앤업 | 쇼핑 정보 모아",
+            "url": "https://jarit.tistory.com/28",
+            "snippet": "2021. 6. 15. — 4박스 2개월분 ✓ 가격 119800원 ✓ 액상형 블랙마카 함유 ✓ L-아르기닌 함유 ✓ 휴대가 용이하고 섭취가 간편 ✓ 세븐베리 농축액, 블루베리향으로 ...",
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(36) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.lotteon.com › search",
+            "title": "블랙보드마카 : 롯데ON",
+            "url": "https://www.lotteon.com/search/search/search.ecn?render=search&platform=m&q=%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%EB%A7%88%EC%B9%B4&mallId=1",
+            "snippet": "문화연필 블랙보드 마카 (하양) ... 라인프러스 미니지우개보드마카 일체형마커펜-블랙12자루(1세트) ... 마그피아 화이트보드 마카펜 블랙1개 화이트보드마카.",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(37) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://kensia.com › shop › item",
+            "title": "마그피아 지우개 달린 자석 보드마카 화이트보드 > 매직/마카/네임펜 | 켄시아",
+            "url": "https://kensia.com/shop/item.php?it_id=1525410425",
+            "snippet": "제조사, 마그피아. 원산지, 대한민국. 브랜드, 마그피아. 시중가격, 800원. 판매가격, 480원. 포인트, 구매금액(추가옵션 제외)의 0%. 배송비결제, 주문시 결제 ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "http://browse.gmarket.co.kr › search",
+            "title": "블랙보드마카 검색결과 - G마켓",
+            "url": "http://browse.gmarket.co.kr/m/search?keyword=%EB%B8%94%EB%9E%99%EB%B3%B4%EB%93%9C%EB%A7%88%EC%B9%B4",
+            "snippet": "G마켓 내 블랙보드마카 검색결과입니다. ... 마그피아상품명 (SM)New 화이트보드 마카펜 블랙 MBPM-B-01 (12개입). 할인률10% ... 가격종결자 X 오로지 정품만 판매!",
+            "sequence": 20
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "블랙마카",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "보드마카",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "영양제",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "익스트림",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "화이트보드",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 21
+        }
+    ]
+}

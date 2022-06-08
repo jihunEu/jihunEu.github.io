@@ -1,0 +1,490 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "0f9922e2-336f-40cf-a66b-6a61c10d0f0d",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T15:23:47.186Z",
+        "q": "bobbi brown products",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=bobbi+brown+products&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0035.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205120023/223165245018-92C8C4EE95F44F5A8D8056F8B458FD77-00.html",
+        "json_url": "http://node0035.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220512/2205120023/223165245018-92C8C4EE95F44F5A8D8056F8B458FD77-00.json",
+        "crawl_start_time": "2022-05-11T15:23:47.224Z",
+        "crawl_end_time": "2022-05-11T15:23:51.908Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "bobbi brown cosmetics",
+            "domain": "화장품",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "bobbi brown products",
+        "parsed_time": "2022-05-11T15:23:52.599Z"
+    },
+    "features": [
+        {
+            "type": "ads",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(1).IGtt6d.imgac.mnr-c.cTMkTb",
+            "position": 1,
+            "title": "bobbi brown products 구매",
+            "carousels": [
+                {
+                    "title": "바비브라운 인텐시브 스킨 세럼 쿠션 파운데이션 SPF 40 PA++++",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj_lda44Nf3AhVzbW8EHXi6Cd0YABADGgJqZg&ae=2&ohost=www.google.com&cid=CAASJuRon3QyMi1J5-gLw9cqLCyhHWa5nCvLiW5h5g2D0RYLaIvGNC1o&sig=AOD64_2wPHs9GAy0S5fpoIee7GX0o00xPQ&ctype=5&q=&ved=2ahUKEwiN2su44Nf3AhVhIjQIHcjXBLUQwg8oAHoECAEQCA&adurl=",
+                    "price": "₩63,20079,000",
+                    "delivery": "무료 배송",
+                    "provider": "올리브영",
+                    "data-catalog-id": "11799389690617894380",
+                    "data-offer-docid": "2954403945312718240",
+                    "data-merchant-id": "117387471",
+                    "data-offer-id": "A000000151375"
+                },
+                {
+                    "title": "[바비브라운][세포라공식]Bobbi Brown Cosmetics Intensive Skin Serum Foundation SPF 40 PA+++ Warm Porcelain",
+                    "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj_lda44Nf3AhVzbW8EHXi6Cd0YABAEGgJqZg&ae=2&ohost=www.google.com&cid=CAASJuRon3QyMi1J5-gLw9cqLCyhHWa5nCvLiW5h5g2D0RYLaIvGNC1o&sig=AOD64_1CYh78t4CgrZ7kGdCzPrY394uSxQ&ctype=5&q=&ved=2ahUKEwiN2su44Nf3AhVhIjQIHcjXBLUQwg8oAHoECAEQDw&adurl=",
+                    "price": "₩85,000",
+                    "delivery": "무료 배송",
+                    "provider": "세포라",
+                    "data-catalog-id": "11776111969668743339",
+                    "data-offer-docid": "11419618172629897253",
+                    "data-merchant-id": "238601618",
+                    "data-offer-id": "215448"
+                }
+            ],
+            "sequence": 1
+        },
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://www.bobbibrown.co.kr/",
+            "title": "바비 브라운 - 공식 온라인몰",
+            "url": "https://www.bobbibrown.co.kr/",
+            "snippet": "Bobbibrown, 첫 구매 무료배송, 신제품 선출시, 상시 5% 할인, 최신 제조 상품. 인텐시브 세럼 파운데이션. 수딩 클렌징 오일. NEW 엑스트라 립 틴트. 롱웨어 크림 섀도우 스틱.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwj_lda44Nf3AhVzbW8EHXi6Cd0YABAJGgJqZg&ae=2&ohost=www.google.com&cid=CAASJuRon3QyMi1J5-gLw9cqLCyhHWa5nCvLiW5h5g2D0RYLaIvGNC1o&sig=AOD64_2sDddthqusYK1nM6u_82wyCrfZbg&q=&ved=2ahUKEwiN2su44Nf3AhVhIjQIHcjXBLUQh78CegQIAxAH&adurl=",
+                "desc": "bobbibrown.co.kr의 이미지"
+            },
+            "sitelinks": [
+                {
+                    "title": "바비브라운 신제품",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(1).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.AjNqdc.Cxb6Wc.gsrt > div:nth-child(1) > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "바비 브라운 베스트 셀러",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(3).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "바비 브라운 메이크업 레슨",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(5).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                },
+                {
+                    "title": "공식몰 쇼핑 혜택",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(2) > div:nth-child(1)#tvcap > div:nth-child(2)#tads.qGXjvb > div:nth-child(3).uEierd > div:nth-child(1) > div:nth-child(1) > div:nth-child(1).mnr-c.O9g5cc.uUPGi > div:nth-child(6).E8hWLe.lndKif.SVMeif.BmP5tf > div:nth-child(7).MUxGbd.v0nnCb.lyLwlc > a.q8U8x.tNxQIb.ynAwRc.nEWj3b.OMVs0e.gpHVGb.pj92yd.EiKadd.NQ8dFd.NiK4yf.Cxb6Wc.gsrt > div:nth-child(1).lKeYrd.O45XLd"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "https://m.bobbibrowncosmetics.com › ...",
+            "title": "Shop Beauty Best Sellers & Our Best Foundation - Bobbi Brown Cosmetics",
+            "url": "https://m.bobbibrowncosmetics.com/products/14358/best-sellers",
+            "snippet": "From skincare, concealers, best foundation, lipsticks, lip tint and more, explore our range of beautiful products. The Best of Bobbi Brown, including beauty ...",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "https://m.bobbibrowncosmetics.com › ...",
+            "title": "New - Bobbi Brown Cosmetics",
+            "url": "https://m.bobbibrowncosmetics.com/products/14460/new",
+            "snippet": "Shop Bobbi Brown's latest products, including our new must-have makeup for the season and top skin care picks.",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(5).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "https://m.bobbibrowncosmetics.com",
+            "title": "Bobbi Brown Cosmetics",
+            "url": "https://m.bobbibrowncosmetics.com/",
+            "snippet": "Shop makeup and skincare products on Bobbi Brown Cosmetics online. Learn Bobbi's latest looks, makeup tips and techniques.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(8) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(7).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://m.bobbibrowncosmetics.com › ...",
+            "title": "Foundation Makeup, Concealer & Tutorial | Bobbi Brown Cosmetics",
+            "url": "https://m.bobbibrowncosmetics.com/products/13994/makeup/face",
+            "snippet": "Bobbi Brown's cult-status makeup comes in a range of coverage options and shades, with a tutorial to help you apply. Bobbi's foundation makeup is formulated for ...",
+            "sequence": 6
+        },
+        {
+            "type": "people_also_ask_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).AuVD.wHYlTd.cUnQKe.mnr-c",
+            "results": [
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_A9V7Ys3MF-HE0PEPyK-TqAs25 > div:nth-child(1) > div:nth-child(1)#RELATED_QUESTION_LINK_12_A9V7Ys3MF-HE0PEPyK-TqAs__2 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://en.wikipedia.org › wiki › Bo...",
+                    "url": "https://en.wikipedia.org/wiki/Bobbi_Brown",
+                    "title": "Bobbi Brown - Wikipedia",
+                    "snippet": "Bobbi Brown (born in 1957) is an American professional make-up artist, author, and the founder of Bobbi Brown Cosmetics. Brown created ten natural-shade lipsticks which according to Entrepreneur \"revolutionized the beauty industry\". She has written nine books about beauty and wellness."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_A9V7Ys3MF-HE0PEPyK-TqAs25 > div:nth-child(2) > div:nth-child(1)#RELATED_QUESTION_LINK_18_A9V7Ys3MF-HE0PEPyK-TqAs__8 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.lookfantastic.com › blog",
+                    "url": "https://www.lookfantastic.com/blog/discover/best-bobbi-brown-makeup/",
+                    "title": "Best Bobbi Brown Makeup Products 2020 - lookfantastic UK",
+                    "snippet": "Bobbi Brown are undoubtedly one of the most trusted makeup brands when it comes to finding that all-round and perfect formulation, which is why they will always have a place in our makeup bag."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_A9V7Ys3MF-HE0PEPyK-TqAs25 > div:nth-child(3) > div:nth-child(1)#RELATED_QUESTION_LINK_21_A9V7Ys3MF-HE0PEPyK-TqAs__11 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://qz.com › work › why-bobbi-...",
+                    "url": "https://qz.com/work/2098796/why-bobbi-brown-left-estee-lauder-and-launched-startup-jones-road/",
+                    "title": "Why Bobbi Brown left Estée Lauder and launched startup Jones Road",
+                    "snippet": "There was just one problem: She still had four and a half years left on her non-compete. “I was frustrated,” says Brown. “I wanted to do things right away and I knew I couldn't.” To get through those last few years, she had a charm necklace engraved with the expiration date her non-compete.2021. 12. 7."
+                },
+                {
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(9).AuVD.wHYlTd.cUnQKe.mnr-c > div:nth-child(4).ouy7Mc > div:nth-child(2)#_A9V7Ys3MF-HE0PEPyK-TqAs25 > div:nth-child(4) > div:nth-child(1)#RELATED_QUESTION_LINK_24_A9V7Ys3MF-HE0PEPyK-TqAs__14 > div:nth-child(1).wQiwMc.related-question-pair",
+                    "displayed_link": "https://www.elcompanies.com › bob...",
+                    "url": "https://www.elcompanies.com/en/our-brands/bobbi-brown",
+                    "title": "Bobbi Brown – The Estée Lauder Companies Inc.",
+                    "snippet": "Bobbi Brown – The Estée Lauder Companies Inc."
+                }
+            ],
+            "sequence": 7
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "바비브라운",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "세럼파운데이션",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "beauty",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "brown cosmetics",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "lip",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "weightless foundation",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "makeup tutorial",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "skincare",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "lipstick",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid69.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "makeup artist",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid71.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "skin",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(13).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid73.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(14) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://m.bobbibrown.co.kr",
+            "title": "Home | Bobbi Brown Korea E-commerce Site",
+            "url": "https://m.bobbibrown.co.kr/",
+            "snippet": "로그인 · 아직 회원이 아니신가요? · 등록된 아이디가 있습니다. · Deluxe Size Soothing Cleansing Oil · 웜 포슬린 (W-016) · 인텐시브 세럼 파운데이션 SPF 40/30 · 포슬린.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://m.bobbibrown.co.kr/",
+                "desc": "bobbi brown products(출처: m.bobbibrown.co.kr)"
+            },
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(15) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://m.bobbibrown.co.uk › new",
+            "title": "New | Bobbi Brown - Official Site",
+            "url": "https://m.bobbibrown.co.uk/products/14460/new",
+            "snippet": "Shop Bobbi Brown's latest products, including our new must-have makeup for the season and top skin care picks.",
+            "sequence": 10
+        },
+        {
+            "type": "people_also_search_for",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c",
+            "searches": [
+                {
+                    "query": "Bobbi Brown",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(2) > div:nth-child(2)#TEXT_REFINEMENT_58_A9V7Ys3MF-HE0PEPyK-TqAs__41 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "바비브라운",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_59_A9V7Ys3MF-HE0PEPyK-TqAs__42 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Bobby Brown",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_60_A9V7Ys3MF-HE0PEPyK-TqAs__44 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Bobbibrown",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_61_A9V7Ys3MF-HE0PEPyK-TqAs__45 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Bobbi Brown serum foundation",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_62_A9V7Ys3MF-HE0PEPyK-TqAs__46 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                },
+                {
+                    "query": "Bobbi Brown Korea",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(16).AuVD.wHYlTd.mnr-c > div:nth-child(2).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_63_A9V7Ys3MF-HE0PEPyK-TqAs__48 > div:nth-child(1) > a.iOJVmb > div:nth-child(2).gbCQS.u60jwe.gduDCb > div:nth-child(1).gkd1F.VlWUDb.RrotFd > span.RrotFd.wHYlTd"
+                }
+            ],
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(17) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.sephora.com › brand",
+            "title": "Bobbi Brown Makeup | Sephora",
+            "url": "https://www.sephora.com/brand/bobbi-brown",
+            "snippet": "Results 1 - 46 of 46 — Shop Bobbi Brown makeup at Sephora. Find universally-flattering foundations, eye shadows and mascaras to help showcase your natural ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.sephora.com/brand/bobbi-brown",
+                "desc": "bobbi brown products(출처: www.sephora.com)"
+            },
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(18) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.bobbibrowncosmetics.ca",
+            "title": "Cosmetics | Bobbi Brown Cosmetics",
+            "url": "https://m.bobbibrowncosmetics.ca/",
+            "snippet": "Shop makeup and skincare products on Bobbi Brown Cosmetics online. Learn Bobbi's latest looks, makeup tips and techniques.",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(19) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "https://www.nordstrom.com › beauty",
+            "title": "Bobbi Brown Makeup | Nordstrom",
+            "url": "https://www.nordstrom.com/brands/bobbi-brown--91/beauty/makeup",
+            "snippet": "Bobbi Brown Makeup · Long-Wear Cream Eyeshadow Stick · Extra Lip Tint Sheer Tinted Lip Balm · Mini Long-Wear Cream Shadow Stick Trio USD $45 Value · Skin Foundation ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.nordstrom.com/brands/bobbi-brown--91/beauty/makeup",
+                "desc": "bobbi brown products(출처: www.nordstrom.com)"
+            },
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(20) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.nykaa.com › brands › b...",
+            "title": "Buy Bobbi Brown Makeup Products Online in India | Nykaa",
+            "url": "https://www.nykaa.com/luxe/brands/bobbi-brown/c/4130",
+            "snippet": "Bobbi Brown ; Bobbi Brown Skin Long-Wear Weightless Foundation Mini ; Bobbi Brown Mini Glow Kit With Pink Glow And Vitamin Enriched Face Base. Bobbi Brown Mini ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(21) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://www.lookfantastic.com › bob...",
+            "title": "Bobbi Brown - Makeup & Cosmetics | LOOKFANTASTIC UK",
+            "url": "https://www.lookfantastic.com/brands/bobbi-brown.list",
+            "snippet": "Synonymous with enhancing natural beauty, Bobbi Brown makeup seeks to accentuate your features with a radiant glow. Offering daily essentials such as the iconic ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.lookfantastic.com/brands/bobbi-brown.list",
+                "desc": "bobbi brown products(출처: www.lookfantastic.com)"
+            },
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(22) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://www.myntra.com › bobbi-br...",
+            "title": "Buy Bobbi Brown Products Online @ Low Price in India | Myntra",
+            "url": "https://www.myntra.com/bobbi-brown",
+            "snippet": "Bobbi Brown - Shop for Bobbi Brown cosmetics online. Grab from the top collection of Bobbi Brown lipsticks, foundation, eyeshadow & more at low price only ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.myntra.com/bobbi-brown",
+                "desc": "bobbi brown products(출처: www.myntra.com)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "video_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23).uVMCKf.mnr-c > div:nth-child(5)",
+            "title": "VideosView All",
+            "videos": [
+                {
+                    "title": "Top 10 Beauty Products at Bobbi Brown Cosmetics",
+                    "url": "https://m.youtube.com/watch?v=OWRjBUEf8E4"
+                },
+                {
+                    "title": "THE BEST BOBBI BROWN MAKEUP PRODUCTS 2021| My favourites! Skin, Face, eyes, lips & more!",
+                    "url": "https://m.youtube.com/watch?v=gnVHPQ6CsoE"
+                },
+                {
+                    "title": "10min Natural Makeup One Brand - Bobbi Brown",
+                    "url": "https://m.youtube.com/watch?v=NNF3WXTdrVs"
+                }
+            ],
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(24) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.boots.com › bobbi-brown",
+            "title": "Bobbi Brown | Makeup & Skincare | Boots",
+            "url": "https://www.boots.com/bobbi-brown",
+            "snippet": "Makeup-artist-turned-entrepreneur Bobbi Brown founded her brand in 1991, with the aim to create a global prestige beauty brand that offers universally ...",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(25) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "https://www.myer.com.au › Bobbi B...",
+            "title": "Buy Bobbi Brown Makeup & Foundation | MYER",
+            "url": "https://www.myer.com.au/b/Bobbi%20Brown",
+            "snippet": "107 items — Sort by · Bobbi BrownLuxe Eye Shadow Foil. Bobbi Brown Luxe Eye Shadow Foil · Limited stock. Bobbi BrownExtra Lip Tint · Bobbi BrownLong-Wear Gel Eyeliner.",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.myer.com.au/b/Bobbi%20Brown",
+                "desc": "bobbi brown products(출처: www.myer.com.au)"
+            },
+            "sequence": 20
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(26) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://www.instagram.com › bobbi...",
+            "title": "Bobbi Brown Cosmetics (@bobbibrown) • Instagram photos and videos",
+            "url": "https://www.instagram.com/bobbibrown/",
+            "snippet": "4m Followers, 409 Following, 4534 Posts - See Instagram photos and videos from Bobbi Brown Cosmetics (@bobbibrown)",
+            "sequence": 21
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(27) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.elcompanies.com › bob...",
+            "title": "Bobbi Brown – The Estée Lauder Companies Inc.",
+            "url": "https://www.elcompanies.com/en/our-brands/bobbi-brown",
+            "snippet": "Founded in 1991 by makeup-artist-turned-entrepreneur Bobbi Brown, the brand offers universally flattering products created with uncompromising quality and ...",
+            "sequence": 22
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://www.shoppersstop.com › bo...",
+            "title": "Bobbi Brown Cosmetics Online | Shoppers Stop",
+            "url": "https://www.shoppersstop.com/brand/bobbi-brown",
+            "snippet": "Sort by · Blush (4) · Bronzer (14) · Compact (11) · Concealer (33) · Eye Liner (4) · Eye Shadow (20) · Eyebrows (17) · Foundations (59).",
+            "sequence": 23
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "https://www.goodhousekeeping.com › ...",
+            "title": "The Bobbi Brown beauty products you need to add to your makeup bag - Good Housekeeping",
+            "url": "https://www.goodhousekeeping.com/uk/beauty/makeup/g29387374/bobbi-brown-makeup/",
+            "snippet": "Cosmetics that worked to enhance the face's natural shades, while also (at the time innovatively) taking into account different skin undertones, followed and ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.goodhousekeeping.com/uk/beauty/makeup/g29387374/bobbi-brown-makeup/",
+                "desc": "bobbi brown products(출처: www.goodhousekeeping.com)"
+            },
+            "sequence": 24
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c",
+            "results": [
+                {
+                    "query": "Bobbi Brown logo",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(2) > div:nth-child(1)#TEXT_REFINEMENT_94_A9V7Ys3MF-HE0PEPyK-TqAs__47 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 아이크림",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(3) > div:nth-child(2)#TEXT_REFINEMENT_95_A9V7Ys3MF-HE0PEPyK-TqAs__49 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 립스틱",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(4) > div:nth-child(2)#TEXT_REFINEMENT_96_A9V7Ys3MF-HE0PEPyK-TqAs__50 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 파운데이션",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(5) > div:nth-child(2)#TEXT_REFINEMENT_97_A9V7Ys3MF-HE0PEPyK-TqAs__51 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 화장품",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(6) > div:nth-child(2)#TEXT_REFINEMENT_98_A9V7Ys3MF-HE0PEPyK-TqAs__52 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 세럼 파운데이션",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(7) > div:nth-child(2)#TEXT_REFINEMENT_99_A9V7Ys3MF-HE0PEPyK-TqAs__53 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 립밤",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(8) > div:nth-child(2)#TEXT_REFINEMENT_100_A9V7Ys3MF-HE0PEPyK-TqAs__54 > div:nth-child(1) > a.iOJVmb"
+                },
+                {
+                    "query": "바비브라운 직구",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(6)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(1).AuVD.wHYlTd.mnr-c > div:nth-child(1).ouy7Mc > div:nth-child(9) > div:nth-child(2)#TEXT_REFINEMENT_101_A9V7Ys3MF-HE0PEPyK-TqAs__55 > div:nth-child(1) > a.iOJVmb"
+                }
+            ],
+            "sequence": 25
+        }
+    ]
+}

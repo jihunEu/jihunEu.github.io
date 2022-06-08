@@ -1,0 +1,182 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "1cc21fe7-7ef3-45c9-9d02-8a64c3fe31ff",
+        "sub_id": 0,
+        "requested_time": "2022-05-13T01:39:54.188Z",
+        "q": "apple",
+        "location": "United States",
+        "gl": "us",
+        "hl": "en",
+        "num": 10,
+        "query_string": "q=apple&hl=en&gl=us&uule=w+CAIQICINVW5pdGVkIFN0YXRlcw&num=10&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0011.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131040/223165239064-CE0B7DBA189A4801A69AFDE6FFE46143-00.html",
+        "json_url": "http://node0011.k8s.prod.ascentlab.io:8080/serpapi/serpdata/any/220513/2205131040/223165239064-CE0B7DBA189A4801A69AFDE6FFE46143-00.json",
+        "crawl_start_time": "2022-05-13T01:39:54.231Z",
+        "crawl_end_time": "2022-05-13T01:40:02.100Z",
+        "device": "desktop",
+        "usage_id": "any",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default"
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "apple",
+        "total_results": 4620000000,
+        "hidden_people_also_search_for": [
+            "apple store",
+            "apple usa",
+            "apple watch",
+            "apple id",
+            "apple login",
+            "apple iphone"
+        ],
+        "parsed_time": "2022-05-13T01:40:02.390Z"
+    },
+    "features": [
+        {
+            "type": "ad",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(2)#taw > div:nth-child(3)#tvcap > div:nth-child(1)#tads.qGXjvb > div:nth-child(3).uEierd",
+            "position": 1,
+            "title": "Apple - Official SiteiPhoneiPadMacApple Watch",
+            "snippet": "Shop for iPhone,  Apple  Watch, iPad, Mac, and more. Save even more with eligible trade in during our Trade-in Event until 5/31. Terms apply. Chat for shopping help. Save on a new iPhone with trade-in and carrier deals. Terms apply. Engrave your iPad with text or Emoji. Free, and only at Apple. MacBook Pro, MacBook Air, iMac, Mac mini and Mac Studio. Shop now. Get 3 months of Apple Fitness+ free when you buy an Apple Watch.",
+            "sequence": 1
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(1).hlcw0c > div:nth-child(1).g > div:nth-child(2).BYM4Nd > div:nth-child(1).eKjLze > div:nth-child(1).g > div:nth-child(1) > div:nth-child(1).tF2Cxc",
+            "position": 1,
+            "displayed_link": "https://www.apple.com",
+            "title": "Apple",
+            "url": "https://www.apple.com/",
+            "snippet": "Discover the innovative world of Apple and shop everything iPhone, iPad, Apple Watch, Mac, and Apple TV, plus explore accessories, entertainment, ...",
+            "sequence": 2
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(3).ULSxyf > g-section-with-header.yG4QQe.TBC9ub",
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(5).g > div:nth-child(2) > div:nth-child(1).f0OOpe.qJ4Pqe > div:nth-child(1).FCIUXc > div:nth-child(1).tF2Cxc",
+            "position": 2,
+            "displayed_link": "https://en.wikipedia.org › wiki › Apple_Inc",
+            "title": "Apple Inc. - Wikipedia",
+            "url": "https://en.wikipedia.org/wiki/Apple_Inc.",
+            "snippet": "Apple Inc. is an American multinational technology company that specializes in consumer electronics, software and online services headquartered in Cupertino ...",
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(6).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 3,
+            "displayed_link": "https://twitter.com › apple",
+            "title": "Apple - Twitter",
+            "url": "https://twitter.com/apple",
+            "snippet": "The latest Tweets from Apple (@Apple). https://t.co/4dZx1rem2Q. Cupertino, CA.",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "",
+            "position": 4,
+            "title": "Apple - iPhone 13 - YouTube",
+            "url": "https://www.youtube.com/user/apple",
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(9).g.tF2Cxc",
+            "position": 5,
+            "displayed_link": "https://www.instagram.com › apple",
+            "title": "@apple • Instagram photos and videos",
+            "url": "https://www.instagram.com/apple/",
+            "snippet": "27.5m Followers, 9 Following, 1021 Posts - See Instagram photos and videos from @apple.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(3)#res.eqAnXb.FcOujd > div:nth-child(2)#search > div:nth-child(1) > div:nth-child(2)#rso.v7W49e > div:nth-child(10).hlcw0c > div:nth-child(1).g.tF2Cxc",
+            "position": 6,
+            "displayed_link": "https://www.linkedin.com › company › apple",
+            "title": "Apple | LinkedIn",
+            "url": "https://www.linkedin.com/company/apple",
+            "snippet": "Apple · Computers and Electronics Manufacturing · About us · Locations · Employees at Apple · Similar pages · Browse jobs ...",
+            "sequence": 8
+        },
+        {
+            "type": "related_searches",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb",
+            "items": [
+                {
+                    "title": "Apple ID",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(2).FalWJb > div:nth-child(2).UlIbl > explore-desktop-accordion.ogOaY > div:nth-child(1).k24kee > div:nth-child(1).JXa4nd"
+                }
+            ],
+            "results": [
+                {
+                    "query": "apple login",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "apple watch",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "apple tv",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "apple support",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(1).AJLUJb > div:nth-child(4) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "apple usa",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(1) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "apple icloud",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(2) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                },
+                {
+                    "query": "apple iphone",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(5)#botstuff > div:nth-child(1) > div:nth-child(1)#bres > div:nth-child(3).ULSxyf > div:nth-child(1)#w3bYAd > div:nth-child(1).oIk2Cb > div:nth-child(5).y6Uyqe > div:nth-child(1).EIaa9b > div:nth-child(2).AJLUJb > div:nth-child(3) > a.k8XOCe.R0xfCb.VCOFK.s8bAkb"
+                }
+            ],
+            "sequence": 9
+        }
+    ],
+    "page_navigation": {
+        "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(1)#center_col.s6JM6d > div:nth-child(7) > span#xjs > table.AaVjTc",
+        "next_url": "/search?q=apple&hl=en&gl=us&pws=0&ei=67Z9YpHqC4PU-Qak76HgDA&start=10&sa=N&ved=2ahUKEwjRi_mCrNv3AhUDat4KHaR3CMwQ8NMDegQIAxBD"
+    },
+    "knowledge_panel": [
+        {
+            "type": "more_likes",
+            "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_67Z9YpHqC4PU-Qak76HgDA79.osrp-blk > div:nth-child(5) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb",
+            "title": "People also search for",
+            "url": "/search?hl=en&gl=us&pws=0&q=Apple&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUoIxtASDM1NSyxMri_1SK0qCS1ILihexsjoWFOSk7mBlBAA1CYyRMgAAAA&sa=X&ved=2ahUKEwjRi_mCrNv3AhUDat4KHaR3CMwQzTooAXoECG8QAg",
+            "carousels": [
+                {
+                    "title": "Google",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_67Z9YpHqC4PU-Qak76HgDA79.osrp-blk > div:nth-child(5) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(1).PZPZlf.MRfBrb.kno-vrt-t"
+                },
+                {
+                    "title": "Best Buy",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_67Z9YpHqC4PU-Qak76HgDA79.osrp-blk > div:nth-child(5) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(2).PZPZlf.MRfBrb.kno-vrt-t"
+                },
+                {
+                    "title": "Amazon.com",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_67Z9YpHqC4PU-Qak76HgDA79.osrp-blk > div:nth-child(5) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(3).PZPZlf.MRfBrb.kno-vrt-t"
+                },
+                {
+                    "title": "Microsoft Corporation",
+                    "_selector": "div:nth-child(1)#cnt.e9EfHf > div:nth-child(12)#rcnt.GyAeWb > div:nth-child(2)#rhs.TQc1id.hSOk2e.rhstc4 > div:nth-child(4).liYKde.g.VjDLd > div:nth-child(1).kp-wholepage.kp-wholepage-osrp.HSryR.EyBRub > div:nth-child(2).I6TXqe > div:nth-child(1)#_67Z9YpHqC4PU-Qak76HgDA79.osrp-blk > div:nth-child(5) > div:nth-child(1).Kot7x > div:nth-child(1)#kp-wp-tab-cont-overview > div:nth-child(1).aoPfOc > div:nth-child(1)#kp-wp-tab-overview > div:nth-child(20).TzHB6b.cLjAic > div:nth-child(1) > div:nth-child(1).sATSHe > div:nth-child(1) > div:nth-child(1).LuVEUc.XleQBd.CGCvRb.B03h3d.P6OZi.V14nKc.i8qq8b.ptcLIOszQJu__wholepage-card.wp-ms > div:nth-child(1).UDZeY.OTFaAf > div:nth-child(1).wDYxhc.NFQFxe > div:nth-child(2).zVvuGd.MRfBrb > div:nth-child(4).PZPZlf.rhsg3.MRfBrb.kno-vrt-t"
+                }
+            ],
+            "sequence": 1
+        }
+    ]
+}

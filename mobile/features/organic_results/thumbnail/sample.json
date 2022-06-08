@@ -1,0 +1,312 @@
+{
+    "search_parameters": {
+        "engine": "google",
+        "id": "40575037-1d41-4d81-b23b-a665a72d687e",
+        "sub_id": 0,
+        "requested_time": "2022-05-11T08:17:18.711Z",
+        "q": "샴푸 키워드",
+        "location": "South Korea",
+        "gl": "kr",
+        "hl": "ko",
+        "num": 20,
+        "query_string": "q=%EC%83%B4%ED%91%B8+%ED%82%A4%EC%9B%8C%EB%93%9C&hl=ko&gl=kr&uule=w+CAIQICILU291dGggS29yZWE&num=20&sourceid=chrome&ie=UTF-8&pws=0",
+        "html_url": "http://node0026.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111717/218036105099-BB52DE140CF44ED7A15DA2A69A722BBB-00.html",
+        "json_url": "http://node0026.k8s.prod.ascentlab.io:8080/serpapi/serpdata/intent/220511/2205111717/218036105099-BB52DE140CF44ED7A15DA2A69A722BBB-00.json",
+        "crawl_start_time": "2022-05-11T08:17:18.764Z",
+        "crawl_end_time": "2022-05-11T08:17:22.748Z",
+        "device": "mobile",
+        "usage_id": "intent",
+        "more_action": "default",
+        "sub_name": "default",
+        "sub_q": "default",
+        "meta": {
+            "seed_keyword": "샴푸",
+            "domain": "",
+            "purpose": "download_serp"
+        }
+    },
+    "information": {
+        "version": "2.1.30.master",
+        "displayed_query": "샴푸 키워드",
+        "parsed_time": "2022-05-11T08:17:22.983Z"
+    },
+    "features": [
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 1,
+            "displayed_link": "http://www.bosa.co.kr › articleView",
+            "title": "샴푸 키워드는 '미세먼지', '탈모' < 화장품 < 유관산업 < 기사본문 - 의학신문",
+            "url": "http://www.bosa.co.kr/news/articleView.html?idxno=2106897",
+            "snippet": "2019. 6. 12. — 샴푸를 뷰티 제품으로 인식하는 2030을 중심으로 미세먼지 클렌징 및 탈모 케어를 돕는 제품에 대한 관심이 ... 샴푸 키워드는 '미세먼지', '탈모'.",
+            "sequence": 1
+        },
+        {
+            "type": "images",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c",
+            "refinements": [
+                {
+                    "text": "염색",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "댕기머리",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "화장품",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "탈모샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "샴푸시장",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "탈모방지",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "천연샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "헤어케어",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "지성두피",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid14.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "카페인샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid16.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "모발",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid18.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "프레쉬샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid20.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "아모레퍼시픽",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a#tsuid22.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                },
+                {
+                    "text": "드라이샴푸",
+                    "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(4).EyBRub > div:nth-child(2).LnbJhc.mnr-c > div:nth-child(2)#iur > div:nth-child(1) > div:nth-child(1).gID6df > g-scrolling-carousel#isr_chc.zZ86of > div:nth-child(1).mR2gOd > div:nth-child(1).EDblX.DAVP1 > a.dgdd6c > div:nth-child(1).ZkkK1e.yUTMj.k1U36b"
+                }
+            ],
+            "sequence": 2
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(23) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 2,
+            "displayed_link": "http://m.finomy.com › articleView",
+            "title": "뷰티업계 샴푸 전쟁…키워드는 탈모·딥클렌징 - 현대경제신문",
+            "url": "http://m.finomy.com/news/articleView.html?idxno=78147",
+            "snippet": "2020. 5. 19. — 화학성분은 최소화하고 재활용이 쉬운 패키지를 사용했다. 제로톡스 두피정화 샴푸는 자연유래 추출물이 담겼다. 청정지역 제주 녹차수를 15% 함유해 두피 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://m.finomy.com/news/articleView.html?idxno=78147",
+                "desc": "샴푸 키워드(출처: m.finomy.com)"
+            },
+            "sequence": 3
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(28) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 3,
+            "displayed_link": "http://mobile.busan.com › view",
+            "title": "뷰티 시장 새 격전지 `샴푸`…키워드는 `탈모`·`미세먼지` - 부산일보",
+            "url": "http://mobile.busan.com/view/busan/view.php?code=2019061216353527852",
+            "snippet": "2019. 6. 12. — '샴푸 시장'이 뷰티 업계 내 새로운 격전지로 떠오르고 있다. 샴푸를 뷰티 제품으로 인식하는 2030세대를 중심으로 미세먼지 클렌징과 탈모 케어를 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "http://mobile.busan.com/view/busan/view.php?code=2019061216353527852",
+                "desc": "샴푸 키워드(출처: mobile.busan.com)"
+            },
+            "sequence": 4
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(29) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 4,
+            "displayed_link": "https://www.hankyung.com › article",
+            "title": "봄철 헤어 관리 키워드는 '샴푸' | 한경닷컴 - 한국경제",
+            "url": "https://www.hankyung.com/life/amp/201103202355k",
+            "snippet": "2011. 3. 20. — 봄철, 헤어 관리 키워드는 '샴푸' ... [뷰티팀] 겨우내 매서운 찬바람에 손상된 모발을 관리할 새도 없이 봄이 옴과 동시에 강한 자외선과 황사가 두피 및 ...",
+            "sequence": 5
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(30) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 5,
+            "displayed_link": "https://dream.kotra.or.kr › cms › news",
+            "title": "일본 샴푸 시장 동향 - 해외경제정보드림",
+            "url": "https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=430&CONTENTS_NO=1&bbsSn=254&pNttSn=190312",
+            "snippet": "2021. 9. 8. — 또 하나의 키워드는 <개인 샴푸>다. 예전에는 샴푸 등 헤어 케어 제품은 메이저 브랜드가 시장을 독점하며 종류도 제한적이었고 가족 모두가 하나의 샴푸 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=430&CONTENTS_NO=1&bbsSn=254&pNttSn=190312",
+                "desc": "샴푸 키워드(출처: dream.kotra.or.kr)"
+            },
+            "sequence": 6
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(31) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(1).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 6,
+            "displayed_link": "https://www.kci.go.kr › kciportal › c...",
+            "title": "패키지 디자인 유형의 시각적 구성요소와 소비자 반응 - 탈모방지 샴푸를 중심으로 - - 한국학술지인용색인",
+            "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002558238",
+            "snippet": "초록 · 키워드 · 참고문헌(14) * 2021년 이후 발행 논문의 참고문헌은 현재 구축 중입니다. · KCI에서 이 논문을 인용한 논문의 수는 0건입니다.",
+            "sequence": 7
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(31) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi > div:nth-child(1).jtfYYd > div:nth-child(3).NJo7tc.Z26q7c > div:nth-child(1) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 7,
+            "displayed_link": "https://www.kci.go.kr › kciportal › c...",
+            "title": "두피․모발관리 시 샴푸 전 브러싱의 효과 - 한국학술지인용색인",
+            "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001720155",
+            "snippet": "키워드 ; 브러쉬 ·, ; 브러싱효과 ·, ; 모발관리 ·, ; 두피관리 · Brush, Brushing effects, Hair care, Scalp care ...",
+            "sequence": 8
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(32) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 8,
+            "displayed_link": "https://m.oliveyoung.co.kr › planshop",
+            "title": "하루에 1,000번 검색되는 '두피' 기획전 상세 | 올리브영",
+            "url": "https://m.oliveyoung.co.kr/m/planshop/getPlanShopDetail.do?dispCatNo=500000102250018&trackingCd=Home_Catchkeyword",
+            "snippet": "2022. 4. 14. — 얼굴 피부만큼이나 꼼꼼한 두피 관리를 원하신다면 이번 캐치키워드에서 도움을 받아보세요. 고민별 샴푸 추천과 두피 딥클렌징 제품, 올리브영 헤어 ...",
+            "sequence": 9
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(33) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 9,
+            "displayed_link": "http://www.ibeautylab.co.kr › produ...",
+            "title": "헤어 > 샴푸/컨디셔너 - 아이뷰티랩",
+            "url": "http://www.ibeautylab.co.kr/m/product_list.html?xcode=042&mcode=002&type=X",
+            "snippet": "건강한 두피를 위한 선택. 두피의 근본적인 변화 맥주효모 천연샴푸 · 탈모와 새치를 한 번에 토탈케어! · 주요 3개국 특허! · 별도의 트리트먼트 필요 없이 하나로 끝! · 두피 ...",
+            "sequence": 10
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(34) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 10,
+            "displayed_link": "https://www.lotteshopping.com › ma...",
+            "title": "탈모관리의 시작 셀프 두피 케어 노하우 - 롯데백화점",
+            "url": "https://www.lotteshopping.com/magazine/magazineDetail?mazinNo=MAM00000000000001698",
+            "snippet": "최근 30대가 선택하는 뷰티 키워드로 '두피 안티에이징'이 떠오르고 있습니다. ... 아베다 '인바티 어드밴스드™'는 모발 상태별 샴푸, 헤어 앤 스칼프 마스크, ...",
+            "sequence": 11
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(35) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 11,
+            "displayed_link": "https://m.compuzone.co.kr › product",
+            "title": "샴푸/린스 - 컴퓨존",
+            "url": "https://m.compuzone.co.kr/product/product_list.htm?BigDivNo=102&MediumDivNo=1434&DivNo=4460",
+            "snippet": "컴퓨존 배송; 가산점 빠른픽업; 무료배송; 이벤트. [케라시스] 데일리 데미지 케어 샴푸 1.5L. 업체직배송-선불. 5,620원. (2건).",
+            "sequence": 12
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(36) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 12,
+            "displayed_link": "https://ads.coupang.com › Success-a...",
+            "title": "아로마티카 - 쿠팡 광고",
+            "url": "https://ads.coupang.com/Success-aromatica.html",
+            "snippet": "“ 상품 광고를 집행 시, 집행 전에 비해 발주량 증가, 카테고리 키워드 ... 상품광고를 통한 주력상품(샴푸) 노출을 통해 브랜드 및 샴푸 이외의 다른 제품까지 알리고 ...",
+            "sequence": 13
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(37) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 13,
+            "displayed_link": "https://www.hmall.com › pde › search",
+            "title": "닥터그루트샴푸 - 현대Hmall",
+            "url": "https://www.hmall.com/p/pde/search.do?NEW_JSESSIONID=szppOBn3lxSbBcJydO-D6ezFwtLnTeo8FhYUfftIH21ijQn_R9Ms!877190557&searchTerm=%EB%8B%A5%ED%84%B0%EA%B7%B8%EB%A3%A8%ED%8A%B8%EC%83%B4%ED%91%B8&koost=11&_IC_=srch_rcmk",
+            "snippet": "닥터그루트샴푸 키워드에서 많이 본 상품 · 홈쇼핑 · 백화점 · 동영상 · 해외직구 · 빠른배송 · 무료배송 · 선물하기 · 스토어픽.",
+            "sequence": 14
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(38) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 14,
+            "displayed_link": "http://www.job-post.co.kr › news",
+            "title": "앙방(ENVIN), 네이버쇼핑 맥주효모샴푸 키워드 1위 기념 새해 맞이 할인 이벤트 실시 - 잡포스트",
+            "url": "http://www.job-post.co.kr/news/articleView.html?idxno=13420",
+            "snippet": "2020. 12. 29. — [잡포스트] 신희범 기자 = 남성과 여성 모두가 사용할 수 있는 맥주효모 탈모샴푸를 연구개발한 앙방(ENVIN)이 네이버쇼핑 맥주효모샴푸 키워드 1위 ...",
+            "sequence": 15
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(39) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 15,
+            "displayed_link": "https://m.place.naver.com › place",
+            "title": "샴푸헤어 - 네이버 MY플레이스",
+            "url": "https://m.place.naver.com/place/1574072038?entry=ple",
+            "snippet": "방문자 리뷰61 나도 참여 · \"친절해요\"이 키워드를 선택한 인원10 · \"원하는 스타일로 잘해줘요\"이 키워드를 선택한 인원4 · \"상담이 자세해요\"이 키워드를 선택한 인원1 · \" ...",
+            "sequence": 16
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(40) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 16,
+            "displayed_link": "https://www.makehope.org › tag",
+            "title": "샴푸바만들기 | 희망제작소",
+            "url": "https://www.makehope.org/tag/%EC%83%B4%ED%91%B8%EB%B0%94%EB%A7%8C%EB%93%A4%EA%B8%B0/",
+            "snippet": "희망키워드: 샴푸바만들기. 우리집에 샴푸통이 사라진다면? 후원회원 프로그램 2021.07.09 조회수 302. 알맹상점과 함께 플라스틱 제로 샴푸바 만들기 클래스를 열었 ...",
+            "thumbnail": {
+                "type": "image",
+                "url": "https://www.makehope.org/tag/%EC%83%B4%ED%91%B8%EB%B0%94%EB%A7%8C%EB%93%A4%EA%B8%B0/",
+                "desc": "샴푸 키워드(출처: www.makehope.org)"
+            },
+            "sequence": 17
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(41) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 17,
+            "displayed_link": "https://m.gmarket.co.kr › search › k...",
+            "title": "스마일배송 - 닥터포헤어 폴리젠샴푸 검색결과 - G마켓",
+            "url": "https://m.gmarket.co.kr/n/smiledelivery/search?keyword=%EB%8B%A5%ED%84%B0%ED%8F%AC%ED%97%A4%EC%96%B4+%ED%8F%B4%EB%A6%AC%EC%A0%A0%EC%83%B4%ED%91%B8",
+            "snippet": "닥터포헤어닥터포헤어 폴리젠 플러스 탈모완화 샴푸 500mlx2개30,400원 무료배송 평점4.67후기 (258) 건 구매 672건. 4/19(화) 도착예정. 상품 수 1 감소 선택된 수량1",
+            "sequence": 18
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(42) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 18,
+            "displayed_link": "http://m.ssg.com › search › query=7...",
+            "title": "'7샴푸' 검색결과 - 신세계적 쇼핑포털 SSG.COM",
+            "url": "http://m.ssg.com/search.ssg?target=mobile&query=7%EC%83%B4%ED%91%B8&viewType=thmb&page=20&count=80&siteTabNo=6005&_mpop=no",
+            "snippet": "[Best] 애견 샴푸 AB7 필루 레플7 해충 방지 펫 샴푸 250ml _ 강아지 ... 예방250ml Pilou필루 레풀7샴푸외부기생충 키워드없음 CW9A436A.",
+            "sequence": 19
+        },
+        {
+            "type": "organic_results",
+            "_selector": "div:nth-child(1)#cnt > div:nth-child(8)#center_col.center_col.s6JM6d > div:nth-child(4) > div:nth-child(2)#rso > div:nth-child(43) > div:nth-child(1).mnr-c.xpd.O9g5cc.uUPGi",
+            "position": 19,
+            "displayed_link": "https://www.costco.co.kr › Hair-Care",
+            "title": "실크테라피 알엑스 프로 샴푸 480ml x 2개 | 코스트코 코리아",
+            "url": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/ShampooConditioner/Silk-Therapy-RX-Pro-Shampoo-480ml-x-2ea/p/632913",
+            "snippet": "70개 상품후기 상품후기로 이동합니다. BV 신뢰성을 설명하는 팝업을 표시하는 신뢰 마크 아이콘. 찾으시는 키워드를 ...",
+            "rating": {
+                "rating_count": "(70)",
+                "rating_value": "4.2"
+            },
+            "sequence": 20
+        }
+    ]
+}
