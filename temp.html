@@ -9,13 +9,16 @@
     const type = null;
     const case_no = null;
 
-
-    for (let f in ['device', 'field', 'type']) {
-        if (!(params.has(f)))
-            alert("need search parameters ['device', 'field', 'type', 'case_no']");
+    const arr = ['device', 'field', 'type']
+    for (let f in arr) {
+        console.log(arr[f]);
+        console.log(params.get(arr[f]));
+        if (!(params.has(arr[f])))
+            console.log("temp");
+            // alert("need search parameters ['device', 'field', 'type', 'case_no']"); -->
     }
 
-
+    //<!-- https://jihuneu.github.io -->
     const redirect_params = ['https://jihuneu.github.io', params.get('device'), params.get('field'), params.get('type')];
     if ('case_no' in params) {
         redirect_params.push('sample'+params.get('case_no')+".json");
@@ -24,7 +27,7 @@
     }
     const redirect_url = redirect_params.join('/')
 
-
+    console.log(redirect_url)
     fetch(redirect_url)
         .then(response => response.json())
         .then(data => 
