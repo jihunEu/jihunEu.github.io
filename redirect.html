@@ -1,0 +1,38 @@
+<link rel=stylesheet href=https://cdn.jsdelivr.net/npm/pretty-print-json@1.2/dist/pretty-print-json.css>
+<script src=https://cdn.jsdelivr.net/npm/pretty-print-json@1.2/dist/pretty-print-json.min.js></script>
+<pre id=json-showbox class=json-container></pre>
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const fields = ['device', 'field', 'type']
+
+
+    params_ok = true;
+    for (let f in fields) {
+        if (!params.has(fields[f])) {
+            alert("need search parameters ['device', 'field', 'type', ['case_no']]");
+            params_ok = false;
+            break;
+        }
+    }
+
+    if (params_ok) {
+        //<!-- https://jihuneu.github.io -->
+        const redirect_params = ['https://jihuneu.github.io', params.get('device'), params.get('field'), params.get('type')];
+        if (params.has("case_no")) {
+            redirect_params.push('sample'+params.get('case_no')+".json");
+        } else {
+            redirect_params.push('sample.json')
+        }
+        const redirect_url = redirect_params.join('/')
+
+        console.log(redirect_url)
+        fetch(redirect_url)
+            .then(response => response.json())
+            .then(data => 
+                document.getElementById('json-showbox').innerHTML = prettyPrintJson.toHtml(data)
+                );
+    }
+    
+</script>
+
+<!-- URLSearchParameter.to_string() -->
